@@ -1,0 +1,38 @@
+baseURL = "https://fixitrightway.com/"
+languageCode = "en-us"
+title = "Fix It Right Way"
+enableRobotsTXT = true
+
+[params]
+  description        = "Step-by-step DIY home repair guides for plumbing, electrical, drywall, painting, floors, and more."
+  tagline            = "Do it right the first time"
+  niche              = "DIY Home Repair"
+  primary_color      = "#e85d04"
+  hero_color_1       = "#1a1a2e"
+  hero_color_2       = "#16213e"
+  hero_color_3       = "#0f3460"
+  hero_color_4       = "#1a1a2e"
+  adsense_id         = "ca-pub-3466203197759215"
+  adsense_slot_incontent   = "7185801582"
+  adsense_slot_sidebar1    = "3118564062"
+  adsense_slot_sidebar2    = "4874350475"
+  image_query        = "diy home repair tools plumbing electrical"
+  author             = "Fix It Right Way Editorial Team"
+  author_real_name   = "Stephen Brenish"
+  author_real_title  = "DIY Home Repair Expert"
+  disclaimer         = "Always consult a licensed professional for electrical and structural work. Safety first."
+
+[taxonomies]
+  category = "categories"
+  tag      = "tags"
+
+[outputs]
+  home    = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  page    = ["HTML"]
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[permalinks]
+  posts = "/:slug/"
