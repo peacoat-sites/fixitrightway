@@ -3,7 +3,7 @@ title: "How to install a kitchen backsplash yourself"
 date: 2026-05-19T11:57:30+00:00
 draft: false
 description: "Learn how to install a kitchen backsplash yourself with this complete step-by-step guide. Includes tools list, tiling tips, grouting instructions, and a help"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6925326/pexels-photo-6925326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["kitchen"]
 slug: "how-to-install-a-kitchen-backsplash-yourself"
 affiliate_disclosure: true
