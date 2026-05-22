@@ -1,0 +1,41 @@
+{{ define "main" }}
+<div class="article-header">
+  <div class="container">
+    <div class="article-cat">{{ with .Params.categories }}{{ index . 0 | title }}{{ end }}</div>
+    <h1 class="article-title">{{ .Title }}</h1>
+    <div class="article-meta">
+      <span>{{ .PublishDate.Format "January 2, 2006" }}</span>{{ if .Lastmod }}{{ if gt .Lastmod .PublishDate }} <span style="color:rgba(255,255,255,0.5);font-size:12px">(Updated {{ .Lastmod.Format "Jan 2, 2006" }})</span>{{ end }}{{ end }}
+      <span>{{ .ReadingTime }} min read</span>
+    </div>
+  </div>
+</div>
+
+<div class="page-grid">
+  <article class="article-body">
+    {{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" style="width:100%;margin-bottom:28px;border-radius:8px">{{ end }}
+    {{ .Content }}
+    <div class="share-row" style="display:flex;gap:8px;flex-wrap:wrap;margin:24px 0 16px">
+      <a href="https://twitter.com/intent/tweet?url={{ .Permalink | urlquery }}&text={{ .Title | urlquery }}" target="_blank" rel="noopener" class="share-btn share-twitter">&#120143; Share</a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlquery }}" target="_blank" rel="noopener" class="share-btn share-facebook">Facebook</a>
+      <a href="https://www.pinterest.com/pin/create/button/?url={{ .Permalink | urlquery }}&description={{ .Title | urlquery }}" target="_blank" rel="noopener" class="share-btn share-pinterest">Pinterest</a>
+    </div>
+    {{ with .Params.tags }}<div class="tags">{{ range . }}<span class="tag">#{{ . }}</span>{{ end }}</div>{{ end }}
+  </article>
+
+  <aside class="sidebar">
+    <div class="sidebar-card">
+      <div class="sidebar-card-head">More Guides</div>
+      <div class="sidebar-card-body" style="display:flex;flex-direction:column;gap:10px">
+        {{- $related := first 5 (where .Site.RegularPages "Section" "posts") }}
+        {{- range $related }}
+        <a href="{{ .Permalink }}" style="font-size:13px;font-weight:500;line-height:1.4;color:var(--text);display:block;padding-bottom:10px;border-bottom:1px solid var(--border)">{{ .Title }}</a>
+        {{- end }}
+      </div>
+    </div>
+    <div class="ad-unit" style="margin-top:20px">
+      <ins class="adsbygoogle" style="display:block" data-ad-client="{{ $.Site.Params.adsense_id }}" data-ad-slot="{{ $.Site.Params.adsense_slot_sidebar1 }}" data-ad-format="auto" data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+  </aside>
+</div>
+{{ end }}
