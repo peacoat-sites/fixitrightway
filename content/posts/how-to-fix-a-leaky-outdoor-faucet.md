@@ -3,7 +3,7 @@ title: "How to fix a leaky outdoor faucet"
 date: 2026-05-20T11:48:34+00:00
 draft: false
 description: "Learn how to fix a leaky outdoor faucet with this easy step-by-step guide. Save water, lower your bill, and handle the repair yourself with basic tools and s"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5059649/pexels-photo-5059649.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["plumbing"]
 slug: "how-to-fix-a-leaky-outdoor-faucet"
 affiliate_disclosure: true
