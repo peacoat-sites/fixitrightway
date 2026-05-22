@@ -3,7 +3,7 @@ title: "How to replace a kitchen countertop"
 date: 2026-05-17T22:49:14+00:00
 draft: false
 description: "Learn how to replace a kitchen countertop with this complete step-by-step guide. Includes tools list, safety tips, and expert advice for a successful DIY kit"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33531824/pexels-photo-33531824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["kitchen"]
 slug: "how-to-replace-a-kitchen-countertop"
 affiliate_disclosure: true
