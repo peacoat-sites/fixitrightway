@@ -3,7 +3,7 @@ title: "How to fix a dripping faucet step by step"
 date: 2026-05-17T22:54:15+00:00
 draft: false
 description: "Learn how to fix a dripping faucet with this easy step-by-step guide. Identify your faucet type, replace worn parts, and stop that drip — no plumber needed.<"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8130011/pexels-photo-8130011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["plumbing"]
 slug: "how-to-fix-a-dripping-faucet-step-by-step"
 affiliate_disclosure: true
