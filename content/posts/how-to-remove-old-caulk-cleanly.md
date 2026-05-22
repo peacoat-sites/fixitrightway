@@ -3,7 +3,7 @@ title: "How to remove old caulk cleanly"
 date: 2026-05-21T12:14:52+00:00
 draft: false
 description: "Learn how to remove old caulk cleanly with this easy step-by-step guide designed for seniors. Discover the right tools, safety tips, and techniques for a smo"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/36715335/pexels-photo-36715335.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["general"]
 slug: "how-to-remove-old-caulk-cleanly"
 affiliate_disclosure: true
