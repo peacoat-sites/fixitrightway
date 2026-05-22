@@ -3,7 +3,7 @@ title: "How to replace a toilet flapper"
 date: 2026-05-19T11:59:43+00:00
 draft: false
 description: "Learn how to replace a toilet flapper in 5 easy steps. This beginner-friendly guide covers tools needed, step-by-step instructions, and expert tips to stop y"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4067525/pexels-photo-4067525.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["plumbing"]
 slug: "how-to-replace-a-toilet-flapper"
 affiliate_disclosure: true
