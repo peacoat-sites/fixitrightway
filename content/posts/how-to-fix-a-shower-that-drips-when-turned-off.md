@@ -3,7 +3,7 @@ title: "How to fix a shower that drips when turned off"
 date: 2026-05-17T22:47:21+00:00
 draft: false
 description: "Learn how to fix a shower that drips when off with this step-by-step guide. Discover the most common causes, tools needed, and easy DIY repair steps to stop"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/36977686/pexels-photo-36977686.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["plumbing"]
 slug: "how-to-fix-a-shower-that-drips-when-turned-off"
 affiliate_disclosure: true
