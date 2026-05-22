@@ -3,7 +3,7 @@ title: "How to stop drafts from windows"
 date: 2026-05-17T22:40:38+00:00
 draft: false
 description: "Discover the easiest drafty windows fix with this step-by-step guide for seniors. Learn how to seal gaps with weatherstripping, caulk, and window film to sta"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33395431/pexels-photo-33395431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["windows"]
 slug: "how-to-stop-drafts-from-windows"
 affiliate_disclosure: true
