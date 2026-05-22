@@ -3,7 +3,7 @@ title: "How to paint vinyl siding"
 date: 2026-05-17T22:48:18+00:00
 draft: false
 description: "Learn exactly how to paint vinyl siding with this complete step-by-step guide. Discover the best paints, tools, prep tips, and expert advice for a long-lasti"
-image: "https://images.pexels.com/photos/3768911/pexels-photo-3768911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5583080/pexels-photo-5583080.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["painting"]
 slug: "how-to-paint-vinyl-siding"
 affiliate_disclosure: true
