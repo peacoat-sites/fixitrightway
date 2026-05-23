@@ -5,6 +5,7 @@ title = "Fix It Right Way"
 enableRobotsTXT = true
 
 [params]
+author = "Stephen Brenish"
   description        = "Step-by-step DIY home repair guides for plumbing, electrical, drywall, painting, floors, and more."
   tagline            = "Do it right the first time"
   niche              = "DIY Home Repair"
