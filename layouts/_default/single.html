@@ -14,6 +14,7 @@
   <article class="article-body">
     {{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" style="width:100%;margin-bottom:28px;border-radius:8px">{{ end }}
     {{ .Content }}
+      {{ partial "related-articles.html" . }}
     <div class="share-row" style="display:flex;gap:8px;flex-wrap:wrap;margin:24px 0 16px">
       <a href="https://twitter.com/intent/tweet?url={{ .Permalink | urlquery }}&text={{ .Title | urlquery }}" target="_blank" rel="noopener" class="share-btn share-twitter">&#120143; Share</a>
       <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlquery }}" target="_blank" rel="noopener" class="share-btn share-facebook">Facebook</a>
