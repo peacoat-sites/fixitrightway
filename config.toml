@@ -19,10 +19,14 @@ author = "Stephen Brenish"
   adsense_slot_sidebar1    = "3118564062"
   adsense_slot_sidebar2    = "4874350475"
   image_query        = "diy home repair tools plumbing electrical"
-  author             = "Fix It Right Way Editorial Team"
   author_real_name   = "Stephen Brenish"
   author_real_title  = "DIY Home Repair Expert"
-  disclaimer         = "Always consult a licensed professional for electrical and structural work. Safety first."
+
+  persona_name       = "Dave Pruitt"
+  persona_title      = "DIY Home Repair Editor"
+  persona_bio        = "Self-taught home repair enthusiast who has tackled hundreds of DIY projects over 20 years of homeownership."
+  persona_initials   = "DP"
+  disclaimer         = "This content is for informational and educational purposes only. Always follow manufacturer instructions and local building codes. When in doubt, consult a licensed contractor."
 
 [taxonomies]
   category = "categories"
