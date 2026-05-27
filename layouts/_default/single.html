@@ -15,6 +15,21 @@
     {{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" style="width:100%;margin-bottom:28px;border-radius:8px">{{ end }}
     {{ .Content }}
       {{ partial "related-articles.html" . }}
+
+    {{ with .Site.Params.disclaimer }}
+    <div class="article-disclaimer"><strong>Note:</strong> {{ . }}</div>
+    {{ end }}
+    {{ with .Site.Params.persona_name }}
+    <div class="author-bio">
+      <div class="author-avatar">{{ $.Site.Params.persona_initials }}</div>
+      <div class="author-info">
+        <strong class="author-name">{{ . }}</strong>
+        <span class="author-title">{{ $.Site.Params.persona_title }}</span>
+        <p class="author-blurb">{{ $.Site.Params.persona_bio }}</p>
+      </div>
+    </div>
+    {{ end }}
+
     <div class="share-row" style="display:flex;gap:8px;flex-wrap:wrap;margin:24px 0 16px">
       <a href="https://twitter.com/intent/tweet?url={{ .Permalink | urlquery }}&text={{ .Title | urlquery }}" target="_blank" rel="noopener" class="share-btn share-twitter">&#120143; Share</a>
       <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlquery }}" target="_blank" rel="noopener" class="share-btn share-facebook">Facebook</a>
