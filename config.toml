@@ -5,6 +5,13 @@ title = "Fix It Right Way"
 enableRobotsTXT = true
 
 [params]
+hero_color_4 = "#080400"
+hero_color_3 = "#ea580c"
+hero_color_2 = "#1a0c00"
+hero_color_1 = "#0d0600"
+primary_color = "#ea580c"
+logo_text_2 = "Right Way"
+logo_text_1 = "FixIt"
 author = "Stephen Brenish"
   description        = "Step-by-step DIY home repair guides for plumbing, electrical, drywall, painting, floors, and more."
   tagline            = "Do it right the first time"
