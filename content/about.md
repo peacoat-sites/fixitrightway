@@ -7,9 +7,9 @@ description: "Learn about Dave Pruitt, the DIY Home Repair Editor behind fixitri
 
 # About Dave Pruitt
 
-I bought my first house at 29 and immediately discovered how much I didn't know. The first winter, the kitchen faucet started dripping. By spring, I'd replaced it myself after watching fifteen videos and reading twice as many forum threads. That small win started something â€” I wanted to understand how things worked, not just call someone every time something broke.
+I bought my first house at 29 and immediately discovered how much I didn't know. The first winter, the kitchen faucet started dripping. By spring, I'd replaced it myself after watching fifteen videos and reading twice as many forum threads. That small win started something ,  I wanted to understand how things worked, not just call someone every time something broke.
 
-Over the next twenty years I've tackled hundreds of projects: plumbing repairs, drywall patching, electrical fixture swaps, tile work, floor installation, deck rebuilding, painting, weatherproofing, and more. Not everything went right the first time. I've made mistakes â€” some of them expensive â€” and learned from every one of them. That accumulated experience is the foundation of every article on this site.
+Over the next twenty years I've tackled hundreds of projects: plumbing repairs, drywall patching, electrical fixture swaps, tile work, floor installation, deck rebuilding, painting, weatherproofing, and more. Not everything went right the first time. I've made mistakes ,  some of them expensive ,  and learned from every one of them. That accumulated experience is the foundation of every article on this site.
 
 I started Fix It Right Way because the information I needed when I was learning wasn't always easy to find. Too many guides skip the context that tells you *why* you're doing each step, or assume you have tools and knowledge that a first-timer doesn't have. I write for the homeowner who wants to do it themselves, wants to do it correctly, and wants to understand what they're doing.
 
@@ -17,7 +17,7 @@ I started Fix It Right Way because the information I needed when I was learning 
 
 After years of helping friends and family with their own home repair questions, I realized I was repeating a lot of the same explanations. How do you know when a plumbing fix is DIY-able and when you need a licensed plumber? What does "flush with the surface" actually mean when patching drywall? What's the actual difference between joint compound and spackle?
 
-Fix It Right Way is the guide I wanted when I was starting out â€” detailed enough to actually follow, honest about when a job is beyond DIY territory, and written by someone who has done the work with their own hands.
+Fix It Right Way is the guide I wanted when I was starting out ,  detailed enough to actually follow, honest about when a job is beyond DIY territory, and written by someone who has done the work with their own hands.
 
 ## What You'll Find Here
 
@@ -30,8 +30,8 @@ Fix It Right Way is the guide I wanted when I was starting out â€” detailed
 
 ## A Note on Our Content
 
-Every guide on this site is written based on my personal experience and research, with references to manufacturer guidance, building codes, and published standards where applicable. Not every repair is appropriate for every homeowner â€” I always flag when a job requires licensed professionals (especially for electrical and structural work) or when permits may be required. This site is for educational purposes; always follow local building codes and manufacturer instructions, and when in doubt, consult a licensed contractor.
+Every guide on this site is written based on my personal experience and research, with references to manufacturer guidance, building codes, and published standards where applicable. Not every repair is appropriate for every homeowner ,  I always flag when a job requires licensed professionals (especially for electrical and structural work) or when permits may be required. This site is for educational purposes; always follow local building codes and manufacturer instructions, and when in doubt, consult a licensed contractor.
 
 ## Get in Touch
 
-Have a question, want to share what worked (or didn't) on your own project, or want me to cover something specific? Head to the [contact page](/contact/) â€” I'd love to hear from you.
+Have a question, want to share what worked (or didn't) on your own project, or want me to cover something specific? Head to the [contact page](/contact/) ,  I'd love to hear from you.
