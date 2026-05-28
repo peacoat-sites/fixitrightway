@@ -1,7 +1,9 @@
+enableRobotsTXT = true
+enableEmoji = true
+
 baseURL = "https://fixitrightway.com/"
 languageCode = "en-us"
 title = "Fix It Right Way"
-enableRobotsTXT = true
 
 [params]
   page_bg = "#fff7f4"
