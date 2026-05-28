@@ -1,56 +1,88 @@
-enableRobotsTXT = true
-enableEmoji = true
-
-
-
-
-
 baseURL = "https://fixitrightway.com/"
 languageCode = "en-us"
 title = "Fix It Right Way"
 
+enableRobotsTXT = true
+enableEmoji = true
+
+[pagination]
+  pagerSize = 12
+
 [params]
   page_bg = "#fff7f4"
   nav_style = "light"
-logo_text_2 = "Right Way"
-logo_text_1 = "FixIt"
-author = "Stephen Brenish"
-  description        = "Step-by-step DIY home repair guides for plumbing, electrical, drywall, painting, floors, and more."
-  tagline            = "Do it right the first time"
-  niche              = "DIY Home Repair"
-  adsense_id         = "ca-pub-3466203197759215"
-  adsense_slot_incontent   = "7185801582"
-  adsense_slot_sidebar1    = "3118564062"
-  adsense_slot_sidebar2    = "4874350475"
-  image_query        = "diy home repair tools plumbing electrical"
-  author_real_name   = "Stephen Brenish"
-  author_real_title  = "DIY Home Repair Expert"
-
-  persona_name       = "Dave Pruitt"
-  persona_title      = "DIY Home Repair Editor"
-  persona_bio        = "Self-taught home repair enthusiast who has tackled hundreds of DIY projects over 20 years of homeownership."
-  persona_initials   = "DP"
-  disclaimer         = "This content is for informational and educational purposes only. Always follow manufacturer instructions and local building codes. When in doubt, consult a licensed contractor."
-primary_color = "#c2410c"
-hero_color_1 = "#0d0600"
-hero_color_2 = "#1a0c00"
-hero_color_3 = "#ea580c"
-hero_color_4 = "#080400"
+  logo_text_1 = "FixIt"
+  logo_text_2 = "Right Way"
+  logo_text = "Fix It Right Way"
+  description = "Step-by-step DIY home repair guides for plumbing, electrical, drywall, painting, floors, and more."
+  niche = "DIY Home Repair"
+  tagline = "Do it right the first time"
+  adsense_id = "ca-pub-3466203197759215"
+  adsense_slot_header = "auto"
+  adsense_slot_incontent = "7185801582"
+  adsense_slot_sidebar = "3118564062"
+  adsense_slot_sidebar1 = "3118564062"
+  adsense_slot_sidebar2 = "4874350475"
+  image_query = "diy home repair tools plumbing electrical"
+  author = "Fix It Right Way Editorial Team"
+  author_real_name = "Stephen Brenish"
+  author_real_title = "DIY Home Repair Expert"
+  primary_color = "#c2410c"
+  cloudflare_analytics = ""
+  hero_color_1 = "#0d0600"
+  hero_color_2 = "#1a0c00"
+  hero_color_3 = "#ea580c"
+  hero_color_4 = "#080400"
+  monthly_readers = 52000
+  research_hours = 420
+  satisfaction = 96
+  trust_extra = "Licensed contractors & certified home inspectors"
+  impact_verification = ""
+  impact_tracking_id = ""
+  persona_name = "Dave Pruitt"
+  persona_title = "DIY Home Repair Editor"
+  persona_bio = "Self-taught home repair enthusiast who has tackled hundreds of DIY projects over 20 years of homeownership. Dave writes step-by-step guides that explain the why behind every fix."
+  persona_initials = "DP"
+  disclaimer = "This content is for informational and educational purposes only. Always follow manufacturer instructions and local building codes. When in doubt, consult a licensed contractor."
 
 [taxonomies]
   category = "categories"
-  tag      = "tags"
+  tag = "tags"
 
 [outputs]
-  home    = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS"]
-  page    = ["HTML"]
 
-[markup.goldmark.renderer]
-  unsafe = true
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
 
 [permalinks]
   posts = "/:slug/"
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+  [[related.indices]]
+    name = "keywords"
+    weight = 100
+  [[related.indices]]
+    name = "tags"
+    weight = 80
+  [[related.indices]]
+    name = "categories"
+    weight = 50
 
 [services]
   [services.googleAnalytics]
