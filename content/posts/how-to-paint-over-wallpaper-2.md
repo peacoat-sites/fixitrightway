@@ -44,7 +44,7 @@ Photo by [Helen Thomas](https://unsplash.com/@hlthomas?utm_source=seniorstrength
 
 Start by walking around the room and carefully examining every inch of the wallpaper. Press gently on the surface to feel for loose spots, bubbles, or areas where the paper has separated from the wall.
 
-Use your wallpaper seam adhesive to re-glue any lifting seams or peeling edges. Press them firmly into place and allow the adhesive to dry completely before moving on. This step is critical because paint will not hide raised seams — it will actually make them more visible.
+Use your wallpaper seam adhesive to re-glue any lifting seams or peeling edges. Press them firmly into place and allow the adhesive to dry completely before moving on. This step is critical because paint will not hide raised seams ,  it will actually make them more visible.
 
 For small tears or holes, apply a thin layer of joint compound with your putty knife. Let it dry fully, then sand it smooth. Wipe away any dust with a slightly damp sponge.
 
@@ -56,7 +56,7 @@ Dirty or greasy walls will prevent primer and paint from bonding properly. Mix a
 
 Pay extra attention to areas around light switches, near the stove or kitchen areas, and at hand height along hallways. These spots tend to collect oils and grime over the years.
 
-Allow the walls to dry completely — ideally overnight. Applying primer to even slightly damp wallpaper can cause bubbling and lifting. Patience at this stage protects all the work you have done so far.
+Allow the walls to dry completely ,  ideally overnight. Applying primer to even slightly damp wallpaper can cause bubbling and lifting. Patience at this stage protects all the work you have done so far.
 
 **⚠️ Safety:** When cleaning walls or working at heights on a ladder, always make sure someone else is home with you. Use a sturdy step stool or ladder rated for your weight, and never overreach. If you feel unsteady at any point, stop and reposition yourself before continuing. Falls are the leading cause of injury in home improvement projects for adults over 60.
 
@@ -68,7 +68,7 @@ This is the most important step in the entire process. A quality oil-based prime
 
 Begin by cutting in around the edges with your angled brush, working carefully along the ceiling, baseboards, and corners. Then use your roller to cover the main sections of the wall in smooth, overlapping strokes.
 
-Apply the primer in a thin, even coat. You are not trying to cover the color of the wallpaper completely at this stage — you are sealing and bonding. Allow the primer to dry fully according to the manufacturer’s instructions, which is usually two to four hours.
+Apply the primer in a thin, even coat. You are not trying to cover the color of the wallpaper completely at this stage ,  you are sealing and bonding. Allow the primer to dry fully according to the manufacturer’s instructions, which is usually two to four hours.
 
 Once the primer is dry, inspect the surface again. If any new bubbles or seams have appeared, let the primer cure fully, then re-glue and re-sand those spots before applying a second thin coat of primer.
 
@@ -104,7 +104,7 @@ It is strongly recommended that you do not use a water-based latex primer over w
 
 ### What if the wallpaper starts to bubble after I prime it?
 
-Small bubbles may appear as the primer dries. Allow the primer to cure completely — sometimes bubbles will shrink back down as they dry. If they remain, slice them carefully with a utility knife, re-glue the edges, press flat, and let dry before lightly sanding and re-priming that spot.
+Small bubbles may appear as the primer dries. Allow the primer to cure completely ,  sometimes bubbles will shrink back down as they dry. If they remain, slice them carefully with a utility knife, re-glue the edges, press flat, and let dry before lightly sanding and re-priming that spot.
 
 ## You Can Do This
 

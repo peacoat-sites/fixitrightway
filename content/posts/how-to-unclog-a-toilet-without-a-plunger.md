@@ -13,7 +13,7 @@ Your toilet is clogged, guests are arriving in an hour, and you can’t find the
 
 ## Why Toilets Clog (And What You’re Really Dealing With)
 
-Most toilet clogs happen in the same spot — the trap, which is the curved section of pipe just beyond the bowl. This S-shaped bend is designed to hold water and block sewer gases, but it’s also where waste and paper tend to pile up.
+Most toilet clogs happen in the same spot ,  the trap, which is the curved section of pipe just beyond the bowl. This S-shaped bend is designed to hold water and block sewer gases, but it’s also where waste and paper tend to pile up.
 
 Understanding the cause helps you choose the right fix. Common culprits include:
 
@@ -30,7 +30,7 @@ Most minor to moderate clogs respond beautifully to the methods below. If water 
 Before you start, gather your supplies. You probably have most of these in your kitchen or bathroom cabinets already.
 
   * Dish soap (liquid, any brand)
-  * Hot water (not boiling — we’ll explain why below)
+  * Hot water (not boiling ,  we’ll explain why below)
   * Baking soda and white vinegar
   * A bucket or large pot
   * Rubber gloves (highly recommended)
@@ -40,7 +40,7 @@ Before you start, gather your supplies. You probably have most of these in your 
 
 Put on your rubber gloves before you begin. Lay old towels around the base of the toilet to catch any splashes. A little preparation saves a lot of cleanup later.
 
-**⚠️ Safety:** Never use boiling water in your toilet bowl. The extreme heat can crack the porcelain, which is an expensive repair. Always use hot tap water — the kind you’d use for a hot bath. Also avoid mixing bleach with vinegar or other household cleaners, as this creates toxic fumes.
+**⚠️ Safety:** Never use boiling water in your toilet bowl. The extreme heat can crack the porcelain, which is an expensive repair. Always use hot tap water ,  the kind you’d use for a hot bath. Also avoid mixing bleach with vinegar or other household cleaners, as this creates toxic fumes.
 
 ## Step 1: Try the Dish Soap and Hot Water Method
 
@@ -50,7 +50,7 @@ Here’s exactly what to do:
 
   * Squeeze about half a cup of liquid dish soap directly into the toilet bowl
   * Let it sit for 15 to 20 minutes so it can sink down to the clog
-  * Fill a bucket with hot (not boiling) tap water — about a gallon
+  * Fill a bucket with hot (not boiling) tap water ,  about a gallon
   * Pour the water into the bowl from waist height to create gentle pressure
   * Wait five minutes, then try flushing
 
@@ -64,7 +64,7 @@ If dish soap didn’t fully clear the clog, the classic baking soda and vinegar 
 
 Follow these steps carefully:
 
-  * First, remove some water from the bowl if it’s very full — use a small cup or ladle
+  * First, remove some water from the bowl if it’s very full ,  use a small cup or ladle
   * Pour one cup of baking soda directly into the toilet bowl
   * Follow with two cups of white vinegar, pouring slowly to control the fizzing
   * Let the mixture work for at least 30 minutes (an hour is even better)
@@ -81,7 +81,7 @@ Here’s how to maximize the pressure effect:
 
   * Fill the largest pot or bucket you have with the hottest tap water available
   * Stand over the toilet and pour steadily from waist height
-  * Don’t pour too slowly — a consistent flow creates the most pressure
+  * Don’t pour too slowly ,  a consistent flow creates the most pressure
   * Repeat two to three times if needed, waiting a few minutes between attempts
 
 The height from which you pour increases the force of the water hitting the clog. Think of it like a gentle power wash from above. This technique is safe, simple, and often surprisingly effective.
@@ -93,7 +93,7 @@ If liquid methods haven’t worked, a straightened wire coat hanger can act as a
 Here’s how to do it safely:
 
   * Unwind a wire coat hanger until it’s mostly straight, leaving a small hook at one end
-  * Wrap the hook end in an old cloth and secure it with a rubber band — this protects the porcelain from scratches
+  * Wrap the hook end in an old cloth and secure it with a rubber band ,  this protects the porcelain from scratches
   * Gently insert the cloth-covered end into the drain opening
   * Rotate and push slowly, feeling for the obstruction
   * Try to hook or break up the clog rather than push it further in
@@ -107,11 +107,11 @@ Once your toilet is flowing freely again, a few simple habits will help you avoi
 
 Keep these tips in mind going forward:
 
-  * Flush in smaller amounts — don’t use a whole roll at once
-  * Only flush toilet paper and human waste — nothing else
-  * Never flush “flushable” wipes — they don’t break down like toilet paper
+  * Flush in smaller amounts ,  don’t use a whole roll at once
+  * Only flush toilet paper and human waste ,  nothing else
+  * Never flush “flushable” wipes ,  they don’t break down like toilet paper
   * Pour a cup of baking soda monthly to keep drains fresh
-  * Keep a plunger accessible — ideally one in every bathroom
+  * Keep a plunger accessible ,  ideally one in every bathroom
   * Have a plumber inspect older pipes every few years
 
 Small, consistent habits make a huge difference over time. Your future self will be very grateful for the effort you put in today.
@@ -140,7 +140,7 @@ Give the dish soap at least 15 to 20 minutes to work its way down to the clog. F
 
 Most plumbers actually advise against using harsh chemical drain cleaners like Drano in toilets. These products are designed for sink and shower drains and can damage the rubber seals and components inside your toilet tank over time. The natural methods in this guide are safer and surprisingly just as effective.
 
-### What if the water level is very high — should I still add more water?
+### What if the water level is very high ,  should I still add more water?
 
 If the bowl is nearly full, do not add more water until the level drops. Adding water to an already-full bowl risks overflow and a very unpleasant cleanup. Instead, start with the baking soda and vinegar method, which doesn’t require adding significant liquid volume. Wait for the water to drain partially before using the hot water technique.
 
@@ -148,4 +148,4 @@ If the bowl is nearly full, do not add more water until the level drops. Adding 
 
 A clogged toilet feels like a crisis in the moment, but now you have a complete toolkit of proven solutions to handle it calmly and effectively. From simple dish soap to the trusty baking soda method, these techniques work well for the vast majority of household clogs.
 
-Remember, every problem has a solution — and sometimes the best solutions are already sitting in your kitchen cabinet. Take a deep breath, put on those rubber gloves, and tackle that clog with confidence. You’ve absolutely got this.
+Remember, every problem has a solution ,  and sometimes the best solutions are already sitting in your kitchen cabinet. Take a deep breath, put on those rubber gloves, and tackle that clog with confidence. You’ve absolutely got this.

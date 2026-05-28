@@ -9,7 +9,7 @@ slug: "how-to-fix-a-sagging-ceiling"
 affiliate_disclosure: true
 ---
 
-Your ceiling is starting to sag, and that drooping, bubbled section overhead is hard to ignore. Whether it’s a small bulge near a bathroom or a wide, wavy section in your living room, **sagging ceiling repair** is a project many homeowners can tackle themselves with the right tools and a bit of patience. Acting quickly matters — a sagging ceiling can worsen over time and may eventually collapse if left unaddressed.
+Your ceiling is starting to sag, and that drooping, bubbled section overhead is hard to ignore. Whether it’s a small bulge near a bathroom or a wide, wavy section in your living room, **sagging ceiling repair** is a project many homeowners can tackle themselves with the right tools and a bit of patience. Acting quickly matters ,  a sagging ceiling can worsen over time and may eventually collapse if left unaddressed.
 
 ## What Causes a Sagging Ceiling?
 
@@ -17,13 +17,13 @@ Before you grab a screwdriver, it helps to understand why ceilings sag in the fi
 
 Other causes include:
 
-  * Age — older homes with plaster ceilings naturally lose their bond over decades
-  * Improper installation — drywall screws or nails that were spaced too far apart
+  * Age ,  older homes with plaster ceilings naturally lose their bond over decades
+  * Improper installation ,  drywall screws or nails that were spaced too far apart
   * Heavy insulation above the ceiling pressing down on the drywall
   * Structural movement or settling of the home’s framing
   * Water damage from a burst pipe or roof leak
 
-Identifying the root cause is critical. If moisture is involved, fix the source of the leak _before_ repairing the ceiling — otherwise you’ll be doing the job twice.
+Identifying the root cause is critical. If moisture is involved, fix the source of the leak _before_ repairing the ceiling ,  otherwise you’ll be doing the job twice.
 
 **⚠️ Safety:** Before starting any ceiling repair, inspect the sagging area carefully. If the ceiling is heavily water-damaged, bulging significantly, or covers a large area (more than 4 square feet), consider calling a licensed contractor. A compromised ceiling can collapse without warning, causing serious injury. Always wear safety glasses and a hard hat when working overhead.
 
@@ -54,9 +54,9 @@ Gathering everything before you start saves you multiple trips to the hardware s
 
 ## Step 1: Diagnose the Extent of the Damage
 
-Put on your safety glasses and use a flashlight to inspect the sagging area closely. Gently press on the ceiling with one finger — if it feels soft, spongy, or crumbles slightly, you’re dealing with moisture-damaged drywall that will need to be replaced entirely.
+Put on your safety glasses and use a flashlight to inspect the sagging area closely. Gently press on the ceiling with one finger ,  if it feels soft, spongy, or crumbles slightly, you’re dealing with moisture-damaged drywall that will need to be replaced entirely.
 
-If the ceiling feels firm but is simply pulling away from the joists, you may be able to refasten it rather than replace it. Use a stud finder to locate the ceiling joists in the area — you’ll need them as anchor points for your repair screws.
+If the ceiling feels firm but is simply pulling away from the joists, you may be able to refasten it rather than replace it. Use a stud finder to locate the ceiling joists in the area ,  you’ll need them as anchor points for your repair screws.
 
 Also check the attic space above the sag if accessible. Look for signs of a roof leak, ice damming, or condensation. Resolve any moisture issue completely before moving to the next step.
 
@@ -64,25 +64,25 @@ Also check the attic space above the sag if accessible. Look for signs of a roof
 
 If the drywall is still structurally sound but simply detached from the joists, you can often pull it back into place. Have a helper hold the sagging panel firmly against the ceiling while you drive new drywall screws directly into the joists every 6 to 8 inches across the damaged zone.
 
-Use a cordless drill and drive screws until the head dimples slightly into the drywall surface without breaking through the paper facing. Proper screw depth is key — too shallow and the joint compound won’t cover it cleanly; too deep and you’ll weaken the hold.
+Use a cordless drill and drive screws until the head dimples slightly into the drywall surface without breaking through the paper facing. Proper screw depth is key ,  too shallow and the joint compound won’t cover it cleanly; too deep and you’ll weaken the hold.
 
 If the drywall is water-damaged, soft, or crumbling, it must come down. Cut along the edges of the damaged section using a drywall saw, extending your cut lines to the center of the nearest joists on each side. This gives you solid wood to attach the new panel to. Remove the damaged piece carefully and dispose of it in a contractor bag.
 
-**Pro Tip:** When cutting out damaged drywall, always extend your cuts to the midpoint of the nearest ceiling joist on each side of the damage. This gives your replacement panel a full, solid edge to screw into — resulting in a much stronger and longer-lasting repair.
+**Pro Tip:** When cutting out damaged drywall, always extend your cuts to the midpoint of the nearest ceiling joist on each side of the damage. This gives your replacement panel a full, solid edge to screw into ,  resulting in a much stronger and longer-lasting repair.
 
 ## Step 3: Install the Replacement Drywall Panel
 
 Measure the opening carefully and cut your replacement drywall panel to fit. Ceiling drywall should be 5/8-inch thick for best sag resistance, especially in humid areas like bathrooms. Cut drywall by scoring the face with a utility knife and snapping it away from the score line.
 
-Lift the panel into place — this step is much easier with a helper or a rented drywall lift. Fasten it to every joist it crosses, placing screws every 8 inches along each joist. Make sure all screw heads are slightly dimpled below the surface so they can be concealed with joint compound.
+Lift the panel into place ,  this step is much easier with a helper or a rented drywall lift. Fasten it to every joist it crosses, placing screws every 8 inches along each joist. Make sure all screw heads are slightly dimpled below the surface so they can be concealed with joint compound.
 
-If your ceiling is plaster rather than drywall, use plaster washers — large, flat metal discs — combined with drywall screws to draw the plaster back tight against the lath. Space them every 4 to 6 inches across the sagging zone for solid, even support.
+If your ceiling is plaster rather than drywall, use plaster washers ,  large, flat metal discs ,  combined with drywall screws to draw the plaster back tight against the lath. Space them every 4 to 6 inches across the sagging zone for solid, even support.
 
 ## Step 4: Tape and Mud the Seams
 
 With your new panel secured, it’s time to blend it into the existing ceiling. Apply a thin coat of joint compound over all the seams and screw dimples using a 6-inch drywall knife. Embed paper drywall tape into the wet compound on all seams and smooth it flat, removing any air bubbles.
 
-Allow the first coat to dry completely — typically 24 hours at normal room temperature. Apply a second, wider coat using a 10-inch knife, feathering the edges out about 6 inches beyond the seam. This feathering technique is what makes the repair invisible once painted.
+Allow the first coat to dry completely ,  typically 24 hours at normal room temperature. Apply a second, wider coat using a 10-inch knife, feathering the edges out about 6 inches beyond the seam. This feathering technique is what makes the repair invisible once painted.
 
 Sand lightly between coats with a fine-grit sanding sponge. A third finish coat, spread very thinly and feathered even wider, is often needed for a perfectly smooth result. Work in good lighting so you can catch any ridges or imperfections before they dry.
 
@@ -90,7 +90,7 @@ Sand lightly between coats with a fine-grit sanding sponge. A third finish coat,
 
 Once the joint compound is fully dry and sanded smooth, apply a coat of drywall primer to the repaired area before painting. Primer seals the joint compound and prevents the patched section from looking dull or showing through the finished paint.
 
-If your existing ceiling has a texture — like orange peel or knockdown — you’ll need to match it before painting. Spray texture in a can works well for small areas. Practice on a piece of cardboard first to match the pattern as closely as possible.
+If your existing ceiling has a texture ,  like orange peel or knockdown ,  you’ll need to match it before painting. Spray texture in a can works well for small areas. Practice on a piece of cardboard first to match the pattern as closely as possible.
 
 Finish with two coats of ceiling paint in a flat or matte sheen, which hides imperfections best. Feather the paint beyond the repair zone so there’s no visible edge where the new paint meets the old. A roller on an extension pole makes this step much faster and keeps you off the top of a ladder.
 
@@ -120,6 +120,6 @@ Yes, in many cases. If the drywall is still firm and undamaged but has simply pu
 
 ### How do I prevent my ceiling from sagging again after repair?
 
-The best prevention is addressing the root cause — fix any roof leaks, plumbing issues, or ventilation problems that allow moisture to reach your ceiling. Use the correct drywall thickness (5/8 inch in bathrooms and humid spaces) and fasten panels with screws rather than nails. Checking your attic annually for signs of moisture also helps you catch problems early before they become expensive repairs.
+The best prevention is addressing the root cause ,  fix any roof leaks, plumbing issues, or ventilation problems that allow moisture to reach your ceiling. Use the correct drywall thickness (5/8 inch in bathrooms and humid spaces) and fasten panels with screws rather than nails. Checking your attic annually for signs of moisture also helps you catch problems early before they become expensive repairs.
 
-A sagging ceiling can feel like a major problem, but with the right approach, it’s a very manageable DIY repair. Take your time to diagnose the cause, gather your materials, and work methodically through each step. Your ceiling — and your home — will look as good as new before you know it.
+A sagging ceiling can feel like a major problem, but with the right approach, it’s a very manageable DIY repair. Take your time to diagnose the cause, gather your materials, and work methodically through each step. Your ceiling ,  and your home ,  will look as good as new before you know it.

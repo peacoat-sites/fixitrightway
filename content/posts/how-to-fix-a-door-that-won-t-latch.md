@@ -36,27 +36,27 @@ Before you begin, gather these essential items:
 
 ## Step 1: Inspect the Latch Mechanism
 
-Start by examining the latch assembly itself. Open your door and look closely at where the latch bolt meets the strike plate—the metal piece recessed in the door frame. Pay attention to whether the latch bolt is aligned properly with the strike plate opening.
+Start by examining the latch assembly itself. Open your door and look closely at where the latch bolt meets the strike plate, the metal piece recessed in the door frame. Pay attention to whether the latch bolt is aligned properly with the strike plate opening.
 
 Close the door slowly and watch as the bolt moves. Does it slide smoothly into the strike plate? Or does it appear to stick, requiring extra force to close? Mark any areas where you notice rubbing or resistance with a pencil.
 
-Next, check if the latch actually springs back when you release the doorknob. A weak or broken spring inside the latch mechanism will prevent proper operation. Push the latch bolt manually—it should spring back quickly and smoothly when released.
+Next, check if the latch actually springs back when you release the doorknob. A weak or broken spring inside the latch mechanism will prevent proper operation. Push the latch bolt manually, it should spring back quickly and smoothly when released.
 
 ## Step 2: Check Door and Frame Alignment
 
-Misalignment is the most common reason a door won't latch. Your door may have shifted due to settling, humidity changes, or worn hinges. Use a level against the door frame at multiple points—top, middle, and bottom. Check both vertical and horizontal alignment.
+Misalignment is the most common reason a door won't latch. Your door may have shifted due to settling, humidity changes, or worn hinges. Use a level against the door frame at multiple points, top, middle, and bottom. Check both vertical and horizontal alignment.
 
 Place the level vertically along the hinge side of the door frame. If it's not plumb (perfectly vertical), your door will be crooked. Do the same on the opposite side of the frame where the latch strike plate sits.
 
 **Safety Warning: If you notice significant cracks in your door frame or walls, or if the door frame appears warped beyond normal settlement, consult a professional contractor before proceeding. These may indicate structural issues.**
 
-Close the door gently and watch the gap between the door and frame. The gap should be consistent all the way around—typically about 1/8 inch. If you see wider gaps on one side or if the door appears to stick out at the top or bottom, you have an alignment problem.
+Close the door gently and watch the gap between the door and frame. The gap should be consistent all the way around, typically about 1/8 inch. If you see wider gaps on one side or if the door appears to stick out at the top or bottom, you have an alignment problem.
 
 ## Step 3: Adjust Door Hinges
 
 Most door alignment issues can be corrected by adjusting the hinges. Hinges are designed with elongated screw holes specifically for fine-tuning door position. You typically won't need to remove the door for basic adjustments.
 
-Locate the middle hinge, which provides the most effective adjustment point. Loosen (but don't remove) the two screws on the hinge attached to the door frame—not the door itself.
+Locate the middle hinge, which provides the most effective adjustment point. Loosen (but don't remove) the two screws on the hinge attached to the door frame, not the door itself.
 
 To move the door up slightly, place a wooden shim under the bottom hinge on the frame side. For side-to-side adjustment, use a cardboard shim behind the hinge on the frame. Insert the shim between the hinge and the frame, then tighten the hinge screws.
 
@@ -70,7 +70,7 @@ Once your door is properly aligned, check whether the latch bolt lines up with t
 
 If the bolt misses the opening by less than 1/4 inch, you can often simply reposition the strike plate. Unbolt the strike plate from the door frame by removing the screws. If the original screw holes won't serve your new position, fill them with wooden toothpicks and wood glue, then sand smooth once dry.
 
-For vertical misalignment, you may need to deepen the mortise (the recessed area where the strike plate sits). Use a chisel and hammer to carefully expand the mortise downward or upward. Work gradually—take small bites with the chisel rather than attempting large chunks. This prevents splintering and ensures a clean final result.
+For vertical misalignment, you may need to deepen the mortise (the recessed area where the strike plate sits). Use a chisel and hammer to carefully expand the mortise downward or upward. Work gradually, take small bites with the chisel rather than attempting large chunks. This prevents splintering and ensures a clean final result.
 
 For horizontal misalignment greater than 1/4 inch, you'll likely need to chisel out an entirely new mortise. Mark the new location with your pencil, then carefully chisel out the space to match your strike plate dimensions.
 
@@ -90,7 +90,7 @@ Install the new latch assembly by sliding it into the mortise on the door edge a
 
 With all adjustments complete, perform a final test. Open and close the door multiple times, checking that the latch engages smoothly each time. The door should close with a quiet click and shouldn't rattle.
 
-From the exterior, try to open the door using only the knob—it shouldn't open without turning the knob. If a deadbolt is installed, verify it locks and unlocks smoothly.
+From the exterior, try to open the door using only the knob, it shouldn't open without turning the knob. If a deadbolt is installed, verify it locks and unlocks smoothly.
 
 If you've chiseled new mortise areas or made other wood-removing adjustments, you may need to touch up your finish. Sand any exposed wood with 220-grit sandpaper and apply matching paint or stain to prevent moisture damage.
 

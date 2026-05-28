@@ -9,7 +9,7 @@ slug: "how-to-paint-a-brick-fireplace"
 affiliate_disclosure: true
 ---
 
-Your brick fireplace once looked charming, but now it looks dated, dingy, or simply out of place in your updated living room. The good news? Learning **how to paint a brick fireplace** is a manageable weekend project that can completely transform the heart of your home. With the right preparation, materials, and a little patience, you can give that tired brick a fresh, modern look — no contractor required.
+Your brick fireplace once looked charming, but now it looks dated, dingy, or simply out of place in your updated living room. The good news? Learning **how to paint a brick fireplace** is a manageable weekend project that can completely transform the heart of your home. With the right preparation, materials, and a little patience, you can give that tired brick a fresh, modern look ,  no contractor required.
 
 ## Why Painting Your Brick Fireplace Is Worth It
 
@@ -45,7 +45,7 @@ Proper preparation is the most important part of this project. Paint will not ad
 
 Start by using your wire brush to scrub away any loose mortar, flaking material, or surface debris. Work in small sections and brush debris away from the fireplace opening.
 
-Next, mix TSP cleaner with warm water according to the package directions and scrub the entire brick surface. TSP is excellent at cutting through soot, grease, and years of built-up grime. Rinse the brick thoroughly with clean water and allow it to dry completely — this can take 24 to 48 hours.
+Next, mix TSP cleaner with warm water according to the package directions and scrub the entire brick surface. TSP is excellent at cutting through soot, grease, and years of built-up grime. Rinse the brick thoroughly with clean water and allow it to dry completely ,  this can take 24 to 48 hours.
 
   * Brush out the mortar joints carefully to remove trapped dust
   * Use your vacuum to remove all loosened debris
@@ -70,7 +70,7 @@ Priming brick is non-negotiable. Brick is a highly porous surface that will abso
 
 Use your 2-inch angled brush to work primer into the mortar joints and around edges first. Then use your 4-inch brush or thick-nap roller to cover the flat faces of the bricks.
 
-Apply the primer in a stippling motion — a firm, tapping or dabbing movement — rather than long brush strokes. This technique pushes primer into all the tiny pores and crevices of the brick surface for full, even coverage.
+Apply the primer in a stippling motion ,  a firm, tapping or dabbing movement ,  rather than long brush strokes. This technique pushes primer into all the tiny pores and crevices of the brick surface for full, even coverage.
 
   * Work from the top of the fireplace downward
   * Make sure mortar joints are fully coated
@@ -79,11 +79,11 @@ Apply the primer in a stippling motion — a firm, tapping or dabbing movement �
 
 ## Step 4: Paint the Brick Fireplace
 
-Once your primer is fully dry, it is time for the satisfying part — painting. Use the same technique as with the primer: start with the mortar joints and edges using your angled brush, then cover the brick faces with your larger brush or roller.
+Once your primer is fully dry, it is time for the satisfying part ,  painting. Use the same technique as with the primer: start with the mortar joints and edges using your angled brush, then cover the brick faces with your larger brush or roller.
 
 Apply your first coat of masonry paint in smooth, even strokes. Do not try to get full coverage on the first coat. A thin first coat is always better than one thick, heavy coat that can drip and look uneven.
 
-Allow the first coat to dry completely — typically two to four hours for latex paint — then assess the coverage. Most brick fireplaces will need two full coats of paint to look polished and professional.
+Allow the first coat to dry completely ,  typically two to four hours for latex paint ,  then assess the coverage. Most brick fireplaces will need two full coats of paint to look polished and professional.
 
   * Keep a wet edge as you work to prevent visible lap marks
   * Work in sections and blend them together while paint is still wet
@@ -139,6 +139,6 @@ Photo by [Point3D Commercial Imaging Ltd.](https://unsplash.com/@3dottawa?utm_so
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Kidde Hardwired Smoke & CO Detector w/ Battery Backup](https://www.amazon.com/dp/B086S4Y9H5/?tag=contentportfo-20)** (~$40) — Hardwired interconnected smoke and CO detector — when one alarm sounds, all alarms in the house sound.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) ,  Dual smoke and carbon monoxide detector with 10-year sealed battery ,  no battery replacement needed for a decade.
+- **[Kidde Hardwired Smoke & CO Detector w/ Battery Backup](https://www.amazon.com/dp/B086S4Y9H5/?tag=contentportfo-20)** (~$40) ,  Hardwired interconnected smoke and CO detector ,  when one alarm sounds, all alarms in the house sound.
 

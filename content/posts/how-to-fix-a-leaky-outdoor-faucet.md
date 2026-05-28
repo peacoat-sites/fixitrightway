@@ -60,7 +60,7 @@ Photo by [Chris Bair](https://unsplash.com/@chrisbair?utm_source=seniorstrength&
 
 Now that the water is off, you are ready to take the faucet apart. This sounds intimidating, but it is really just a few simple steps.
 
-First, remove the handle. Look for a screw on the top or front of the handle — this is often hidden under a decorative cap that you can pop off with a flathead screwdriver. Remove the screw and pull the handle straight off.
+First, remove the handle. Look for a screw on the top or front of the handle ,  this is often hidden under a decorative cap that you can pop off with a flathead screwdriver. Remove the screw and pull the handle straight off.
 
 Next, locate the packing nut. This is a large hexagonal nut just behind where the handle sits. Use your adjustable wrench to turn it counterclockwise and remove it. Once the packing nut is off, you can pull out the entire stem assembly.
 
@@ -74,21 +74,21 @@ At the bottom of the stem, you will find a rubber washer held in place by a bras
 
 Remove the brass screw, take out the old washer, and bring it to the hardware store to find an exact match. A washer that is even slightly the wrong size will not seal correctly and the dripping will continue.
 
-While you’re at it, inspect the O-ring — a rubber ring that wraps around the stem itself. If it looks cracked, flattened, or worn, replace it at the same time. Apply a thin coat of plumber’s grease to both the new washer and O-ring before installing them to help them last longer.
+While you’re at it, inspect the O-ring ,  a rubber ring that wraps around the stem itself. If it looks cracked, flattened, or worn, replace it at the same time. Apply a thin coat of plumber’s grease to both the new washer and O-ring before installing them to help them last longer.
 
-  * Seat washer (flat rubber disc at the bottom of the stem) — most common cause of dripping
-  * O-ring (around the stem) — causes leaking around the handle
-  * Packing washer — causes leaking around the packing nut area
+  * Seat washer (flat rubber disc at the bottom of the stem) ,  most common cause of dripping
+  * O-ring (around the stem) ,  causes leaking around the handle
+  * Packing washer ,  causes leaking around the packing nut area
 
 ## Step 5: Reassemble and Test the Faucet
 
 Photo by [Zac Gudakov](https://unsplash.com/@zacgudakov?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-With the new washer and O-ring in place, it is time to put everything back together. Slide the stem back into the faucet body and hand-tighten the packing nut first, then use your wrench to snug it up — but do not overtighten. A good rule of thumb is “snug plus a quarter turn.”
+With the new washer and O-ring in place, it is time to put everything back together. Slide the stem back into the faucet body and hand-tighten the packing nut first, then use your wrench to snug it up ,  but do not overtighten. A good rule of thumb is “snug plus a quarter turn.”
 
 Reattach the handle and tighten the screw securely. Make sure the handle turns smoothly before moving on.
 
-Now, slowly turn the indoor shut-off valve back on — counterclockwise to open. Walk back outside and check the faucet carefully. Look for drips at the spout and any seeping around the handle or packing nut area.
+Now, slowly turn the indoor shut-off valve back on ,  counterclockwise to open. Walk back outside and check the faucet carefully. Look for drips at the spout and any seeping around the handle or packing nut area.
 
 If there is still slight seeping around the packing nut, try tightening it just a tiny bit more. If the spout is still dripping, double-check that the new washer is the right size and seated correctly.
 
@@ -96,7 +96,7 @@ If there is still slight seeping around the packing nut, try tightening it just 
 
 If you’ve replaced the washer and the faucet still drips, the valve seat inside the faucet body may be damaged. The valve seat is the surface the washer presses against to create a seal, and if it is pitted or corroded, even a perfect new washer won’t stop the leak.
 
-In this case, you have two options. You can use a seat wrench to remove and replace the valve seat, which requires a special tool available at most hardware stores. Or, if the faucet is quite old, this may be the right time to replace the entire faucet — a job that is still very manageable for a confident DIYer.
+In this case, you have two options. You can use a seat wrench to remove and replace the valve seat, which requires a special tool available at most hardware stores. Or, if the faucet is quite old, this may be the right time to replace the entire faucet ,  a job that is still very manageable for a confident DIYer.
 
 If you notice cracks in the faucet body itself or signs of significant corrosion, a full replacement is likely the best and most cost-effective path forward.
 
@@ -116,7 +116,7 @@ Absolutely. Even a faucet that drips just once per second can waste more than 3,
 
 ## You Can Do This
 
-A leaky outdoor faucet is no match for a homeowner who is willing to take it step by step. You now have everything you need — the tools, the knowledge, and the confidence — to tackle this repair on your own.
+A leaky outdoor faucet is no match for a homeowner who is willing to take it step by step. You now have everything you need ,  the tools, the knowledge, and the confidence ,  to tackle this repair on your own.
 
 Remember, every successful home repair builds your skills and your confidence for the next one. Take your time, follow the steps, and don’t hesitate to ask for help at your local hardware store if you’re unsure about any part. You’ve got this, and your wallet will thank you for it.
 
