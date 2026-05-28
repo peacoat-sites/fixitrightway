@@ -4,7 +4,7 @@ title = "Fix It Right Way"
 enableRobotsTXT = true
 
 [params]
-  page_bg = "#fdf9ef"
+  page_bg = "#fff7f4"
   nav_style = "light"
 logo_text_2 = "Right Way"
 logo_text_1 = "FixIt"
@@ -25,7 +25,7 @@ author = "Stephen Brenish"
   persona_bio        = "Self-taught home repair enthusiast who has tackled hundreds of DIY projects over 20 years of homeownership."
   persona_initials   = "DP"
   disclaimer         = "This content is for informational and educational purposes only. Always follow manufacturer instructions and local building codes. When in doubt, consult a licensed contractor."
-primary_color = "#b45309"
+primary_color = "#c2410c"
 hero_color_1 = "#0d0600"
 hero_color_2 = "#1a0c00"
 hero_color_3 = "#ea580c"
