@@ -1,4 +1,3 @@
-googleAnalytics = "G-HZR1152QB5"
 baseURL = "https://fixitrightway.com/"
 languageCode = "en-us"
 title = "Fix It Right Way"
@@ -44,3 +43,7 @@ hero_color_4 = "#080400"
 
 [permalinks]
   posts = "/:slug/"
+
+[services]
+  [services.googleAnalytics]
+    id = "G-HZR1152QB5"
