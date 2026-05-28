@@ -5,8 +5,11 @@ title = "Fix It Right Way"
 
 
 
+
 enableRobotsTXT = true
 enableEmoji = true
+
+disableHugoGeneratorInject = true
 
 [pagination]
   pagerSize = 12
