@@ -9,11 +9,11 @@ slug: "how-to-replace-a-bathtub-drain"
 affiliate_disclosure: true
 ---
 
-Your bathtub is draining slower and slower, or worse ,  water is pooling around your feet every time you shower. A worn-out or corroded drain can make bath time frustrating, and ignoring it only leads to bigger plumbing headaches down the road. The good news is that learning **how to replace a bathtub drain** is a manageable DIY project, even for seniors who may not consider themselves handy. With the right tools, a little patience, and this step-by-step guide, you can restore your tub to full working order safely and confidently.
+Your bathtub is draining slower and slower, or worse,  water is pooling around your feet every time you shower. A worn-out or corroded drain can make bath time frustrating, and ignoring it only leads to bigger plumbing headaches down the road. The good news is that learning **how to replace a bathtub drain** is a manageable DIY project, even for seniors who may not consider themselves handy. With the right tools, a little patience, and this step-by-step guide, you can restore your tub to full working order safely and confidently.
 
 ## Why Bathtub Drains Need Replacing
 
-Bathtub drains are exposed to soap scum, hair, hard water minerals, and moisture every single day. Over time, these elements cause the drain flange ,  the visible metal ring at the bottom of your tub ,  to corrode, crack, or simply stop sealing properly.
+Bathtub drains are exposed to soap scum, hair, hard water minerals, and moisture every single day. Over time, these elements cause the drain flange,  the visible metal ring at the bottom of your tub,  to corrode, crack, or simply stop sealing properly.
 
 A failing drain can cause water to leak beneath your tub, potentially damaging your subfloor or ceiling below. Replacing it promptly saves you from much costlier repairs later on.
 
@@ -31,7 +31,7 @@ Before you start, gather everything you need in one place. Having the right tool
 
 Here is what you will need for this project:
 
-  * **New bathtub drain kit** (available at any hardware store ,  check your drain size first, typically 1.5 inches)
+  * **New bathtub drain kit** (available at any hardware store,  check your drain size first, typically 1.5 inches)
   * **Drain removal tool or needle-nose pliers**
   * **Flathead screwdriver**
   * **Plumber ’s putty or silicone caulk**
@@ -50,7 +50,7 @@ Drain replacement kits are inexpensive, typically costing between $10 and $40 at
 
 Photo by [Zac Gudakov](https://unsplash.com/@zacgudakov?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Start by turning off the water supply to the bathtub ,  either at the individual shut-off valves behind the access panel or at the main house shut-off if needed. Even though you are working on the drain rather than the supply lines, it is good practice.
+Start by turning off the water supply to the bathtub,  either at the individual shut-off valves behind the access panel or at the main house shut-off if needed. Even though you are working on the drain rather than the supply lines, it is good practice.
 
 Place old towels around the base of the tub to protect your flooring and give yourself a comfortable kneeling area. Set a bucket nearby in case any trapped water spills out during the process.
 
@@ -77,7 +77,7 @@ Photo by [Zac Gudakov](https://unsplash.com/@zacgudakov?utm_source=seniorstrengt
 
 The drain flange is the threaded metal piece that screws into the drain pipe beneath your tub floor. This is the main component you are replacing.
 
-Insert your drain removal tool ,  sometimes called a drain key or drain wrench ,  into the drain opening. Position its prongs against the crossbars inside the drain opening, then turn it counterclockwise to unscrew the flange. If you do not have a drain removal tool, needle-nose pliers inserted into the crossbars will also work, though a proper drain tool gives you much better grip.
+Insert your drain removal tool,  sometimes called a drain key or drain wrench,  into the drain opening. Position its prongs against the crossbars inside the drain opening, then turn it counterclockwise to unscrew the flange. If you do not have a drain removal tool, needle-nose pliers inserted into the crossbars will also work, though a proper drain tool gives you much better grip.
 
 The old drain may be stuck due to years of plumber’s putty and corrosion. Apply gentle, steady pressure rather than forcing it. If it refuses to budge, try spraying a little penetrating oil around the rim and waiting 10 minutes before trying again.
 
@@ -85,9 +85,9 @@ Once the flange is out, use a putty knife or your gloved fingers to clean away a
 
 ## Step 4: Install the New Drain Flange
 
-Now comes the satisfying part ,  putting in your shiny new drain. Start by rolling a rope of plumber’s putty about the thickness of a pencil and pressing it around the underside lip of the new drain flange. If your new drain kit specifies silicone instead of putty (common with acrylic and fiberglass tubs), use that instead to avoid staining.
+Now comes the satisfying part,  putting in your shiny new drain. Start by rolling a rope of plumber’s putty about the thickness of a pencil and pressing it around the underside lip of the new drain flange. If your new drain kit specifies silicone instead of putty (common with acrylic and fiberglass tubs), use that instead to avoid staining.
 
-Thread the new drain flange into the drain opening by hand first, turning it clockwise. Once it is hand-tight, use your drain removal tool to tighten it further ,  snug and secure, but not so tight that you crack the tub surround. You should see a small bead of putty squeeze out around the rim, which is a good sign of a proper seal.
+Thread the new drain flange into the drain opening by hand first, turning it clockwise. Once it is hand-tight, use your drain removal tool to tighten it further,  snug and secure, but not so tight that you crack the tub surround. You should see a small bead of putty squeeze out around the rim, which is a good sign of a proper seal.
 
 Wipe away any excess putty with a damp rag for a clean finish. Allow silicone sealant to cure for the recommended time (usually 24 hours) before using the tub if that is what you used instead.
 
@@ -105,13 +105,13 @@ Test the stopper by filling a few inches of water and letting it sit for five mi
 
 While replacing a bathtub drain is well within the reach of most DIYers, there are situations where calling a licensed plumber is the wiser choice. If you notice water damage or soft spots on your subfloor around the tub, that suggests a longer-standing leak that needs professional assessment.
 
-Similarly, if the drain pipe itself appears cracked or corroded below the floor level, a plumber has the tools and expertise to address that safely. Do not hesitate to ask for help ,  knowing your limits is a sign of wisdom, not weakness.
+Similarly, if the drain pipe itself appears cracked or corroded below the floor level, a plumber has the tools and expertise to address that safely. Do not hesitate to ask for help,  knowing your limits is a sign of wisdom, not weakness.
 
 ## Frequently Asked Questions
 
 ### How long does it take to replace a bathtub drain?
 
-Most people complete a basic drain replacement in 30 to 60 minutes. If your old drain is heavily corroded or stuck, add some extra time for soaking with penetrating oil. First-timers may take a bit longer, and that is perfectly fine ,  there is no rush.
+Most people complete a basic drain replacement in 30 to 60 minutes. If your old drain is heavily corroded or stuck, add some extra time for soaking with penetrating oil. First-timers may take a bit longer, and that is perfectly fine,  there is no rush.
 
 ### Can I replace a bathtub drain without special tools?
 
@@ -125,6 +125,6 @@ It depends on your tub material. Plumber’s putty works well on cast iron and c
 
 Replacing a bathtub drain is a genuinely achievable home repair that can save you the cost of a plumber’s service call and give you a wonderful sense of accomplishment. Take your time with each step, keep safety front of mind, and do not be afraid to ask a neighbor or family member to lend a hand if you need it.
 
-Your bathroom deserves to work beautifully for you every day ,  and now, with a brand-new drain in place, it will. Here is to stress-free showers and a tub that drains perfectly every single time!
+Your bathroom deserves to work beautifully for you every day,  and now, with a brand-new drain in place, it will. Here is to stress-free showers and a tub that drains perfectly every single time!
 
 Photo by [Kelli McClintock](https://unsplash.com/@kelli_mcclintock?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)

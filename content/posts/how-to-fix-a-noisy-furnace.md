@@ -9,7 +9,7 @@ slug: "how-to-fix-a-noisy-furnace"
 affiliate_disclosure: true
 ---
 
-Your furnace is making strange banging, rattling, or squealing noises ,  and it’s driving you crazy. A noisy furnace fix is something many homeowners need, especially as heating systems age. The good news is that most furnace noises have simple causes and can be resolved without calling a technician. In this guide, we’ll walk you through exactly how to diagnose and fix a noisy furnace, step by step.
+Your furnace is making strange banging, rattling, or squealing noises,  and it’s driving you crazy. A noisy furnace fix is something many homeowners need, especially as heating systems age. The good news is that most furnace noises have simple causes and can be resolved without calling a technician. In this guide, we’ll walk you through exactly how to diagnose and fix a noisy furnace, step by step.
 
 ## Why Is My Furnace Making Noise?
 
@@ -47,7 +47,7 @@ Photo by [Tobias Rademacher](https://unsplash.com/@tobbes_rd?utm_source=seniorst
 
 A clogged air filter is one of the most common causes of furnace noise. When airflow is restricted, the blower motor works harder and the system can start rattling, humming, or whistling.
 
-Locate your filter ,  usually found near the return air duct or inside the furnace cabinet. Slide it out and hold it up to the light. If you can’t see light through it, it’s time for a replacement.
+Locate your filter,  usually found near the return air duct or inside the furnace cabinet. Slide it out and hold it up to the light. If you can’t see light through it, it’s time for a replacement.
 
   * Replace filters every 1 to 3 months for standard 1-inch filters
   * Thicker 4-inch filters can last up to 6 months
@@ -77,7 +77,7 @@ Turn off the furnace and locate the blower compartment, usually behind the lower
 
   * Look for small rubber caps or oil ports on the motor housing
   * Apply 2 to 3 drops of non-detergent motor oil or 3-in-1 oil to each port
-  * Do not over-lubricate ,  too much oil can damage the motor
+  * Do not over-lubricate,  too much oil can damage the motor
   * If the motor has sealed bearings, it cannot be lubricated and may need replacement
 
 After lubrication, reassemble the compartment, restore power, and run the furnace for 10 minutes to see if the squealing stops.
@@ -90,7 +90,7 @@ Open the blower compartment and examine the belt. A healthy belt should be smoot
 
   * Note the belt size printed on the old belt or check your furnace manual
   * Slip the new belt over the motor pulley first, then work it onto the blower pulley
-  * The belt should have about half an inch of give ,  not too tight, not too loose
+  * The belt should have about half an inch of give,  not too tight, not too loose
   * Belt replacements typically cost $5 to $15 at a hardware or HVAC supply store
 
 This is a straightforward repair that most homeowners can complete in under 30 minutes with basic tools.
@@ -99,7 +99,7 @@ This is a straightforward repair that most homeowners can complete in under 30 m
 
 Photo by [Yvette Garcia](https://unsplash.com/@ygarcia0518?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Two of the loudest furnace noises ,  booming at startup and banging ductwork ,  require different approaches but are both very fixable.
+Two of the loudest furnace noises,  booming at startup and banging ductwork,  require different approaches but are both very fixable.
 
 ### Fixing Banging Ductwork
 
@@ -111,11 +111,11 @@ When metal ducts expand and contract with temperature changes, they can make lou
 
 ### Fixing Delayed Ignition
 
-A loud boom at startup usually means gas is building up before igniting ,  a condition called delayed ignition. This is caused by dirty burners or a partially blocked igniter.
+A loud boom at startup usually means gas is building up before igniting,  a condition called delayed ignition. This is caused by dirty burners or a partially blocked igniter.
 
   * Turn off the gas and power before cleaning the burners
   * Use a vacuum to gently remove dust and debris from the burner ports
-  * If the problem persists after cleaning, contact a licensed HVAC technician ,  delayed ignition can damage the heat exchanger over time
+  * If the problem persists after cleaning, contact a licensed HVAC technician,  delayed ignition can damage the heat exchanger over time
 
 ## When to Call a Professional
 
@@ -133,11 +133,11 @@ An HVAC professional can also perform a complete tune-up to prevent future noise
 
 ### Is a noisy furnace dangerous?
 
-Most furnace noises ,  like rattling panels or a squeaky belt ,  are not immediately dangerous, but they should not be ignored. However, a loud banging at startup or the smell of gas can signal a serious hazard. When in doubt, turn off the system and call a professional right away.
+Most furnace noises,  like rattling panels or a squeaky belt,  are not immediately dangerous, but they should not be ignored. However, a loud banging at startup or the smell of gas can signal a serious hazard. When in doubt, turn off the system and call a professional right away.
 
 ### How much does a noisy furnace fix typically cost?
 
-DIY fixes like replacing a filter, tightening screws, or lubricating the motor cost very little ,  usually under $30 in parts. Professional repairs for issues like ignition problems or motor replacement can range from $150 to $600 depending on the component and your location.
+DIY fixes like replacing a filter, tightening screws, or lubricating the motor cost very little,  usually under $30 in parts. Professional repairs for issues like ignition problems or motor replacement can range from $150 to $600 depending on the component and your location.
 
 ### How can I prevent my furnace from becoming noisy in the future?
 
@@ -147,7 +147,7 @@ The best prevention is regular maintenance. Change your filter every one to thre
 
 A noisy furnace doesn’t have to mean a big repair bill or a cold night without heat. With a little patience and the right tools, most common noise issues are well within reach for a capable homeowner.
 
-Start with the simple fixes ,  a new filter, tightened panels, and a drop of lubricating oil ,  and work your way through the steps. You’ll likely find the source of the noise before you reach the more advanced repairs.
+Start with the simple fixes,  a new filter, tightened panels, and a drop of lubricating oil,  and work your way through the steps. You’ll likely find the source of the noise before you reach the more advanced repairs.
 
 Your home should be a quiet, warm refuge. Take action today, and enjoy the peaceful hum of a furnace that’s working exactly the way it should.
 

@@ -9,7 +9,7 @@ slug: "how-to-install-window-trim"
 affiliate_disclosure: true
 ---
 
-Your windows look drafty, unfinished, or just plain bare ,  and you know something is missing. Learning **how to install window trim** is one of the most rewarding home improvement projects you can tackle, because the results are immediately visible and beautiful. Whether you are updating an older home or finishing a new window installation, adding trim transforms a plain opening into a polished, professional-looking feature.
+Your windows look drafty, unfinished, or just plain bare,  and you know something is missing. Learning **how to install window trim** is one of the most rewarding home improvement projects you can tackle, because the results are immediately visible and beautiful. Whether you are updating an older home or finishing a new window installation, adding trim transforms a plain opening into a polished, professional-looking feature.
 
 The good news is that this project is very manageable, even if you have never done carpentry work before. With the right tools, a little patience, and this step-by-step guide, you will be amazed at what you can accomplish on your own.
 
@@ -30,20 +30,20 @@ Before you get started, gather everything you need so you are not running back a
 
 Here is a complete list of what to have on hand:
 
-  * **Measuring tape** ,  for accurate measurements
-  * **Miter saw or miter box with hand saw** ,  for angled cuts
-  * **Nail gun or hammer and finish nails** ,  2-inch finish nails work well
-  * **Pry bar** ,  to remove old trim if needed
-  * **Wood putty or spackling compound** ,  to fill nail holes
-  * **Sandpaper (fine grit)** ,  to smooth filled areas
-  * **Caulk and caulk gun** ,  to seal gaps
-  * **Pencil** ,  for marking cut lines
-  * **Level** ,  to keep trim straight
-  * **Paint or primer** ,  to finish the trim
-  * **Window trim molding** ,  measure your windows before buying
+  * **Measuring tape**,  for accurate measurements
+  * **Miter saw or miter box with hand saw**,  for angled cuts
+  * **Nail gun or hammer and finish nails**,  2-inch finish nails work well
+  * **Pry bar**,  to remove old trim if needed
+  * **Wood putty or spackling compound**,  to fill nail holes
+  * **Sandpaper (fine grit)**,  to smooth filled areas
+  * **Caulk and caulk gun**,  to seal gaps
+  * **Pencil**,  for marking cut lines
+  * **Level**,  to keep trim straight
+  * **Paint or primer**,  to finish the trim
+  * **Window trim molding**,  measure your windows before buying
   * **Safety glasses and work gloves**
 
-Most of these items are available at any hardware or home improvement store. Buy about 10 to 15 percent more trim material than you think you need ,  mistakes happen, and it is always better to have extra.
+Most of these items are available at any hardware or home improvement store. Buy about 10 to 15 percent more trim material than you think you need,  mistakes happen, and it is always better to have extra.
 
 **Pro Tip:** When choosing your trim style, bring a photo of your room’s existing woodwork to the hardware store. Matching the profile of your door casings and baseboards creates a cohesive, designer look throughout your home without any extra effort.
 
@@ -92,7 +92,7 @@ Once both side pieces are nailed in place, measure the distance between them alo
 
 If you are using mitered corners, both ends of the top piece will be cut at 45-degree angles that mirror the angles on the top of your side pieces. Test the fit before nailing to make sure the corners come together snugly.
 
-  * Measure twice and cut once ,  this old saying really applies here
+  * Measure twice and cut once,  this old saying really applies here
   * Use a scrap piece of trim to test your miter angles before cutting your good piece
   * Apply a small amount of wood glue to the mitered joints before nailing for extra strength
   * Nail the top piece into the window frame and wall
@@ -108,7 +108,7 @@ Start by filling all nail holes with wood putty. Let it dry, then sand smooth wi
   * Apply a thin bead of paintable caulk along the seam where the trim meets the wall
   * Smooth the caulk with a damp finger or caulk tool
   * Also caulk along the inside edge where the trim meets the window frame
-  * Allow everything to dry completely ,  usually 24 hours
+  * Allow everything to dry completely,  usually 24 hours
   * Apply a coat of primer followed by two coats of paint in your chosen color
   * Use a small angled brush for clean, neat paint lines
 
@@ -134,4 +134,4 @@ Installing window trim is a project that delivers an impressive payoff for a mod
 
 Take your time with each step, do not rush the finishing work, and be proud of every nail you drive. Home improvement skills like this one keep you independent, save you money, and give you real satisfaction every time you walk past a window you trimmed yourself.
 
-You have got this ,  one measurement, one cut, and one beautiful window at a time.
+You have got this,  one measurement, one cut, and one beautiful window at a time.

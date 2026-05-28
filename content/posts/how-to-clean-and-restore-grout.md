@@ -36,7 +36,7 @@ Before you begin, gather everything you need so you’re not making multiple tri
   * Grout sealer (for the finishing step)
   * Kneeling pad or foam mat for comfort
 
-Most of these items are already in your home or are inexpensive to pick up at any hardware or grocery store. A kneeling pad is especially worth the small investment ,  your knees will thank you later!
+Most of these items are already in your home or are inexpensive to pick up at any hardware or grocery store. A kneeling pad is especially worth the small investment,  your knees will thank you later!
 
 ## Step 1: Sweep and Prepare the Area
 
@@ -46,7 +46,7 @@ Start by thoroughly sweeping or vacuuming the entire tiled area. You want to rem
 
 Next, fill your bucket with warm water and do a basic mop or wipe-down of the tiles. This softens surface grime and prepares the grout lines for deeper cleaning. Let the floor dry for about five minutes before moving on.
 
-Good preparation makes every step that follows more effective. Don’t skip this part ,  cleaning over dry, loose debris just pushes the dirt around rather than removing it.
+Good preparation makes every step that follows more effective. Don’t skip this part,  cleaning over dry, loose debris just pushes the dirt around rather than removing it.
 
 **Pro Tip:** Work in small sections of about two to three square feet at a time. This keeps your cleaning solution from drying out before you scrub it, and it makes the job feel much more manageable rather than overwhelming.
 
@@ -134,6 +134,6 @@ For bathroom and kitchen floors, a thorough grout cleaning every three to six mo
 
 Cleaning and restoring grout is one of those home tasks that delivers a truly satisfying result. With the right tools, a little patience, and the simple steps outlined above, you can transform tired, dingy tile floors and walls into something you’re genuinely proud of.
 
-Take your time, work in sections, and don’t forget to seal when you’re done. Your floors have a long, clean life ahead of them ,  and so do you. Happy cleaning!
+Take your time, work in sections, and don’t forget to seal when you’re done. Your floors have a long, clean life ahead of them,  and so do you. Happy cleaning!
 
 Photo by [Bailey Alexander](https://unsplash.com/@baileyal3xander?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)

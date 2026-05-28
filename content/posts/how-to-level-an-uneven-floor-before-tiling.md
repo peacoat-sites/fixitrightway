@@ -9,7 +9,7 @@ slug: "how-to-level-an-uneven-floor-before-tiling"
 affiliate_disclosure: true
 ---
 
-Your floor looks uneven, your tiles keep cracking, and every time you walk across the room you can feel the dips and bumps beneath your feet. Sound familiar? Before you can lay a beautiful, lasting tile floor, you need to tackle **uneven floor leveling** ,  and the good news is that with the right materials and a little patience, this is a project most homeowners can handle themselves.
+Your floor looks uneven, your tiles keep cracking, and every time you walk across the room you can feel the dips and bumps beneath your feet. Sound familiar? Before you can lay a beautiful, lasting tile floor, you need to tackle **uneven floor leveling**,  and the good news is that with the right materials and a little patience, this is a project most homeowners can handle themselves.
 
 Skipping this step is one of the most common tiling mistakes people make. An uneven subfloor leads to cracked grout, broken tiles, and costly repairs down the road. In this guide, we’ll walk you through exactly how to level an uneven floor before tiling, step by step.
 
@@ -44,7 +44,7 @@ Most of these items are available at your local home improvement store. Self-lev
 
 Photo by [Kari Shea](https://unsplash.com/@karishea?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Start by thoroughly inspecting your floor to understand exactly what you are working with. Use a long straightedge or level and drag it slowly across the entire floor in multiple directions ,  north to south, east to west, and diagonally.
+Start by thoroughly inspecting your floor to understand exactly what you are working with. Use a long straightedge or level and drag it slowly across the entire floor in multiple directions,  north to south, east to west, and diagonally.
 
 Wherever you see daylight under the straightedge, that is a low spot. Mark every low area with a pencil or painter’s tape. Also note any high spots, which are areas where the straightedge rocks.
 
@@ -73,13 +73,13 @@ Photo by [Scott Jacobsen](https://unsplash.com/@scottdouglasjacobsen?utm_source=
 
 Most self-leveling compounds require a primer or bonding agent to be applied to the subfloor before pouring. This step dramatically improves adhesion and prevents the leveler from drying too quickly, which can cause cracking or weak spots.
 
-Using a paint roller or brush, apply the primer evenly across the entire area you plan to level. Pay extra attention to the edges and around any patched areas. Let the primer dry according to the manufacturer’s instructions ,  usually 30 to 60 minutes.
+Using a paint roller or brush, apply the primer evenly across the entire area you plan to level. Pay extra attention to the edges and around any patched areas. Let the primer dry according to the manufacturer’s instructions,  usually 30 to 60 minutes.
 
 Do not skip this step. It is the single most overlooked part of the leveling process and a leading cause of leveler failures when DIYers try to rush the job.
 
 ## Step 4: Mix and Pour the Self-Leveling Compound
 
-Now comes the most time-sensitive part of the project. Self-leveling compound begins to set quickly ,  often within 15 to 30 minutes ,  so you need to work with purpose and focus.
+Now comes the most time-sensitive part of the project. Self-leveling compound begins to set quickly,  often within 15 to 30 minutes,  so you need to work with purpose and focus.
 
 Follow the mixing instructions on your specific product carefully. In general:
 
@@ -97,7 +97,7 @@ If you are leveling a large room, consider having a helper to mix a second batch
 
 Photo by [Possessed Photography](https://unsplash.com/@possessedphotography?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Once the compound is poured and spread, leave it alone. Resist the urge to walk on it or test it too early. Most products are dry enough to walk on in **4–6 hours** , but you should wait a full **24 hours** before tiling ,  and always check the manufacturer’s recommended cure time.
+Once the compound is poured and spread, leave it alone. Resist the urge to walk on it or test it too early. Most products are dry enough to walk on in **4–6 hours**, but you should wait a full **24 hours** before tiling,  and always check the manufacturer’s recommended cure time.
 
 After the leveler has fully cured, drag your straightedge across the surface again. The floor should now be flat and smooth. If you notice any small ridges at the edges of your pour, lightly sand them down with a hand sander.
 
@@ -105,7 +105,7 @@ After the leveler has fully cured, drag your straightedge across the surface aga
   * For large-format tiles (12 inches or larger), aim for **less than 1/8 inch over 10 feet**
   * If deeper areas remain low, a second pour may be needed after full cure of the first
 
-Once you confirm the floor is level, you are ready to start laying your tile. Congratulations ,  the hardest part is behind you!
+Once you confirm the floor is level, you are ready to start laying your tile. Congratulations,  the hardest part is behind you!
 
 ## Frequently Asked Questions
 
@@ -119,12 +119,12 @@ Yes, you can use self-leveling compound on plywood or OSB subfloors, but prepara
 
 ### How long does self-leveling compound last under tile?
 
-When properly applied over a stable subfloor, self-leveling compound can last for many years ,  easily **10 to 20 years or more** ,  without any issues. The key factors are thorough surface preparation, proper priming, correct mixing, and adequate cure time before tiling. Cutting corners on any of these steps can shorten its lifespan significantly.
+When properly applied over a stable subfloor, self-leveling compound can last for many years,  easily **10 to 20 years or more**,  without any issues. The key factors are thorough surface preparation, proper priming, correct mixing, and adequate cure time before tiling. Cutting corners on any of these steps can shorten its lifespan significantly.
 
 ## You Are Ready to Tile With Confidence
 
 Uneven floor leveling might feel like an intimidating extra step, but it is truly the foundation of a tile job you will be proud of for years to come. By taking the time to assess, prepare, prime, pour, and cure properly, you eliminate the number one cause of tile failures before they ever happen.
 
-Take your time, follow each step carefully, and do not rush the drying process. Your tiles ,  and your future self ,  will thank you for the extra effort. Now go ahead and create that beautiful, lasting floor you have been dreaming about!
+Take your time, follow each step carefully, and do not rush the drying process. Your tiles,  and your future self,  will thank you for the extra effort. Now go ahead and create that beautiful, lasting floor you have been dreaming about!
 
 Photo by [Ronnie George](https://unsplash.com/@realestateron?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)

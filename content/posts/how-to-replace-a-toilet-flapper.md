@@ -9,13 +9,13 @@ slug: "how-to-replace-a-toilet-flapper"
 affiliate_disclosure: true
 ---
 
-Your toilet keeps running long after you flush, driving up your water bill and making that endless hissing sound day and night. The good news? You almost certainly don’t need a plumber. Learning **how to replace a toilet flapper** is one of the easiest home repairs anyone can do ,  including seniors who may not have much DIY experience. With the right guidance, most people can finish this fix in under 30 minutes.
+Your toilet keeps running long after you flush, driving up your water bill and making that endless hissing sound day and night. The good news? You almost certainly don’t need a plumber. Learning **how to replace a toilet flapper** is one of the easiest home repairs anyone can do,  including seniors who may not have much DIY experience. With the right guidance, most people can finish this fix in under 30 minutes.
 
 ## What Is a Toilet Flapper and Why Does It Matter?
 
 The flapper is a small rubber seal at the bottom of your toilet tank. It lifts when you flush to let water flow into the bowl, then drops back down to seal the tank so it can refill.
 
-Over time, rubber flappers wear out, warp, or get coated with mineral deposits. When that happens, water slowly leaks from the tank into the bowl ,  a problem called a “phantom flush” or a constantly running toilet.
+Over time, rubber flappers wear out, warp, or get coated with mineral deposits. When that happens, water slowly leaks from the tank into the bowl,  a problem called a “phantom flush” or a constantly running toilet.
 
 A faulty flapper can waste up to 200 gallons of water per day. Replacing it promptly saves money, conserves water, and restores peace and quiet to your home.
 
@@ -23,7 +23,7 @@ A faulty flapper can waste up to 200 gallons of water per day. Replacing it prom
 
 Before you begin, gather everything you need so you won’t have to search mid-repair. All of these items are available at any hardware or home improvement store for a very reasonable cost.
 
-  * Replacement toilet flapper (universal fit or brand-specific ,  see tips below)
+  * Replacement toilet flapper (universal fit or brand-specific,  see tips below)
   * A pair of rubber gloves
   * A towel or small bucket
   * White vinegar (optional, for cleaning)
@@ -40,7 +40,7 @@ Photo by [Centre for Ageing Better](https://unsplash.com/@ageing_better?utm_sour
 
 Look behind your toilet near the floor or wall. You will see a small oval or football-shaped valve connected to a thin pipe. This is your shut-off valve.
 
-Turn it clockwise (to the right) until it stops. It should not take much force. If the valve feels stiff and hard to turn, do not force it ,  call a plumber to replace the valve first.
+Turn it clockwise (to the right) until it stops. It should not take much force. If the valve feels stiff and hard to turn, do not force it,  call a plumber to replace the valve first.
 
 **⚠️ Safety:** Never attempt to force a stuck or corroded shut-off valve. Forcing it can break the valve and cause a serious water leak. If the valve won’t budge with gentle pressure, stop and contact a licensed plumber before continuing.
 
@@ -58,7 +58,7 @@ Take a moment to notice how everything is connected. A quick photo with your pho
 
 Photo by [Joshua Bartell](https://unsplash.com/@jjbart7?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Start by unhooking the chain from the flush handle arm. The chain usually clips onto a small hole in the arm ,  just slide or pop the clip free.
+Start by unhooking the chain from the flush handle arm. The chain usually clips onto a small hole in the arm,  just slide or pop the clip free.
 
 Next, remove the flapper itself from the overflow tube. Most flappers have two small rubber “ears” or loops on each side that hook around two pegs on the base of the overflow tube. Gently pull each ear sideways and lift the flapper off.
 
@@ -116,6 +116,6 @@ Replacing a toilet flapper is one of the most satisfying home repairs you can do
 
 You do not need any special tools, strength, or plumbing experience. If you can follow simple steps and stay patient, you absolutely can do this. Thousands of seniors complete this repair every day, and now you can too.
 
-Give yourself credit for taking on this fix ,  your wallet, your water bill, and your peace of mind will all thank you for it!
+Give yourself credit for taking on this fix,  your wallet, your water bill, and your peace of mind will all thank you for it!
 
 Photo by [Steven Ungermann](https://unsplash.com/@steveungermann?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)

@@ -9,11 +9,11 @@ slug: "how-to-sharpen-drill-bits"
 affiliate_disclosure: true
 ---
 
-Your drill bit keeps slipping, skipping, or burning through wood instead of cutting cleanly. Sound familiar? A dull drill bit is one of the most frustrating tool problems in any workshop ,  and most people simply throw the bit away and buy a new one. But learning **how to sharpen drill bits** can save you money, reduce waste, and keep your projects running smoothly. The good news is that sharpening drill bits is easier than you might think, even if you have never done it before.
+Your drill bit keeps slipping, skipping, or burning through wood instead of cutting cleanly. Sound familiar? A dull drill bit is one of the most frustrating tool problems in any workshop,  and most people simply throw the bit away and buy a new one. But learning **how to sharpen drill bits** can save you money, reduce waste, and keep your projects running smoothly. The good news is that sharpening drill bits is easier than you might think, even if you have never done it before.
 
-## Why Drill Bits Go Dull ,  And Why It Matters
+## Why Drill Bits Go Dull,  And Why It Matters
 
-Drill bits lose their edge every time they cut through material. Heat, friction, and hard surfaces like concrete or hardened steel wear down the cutting edges over time. A dull bit does not just slow you down ,  it also creates dangerous situations.
+Drill bits lose their edge every time they cut through material. Heat, friction, and hard surfaces like concrete or hardened steel wear down the cutting edges over time. A dull bit does not just slow you down,  it also creates dangerous situations.
 
 When a bit is dull, you press harder to compensate. That extra pressure can cause the drill to slip, sending the bit across your workpiece or into your hand. Keeping bits sharp is a simple safety habit that every workshop owner should practice.
 
@@ -49,7 +49,7 @@ Check that the two cutting lips are equal in length. Uneven lips cause the bit t
 
 ## Step 2: Set Up Your Grinder Safely
 
-Position your bench grinder on a stable surface at a comfortable working height. Make sure the tool rest ,  the small metal platform in front of the grinding wheel ,  is adjusted to within about one-eighth of an inch from the wheel.
+Position your bench grinder on a stable surface at a comfortable working height. Make sure the tool rest,  the small metal platform in front of the grinding wheel,  is adjusted to within about one-eighth of an inch from the wheel.
 
 Turn the grinder on and let it reach full speed before you bring the drill bit near the wheel. Never start grinding while the wheel is still spinning up to speed, as this can cause uneven contact and damage the bit.
 
@@ -59,15 +59,15 @@ Turn the grinder on and let it reach full speed before you bring the drill bit n
 
 Photo by [Edo](https://unsplash.com/@photosbyedoardo?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Hold the drill bit firmly between your thumb and forefinger. Position the cutting lip flat against the grinding wheel at approximately a 60-degree angle to the face of the wheel ,  this recreates the original point angle of the bit.
+Hold the drill bit firmly between your thumb and forefinger. Position the cutting lip flat against the grinding wheel at approximately a 60-degree angle to the face of the wheel,  this recreates the original point angle of the bit.
 
 Gently push the bit into the wheel while simultaneously rotating the shank slightly downward. This motion grinds the relief angle behind the cutting edge, which is what allows the bit to cut rather than just scrape. Use light, even pressure and keep the motion smooth.
 
-Hold each pass to just two or three seconds at a time. After each pass, dip the bit in your container of cool water to prevent overheating. If a drill bit turns blue or purple, the steel has been overheated and the temper has been lost ,  meaning the bit will dull very quickly in use.
+Hold each pass to just two or three seconds at a time. After each pass, dip the bit in your container of cool water to prevent overheating. If a drill bit turns blue or purple, the steel has been overheated and the temper has been lost,  meaning the bit will dull very quickly in use.
 
 ## Step 4: Grind the Second Cutting Edge
 
-Rotate the drill bit exactly 180 degrees and repeat the same grinding motion on the opposite cutting edge. Consistency is the key here ,  try to match the angle, pressure, and duration of your passes as closely as possible.
+Rotate the drill bit exactly 180 degrees and repeat the same grinding motion on the opposite cutting edge. Consistency is the key here,  try to match the angle, pressure, and duration of your passes as closely as possible.
 
 After every two or three passes, hold the bit up to the light and compare both cutting edges. They should be equal in length and meet at a sharp, centered point. Use the marker trick described in the Pro Tip box above to track your progress visually.
 
@@ -85,7 +85,7 @@ You can also test the bit in your drill at a slow speed on scrap material. It sh
 
 ## How to Sharpen Drill Bits by Hand With a File
 
-If you do not have a bench grinder, a diamond file or a small metal file can sharpen bits effectively ,  it just takes a little more time and patience. This method works especially well for larger bits or for small touch-ups between major sharpenings.
+If you do not have a bench grinder, a diamond file or a small metal file can sharpen bits effectively,  it just takes a little more time and patience. This method works especially well for larger bits or for small touch-ups between major sharpenings.
 
 Secure the drill bit in a vise or clamp so both hands are free. Hold the file at the same approximate 60-degree angle to the cutting edge and push the file forward across the edge in smooth, even strokes. Count your strokes on each side and match them evenly.
 
@@ -119,7 +119,7 @@ Most general-purpose twist drill bits are sharpened to a 118-degree included ang
 
 If you are unsure of the original angle, you can buy inexpensive drill bit angle gauges at most hardware stores. These small tools take the guesswork out of matching the correct geometry when sharpening.
 
-## You Have Got This ,  Keep Your Tools Sharp and Your Projects Moving
+## You Have Got This,  Keep Your Tools Sharp and Your Projects Moving
 
 Learning how to sharpen drill bits is one of those satisfying workshop skills that pays you back every single time you use it. With a little practice, the process becomes quick and almost automatic. Your projects will go more smoothly, your bits will last longer, and you will feel the quiet confidence that comes from knowing how to care for your tools properly.
 

@@ -59,7 +59,7 @@ Cut one piece of film per window rather than trying to work from a large roll di
 
 Photo by [Griffin Taylor](https://unsplash.com/@thejollyllama?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Start by misting your clean window generously with the soapy water solution ,  this is called the slip solution, and it allows you to reposition the film while it goes on. The window should look wet and slightly soapy before you begin.
+Start by misting your clean window generously with the soapy water solution,  this is called the slip solution, and it allows you to reposition the film while it goes on. The window should look wet and slightly soapy before you begin.
 
 Peel back a corner of the protective liner from your cut film piece. As you peel, spray the adhesive side of the film with your slip solution immediately to prevent it from sticking to itself. Peel the liner away in one smooth motion while keeping the film misted.
 
@@ -77,7 +77,7 @@ Once the film is smooth and secure, use your utility knife or scissors to trim a
 
 Photo by [Anna Stampfli](https://unsplash.com/@annastampfli?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-After application, small water bubbles may still be visible under the film. Do not panic ,  this is completely normal and expected. The water needs time to evaporate through the film before it disappears.
+After application, small water bubbles may still be visible under the film. Do not panic,  this is completely normal and expected. The water needs time to evaporate through the film before it disappears.
 
 Most residential window films require between three and seven days to fully cure, depending on the temperature and humidity in your home. Avoid touching, cleaning, or pressing on the film during this period.
 
