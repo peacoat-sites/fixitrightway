@@ -4,6 +4,8 @@ title = "Fix It Right Way"
 enableRobotsTXT = true
 
 [params]
+  page_bg = "#fdf9ef"
+  nav_style = "light"
 logo_text_2 = "Right Way"
 logo_text_1 = "FixIt"
 author = "Stephen Brenish"
