@@ -9,6 +9,7 @@ title = "Fix It Right Way"
 
 disableHugoGeneratorInject = true
 
+
 enableRobotsTXT = true
 enableEmoji = true
 
