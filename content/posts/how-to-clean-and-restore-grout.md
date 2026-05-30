@@ -1,6 +1,6 @@
 ---
 title: "How to clean and restore grout"
-date: 2026-05-18T12:27:33+00:00
+date: 2026-05-19T09:26:20.181369+00:00
 draft: false
 description: "Learn how to clean grout step by step with this easy, senior-friendly guide. Discover the best DIY cleaning solutions, tools, and tips to restore tile grout"
 image: "https://images.pexels.com/photos/31501005/pexels-photo-31501005.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "How to install a deadbolt lock"
-date: 2026-05-17T22:50:14+00:00
+date: 2026-05-20T21:42:56.098210+00:00
 draft: false
 description: "Learn how to install a deadbolt step by step with this beginner-friendly guide. Includes tools list, drilling tips, strike plate installation, and a helpful"
 image: "https://images.pexels.com/photos/6732547/pexels-photo-6732547.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "How to read a measuring tape correctly"
-date: 2026-05-21T12:11:14+00:00
+date: 2026-05-22T21:27:47.711404+00:00
 draft: false
 description: "Learn how to read measuring tape easily with this senior-friendly step-by-step guide. Understand inch fractions, metric markings, color codes, and tips for s"
 image: "https://images.pexels.com/photos/31251948/pexels-photo-31251948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

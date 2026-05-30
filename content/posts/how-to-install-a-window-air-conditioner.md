@@ -1,6 +1,6 @@
 ---
 title: "How to install a window air conditioner"
-date: 2026-05-19T11:58:36+00:00
+date: 2026-05-22T20:42:15.267134+00:00
 draft: false
 description: "Learn how to install window AC units safely and correctly with this step-by-step guide designed for seniors. Includes tools list, installation tips, and expe"
 image: "https://images.pexels.com/photos/7937305/pexels-photo-7937305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "How to replace a light switch safely"
-date: 2026-05-17T22:39:15+00:00
+date: 2026-05-20T09:26:36.431468+00:00
 draft: false
 description: "Learn how to replace a light switch safely with this step-by-step guide written for seniors. Includes tools list, wiring tips, safety warnings, and FAQs."
 image: "https://images.pexels.com/photos/35290682/pexels-photo-35290682.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

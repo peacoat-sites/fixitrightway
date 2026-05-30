@@ -1,6 +1,6 @@
 ---
 title: "How to paint over wallpaper"
-date: 2026-05-18T12:28:34+00:00
+date: 2026-05-24T02:34:42.396366+00:00
 draft: false
 description: "Learn how to paint over wallpaper with this step-by-step guide. Discover the right primer, tools, and techniques to get a smooth, professional finish without"
 image: "https://images.pexels.com/photos/31944364/pexels-photo-31944364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

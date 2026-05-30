@@ -1,6 +1,6 @@
 ---
 title: "How to replace window weatherstripping"
-date: 2026-05-18T12:25:15+00:00
+date: 2026-05-23T15:49:46.612537+00:00
 draft: false
 description: "Learn how to replace window weatherstripping step by step with this beginner-friendly guide. Save energy, stop drafts, and improve home comfort with simple D"
 image: "https://images.pexels.com/photos/6787114/pexels-photo-6787114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

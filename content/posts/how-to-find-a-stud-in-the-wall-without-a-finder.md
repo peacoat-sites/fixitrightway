@@ -1,6 +1,6 @@
 ---
 title: "How to find a stud in the wall without a finder"
-date: 2026-05-17T22:42:54+00:00
+date: 2026-05-26T16:20:13.680263+00:00
 draft: false
 description: "Learn how to find a stud in the wall without a stud finder using simple methods like magnets, raking light, and measuring. Safe, easy techniques perfect for"
 image: "https://images.pexels.com/photos/7692885/pexels-photo-7692885.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

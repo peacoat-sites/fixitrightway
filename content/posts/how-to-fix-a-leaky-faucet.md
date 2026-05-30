@@ -1,9 +1,9 @@
 ---
 title: "How To Fix A Leaky Faucet"
-date: 2026-05-30T00:32:58.877933+00:00
+date: 2026-05-25T15:18:36.683684+00:00
 draft: false
 description: "Learn how to fix a leaky faucet with our simple step-by-step guide. Save water, cut costs, and stop that drip today with basic tools and no plumber needed."
-image: ""
+image: "https://images.pexels.com/photos/36787115/pexels-photo-36787115.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Plumbing"]
 tags: ["leaky", "faucet"]
 author: "Dana Hargrove"
