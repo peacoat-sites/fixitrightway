@@ -118,3 +118,13 @@ A settlement is a negotiated agreement reached before or during trial. A verdict
 ---
 
 The adjuster who called you within 48 hours wasn't doing you a favor. They were trying to close your file cheaply, before you understood your own situation. You're in a better position now than you were at the start of this article. Know your injury category, document everything obsessively, don't sign anything until you've reached MMI, and get a free consultation with a personal injury attorney before you make any decisions. That consultation costs you nothing and could be worth more than you think.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+

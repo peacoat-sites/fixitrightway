@@ -120,3 +120,13 @@ The overwhelming majority of slip and fall cases settle without trial. Filing a 
 ---
 
 You're dealing with something that feels both urgent and overwhelming right now, especially if your injuries are affecting your daily life and the bills are piling up. The most important thing you can do is move carefully, document everything, and get professional advice before making any decisions. A free consultation with a personal injury attorney costs you nothing and gives you a much clearer picture of what your specific situation is actually worth. Don't let a fast, friendly call from an insurance adjuster rush you into a decision that closes the door on fair compensation.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+
