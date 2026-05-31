@@ -124,3 +124,12 @@ Delayed onset of symptoms is medically well-recognized, particularly for soft ti
 ---
 
 The moments after a car accident are disorienting and nobody plans for them. But the decisions you make in those first 72 hours, whether you get checked out medically, how well you document the scene, how you communicate with insurers, have a disproportionate effect on everything that comes after. Treat it like a contractor situation I deal with all the time: the people who come out ahead aren't necessarily the ones who got the best luck. They're the ones who took the right steps in the right order before the window closed.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
+
