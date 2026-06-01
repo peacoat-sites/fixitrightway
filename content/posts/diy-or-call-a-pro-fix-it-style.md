@@ -1,4 +1,5 @@
 ---
+quiz_page: true
 title: "DIY or Call a Pro? Find Your Fix-It Style (7-Question Quiz)"
 description: "Take this fun 7-question quiz to discover whether you're a confident DIYer or better off calling a pro for home repairs. Know your fix-it style in 2 minutes."
 slug: "diy-or-call-a-pro-fix-it-style"
