@@ -113,3 +113,12 @@ Your claim still exists. Liability still flows from the driver's negligence rega
 ---
 
 If you're in the middle of this right now, the most important thing I can tell you is to slow down before making any decisions. Get your medical care, protect your documentation, and talk to a personal injury attorney before you talk to the insurance company. Most attorneys offer free initial consultations, and that one conversation can completely change how you understand your options. You've already been through something serious. Make sure the decisions you make next actually reflect what you've lost and what you'll still need to recover.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
+
