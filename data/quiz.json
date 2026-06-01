@@ -1,0 +1,149 @@
+{
+  "title": "DIY or Call a Pro? Find Your Fix-It Style",
+  "intro": "Answer 7 quick questions to see whether you're wired to tackle home repairs yourself or to hand them off to a pro. This is for fun and general guidance, not a safety certification.",
+  "disclaimer": "This quiz is just for fun and general guidance, not a substitute for good judgment. Know your limits: certain jobs, especially anything involving gas lines, major electrical work, structural changes, or permits, should always go to a licensed, insured professional. When in doubt, call a pro.",
+  "questions": [
+    {
+      "q": "A cabinet door starts hanging crooked. Your first reaction?",
+      "options": [
+        {
+          "t": "Grab a screwdriver and adjust the hinge myself",
+          "s": 3
+        },
+        {
+          "t": "Watch a quick video, then maybe try it",
+          "s": 1
+        },
+        {
+          "t": "Add it to the list for the next handyman visit",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you feel about owning and using tools?",
+      "options": [
+        {
+          "t": "I've got a kit I actually know how to use",
+          "s": 3
+        },
+        {
+          "t": "I own the basics but reach for them rarely",
+          "s": 1
+        },
+        {
+          "t": "A hammer and a hopeful attitude, that's about it",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "When something breaks, what motivates you most?",
+      "options": [
+        {
+          "t": "Saving money and the satisfaction of doing it myself",
+          "s": 3
+        },
+        {
+          "t": "Getting it fixed, by whichever path is easiest",
+          "s": 1
+        },
+        {
+          "t": "Just making the problem disappear quickly",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How's your patience with a project that fights back?",
+      "options": [
+        {
+          "t": "I'll troubleshoot for hours until I crack it",
+          "s": 3
+        },
+        {
+          "t": "I'll give it a couple tries, then reassess",
+          "s": 1
+        },
+        {
+          "t": "Frustration hits fast; I'd rather not",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you spend a free Saturday at home?",
+      "options": [
+        {
+          "t": "Knocking out a project on the to-do list",
+          "s": 3
+        },
+        {
+          "t": "A small task if the mood strikes",
+          "s": 1
+        },
+        {
+          "t": "Relaxing; chores can wait for someone else",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How comfortable are you learning a new skill from scratch?",
+      "options": [
+        {
+          "t": "Love it, give me a tutorial and I'm off",
+          "s": 3
+        },
+        {
+          "t": "Okay if it looks simple enough",
+          "s": 1
+        },
+        {
+          "t": "I'd rather pay an expert who already knows",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you feel about the cleanup, mess, and trips to the hardware store?",
+      "options": [
+        {
+          "t": "All part of the fun, I don't mind",
+          "s": 3
+        },
+        {
+          "t": "Tolerable for the right project",
+          "s": 1
+        },
+        {
+          "t": "That's exactly why I'd hire it out",
+          "s": 0
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": "You're a Call-a-Pro type, and that's totally fine",
+      "body": "Your time, peace of mind, and a clean result matter more to you than the do-it-yourself badge, and there's real wisdom in knowing that. You don't have to become a weekend warrior to be a great homeowner. Start small: learning a few no-tools-needed basics (resetting a tripped breaker, plunging a drain, tightening a loose handle) can save you a service call without the stress. Everything bigger? Hand it off with confidence.",
+      "cta": "Read our 'when to call a pro' guide"
+    },
+    {
+      "min": 8,
+      "max": 14,
+      "title": "You're a Selective DIYer with room to grow",
+      "body": "You've got the instinct and a few tools, you just pick your battles, and that's a smart way to fix things. With a little guidance you could confidently handle more of the small, safe jobs and save the pros for the ones that truly need them. Pick one beginner project, follow a step-by-step guide, and build from there.",
+      "cta": "Browse beginner-friendly repair guides"
+    },
+    {
+      "min": 15,
+      "max": 21,
+      "title": "You're a Confident DIYer through and through",
+      "body": "Crooked hinges and stubborn faucets don't stand a chance, you've got the tools, the patience, and the itch to fix things yourself. Keep feeding that skill set with deeper tutorials and the right gear, and always pause before the big-risk jobs: gas, major electrical, and structural work still belong to a licensed pro, even for the handiest among us.",
+      "cta": "Explore our advanced project tutorials"
+    }
+  ]
+}
