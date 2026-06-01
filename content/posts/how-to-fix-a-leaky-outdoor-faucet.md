@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/5059649/pexels-photo-5059649.jpeg?auto=
 categories: ["plumbing"]
 slug: "how-to-fix-a-leaky-outdoor-faucet"
 affiliate_disclosure: true
+faqs:
+  - q: "How do I know if my outdoor faucet washer needs replacing?"
+    a: "The most obvious sign is a faucet that drips from the spout even when fully turned off. You may also notice that the faucet requires more and more force to stop the dripping as the washer wears down. Replacing the washer is a quick, inexpensive fix that typically costs less than two dollars in parts."
+  - q: "How long does it take to fix a leaky outdoor faucet?"
+    a: "For most homeowners, this repair takes between 30 minutes and one hour from start to finish. If you need to make a trip to the hardware store to match parts, budget a bit of extra time. Having the right replacement parts on hand before you begin is the single best way to speed up the process."
+  - q: "Can a leaky outdoor faucet increase my water bill?"
+    a: "Absolutely. Even a faucet that drips just once per second can waste more than 3,000 gallons of water per year, according to the U.S. Environmental Protection Agency. That translates directly into higher water bills and unnecessary strain on the environment. Fixing the leak promptly is both a money-saving and eco-friendly decision."
 ---
 
 Your outdoor faucet won’t stop dripping, and that steady _drip, drip, drip_ is costing you money and wasting water every single day. A **leaky outdoor faucet** is one of the most common home plumbing problems, but the good news is that most homeowners can fix it without calling a plumber. With a few basic tools and a little patience, you can stop the leak yourself and feel proud of the accomplishment.

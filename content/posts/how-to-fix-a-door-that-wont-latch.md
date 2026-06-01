@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/6925325/pexels-photo-6925325.jpeg?auto=
 categories: ["doors"]
 slug: "how-to-fix-a-door-that-wont-latch"
 affiliate_disclosure: true
+faqs:
+  - q: "Why does my door latch fine in winter but not in summer?"
+    a: "This is a classic sign of wood swelling due to humidity. In warmer, humid months, wood absorbs moisture from the air and expands slightly. Sealing the door edges with paint or varnish helps prevent moisture absorption and reduces seasonal movement significantly."
+  - q: "Can I fix a door that won’t latch without removing the door?"
+    a: "Yes, absolutely. In most cases, you won’t need to remove the door at all. Tightening hinge screws, adjusting the strike plate, and lubricating the latch can all be done with the door in place. Only in cases of severe swelling or frame damage might removal become necessary."
+  - q: "How do I know if the door frame itself is warped or damaged?"
+    a: "Use a long straightedge or level along the door frame to check for bowing or twisting. If the frame is visibly warped or the door gap is uneven from top to bottom, the frame may need repair or replacement. This is a less common issue but does occur in older homes with significant settling, at that point, consulting a carpenter is a smart move."
 ---
 
 Your door won’t latch, and it’s driving you absolutely crazy. Whether it refuses to click shut, pops open on its own, or requires a firm shoulder shove every single time, a door that won’t latch is more than just an annoyance,  it can be a real security and safety concern. The good news is that this is one of the most common household problems, and in most cases, you can fix it yourself in under an hour without calling a locksmith or carpenter.

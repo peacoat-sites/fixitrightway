@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-fix-a-sticking-door"
 affiliate_disclosure: true
+faqs:
+  - q: "How do I know if my sticking door is a DIY fix or a contractor job?"
+    a: "If it sticks only seasonally, responds to hinge tightening, or has a clear rubbing spot on one edge, it's DIY territory. If the gap is visibly uneven, the frame looks out of square, or drywall cracks have appeared near the corners, call a contractor. The door may be symptomatic of something bigger."
+  - q: "Can I fix a sticking door without removing it?"
+    a: "Often, yes. Hinge tightening, hinge pin lubrication, strike plate adjustment, and minor sanding with a hand plane or sanding block can all be done with the door in place. You only need to remove the door if you're planing a significant amount of material from the latch edge or the full top edge."
+  - q: "My hinge screws keep stripping out. Is there a better fix than toothpicks?"
+    a: "Toothpicks with wood glue work for light- to medium-duty situations. For exterior doors or solid-core interior doors, use wooden golf tees instead. They're thicker and fill the hole more completely. For seriously damaged holes, a golf tee plus wood glue and then a 3-inch screw into the stud is as permanent as it gets without full frame repair."
+  - q: "Will painting my door help stop it from sticking?"
+    a: "Painting helps by sealing the wood against moisture absorption. It won't fix an already-swollen door, but it's genuinely effective as prevention. The key is sealing all six faces of the door, including top and bottom edges that most people ignore. An unsealed bottom edge can absorb enough moisture to cause noticeable swelling on its own."
+  - q: "How much does it cost to have a contractor fix a sticking door?"
+    a: "A simple hinge adjustment or minor planing runs $75 to $150 for a service call with an experienced handyman. Full door removal, planing, rehanging, and refinishing can run $200 to $400 depending on your area. If the frame needs adjustment or the door needs replacement, add $300 to $800. Foundation issues are a separate budget line entirely."
 ---
 
 A door that sticks in summer and swings free in winter isn't broken. It's telling you something. Most homeowners sand it down, paint it, and then spend the next rainy season fighting it again because they fixed the symptom without understanding the cause. That cycle ends here.

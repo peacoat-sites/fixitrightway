@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/36977686/pexels-photo-36977686.jpeg?aut
 categories: ["plumbing"]
 slug: "how-to-fix-a-shower-that-drips-when-turned-off"
 affiliate_disclosure: true
+faqs:
+  - q: "How much water does a dripping shower waste?"
+    a: "A shower that drips just 10 times per minute wastes more than 500 gallons of water per year. A faster drip, which is more common with a failing cartridge, can waste well over 3,000 gallons annually. Fixing the leak promptly saves both water and money on your utility bills."
+  - q: "Can I fix a dripping shower without turning off the main water supply?"
+    a: "If your shower has a dedicated shut-off valve, usually found in an access panel behind the shower wall, you can use that instead of shutting off the whole house. However, if no dedicated valve exists, you must turn off the main supply. Never attempt to open a valve body with water pressure active."
+  - q: "How long do shower cartridges typically last?"
+    a: "Most shower cartridges last between 10 and 20 years with normal use. Water quality plays a big role, hard water with high mineral content tends to wear cartridges out faster. If your shower is more than 15 years old and starts dripping, replacing the cartridge proactively is a smart and affordable maintenance move."
 ---
 
 Your shower won’t stop dripping even after you turn it all the way off. That slow, steady drip isn’t just annoying,  it can waste hundreds of gallons of water every month and quietly drive up your water bill. If your **shower drips when off**, the good news is that this is one of the most common plumbing problems homeowners face, and it’s almost always fixable without calling a plumber. In this guide, we’ll walk you through exactly what causes the drip and how to stop it for good.

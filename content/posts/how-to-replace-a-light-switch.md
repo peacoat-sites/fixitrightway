@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-replace-a-light-switch"
 affiliate_disclosure: true
+faqs:
+  - q: "Why does my new switch work but the light flickers?"
+    a: "Almost always a loose connection. Turn the power off, pull the switch out, and check that each wire is firmly seated under its screw. A small amount of movement in the wire means it's not tight enough. You can also check the wire ends: if there's oxidation or the copper looks dull, clip back to fresh wire and reconnect. Back-stabbed connections are especially prone to this."
+  - q: "Can I replace a regular switch with a dimmer myself?"
+    a: "Yes, with a few conditions. The dimmer has to be rated for the bulb type you're using (LED dimmers and incandescent dimmers are different). The circuit needs a ground wire if the dimmer requires one (most do). And you cannot put a standard dimmer on a 3-way switch circuit without buying a 3-way compatible dimmer. If all that checks out, the swap process is identical to a standard switch replacement."
+  - q: "My switch box has only two wires and no ground. Is that a problem?"
+    a: "It's common in older homes. A standard switch will work fine without a ground. A smart switch or many dimmers require a ground to operate safely, so you'll need to either run a new ground wire (which means permits and an electrician in most cases) or look for a specific no-neutral, no-ground compatible smart switch. They exist, but your options are narrower."
+  - q: "How do I know which wire is the 'common' on my 3-way switch?"
+    a: "Look at the switch body itself. The common terminal is usually labeled, physically marked with a dot, or it's a distinctly different color (often black or dark-colored) compared to the two brass traveler terminals. Before disconnecting anything, put a piece of tape on the wire attached to that common terminal. That wire goes to the common terminal of the new switch, no matter what."
+  - q: "What if I turn the breaker back on and nothing works?"
+    a: "Check three things: the breaker actually reset (some breakers need to go fully to the OFF position before flipping back to ON), the wires are fully tightened under the screws with good metal-to-metal contact, and you haven't accidentally swapped the hot wire to the wrong terminal. If the breaker immediately trips when you restore power, turn it off and call an electrician. That means something is shorted, and diagnosing a short requires more than a switch swap."
 ---
 
 Most homeowners assume a dead light switch means something is wrong with the switch. Sometimes that's true. But I've seen plenty of cases where the switch was fine and the real problem was a loose wire connection that had been arcing for months. Replacing the switch fixed it, sure, but only because the electrician happened to catch the real issue while the cover plate was off. The point is: opening up a switch box is more diagnostic than most people realize. And with basic precautions, it's one of the most accessible electrical repairs a homeowner can do.

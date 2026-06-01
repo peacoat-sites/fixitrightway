@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/4889062/pexels-photo-4889062.jpeg?auto=
 categories: ["tools"]
 slug: "how-to-use-a-tile-saw-2"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I use a regular circular saw blade on a tile saw?"
+    a: "No, you should never use a standard wood-cutting blade on a tile saw. Tile requires a diamond-tipped blade specifically rated for the type of tile you are cutting. Using the wrong blade can cause the tile to shatter dangerously and will damage your saw. Always match the blade to the tile material, whether ceramic, porcelain, or natural stone."
+  - q: "How deep should the water be in my tile saw reservoir?"
+    a: "Most tile saws are designed to be filled to a marked line on the reservoir, which allows the pump to circulate water up to the blade without the water level being so high it splashes excessively. Check your specific model’s manual for the recommended level. As a general rule, the blade should be partially submerged when the saw is not in motion, and a visible stream of water should flow over the blade when it is running."
+  - q: "How do I cut small pieces of tile without the tile slipping?"
+    a: "Cutting small tile pieces can be tricky because there is less surface area to hold onto safely. For small cuts, use the saw’s fence as a guide and feed the tile slowly. You can also use a piece of scrap wood behind the tile to help push it through while keeping your fingers well away from the blade. Some tilers use suction cup handles designed for glass handling to maintain a secure grip on small or slippery pieces."
 ---
 
 You finally picked out the perfect tile for your bathroom floor or kitchen backsplash. You have your layout planned, your adhesive ready, and your enthusiasm at an all-time high. Then you realize you need to make precise cuts,  and suddenly the project feels a lot more intimidating. Learning **how to use a tile saw** is one of the most valuable skills a DIYer can develop, and the good news is that it is far more straightforward than it looks. With the right preparation and a little patience, you can make clean, professional-quality cuts that will make your finished tile work look stunning.

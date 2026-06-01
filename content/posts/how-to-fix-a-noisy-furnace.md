@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/8961699/pexels-photo-8961699.jpeg?auto=
 categories: ["hvac"]
 slug: "how-to-fix-a-noisy-furnace"
 affiliate_disclosure: true
+faqs:
+  - q: "Is a noisy furnace dangerous?"
+    a: "Most furnace noises, like rattling panels or a squeaky belt, are not immediately dangerous, but they should not be ignored. However, a loud banging at startup or the smell of gas can signal a serious hazard. When in doubt, turn off the system and call a professional right away."
+  - q: "How much does a noisy furnace fix typically cost?"
+    a: "DIY fixes like replacing a filter, tightening screws, or lubricating the motor cost very little, usually under $30 in parts. Professional repairs for issues like ignition problems or motor replacement can range from $150 to $600 depending on the component and your location."
+  - q: "How can I prevent my furnace from becoming noisy in the future?"
+    a: "The best prevention is regular maintenance. Change your filter every one to three months, schedule a professional tune-up each fall before heating season, and lubricate moving parts annually. A well-maintained furnace runs quietly and efficiently for 15 to 20 years or more."
 ---
 
 Your furnace is making strange banging, rattling, or squealing noises,  and it’s driving you crazy. A noisy furnace fix is something many homeowners need, especially as heating systems age. The good news is that most furnace noises have simple causes and can be resolved without calling a technician. In this guide, we’ll walk you through exactly how to diagnose and fix a noisy furnace, step by step.

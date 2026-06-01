@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/6732547/pexels-photo-6732547.jpeg?auto=
 categories: ["doors"]
 slug: "how-to-install-a-deadbolt-lock"
 affiliate_disclosure: true
+faqs:
+  - q: "Do I need any special skills to install a deadbolt myself?"
+    a: "No special skills are needed for most standard deadbolt installations. If you can use a drill and a screwdriver comfortably, you can handle this project. Following the template that comes with your lock kit makes accurate measuring much easier, so don’t skip that step."
+  - q: "What if my door doesn’t have an existing hole for a deadbolt?"
+    a: "No problem, you simply drill the holes yourself using the hole saw sizes described above. Most solid wood and hollow-core doors can be drilled without any issues. If you have a steel or fiberglass door, use a hole saw specifically designed for those materials, which you can find at any hardware store."
+  - q: "How do I know if my new deadbolt is installed correctly?"
+    a: "A correctly installed deadbolt will operate smoothly with no stiffness or grinding, the bolt will fully extend and retract, and the door will close and lock without any forcing. The faceplate and strike plate should both sit flush with the wood surface. If anything feels off, revisit the alignment of the strike plate first, that’s the most common culprit."
 ---
 
 Your front door feels a little less secure than it used to, and you know it’s time to upgrade that old lock. Installing a deadbolt is one of the smartest home security improvements you can make,  and learning **how to install a deadbolt** yourself can save you money while giving you real peace of mind. The good news is that this is a manageable DIY project, even if you’re not especially handy around the house.

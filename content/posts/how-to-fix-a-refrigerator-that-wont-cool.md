@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/36979662/pexels-photo-36979662.jpeg?aut
 categories: ["kitchen"]
 slug: "how-to-fix-a-refrigerator-that-wont-cool"
 affiliate_disclosure: true
+faqs:
+  - q: "Why is my refrigerator running but not cooling?"
+    a: "If the compressor is running but the fridge isn’t cold, the most common causes are dirty condenser coils, a blocked evaporator fan, or a failed defrost system. Start by cleaning the coils and checking for ice buildup on the evaporator panel in the freezer. These are the two most frequent culprits and are easy to address at home."
+  - q: "How long should I wait after fixing the problem to see results?"
+    a: "After making a repair or adjustment, give your refrigerator at least 4 to 8 hours to return to proper cooling temperature. Large appliances take time to stabilize, especially after being unplugged or manually defrosted. Use a thermometer to confirm the temperature has reached 35°F to 38°F before reloading it with food."
+  - q: "Is it worth repairing an older refrigerator that won’t cool?"
+    a: "As a general rule, if the repair cost is more than 50 percent of the price of a new refrigerator and the appliance is over 10 years old, replacement is often the better investment. Minor fixes like cleaning coils or replacing a door gasket are almost always worth doing regardless of age. A trusted appliance technician can help you weigh the options honestly."
 ---
 
 Your refrigerator isn’t keeping food cold, and you can feel the panic setting in. A **refrigerator that won ’t cool** is more than an inconvenience,  it can mean spoiled groceries, wasted money, and a stressful afternoon. The good news is that many common cooling problems are surprisingly easy to diagnose and fix yourself, without calling an expensive repair technician right away.

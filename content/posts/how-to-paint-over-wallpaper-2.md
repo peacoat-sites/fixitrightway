@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/31944364/pexels-photo-31944364.jpeg?aut
 categories: ["painting"]
 slug: "how-to-paint-over-wallpaper-2"
 affiliate_disclosure: true
+faqs:
+  - q: "Will the wallpaper pattern show through the paint?"
+    a: "It can, especially if the wallpaper has a heavy texture or raised pattern. Using the right primer and sanding between coats will minimize this significantly. For very textured wallpaper, applying a skim coat of joint compound before priming will give you the smoothest result."
+  - q: "Can I use a regular latex primer instead of oil-based?"
+    a: "It is strongly recommended that you do not use a water-based latex primer over wallpaper. The water in the primer can soak through the paper and reactivate the original wallpaper adhesive, causing the paper to bubble, wrinkle, or peel away from the wall. Always use an oil-based or shellac primer for this project."
+  - q: "What if the wallpaper starts to bubble after I prime it?"
+    a: "Small bubbles may appear as the primer dries. Allow the primer to cure completely, sometimes bubbles will shrink back down as they dry. If they remain, slice them carefully with a utility knife, re-glue the edges, press flat, and let dry before lightly sanding and re-priming that spot."
 ---
 
 Your walls are covered in old wallpaper, and peeling it off sounds like a nightmare. Maybe the wallpaper is original to the house, glued down in layers, or just too delicate to remove without damaging the drywall underneath. The good news? Learning **how to paint over wallpaper** is a real and practical solution that can save you hours of frustrating work. With the right preparation and materials, you can get a smooth, beautiful finish without ever picking up a wallpaper scraper.

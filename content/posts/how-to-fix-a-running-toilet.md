@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-fix-a-running-toilet"
 affiliate_disclosure: true
+faqs:
+  - q: "Why does my toilet run for 10 seconds after I flush and then stop?"
+    a: "This is usually a minor flapper issue or chain slack problem, not a full flapper failure. If the chain is slightly too long, it can get trapped under the flapper briefly after each flush, letting a small amount of water escape before it fully seats. Shorten the chain. If the problem persists, the flapper itself is worn and needs replacement. At $7, it's not worth spending more time diagnosing it."
+  - q: "My toilet randomly runs for a few seconds even when nobody used it. What's happening?"
+    a: "That's called phantom flushing, and it's almost always a slow flapper leak. Water silently seeps from tank to bowl until the water level drops enough to trigger the fill valve. The fill valve kicks on, refills, and you hear it. Do the dye test to confirm, then replace the flapper."
+  - q: "Can I just turn the water off to the toilet to stop the running while I figure out the fix?"
+    a: "Yes, and there's no harm in it short term. Turn the supply valve clockwise until it stops. The toilet will still flush once with the water in the tank. After that, you'll need to manually refill it to flush again. It's fine for a day or two. Just don't leave it indefinitely and forget about it."
+  - q: "I replaced the flapper and the toilet is still running. Now what?"
+    a: "Three things to check. First, confirm the flapper is the right size for your toilet. Second, inspect the flapper seat on the overflow tube for roughness or mineral buildup. Third, check whether water is now going over the top of the overflow tube instead, which means the float is set too high. Run the dye test again with the new flapper installed. If color still shows in the bowl, you have a seat problem. If the tank overfills, you have a float problem."
+  - q: "How do I know if I should repair my toilet or just replace it?"
+    a: "If your toilet is newer than 15 years old, repair it every time. Parts are cheap, the fix is fast, and modern toilets are better than whatever you'd buy at the entry-level price point. If your toilet is a pre-1994 water-guzzling 3.5-gallon model, a running toilet might be the excuse to upgrade to a 1.28-gallon high-efficiency unit. You'll save $30 to $50 a year on water just from the efficiency improvement. The math on replacement makes sense in that scenario."
 ---
 
 A running toilet wastes between 20 and 200 gallons of water per day. That's not a typo. A slow, lazy run adds $10-$30 to your monthly water bill. A full-bore phantom flush can cost you $70 or more. The maddening part: most running toilets take under 30 minutes to fix, cost less than $15 in parts, and require zero plumbing experience. The reason people don't fix them isn't difficulty. It's that most guides skip straight to "replace the flapper" without explaining how to figure out which of three completely different problems you're actually dealing with.

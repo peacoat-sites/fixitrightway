@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/7937305/pexels-photo-7937305.jpeg?auto=
 categories: ["windows"]
 slug: "how-to-install-a-window-air-conditioner"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I install a window AC unit in a sliding window?"
+    a: "Yes, but it requires a different approach. Sliding windows open side to side rather than up and down, so standard window AC kits don’t fit. You’ll need a special sliding window AC kit or a portable AC unit that vents through a sliding door or window instead."
+  - q: "Do I need a special outlet for a window air conditioner?"
+    a: "Most standard window AC units (under 15,000 BTU) run on a regular 115-volt, 15-amp household outlet. Larger units may require a 230-volt outlet. Always check your unit’s label and your home’s circuit capacity before plugging in. If you’re unsure, consult a licensed electrician."
+  - q: "How do I keep bugs from coming in around my window AC unit?"
+    a: "The best defense is thorough sealing with foam weatherstripping around all edges of the unit and side panels. You can also apply a thin bead of removable caulk around the accordion panels where they meet the window frame. Check the seal at the beginning of each season and replace any worn weatherstripping promptly."
 ---
 
 The summer heat is bearing down, your home feels like an oven, and you’re tired of sweaty nights and restless sleep. A window air conditioner is one of the most affordable and effective solutions,  but only if it’s installed correctly. Learning **how to install window AC** units properly can save you money on installation fees and keep your home cool all season long.

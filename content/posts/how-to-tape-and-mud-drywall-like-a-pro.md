@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/7423708/pexels-photo-7423708.jpeg?auto=
 categories: ["drywall"]
 slug: "how-to-tape-and-mud-drywall-like-a-pro"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does joint compound take to dry between coats?"
+    a: "Under normal conditions, around 70°F and 50% humidity, each coat of pre-mixed joint compound takes approximately 24 hours to dry. In cold or humid conditions, this can extend to 48 hours or more. Setting-type compounds harden faster, sometimes within 60 to 90 minutes. Never apply a new coat over mud that still feels cool or looks dark, it isn’t dry yet."
+  - q: "What’s the difference between paper tape and mesh tape?"
+    a: "Paper tape creates stronger seams and is preferred by most professionals for flat seams. It requires being embedded in wet mud to adhere properly. Fiberglass mesh tape is self-adhesive and easier for beginners to apply, but it can crack more easily over time and requires setting-type compound for the first coat. For most interior flat seams, paper tape is the better long-term choice."
+  - q: "How many coats of mud do I need for a smooth finish?"
+    a: "Most drywall finishing jobs require three coats: a tape coat, a fill coat, and a finish coat. Some surfaces or high-visibility areas may benefit from a fourth skim coat applied over the entire wall. Each coat must be fully dry and lightly sanded before the next is applied. Rushing by applying thick coats will cause cracking and shrinkage."
 ---
 
 You’ve patched a hole, installed new drywall, or finished a renovation,  and now you’re staring at bare seams, screw dimples, and rough edges wondering how to make it all look smooth. Learning **how to tape and mud drywall** is one of the most rewarding DIY skills you can pick up. With the right tools, a little patience, and the step-by-step guidance in this article, you’ll achieve professional-looking results without hiring a contractor.

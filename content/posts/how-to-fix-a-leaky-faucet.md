@@ -10,6 +10,17 @@ author: "Dana Hargrove"
 author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-fix-a-leaky-faucet"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does it actually take to fix a leaky faucet?"
+    a: "For a compression washer replacement, the hands-on repair work takes 15-25 minutes once you have the right parts. Budget an extra 30-60 minutes for your hardware store trip if you don't have parts on hand. Cartridge replacement is similar. The first time you do it always takes longer because you're figuring it out. The second time, it'll feel routine."
+  - q: "Do I need to turn off the main water supply to fix a faucet?"
+    a: "Not usually. Most sinks have individual shut-off valves directly below the faucet, connected to the hot and cold supply lines. Turn those clockwise to close them. If those valves are stuck, corroded, or missing entirely, then yes, you'll need the main shut-off. The main shut-off is typically located near the water meter, in a basement, or in a utility closet."
+  - q: "My faucet still drips after I replaced the washer. What did I miss?"
+    a: "The most likely culprit is a damaged valve seat, which is the part inside the faucet body that the washer presses against when you turn it off. If the seat is pitted or rough, it will shred new washers quickly. You'll need a seat wrench to remove and replace it, or a seat dresser to resurface it. Another possibility: you got the wrong size washer. Even slightly off is enough to cause problems. Bring the old one to match it exactly."
+  - q: "How do I know if I need to replace the whole faucet vs. just repair it?"
+    a: "A few indicators lean toward full replacement: the faucet is very old (20-plus years) and parts are hard to source, the body of the faucet is cracked or corroded, or you've repaired the same faucet twice in a year and it keeps failing. Also, if your current faucet is a builder-grade fixture that cost $30 originally, a $40 repair doesn't make sense when a better replacement faucet costs $60-80 and comes with a warranty."
+  - q: "Can a leaky faucet cause water damage under my sink?"
+    a: "Yes, and it happens more often than people expect. A faucet that's leaking at the base or at a supply connection can drip slowly into the cabinet below, warping the cabinet floor, promoting mold growth, and eventually damaging the subfloor. I've seen what looked like a minor faucet leak turn into a $2,000 cabinet and subfloor repair because nobody checked under the sink. Any time you notice a leak, open the cabinet doors and look at the condition of the wood down there."
 ---
 
 You wake up at 2 a.m. to the sound of dripping water. Not a flood, not a burst pipe, just that maddening, metronomic drip coming from your bathroom faucet. You jam a pillow over your head and tell yourself you'll deal with it tomorrow. Three weeks later, you're still "dealing with it tomorrow," and your water bill just jumped $40. That drip you're ignoring is wasting somewhere between 3,000 and 5,000 gallons of water a year, depending on the drip rate. I've seen homeowners convince themselves a leaky faucet is a plumber's problem when, nine times out of ten, it's a Saturday morning fix that costs under $20 in parts.

@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/28508092/pexels-photo-28508092.jpeg?aut
 categories: ["electrical"]
 slug: "how-to-replace-a-light-switch-safely-2"
 affiliate_disclosure: true
+faqs:
+  - q: "How do I know what type of replacement switch to buy?"
+    a: "Most standard switches that control a light from a single location are called single-pole switches. They have two screws on the side and an ON/OFF label on the toggle. If your switch is one of two switches that controls the same light from different locations, such as at the top and bottom of a staircase, you have a three-way switch, which is a different product and a slightly more involved replacement process."
+  - q: "Is it safe for a senior to replace a light switch on their own?"
+    a: "Yes, absolutely, as long as you follow every safety step, especially turning off the power at the breaker and confirming it with a voltage tester before touching any wires. The physical demands are minimal: you need to hold a screwdriver, work in a small space, and handle light wire manipulation. If you have arthritis in your hands or trouble seeing clearly in dim spaces, ask a family member to assist or use a headlamp for better visibility."
+  - q: "What if my new switch does not work after I install it?"
+    a: "First, double-check that the breaker is fully switched ON and has not tripped. Then confirm your wires are firmly seated on the screw terminals, a loose connection is the most common cause of a switch that does not work. If everything looks correct but the light still does not respond, the problem may lie with the light fixture, the bulb, or a wiring issue further in the circuit, and it may be time to call an electrician."
 ---
 
 Your light switch clicks but nothing happens,  or worse, it sparks when you flip it. A faulty switch is more than an inconvenience; it can be a genuine safety hazard. The good news is that learning **how to replace a light switch** is one of the most manageable home electrical tasks you can tackle, even if you have never done electrical work before. With the right tools, a careful approach, and this step-by-step guide, you can have a working switch installed safely in under an hour.

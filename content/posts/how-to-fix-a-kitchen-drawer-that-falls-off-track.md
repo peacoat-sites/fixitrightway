@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/30413424/pexels-photo-30413424.jpeg?aut
 categories: ["kitchen"]
 slug: "how-to-fix-a-kitchen-drawer-that-falls-off-track"
 affiliate_disclosure: true
+faqs:
+  - q: "Why does my kitchen drawer keep coming off track even after I fix it?"
+    a: "If your drawer keeps falling off track repeatedly, the most likely cause is overloading. Check the weight limit on your slide hardware, most standard slides hold 75 to 100 pounds. Heavy items like pots or canned goods may require heavy-duty slides rated for more weight. Also check that the slides are perfectly level with each other, as even a small misalignment causes repeated problems over time."
+  - q: "Can I fix a kitchen drawer off track without removing the drawer completely?"
+    a: "In some cases, yes. If the drawer is only slightly off track and you can see a roller that has popped off its channel, you may be able to gently guide it back by pressing it firmly back onto the track while slowly pushing the drawer inward. However, fully removing the drawer gives you much better access and leads to a more reliable, lasting repair."
+  - q: "How do I know if I need side-mounted or bottom-mounted replacement slides?"
+    a: "Look inside your cabinet with the drawer removed. If you see metal tracks running along the left and right walls of the cabinet opening, those are side-mounted slides. If there is a single track in the center of the cabinet floor, that is a bottom-mounted or center-mount slide. Always replace like for like to avoid having to modify your drawer or cabinet."
 ---
 
 Your kitchen drawer suddenly pops loose, tilts sideways, and refuses to slide back in smoothly,  sound familiar? A **kitchen drawer off track** is one of the most common and frustrating household problems, especially in homes where drawers see heavy daily use. The good news is that this is almost always a fix you can do yourself, without calling a handyman, and without spending a lot of money.

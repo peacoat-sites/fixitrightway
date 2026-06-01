@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/8130011/pexels-photo-8130011.jpeg?auto=
 categories: ["plumbing"]
 slug: "how-to-fix-a-dripping-faucet-step-by-step"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does it take to fix a dripping faucet?"
+    a: "Most dripping faucet repairs take between 30 minutes and two hours for a first-time DIYer. If you have all your parts ready before you start, you can often complete the job in about 45 minutes. Cartridge faucets tend to be the fastest to repair, while ball faucets take the most time due to the number of small parts involved."
+  - q: "How much money can I save by fixing a dripping faucet myself?"
+    a: "A plumber typically charges between $100 and $250 to fix a dripping faucet, depending on your location. The parts you need usually cost between $5 and $25. By doing it yourself, you could easily save $100 to $200 on a single repair, and the skills you learn will help you handle future plumbing issues with confidence."
+  - q: "My faucet is still dripping after I replaced the washer. What should I do?"
+    a: "If the drip continues after replacing the washer, the seat, the metal surface the washer presses against, may be worn or pitted. You can purchase a seat wrench to replace the seat yourself, or have a plumber resurface it with a special tool. In some cases, particularly with very old faucets, it may be more cost-effective to replace the entire faucet rather than continuing to repair individual components."
 ---
 
 Your faucet won’t stop dripping, and that steady _drip, drip, drip_ is driving you absolutely crazy. More importantly, that tiny drip is quietly wasting hundreds of gallons of water each year,  and adding dollars to your water bill every month. Learning **how to fix a dripping faucet** is one of the most rewarding home repairs you can tackle, and with the right guidance, most seniors can complete this job in under two hours without calling a plumber.

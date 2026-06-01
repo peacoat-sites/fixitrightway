@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/31704423/pexels-photo-31704423.jpeg?aut
 categories: ["painting"]
 slug: "how-to-paint-a-brick-fireplace"
 affiliate_disclosure: true
+faqs:
+  - q: "Can you paint a brick fireplace that has never been painted before?"
+    a: "Yes, you absolutely can paint unpainted brick. In fact, raw brick that has never been treated is often easier to work with because there is no old paint to deal with. The key is thorough cleaning and a quality masonry primer before applying your topcoat."
+  - q: "Is it safe to paint a fireplace that is still in use?"
+    a: "It is safe as long as you use the right products. Always choose heat-resistant masonry paint for areas close to the firebox opening, and allow paint to fully cure before lighting a fire. The outer portions of the fireplace surround that do not directly face the heat can use standard latex masonry paint safely."
+  - q: "Can you remove paint from a brick fireplace if you change your mind?"
+    a: "Removing paint from brick is possible but quite difficult and labor-intensive. It typically involves chemical paint strippers and a lot of scrubbing. Because of this, many experts suggest that painting brick should be considered a semi-permanent change. Make sure you love your color choice before you commit."
 ---
 
 Your brick fireplace once looked charming, but now it looks dated, dingy, or simply out of place in your updated living room. The good news? Learning **how to paint a brick fireplace** is a manageable weekend project that can completely transform the heart of your home. With the right preparation, materials, and a little patience, you can give that tired brick a fresh, modern look,  no contractor required.

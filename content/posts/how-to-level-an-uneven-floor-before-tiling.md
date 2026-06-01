@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/37340089/pexels-photo-37340089.jpeg?aut
 categories: ["floors"]
 slug: "how-to-level-an-uneven-floor-before-tiling"
 affiliate_disclosure: true
+faqs:
+  - q: "How thick can self-leveling compound be applied in one pour?"
+    a: "Most standard self-leveling compounds can be applied in a single pour of up to 1 inch thick. For deeper low spots, you will need to apply multiple layers, allowing each one to fully cure before adding the next. Always check your specific product label, as maximum depths vary by brand."
+  - q: "Can I use self-leveling compound on a wood subfloor?"
+    a: "Yes, you can use self-leveling compound on plywood or OSB subfloors, but preparation is critical. The subfloor must be structurally sound, firmly fastened (no squeaks or movement), and properly primed. Any movement in the subfloor can cause the leveler to crack, so make sure all loose boards are screwed down securely before you begin."
+  - q: "How long does self-leveling compound last under tile?"
+    a: "When properly applied over a stable subfloor, self-leveling compound can last for many years, easily 10 to 20 years or more, without any issues. The key factors are thorough surface preparation, proper priming, correct mixing, and adequate cure time before tiling. Cutting corners on any of these steps can shorten its lifespan significantly."
 ---
 
 Your floor looks uneven, your tiles keep cracking, and every time you walk across the room you can feel the dips and bumps beneath your feet. Sound familiar? Before you can lay a beautiful, lasting tile floor, you need to tackle **uneven floor leveling**,  and the good news is that with the right materials and a little patience, this is a project most homeowners can handle themselves.

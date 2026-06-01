@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/6263062/pexels-photo-6263062.jpeg?auto=
 categories: ["plumbing"]
 slug: "how-to-fix-low-water-pressure-in-your-home"
 affiliate_disclosure: true
+faqs:
+  - q: "Why is my water pressure suddenly low in my whole house?"
+    a: "A sudden drop in pressure throughout the whole house usually points to one of three things: a main shutoff valve that has been partially closed, a failing pressure regulator, or a significant leak in your main supply line. Start by checking both shutoff valves are fully open, then test pressure at an outdoor spigot. If pressure is consistently low after those checks, contact your water utility to rule out supply issues on their end before calling a plumber."
+  - q: "Can low water pressure damage my appliances?"
+    a: "Yes, chronically low pressure can affect washing machines, dishwashers, and water heaters, causing them to run longer cycles and wear out faster. Some appliances, like certain tankless water heaters, require a minimum pressure threshold to operate at all. Fixing low pressure protects both your comfort and the lifespan of your home’s appliances."
+  - q: "How much does it cost to fix low water pressure in a house?"
+    a: "Cost depends entirely on the cause. Cleaning an aerator costs nothing but your time. Replacing a showerhead might run $20–$50. A new pressure reducing valve installed by a plumber typically costs $200–$400 including labor. Replacing corroded galvanized pipes throughout a home is a larger project that can range from $1,500 to $15,000 depending on home size and pipe accessibility. Most homeowners find that simple fixes like cleaning aerators and checking valves solve the problem at zero cost. Low water pressure doesn’t have to mean a big plumbing bill or weeks of frustration. By working through"
 ---
 
 Your shower dribbles when it should pour. Your kitchen faucet takes forever to fill a pot. If you’re dealing with **low water pressure in your house**, you’re not alone,  and the good news is that many causes are surprisingly fixable without calling a plumber. This guide walks you through exactly what to check, what to fix, and when to ask for help.

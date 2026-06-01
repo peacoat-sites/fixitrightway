@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/33395431/pexels-photo-33395431.jpeg?aut
 categories: ["windows"]
 slug: "how-to-stop-drafts-from-windows"
 affiliate_disclosure: true
+faqs:
+  - q: "How much can fixing drafty windows lower my heating bill?"
+    a: "According to the U.S. Department of Energy, air leaks around windows and doors can account for up to 30% of home heating costs. By sealing drafts properly with weatherstripping and caulk, many homeowners see a noticeable reduction in monthly energy bills, sometimes 10–20% or more."
+  - q: "Is window insulation film safe and easy to remove in spring?"
+    a: "Yes, window insulation film is completely safe and designed to be temporary. It attaches using double-sided tape and peels away cleanly when the warmer weather arrives. Most kits leave no sticky residue and won’t damage painted frames when removed carefully."
+  - q: "When should I call a professional instead of fixing drafts myself?"
+    a: "If your window frame is visibly warped, rotted, or cracked, or if the glass pane itself is broken or fogged between double panes, it’s time to call a window professional. These issues go beyond simple sealing and may require frame repair or full window replacement to solve properly."
 ---
 
 Your windows feel like open holes in the wall every winter,  cold air seeping in, heating bills climbing, and no matter how high you turn up the thermostat, you just can’t seem to get comfortable. If this sounds familiar, you’re dealing with a very common and very fixable problem. A **drafty windows fix** doesn’t have to be expensive or complicated, and most seniors can tackle it safely at home with just a few simple tools and materials.

@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/17419782/pexels-photo-17419782.jpeg?aut
 categories: ["bathroom"]
 slug: "how-to-install-a-new-shower"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does it take to install a new shower?"
+    a: "For most do-it-yourself homeowners, a standard shower installation takes one to three days. Day one covers demolition and preparation, day two covers installation, and day three is for final caulking and cure time. Taking your time at each stage produces better, longer-lasting results."
+  - q: "Do I need a permit to install a shower?"
+    a: "In most areas, replacing an existing shower in the same location does not require a permit. However, if you are moving plumbing or changing the footprint of the shower, a permit is typically required. Always check with your local building department before starting to avoid fines or complications when selling your home."
+  - q: "Can I install a walk-in shower myself to improve safety?"
+    a: "Yes, and it is an excellent idea for adults over 60. Walk-in showers with low or zero-threshold entries are highly accessible and can be installed using the same process described in this guide. Look for kits specifically labeled as accessible or ADA-compliant, and consider adding grab bars rated for at least 250 pounds of force for maximum safety."
 ---
 
 Your old shower is cracked, leaking, or simply outdated,  and every morning it reminds you of the renovation you keep putting off. Whether you are replacing a worn-out unit or upgrading your bathroom for better accessibility, knowing **how to install a shower** can save you significant money and give you a space that truly works for your needs. The good news? With the right preparation and a little patience, this is a project many handy homeowners can tackle over a weekend.

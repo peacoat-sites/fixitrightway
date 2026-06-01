@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/30413428/pexels-photo-30413428.jpeg?aut
 categories: ["outdoor"]
 slug: "how-to-repair-a-concrete-walkway"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does a concrete walkway repair last?"
+    a: "A properly prepared and applied repair can last 10 years or more, especially when sealed afterward. The key factors are thorough surface preparation, using the right product for the type of damage, and allowing adequate curing time. Skipping the bonding adhesive or rushing the cure are the most common reasons repairs fail early."
+  - q: "Can I repair a concrete walkway in cold weather?"
+    a: "Concrete repairs should ideally be done when temperatures are between 50°F and 90°F. Cold temperatures slow the curing process significantly and can cause patches to crack before they fully harden. If you must work in cooler conditions, use a concrete repair product rated for cold-weather application and cover the area with insulating blankets after patching."
+  - q: "Should I repair or replace my concrete walkway?"
+    a: "Repair is usually the right choice if damage affects less than 25% of the total surface and the underlying base is still stable. If the walkway is extensively cracked, significantly sunken in multiple areas, or more than 30 to 40 years old with widespread deterioration, replacement may actually be more cost-effective in the long run. When in doubt, consult a local concrete contractor for a professional assessment."
 ---
 
 Your concrete walkway has seen better days. Cracks are spreading, edges are crumbling, and uneven sections have become a tripping hazard every time you step outside. Whether it’s the result of winter freeze-thaw cycles, tree roots, or simply years of use, **concrete walkway repair** is a project most homeowners will eventually face. The good news? Many common walkway problems can be fixed without hiring a contractor,  saving you hundreds of dollars and giving you the satisfaction of a job well done.

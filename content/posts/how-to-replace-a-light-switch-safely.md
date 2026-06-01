@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/35290682/pexels-photo-35290682.jpeg?aut
 categories: ["electrical"]
 slug: "how-to-replace-a-light-switch-safely"
 affiliate_disclosure: true
+faqs:
+  - q: "Is it safe for a senior with no electrical experience to replace a light switch?"
+    a: "Yes, replacing a standard single-pole light switch is considered a beginner-level electrical task. The key is always turning off the breaker and verifying the power is off with a voltage tester before touching any wires. If at any point you feel uncertain or find unexpected wiring, there is absolutely no shame in calling a licensed electrician, your safety always comes first."
+  - q: "How do I know if I have a single-pole or three-way switch?"
+    a: "A single-pole switch controls a light from one location only and will typically have two brass-colored screw terminals. A three-way switch controls a light from two different locations (like at the top and bottom of a staircase) and will have three screw terminals, one is usually a different color, often black or darker brass. If your switch has three terminals, it is a three-way switch and requires a slightly different replacement process."
+  - q: "What should I do if the new switch feels warm after installation?"
+    a: "A very slight warmth can be normal under heavy load, but if the switch feels hot or noticeably warm, turn off the power immediately and recheck your connections. A hot switch usually means a loose wire connection creating resistance. It can also indicate that the switch’s amperage rating does not match the circuit’s needs. If in doubt, have a licensed electrician inspect the work before using the switch again."
 ---
 
 Your light switch has been acting up,  flickering, feeling warm to the touch, or simply refusing to work at all. Knowing **how to replace a light switch** is one of those practical home skills that can save you a service call and restore safe, reliable lighting in any room. The good news? With the right preparation and a healthy respect for electrical safety, most seniors can tackle this project confidently.

@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/34993898/pexels-photo-34993898.jpeg?aut
 categories: ["floors"]
 slug: "how-to-fix-a-tile-that-has-come-loose"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I use regular household glue for loose floor tile repair?"
+    a: "Regular household glue is not strong enough to handle the weight and movement that floor tiles experience every day. Always use a product specifically designed for floor tiles, such as thin-set mortar or a dedicated floor tile adhesive. Using the wrong adhesive is the number one reason DIY tile repairs fail within a few months."
+  - q: "How long does it take to complete a loose tile repair from start to finish?"
+    a: "The active work time is usually just two to three hours for a single tile. However, you need to factor in drying time, the adhesive typically needs 24 hours to cure before you can grout, and the grout needs another 48 to 72 hours before the repair is fully ready for normal traffic. Plan to keep the area out of use for about three days total."
+  - q: "What if the tile cracks when I try to remove it?"
+    a: "A broken tile during removal is not unusual, especially with older, more brittle tiles. Take a small piece of the broken tile to a tile store to try to find a match. If an exact match is unavailable, consider replacing two or three tiles in a small pattern to make any color difference look intentional rather than accidental. Keeping a few spare tiles from your original installation is always a smart practice for exactly this reason."
 ---
 
 You hear it before you feel it,  that hollow clunk underfoot as you walk across your kitchen or bathroom floor. A loose floor tile is more than just annoying; left unaddressed, it can crack, shift further, and even become a tripping hazard. The good news is that **loose floor tile repair** is one of those satisfying home improvement tasks you can absolutely tackle yourself, even if you have never picked up a grout saw before. With the right tools, a little patience, and this step-by-step guide, you can have your floor looking solid and beautiful again in just a weekend.

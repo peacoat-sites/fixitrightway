@@ -7,6 +7,13 @@ image: "https://images.pexels.com/photos/5974285/pexels-photo-5974285.jpeg?auto=
 categories: ["hvac"]
 slug: "how-to-install-a-programmable-thermostat"
 affiliate_disclosure: true
+faqs:
+  - q: "What if my new thermostat doesn’t turn on after installation?"
+    a: "First, double-check that the circuit breaker is fully in the ON position. Then, verify that each wire is seated firmly in the correct terminal, a loose connection is the most common reason a thermostat won’t power up. Also check that fresh batteries are installed if your model requires them. If it still won’t turn on, turn off the power and recheck your wiring against both your labeled photo and the thermostat’s diagram."
+  - q: "Do I need an electrician to install a programmable thermostat?"
+    a: "For most standard low-voltage systems in homes built after 1975, a confident DIYer can handle this project safely by following each step carefully. However, if you have a line-voltage system, a heat pump, or very old wiring you don’t recognize, calling a licensed HVAC technician is the wisest choice. There’s no shame in knowing when a job is better left to a professional, your safety is always worth it."
+  - q: "Will a programmable thermostat work with my heat pump?"
+    a: "Many programmable thermostats are compatible with heat pumps, but you need to purchase one specifically labeled as “heat pump compatible.” Heat pump systems use additional wiring terminals (like O/B) that standard thermostats don’t accommodate. Check the packaging carefully or use the compatibility checker on the thermostat manufacturer’s website before you buy."
 ---
 
 Your energy bills keep climbing, and your old thermostat just sits there, mindlessly running the heat or air conditioning whether you’re home or not. Sound familiar? Learning **how to install a programmable thermostat** is one of the smartest home upgrades you can make,  and it’s more approachable than you might think. Most homeowners can complete this project in under an hour, with just a few basic tools and a little patience.
