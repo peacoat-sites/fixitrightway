@@ -110,3 +110,13 @@ Usually no, and I'd actually caution against it. Most clear brick sealers trap m
 Fresh mortar is almost always lighter in color than weathered mortar, and it'll typically blend in more over 6-12 months of weathering. If the color difference bothers you right away, you can try adding small amounts of masonry pigment to the mix to approximate the existing color -- it's not an exact science but it can get you closer. On historically significant homes, color-matching is a whole specialty service that some masonry contractors offer specifically.
 
 *Photo: [Anete Lusina](https://www.pexels.com/@anete-lusina) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
+
