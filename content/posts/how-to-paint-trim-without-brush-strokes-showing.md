@@ -3,7 +3,7 @@ title: "How To Paint Trim Without Brush Strokes Showing"
 date: 2026-06-02T12:52:36.600580+00:00
 draft: false
 description: "Learn how to paint trim without brush strokes showing using the right tools, techniques, and paint prep tips for a smooth, professional finish every time."
-image: "https://images.pexels.com/photos/7640990/pexels-photo-7640990.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7217961/pexels-photo-7217961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Painting"]
 tags: ["paint", "trim", "without", "brush", "strokes"]
 author: "Dana Hargrove"
