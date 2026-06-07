@@ -29,6 +29,16 @@ You wake up at 2 a.m. to the sound of dripping water. Not a flood, not a burst p
 
 Before you buy a single part or pick up a wrench, you need to know what you're working with. This is the step most people skip, and it's why they end up at the hardware store three times in one afternoon.
 
+
+## How Much Does Fixing a Leaky Faucet Cost?
+
+| | DIY (parts only) | Professional |
+|---|---|---|
+| **Fix dripping faucet** | $5–$25 | $100–$250 |
+| **Replace outdoor faucet** | $15–$40 | $100–$250 |
+
+Most faucet repairs cost under $25 in parts. A plumber typically charges $100–$250 for the same job. See the [full home repair cost guide](/home-repair-cost-guide/) to compare costs across 30+ repairs.
+
 There are four main faucet types you'll encounter in residential homes:
 
 **Ball faucets** are single-handle faucets where the handle rotates around a ball-shaped cap. These are extremely common in kitchens. When they leak, it's usually because the springs or seats inside have worn out.
