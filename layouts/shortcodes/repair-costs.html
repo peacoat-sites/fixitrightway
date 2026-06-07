@@ -1,0 +1,62 @@
+{{/* Repair cost comparison table. Usage: {{< repair-costs >}} */}}
+{{ $rc := site.Data.repair_costs }}
+{{ if $rc }}
+<div class="repair-cost-wrap">
+  <p class="rc-meta">Last updated: {{ $rc.updated }} &mdash; {{ $rc.source_note }}</p>
+  <div class="rc-controls">
+    <label for="rc-filter">Filter by category:</label>
+    <select id="rc-filter" onchange="rcFilter()">
+      <option value="">All categories</option>
+      {{ range $rc.repairs | uniq }}{{ end }}
+    </select>
+    <input type="search" id="rc-search" placeholder="Search repairs…" oninput="rcFilter()" />
+  </div>
+  <div class="rc-table-wrap">
+    <table class="repair-cost-table" id="rc-table">
+      <thead>
+        <tr>
+          <th>Repair</th>
+          <th>Category</th>
+          <th>DIY Cost</th>
+          <th>Pro Cost</th>
+          <th>You Save</th>
+          <th>Difficulty</th>
+          <th>Time</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range $rc.repairs }}
+        {{ $save_low := sub .pro_low .diy_high }}
+        {{ $save_high := sub .pro_high .diy_low }}
+        <tr data-cat="{{ .category }}" data-name="{{ .name | lower }}">
+          <td class="rc-name"><strong>{{ .name }}</strong><div class="rc-tip">{{ .tip }}</div></td>
+          <td>{{ .category }}</td>
+          <td class="rc-diy">${{ .diy_low }}–${{ .diy_high }}</td>
+          <td class="rc-pro">${{ .pro_low }}–${{ .pro_high }}</td>
+          <td class="rc-save">up to ${{ $save_high }}</td>
+          <td><span class="rc-diff rc-diff-{{ .difficulty | lower }}">{{ .difficulty }}</span></td>
+          <td class="rc-time">{{ .time }}</td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+  <p class="rc-disclaimer"><em>These are national average estimates. Actual costs vary by region, home age, and contractor rates. Always get multiple quotes for projects over $500.</em></p>
+</div>
+<script>
+(function(){
+  var cats = new Set();
+  document.querySelectorAll('#rc-table tbody tr').forEach(function(r){ cats.add(r.dataset.cat); });
+  var sel = document.getElementById('rc-filter');
+  cats.forEach(function(c){ var o=document.createElement('option'); o.value=c; o.textContent=c; sel.appendChild(o); });
+})();
+function rcFilter(){
+  var cat = document.getElementById('rc-filter').value.toLowerCase();
+  var q   = document.getElementById('rc-search').value.toLowerCase();
+  document.querySelectorAll('#rc-table tbody tr').forEach(function(r){
+    var show = (!cat || r.dataset.cat.toLowerCase()===cat) && (!q || r.dataset.name.includes(q));
+    r.style.display = show ? '' : 'none';
+  });
+}
+</script>
+{{ end }}
