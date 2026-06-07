@@ -29,6 +29,16 @@ Most homeowners assume a dead light switch means something is wrong with the swi
 
 Before you buy anything or touch anything, it helps to know what type of switch you have. This is where most beginner guides skip ahead too fast.
 
+
+## How Much Does It Cost to Replace a Light Switch?
+
+| | DIY (parts only) | Professional |
+|---|---|---|
+| **Replace light switch** | $5–$15 | $80–$200 |
+| **Install GFCI outlet** | $15–$30 | $100–$250 |
+
+The switch itself costs $5–$15. An electrician charges $80–$200 for the same job. See the [full home repair cost guide](/home-repair-cost-guide/) to compare costs across 30+ common repairs.
+
 A **single-pole switch** controls a light from one location. It has two brass screw terminals and sometimes a green grounding screw. This is the most common switch in any house and the easiest to replace.
 
 A **3-way switch** controls a light from two locations, like at the top and bottom of a staircase. It has three terminals: one "common" screw (usually black or darker in color) and two "traveler" screws. The wiring is different, and if you mix up which wire goes where, you'll end up with a switch that only works in one position. More on that in a minute.
