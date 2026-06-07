@@ -138,3 +138,13 @@ A simple hinge adjustment or minor planing runs $75 to $150 for a service call w
 Most sticking doors are a two-hour Saturday fix that costs less than a takeout dinner. The homeowners who pay contractors to handle what should be a DIY job are almost always the ones who didn't spend ten minutes diagnosing first. Check the hinges, map the bind, identify whether it's seasonal or permanent, then pick the right tool. The door that's been annoying you for three years is usually simpler than you think.
 
 ---
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[PetArmor Plus Flea & Tick Prevention — Small Dogs (6 doses)](https://www.amazon.com/dp/B01N0BZUXO/?tag=contentportfo-20)** (~$32) — Same active ingredient as Frontline Plus at a lower price — waterproof topical flea and tick prevention.
+- **[PetArmor Plus Flea & Tick Prevention — Medium Dogs (6 doses)](https://www.amazon.com/dp/B01N03Q8Q1/?tag=contentportfo-20)** (~$32) — Vet-quality flea and tick prevention for dogs 23–44 lbs at a fraction of the prescription price — 6-month supply.
+

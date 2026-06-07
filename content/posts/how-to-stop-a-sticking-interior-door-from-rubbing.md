@@ -106,3 +106,13 @@ The fix that works is almost always the simplest one: tight hinges, a little pla
 *Photo: [Mike van Schoonderwalt](https://www.pexels.com/@mike-van-schoonderwalt-1884800) via Pexels*
 
 ---
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[PetArmor Plus Flea & Tick Prevention — Small Dogs (6 doses)](https://www.amazon.com/dp/B01N0BZUXO/?tag=contentportfo-20)** (~$32) — Same active ingredient as Frontline Plus at a lower price — waterproof topical flea and tick prevention.
+- **[PetArmor Plus Flea & Tick Prevention — Medium Dogs (6 doses)](https://www.amazon.com/dp/B01N03Q8Q1/?tag=contentportfo-20)** (~$32) — Vet-quality flea and tick prevention for dogs 23–44 lbs at a fraction of the prescription price — 6-month supply.
+
