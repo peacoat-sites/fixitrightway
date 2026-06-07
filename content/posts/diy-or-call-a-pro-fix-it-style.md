@@ -17,10 +17,8 @@ Wherever you landed, the smartest fixers are the ones who know when to roll up t
 
 ---
 
-## Recommended Resources
+## Home Repair Cost Guide: DIY vs. Pro
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+Not sure if a job is worth doing yourself? This table covers 30+ common repairs with DIY materials costs, typical contractor rates, and difficulty ratings — so you can make an informed call before you pick up the phone or the wrench.
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)** (~$199) — 200W panel kit with MPPT charge controller for maximum energy harvest.
-
+{{< repair-costs >}}
