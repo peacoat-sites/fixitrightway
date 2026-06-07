@@ -29,6 +29,16 @@ Most people look at a hole in their drywall and think the hard part is the repai
 
 Drywall is a gypsum plaster core sandwiched between two layers of paper. The paper is what holds everything together, and it's what makes patching tricky. When you damage drywall, you're usually exposing raw gypsum, tearing that paper face, or both. Every repair decision you make flows from understanding which of those things happened.
 
+
+## How Much Does Drywall Repair Cost?
+
+| | DIY (parts only) | Professional |
+|---|---|---|
+| **Small hole patch** | $5–$20 | $75–$200 |
+| **Large section repair** | $20–$60 | $200–$500 |
+
+A small patch costs just $5–$20 in materials. See the [full home repair cost guide](/home-repair-cost-guide/) to compare costs across 30+ repairs.
+
 The size of the hole determines your repair strategy. This isn't just a general guideline. It's the actual decision tree.
 
 Nail holes and small dings under about half an inch: these barely count as repairs. A tiny amount of lightweight spackle, let it dry, sand flush, done. You don't need to prime separately if you're painting over it, though I'll explain in a minute why you probably should anyway.
