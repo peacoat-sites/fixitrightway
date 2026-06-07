@@ -674,3 +674,32 @@ a     { color: inherit; text-decoration: none; }
 .hero-emblem { display: inline-block; line-height: 0; margin-bottom: 14px; }
 .hero-emblem .brand-mark { width: 62px; height: 62px; }
 .hero-split-title .ht-accent { color: var(--accent); font-style: italic; font-weight: 700; }
+
+
+/* -- Repair cost table -- */
+.repair-cost-wrap{margin:2rem 0;}
+.rc-meta{font-size:.8rem;color:#666;margin-bottom:.5rem;}
+.rc-controls{display:flex;flex-wrap:wrap;gap:.75rem;align-items:center;margin-bottom:1rem;}
+.rc-controls label{font-weight:600;font-size:.9rem;}
+#rc-filter,#rc-search{padding:.4rem .7rem;border:1px solid #ccc;border-radius:4px;font-size:.9rem;}
+#rc-search{flex:1;min-width:160px;}
+.rc-table-wrap{overflow-x:auto;}
+.repair-cost-table{width:100%;border-collapse:collapse;font-size:.9rem;}
+.repair-cost-table th{background:var(--accent,#c2410c);color:#fff;padding:.55rem .75rem;text-align:left;white-space:nowrap;}
+.repair-cost-table td{padding:.5rem .75rem;border-bottom:1px solid #eee;vertical-align:top;}
+.repair-cost-table tr:nth-child(even) td{background:#f9f9f9;}
+.repair-cost-table tr:hover td{background:#fff3ec;}
+.rc-tip{font-size:.78rem;color:#555;margin-top:.25rem;line-height:1.4;}
+.rc-diy{color:#2563eb;font-weight:600;}
+.rc-pro{color:#555;}
+.rc-save{color:#16a34a;font-weight:600;}
+.rc-diff{display:inline-block;padding:.15rem .45rem;border-radius:3px;font-size:.78rem;font-weight:600;}
+.rc-diff-beginner{background:#dcfce7;color:#166534;}
+.rc-diff-intermediate{background:#fef9c3;color:#854d0e;}
+.rc-diff-advanced{background:#fee2e2;color:#991b1b;}
+.rc-time{white-space:nowrap;color:#444;}
+.rc-disclaimer{font-size:.78rem;color:#888;margin-top:.75rem;}
+@media(max-width:600px){
+  .repair-cost-table th:nth-child(6),.repair-cost-table td:nth-child(6),
+  .repair-cost-table th:nth-child(7),.repair-cost-table td:nth-child(7){display:none;}
+}
