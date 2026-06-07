@@ -31,6 +31,16 @@ Let's fix that.
 
 There are three mechanisms that cause a toilet to run. Treat them as separate diagnoses, not a checklist.
 
+
+## How Much Does Fixing a Running Toilet Cost?
+
+| | DIY (parts only) | Professional |
+|---|---|---|
+| **Replace toilet flapper** | $5–$15 | $75–$150 |
+| **Replace fill valve** | $10–$25 | $100–$200 |
+
+The parts cost less than $20. A plumber charges $75–$150 for the same repair. See the [full home repair cost guide](/home-repair-cost-guide/) to compare costs across 30+ repairs.
+
 **The flapper is leaking.** Water seeps from the tank into the bowl continuously. The fill valve then runs periodically to refill the tank. You hear a hiss or a soft run every 30 to 60 minutes even when nobody's used the toilet.
 
 **The fill valve is failing.** Water either trickles into the bowl through the overflow tube, or the fill valve itself won't fully shut off. You'll hear a constant hiss rather than an intermittent one.
