@@ -1,5 +1,5 @@
 ---
-title: "Spray Foam Vs Fiberglass Insulation For Diy"
+title: "Spray Foam Vs Fiberglass Insulation For DIY"
 date: 2026-06-07T09:50:23.633798+00:00
 draft: false
 description: "Compare spray foam vs fiberglass insulation for DIY projects. Discover costs, R-values, ease of installation, and which option best suits your home and budget."
