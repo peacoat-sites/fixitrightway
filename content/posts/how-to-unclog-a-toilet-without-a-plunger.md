@@ -14,6 +14,11 @@ faqs:
     a: "Most plumbers actually advise against using harsh chemical drain cleaners like Drano in toilets. These products are designed for sink and shower drains and can damage the rubber seals and components inside your toilet tank over time. The natural methods in this guide are safer and surprisingly just as effective."
   - q: "What if the water level is very high, should I still add more water?"
     a: "If the bowl is nearly full, do not add more water until the level drops. Adding water to an already-full bowl risks overflow and a very unpleasant cleanup. Instead, start with the baking soda and vinegar method, which doesn’t require adding significant liquid volume. Wait for the water to drain partially before using the hot water technique."
+author: "Dana Morrison"
+author_slug: "dana-morrison"
+author_title: "Lead Contractor"
+author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+
 ---
 
 Your toilet is clogged, guests are arriving in an hour, and you can’t find the plunger anywhere. It’s a stressful situation that happens to almost every homeowner at some point. The good news is that you can absolutely **unclog a toilet without a plunger** using simple household items you likely already have. This guide walks you through the most effective methods, step by step, so you can solve the problem quickly and confidently.

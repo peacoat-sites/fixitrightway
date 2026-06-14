@@ -14,6 +14,11 @@ faqs:
     a: "It depends on how damaged the bit is. If a cheap bit is only slightly dull, a quick sharpening absolutely makes it worth keeping in your toolbox. However, if a budget bit is badly chipped or bent, replacing it is usually the better choice. High-quality bits are always worth sharpening, since good HSS or cobalt bits can cost several dollars each and last for years with proper care. Think of sharpening as routine maintenance, just like oiling moving parts."
   - q: "What is the correct angle for sharpening a standard twist drill bit?"
     a: "Most general-purpose twist drill bits are sharpened to a 118-degree included angle at the tip, which works well for wood, plastic, and soft metals. For harder materials like stainless steel, a slightly steeper 135-degree angle distributes cutting force more effectively. If you are unsure of the original angle, you can buy inexpensive drill bit angle gauges at most hardware stores. These small tools take the guesswork out of matching the correct geometry when sharpening."
+author: "Paul Zhang"
+author_slug: "paul-zhang"
+author_title: "Electrical Writer"
+author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+
 ---
 
 Your drill bit keeps slipping, skipping, or burning through wood instead of cutting cleanly. Sound familiar? A dull drill bit is one of the most frustrating tool problems in any workshop,  and most people simply throw the bit away and buy a new one. But learning **how to sharpen drill bits** can save you money, reduce waste, and keep your projects running smoothly. The good news is that sharpening drill bits is easier than you might think, even if you have never done it before.

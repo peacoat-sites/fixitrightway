@@ -6,8 +6,6 @@ description: "Learn how to fix a door that won't latch properly with our simple 
 image: "https://images.pexels.com/photos/16720099/pexels-photo-16720099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Doors & Windows"]
 tags: ["door", "that", "won't", "latch", "properly"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-to-fix-a-door-that-wont-latch-properly"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Look for patterns. A single sticky door in summer is normal wood movement. Multiple doors and windows sticking or not closing throughout the house, especially if it came on relatively quickly or got noticeably worse, is worth a professional eye. Cracks in drywall near door corners are another sign to take seriously."
   - q: "What's the easiest way to fix stripped hinge screw holes?"
     a: "Fill the hole with two or three toothpicks and a drop of wood glue, let it cure for an hour, snap off the toothpicks flush, and re-drive the screw. It's low-tech and it genuinely works. If the door is very heavy or the sagging is significant, switch to 3-inch screws that reach the wall stud instead."
+author: "Paul Zhang"
+author_slug: "paul-zhang"
+author_title: "Electrical Writer"
+author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+
 ---
 
 A door that won't latch is one of those problems that starts as a minor annoyance and quietly becomes a source of daily frustration. You push the door closed, it bounces back. You lift the handle a little, angle your shoulder, try again. Eventually you just leave it open because fighting with it isn't worth the energy. If that's where you are right now, you're in good company. I've seen this problem in $80,000 bungalows and $800,000 new builds. It's incredibly common, and in probably 80% of cases, you can fix it yourself in under an hour.

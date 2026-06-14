@@ -14,6 +14,11 @@ faqs:
     a: "In most cases, replacing a countertop is considered a cosmetic improvement and does not require a building permit. However, if your project involves moving plumbing lines or making structural changes to cabinets, you should check with your local building department to be sure."
   - q: "What is the easiest countertop material to install for a DIYer?"
     a: "Laminate countertops are widely considered the most beginner-friendly option. They are lightweight, affordable, easy to cut, and come in a huge variety of colors and styles. Pre-cut laminate sections from home improvement stores make the job even simpler, since minimal cutting is required."
+author: "Kim Reeves"
+author_slug: "kim-reeves"
+author_title: "Interior Renovator"
+author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+
 ---
 
 Your kitchen countertop is cracked, stained, or simply outdated,  and every time you walk into the kitchen, it drains your joy just a little. The good news? Learning **how to replace a kitchen countertop** is a very manageable home improvement project, even if you are not an experienced DIYer. With the right tools, a little patience, and this step-by-step guide, you can give your kitchen a fresh new look and add real value to your home.

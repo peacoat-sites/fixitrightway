@@ -14,6 +14,11 @@ faqs:
     a: "Plan on a minimum of two coats of your topcoat paint, applied over one coat of primer. Some situations, very dark or patterned wallpaper, or textured surfaces, may benefit from a third coat. Always allow each coat to dry fully before assessing whether another coat is needed."
   - q: "Is it better to remove wallpaper or paint over it?"
     a: "The best choice depends on the condition of your wallpaper and the wall behind it. If the wallpaper is firmly adhered, in good condition, and only one or two layers thick, painting over it is often faster and less risky. If the wallpaper is peeling significantly or the walls behind it are sturdy plaster, removal and a fresh start may give you a better long-term result. When in doubt, consult a local painting professional for advice specific to your situation."
+author: "Dana Morrison"
+author_slug: "dana-morrison"
+author_title: "Lead Contractor"
+author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+
 ---
 
 Your walls are covered in dated, peeling, or just plain ugly wallpaper,  and you’re ready for a fresh look without the nightmare of a full removal project. The good news is that learning **how to paint over wallpaper** is entirely possible, and with the right preparation, you can achieve beautiful, long-lasting results. This guide walks you through every step so you can tackle this project with confidence.

@@ -14,6 +14,11 @@ faqs:
     a: "For most homeowners, this repair takes between 30 minutes and one hour from start to finish. If you need to make a trip to the hardware store to match parts, budget a bit of extra time. Having the right replacement parts on hand before you begin is the single best way to speed up the process."
   - q: "Can a leaky outdoor faucet increase my water bill?"
     a: "Absolutely. Even a faucet that drips just once per second can waste more than 3,000 gallons of water per year, according to the U.S. Environmental Protection Agency. That translates directly into higher water bills and unnecessary strain on the environment. Fixing the leak promptly is both a money-saving and eco-friendly decision."
+author: "Steve Adams"
+author_slug: "steve-adams"
+author_title: "Home Inspector"
+author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+
 ---
 
 Your outdoor faucet won’t stop dripping, and that steady _drip, drip, drip_ is costing you money and wasting water every single day. A **leaky outdoor faucet** is one of the most common home plumbing problems, but the good news is that most homeowners can fix it without calling a plumber. With a few basic tools and a little patience, you can stop the leak yourself and feel proud of the accomplishment.

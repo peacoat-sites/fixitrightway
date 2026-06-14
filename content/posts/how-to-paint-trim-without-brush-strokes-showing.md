@@ -6,8 +6,6 @@ description: "Learn how to paint trim without brush strokes showing using the ri
 image: "https://images.pexels.com/photos/7217961/pexels-photo-7217961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Painting"]
 tags: ["paint", "trim", "without", "brush", "strokes"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-paint-trim-without-brush-strokes-showing"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. Sand the affected area with 120-grit until the ridges are gone, feathering out a few inches around the problem area. Wipe clean, apply a thin coat of paint, and tip off carefully. If the strokes are deep and you're dealing with a larger section, it's sometimes faster to sand the whole run of trim back to a smooth surface and start fresh with a better product."
   - q: "Do I really need a primer coat on trim?"
     a: "If you're doing a significant color change, painting over bare wood, or covering a stained surface, yes. If you're repainting previously painted trim in a similar color with a quality paint-and-primer formula, you can often skip a separate primer coat and get away with two finish coats instead. The money you spend on a good waterborne alkyd product is more valuable than a cheap primer under cheap paint."
+author: "Kim Reeves"
+author_slug: "kim-reeves"
+author_title: "Interior Renovator"
+author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+
 ---
 
 You spent the weekend painting your baseboards, stood back to admire the work, and the whole room looks like it was finished with a broom. Brush marks running in every direction, ridges of dried paint catching the light, and that telltale drip you didn't catch in time. I've been there, and I've watched hundreds of homeowners go through the same deflating moment. The good news is that brush strokes on trim aren't a skill problem. They're almost always a product, prep, or technique problem, and every one of those is fixable.

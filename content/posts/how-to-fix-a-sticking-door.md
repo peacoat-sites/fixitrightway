@@ -6,8 +6,6 @@ description: "Learn how to fix a sticking door with our simple step-by-step guid
 image: "https://images.pexels.com/photos/3615723/pexels-photo-3615723.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Doors & Windows"]
 tags: ["sticking", "door"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-fix-a-sticking-door"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Painting helps by sealing the wood against moisture absorption. It won't fix an already-swollen door, but it's genuinely effective as prevention. The key is sealing all six faces of the door, including top and bottom edges that most people ignore. An unsealed bottom edge can absorb enough moisture to cause noticeable swelling on its own."
   - q: "How much does it cost to have a contractor fix a sticking door?"
     a: "A simple hinge adjustment or minor planing runs $75 to $150 for a service call with an experienced handyman. Full door removal, planing, rehanging, and refinishing can run $200 to $400 depending on your area. If the frame needs adjustment or the door needs replacement, add $300 to $800. Foundation issues are a separate budget line entirely."
+author: "Paul Zhang"
+author_slug: "paul-zhang"
+author_title: "Electrical Writer"
+author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+
 ---
 
 A door that sticks in summer and swings free in winter isn't broken. It's telling you something. Most homeowners sand it down, paint it, and then spend the next rainy season fighting it again because they fixed the symptom without understanding the cause. That cycle ends here.

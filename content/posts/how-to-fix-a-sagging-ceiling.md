@@ -14,6 +14,11 @@ faqs:
     a: "Yes, in many cases. If the drywall is still firm and undamaged but has simply pulled away from the joists, you can refasten it with drywall screws and cover the repairs with joint compound. However, if the panel is water-damaged, soft, or crumbling, replacement is the only safe option."
   - q: "How do I prevent my ceiling from sagging again after repair?"
     a: "The best prevention is addressing the root cause, fix any roof leaks, plumbing issues, or ventilation problems that allow moisture to reach your ceiling. Use the correct drywall thickness (5/8 inch in bathrooms and humid spaces) and fasten panels with screws rather than nails. Checking your attic annually for signs of moisture also helps you catch problems early before they become expensive repairs. A sagging ceiling can feel like a major problem, but with the right approach, it’s a very manageable DIY repair. Take your time to diagnose the cause, gather your materials, and work methodically t"
+author: "Maria Gonzalez"
+author_slug: "maria-gonzalez"
+author_title: "Plumbing Writer"
+author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+
 ---
 
 Your ceiling is starting to sag, and that drooping, bubbled section overhead is hard to ignore. Whether it’s a small bulge near a bathroom or a wide, wavy section in your living room, **sagging ceiling repair** is a project many homeowners can tackle themselves with the right tools and a bit of patience. Acting quickly matters,  a sagging ceiling can worsen over time and may eventually collapse if left unaddressed.

@@ -6,8 +6,6 @@ description: "Learn how to replace a light switch safely with our easy step-by-s
 image: "https://images.pexels.com/photos/6000686/pexels-photo-6000686.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Electrical"]
 tags: ["replace", "light", "switch"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-replace-a-light-switch"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Look at the switch body itself. The common terminal is usually labeled, physically marked with a dot, or it's a distinctly different color (often black or dark-colored) compared to the two brass traveler terminals. Before disconnecting anything, put a piece of tape on the wire attached to that common terminal. That wire goes to the common terminal of the new switch, no matter what."
   - q: "What if I turn the breaker back on and nothing works?"
     a: "Check three things: the breaker actually reset (some breakers need to go fully to the OFF position before flipping back to ON), the wires are fully tightened under the screws with good metal-to-metal contact, and you haven't accidentally swapped the hot wire to the wrong terminal. If the breaker immediately trips when you restore power, turn it off and call an electrician. That means something is shorted, and diagnosing a short requires more than a switch swap."
+author: "Paul Zhang"
+author_slug: "paul-zhang"
+author_title: "Electrical Writer"
+author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+
 ---
 
 Most homeowners assume a dead light switch means something is wrong with the switch. Sometimes that's true. But I've seen plenty of cases where the switch was fine and the real problem was a loose wire connection that had been arcing for months. Replacing the switch fixed it, sure, but only because the electrician happened to catch the real issue while the cover plate was off. The point is: opening up a switch box is more diagnostic than most people realize. And with basic precautions, it's one of the most accessible electrical repairs a homeowner can do.

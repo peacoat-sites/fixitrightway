@@ -6,8 +6,6 @@ description: "Learn how to safely replace an electrical outlet with our step-by-
 image: "https://images.pexels.com/photos/978743/pexels-photo-978743.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Electrical"]
 tags: ["replace", "electrical", "outlet"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-replace-an-electrical-outlet"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The outlet box is either too deep for the wall thickness or the mounting tabs aren't catching properly. Outlet shims (thin plastic spacers, a few dollars at the hardware store) slip over the mounting screws and fill the gap. Stack them until the outlet sits flush. This isn't a code issue, it's a cosmetic and mechanical one, but a loose outlet that rocks back and forth can eventually loosen wire connections, so fix it."
   - q: "How long does this job actually take?"
     a: "For a straightforward swap in a modern home: 15 to 20 minutes including turning off the breaker and testing. If you're replacing multiple outlets in a room, figure 10 to 15 minutes each once you're in a rhythm. If you encounter aluminum wiring, no ground wire, or a crowded box with more than three cables, double that and consider whether to call in help."
+author: "Steve Adams"
+author_slug: "steve-adams"
+author_title: "Home Inspector"
+author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+
 ---
 
 Most homeowners who get zapped replacing an outlet don't get zapped by the outlet. They get zapped because they turned off the wrong breaker, assumed the power was dead, and grabbed a wire. That single mistake sends a few thousand people to the ER every year. The good news: replacing an outlet is legitimately a beginner DIY job. The bad news: the margin for error is exactly zero, and most online tutorials skip straight to the screws without covering the part that actually matters.

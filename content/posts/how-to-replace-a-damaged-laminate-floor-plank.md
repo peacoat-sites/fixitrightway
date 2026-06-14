@@ -6,8 +6,6 @@ description: "Learn how to replace a damaged laminate floor plank with our simpl
 image: "https://images.pexels.com/photos/17063686/pexels-photo-17063686.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Flooring"]
 tags: ["replace", "damaged", "laminate", "floor", "plank"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-to-replace-a-damaged-laminate-floor-plank"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "With a good match, the repair is nearly invisible. With a plank that's even slightly off in color or texture, it will stand out, especially in raking light (late afternoon sun hitting the floor at a low angle). The better the match, the better the result -- this is where it's worth spending time before you start cutting."
   - q: "Can I replace a laminate plank if the floor is glued to the subfloor?"
     a: "Technically yes, but it's a much harder job. Glue-down laminate requires cutting the plank out, then scraping the adhesive residue from the subfloor before you can set the replacement. It's doable, but if you're not comfortable with that level of subfloor work, getting a quote from a flooring contractor first is reasonable."
+author: "Steve Adams"
+author_slug: "steve-adams"
+author_title: "Home Inspector"
+author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+
 ---
 
 You probably noticed the damaged plank weeks ago and have been stepping around it ever since. Maybe it's a bubble from a slow leak under the dishwasher, or a crack from something heavy getting dropped, or just that one high-traffic spot near the back door that finally gave up. Whatever the cause, here's the thing most people don't realize: replacing a single laminate plank is genuinely doable on a weekend afternoon, and it doesn't require tearing up your whole floor.

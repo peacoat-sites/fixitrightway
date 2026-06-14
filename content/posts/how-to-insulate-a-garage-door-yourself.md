@@ -6,8 +6,6 @@ description: "Save money and improve energy efficiency by learning how to insula
 image: "https://images.pexels.com/photos/5583054/pexels-photo-5583054.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Energy & Insulation"]
 tags: ["insulate", "garage", "door", "yourself"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-insulate-a-garage-door-yourself"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most modern belt-drive or chain-drive openers (Chamberlain, LiftMaster, Genie) are rated for doors up to 400 pounds and can handle the weight of foam board insulation without issue. If your opener is already hesitating on the way up or struggling to close evenly, get the door balanced by a pro before adding any insulation."
   - q: "Is there a minimum R-value I should be targeting?"
     a: "For a garage attached to a conditioned living space in a cold climate (Climate Zones 5-7 per the building codes), R-13 to R-16 is a reasonable target for the door itself. In milder climates, R-8 to R-10 is enough to make a noticeable difference in comfort and energy use. Below R-6, honestly, you're barely moving the needle."
+author: "Steve Adams"
+author_slug: "steve-adams"
+author_title: "Home Inspector"
+author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+
 ---
 
 My gas bill last January was $340. The month before I insulated my garage door, that same bill had been $410. Same house, same thermostat settings, same Minnesota winter. That $70 difference sounds modest until you add it up across a heating season and realize I spent about $85 on materials.

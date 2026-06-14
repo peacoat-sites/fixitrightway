@@ -14,6 +14,11 @@ faqs:
     a: "It is best to avoid metal razor blades on fiberglass or acrylic tub surfaces, as they can leave scratches that are difficult to repair. Instead, use a plastic caulk removal tool or a nylon scraper, which are gentle enough for these surfaces. For porcelain or ceramic tile, a metal blade is generally safe when used at a low angle with light pressure."
   - q: "What is the best way to remove silicone caulk compared to latex caulk?"
     a: "Silicone caulk is significantly more flexible and resistant to standard caulk removers, so it typically requires a dedicated silicone remover product and a longer soaking time. Latex caulk is softer and easier to remove, often responding well to white vinegar or standard caulk remover after an hour or two. Both types benefit from the scoring step before you attempt to peel them away."
+author: "Steve Adams"
+author_slug: "steve-adams"
+author_title: "Home Inspector"
+author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+
 ---
 
 That dark, cracked strip along your bathtub or kitchen sink has probably been bothering you for months. Old caulk that has turned black, peeled away, or developed mold is more than an eyesore,  it can allow moisture to seep into walls and cause serious damage. Learning **how to remove old caulk** cleanly is one of the most satisfying home maintenance tasks you can tackle, and the good news is that you don’t need to be a handyman to do it right.

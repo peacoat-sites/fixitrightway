@@ -6,8 +6,6 @@ description: "Learn how to fix a hole in the wall from a doorknob with our easy 
 image: "https://images.pexels.com/photos/3926798/pexels-photo-3926798.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Drywall & Walls"]
 tags: ["hole", "wall", "from", "doorknob"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-fix-a-hole-in-the-wall-from-a-doorknob"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is almost always a feathering issue. The transition from the patch to the surrounding wall wasn't gradual enough, leaving a slight ridge or hump that shows under raking light. The fix is to skim a very thin, wide coat of compound over the area, extending it further out than you think you need to. Sometimes 12 inches in each direction. Sand it smooth and reprime. Catching this before painting is much easier than fixing it after."
   - q: "I fixed the hole. What do I use to keep it from happening again?"
     a: "Install a door stop. A hinge-mounted door stop is completely invisible and costs about $5. It attaches directly to the door hinge and physically prevents the door from swinging past a certain point. Wall-mounted rubber bumpers work too but they require the door to hit the same spot every time. A floor-mounted stop is also an option for heavy doors. Any of these will protect your wall indefinitely. It's five minutes of work and the best insurance policy for your fresh repair."
+author: "Dana Morrison"
+author_slug: "dana-morrison"
+author_title: "Lead Contractor"
+author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+
 ---
 
 You already know exactly how it happened. The door swung open a little too hard, maybe the wind caught it, maybe someone wasn't paying attention, and now there's a doorknob-shaped hole punched through your drywall. It's one of the most common wall repairs I get called about, and it's also one of the most unnecessary service calls. This is a repair almost any homeowner can do themselves for under $30 and a Saturday morning. Let me walk you through it the right way so you don't end up with a lumpy, visible patch that bugs you every time you walk past it.

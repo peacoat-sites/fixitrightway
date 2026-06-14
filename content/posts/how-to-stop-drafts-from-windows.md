@@ -14,6 +14,11 @@ faqs:
     a: "Yes, window insulation film is completely safe and designed to be temporary. It attaches using double-sided tape and peels away cleanly when the warmer weather arrives. Most kits leave no sticky residue and won’t damage painted frames when removed carefully."
   - q: "When should I call a professional instead of fixing drafts myself?"
     a: "If your window frame is visibly warped, rotted, or cracked, or if the glass pane itself is broken or fogged between double panes, it’s time to call a window professional. These issues go beyond simple sealing and may require frame repair or full window replacement to solve properly."
+author: "Dana Morrison"
+author_slug: "dana-morrison"
+author_title: "Lead Contractor"
+author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+
 ---
 
 Your windows feel like open holes in the wall every winter,  cold air seeping in, heating bills climbing, and no matter how high you turn up the thermostat, you just can’t seem to get comfortable. If this sounds familiar, you’re dealing with a very common and very fixable problem. A **drafty windows fix** doesn’t have to be expensive or complicated, and most seniors can tackle it safely at home with just a few simple tools and materials.

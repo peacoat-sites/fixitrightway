@@ -14,6 +14,11 @@ faqs:
     a: "A new GFCI outlet that trips repeatedly may indicate moisture in the electrical box, a wiring problem upstream on the circuit, or a faulty appliance plugged into the outlet or a downstream outlet. Try unplugging everything on the circuit and resetting. If the outlet still trips with nothing plugged in, there may be a wiring issue that requires an electrician to diagnose."
   - q: "Can one GFCI outlet protect multiple regular outlets?"
     a: "Yes, this is exactly what the LOAD terminals are designed for. When additional outlets are wired through the LOAD terminals of a GFCI outlet, those downstream outlets also receive GFCI protection. This is why you sometimes see regular-looking outlets in a bathroom labeled “GFCI Protected”, they’re being protected by a GFCI outlet elsewhere on the same circuit."
+author: "Dana Morrison"
+author_slug: "dana-morrison"
+author_title: "Lead Contractor"
+author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+
 ---
 
 Your GFCI outlet keeps tripping, won’t reset, or simply stopped working altogether. It’s a frustrating problem, but the good news is that learning **how to replace a GFCI outlet** is one of the most manageable electrical tasks a homeowner can tackle. With the right tools, a little patience, and careful attention to safety, you can have a fully functioning outlet in about 30 minutes.

@@ -6,8 +6,6 @@ description: "Learn how to patch a hole in a concrete garage floor with our step
 image: "https://images.pexels.com/photos/4792495/pexels-photo-4792495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Masonry & Concrete"]
 tags: ["patch", "hole", "concrete", "garage", "floor"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-to-patch-a-hole-in-a-concrete-garage-floor"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Patching a hole with vinyl patcher does provide some moisture resistance, but it's not a vapor barrier. If you have moisture coming up through your floor (efflorescence, that white chalky residue, is a sign), a patch alone won't stop it. You'd want to address the drainage or grading issues outside and apply a dedicated concrete moisture mitigation coating. Radon is a separate issue and requires a professional assessment and mitigation system if levels are elevated."
   - q: "How long before I can park my car on the patch?"
     a: "With Quikrete Vinyl Concrete Patcher under normal conditions (above 50°F, moderate humidity), plan on a minimum of 72 hours before driving over it. Five to seven days is safer and what I personally recommend. Cold weather slows curing significantly. Below 50°F, you shouldn't be doing this repair at all without heating the space, or using a cold-weather concrete additive."
+author: "Maria Gonzalez"
+author_slug: "maria-gonzalez"
+author_title: "Plumbing Writer"
+author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+
 ---
 
 You've got a hole in your garage floor. Maybe it's been there a while and you've been stepping around it, or maybe something heavy dropped and now there's a chunk of concrete missing that wasn't there last week. Either way, you're probably wondering whether this is a Saturday morning fix or something that's going to cost you real money.

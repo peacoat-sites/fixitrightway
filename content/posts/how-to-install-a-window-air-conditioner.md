@@ -14,6 +14,11 @@ faqs:
     a: "Most standard window AC units (under 15,000 BTU) run on a regular 115-volt, 15-amp household outlet. Larger units may require a 230-volt outlet. Always check your unit’s label and your home’s circuit capacity before plugging in. If you’re unsure, consult a licensed electrician."
   - q: "How do I keep bugs from coming in around my window AC unit?"
     a: "The best defense is thorough sealing with foam weatherstripping around all edges of the unit and side panels. You can also apply a thin bead of removable caulk around the accordion panels where they meet the window frame. Check the seal at the beginning of each season and replace any worn weatherstripping promptly."
+author: "Paul Zhang"
+author_slug: "paul-zhang"
+author_title: "Electrical Writer"
+author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+
 ---
 
 The summer heat is bearing down, your home feels like an oven, and you’re tired of sweaty nights and restless sleep. A window air conditioner is one of the most affordable and effective solutions,  but only if it’s installed correctly. Learning **how to install window AC** units properly can save you money on installation fees and keep your home cool all season long.

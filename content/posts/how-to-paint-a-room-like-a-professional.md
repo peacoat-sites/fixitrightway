@@ -14,6 +14,11 @@ faqs:
     a: "Eggshell and satin finishes are the most versatile choices for living rooms and bedrooms. They are easy to wipe clean and have just enough sheen to look polished without highlighting wall imperfections. Save semi-gloss for trim, doors, and bathrooms where moisture resistance matters most."
   - q: "How much paint do I need to buy?"
     a: "Measure your room’s perimeter, multiply by the ceiling height, then subtract about 20 square feet for each door and window. One gallon of paint covers approximately 350 to 400 square feet. Always buy slightly more than you calculate, having leftover paint for future touch-ups is invaluable."
+author: "Maria Gonzalez"
+author_slug: "maria-gonzalez"
+author_title: "Plumbing Writer"
+author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+
 ---
 
 You stare at the scuffed, faded walls of your living room and wish they looked fresh and new again. Hiring a professional painter can cost hundreds,  sometimes thousands,  of dollars. The good news? Learning **how to paint a room** yourself is completely achievable, even if you have never picked up a brush before. With the right preparation, tools, and technique, you can get results that look every bit as good as the pros.

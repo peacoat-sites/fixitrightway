@@ -14,6 +14,11 @@ faqs:
     a: "No special experience is required to install basic window trim. The most important skill is patience with measuring and cutting. If mitered corners feel too intimidating, you can use a simpler butt joint style with corner blocks, which requires only straight 90-degree cuts and looks beautiful in traditional-style homes."
   - q: "Can I install window trim without a nail gun?"
     a: "Absolutely. A hammer and finish nails work perfectly well for installing window trim. Many experienced carpenters still prefer hand nailing because it gives them more control. Just pre-drill small pilot holes near the ends of your trim pieces to prevent the wood from splitting when you drive the nails in."
+author: "Maria Gonzalez"
+author_slug: "maria-gonzalez"
+author_title: "Plumbing Writer"
+author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+
 ---
 
 Your windows look drafty, unfinished, or just plain bare,  and you know something is missing. Learning **how to install window trim** is one of the most rewarding home improvement projects you can tackle, because the results are immediately visible and beautiful. Whether you are updating an older home or finishing a new window installation, adding trim transforms a plain opening into a polished, professional-looking feature.

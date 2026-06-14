@@ -6,8 +6,6 @@ description: "Learn how to remove black mold from bathroom caulk using simple ho
 image: "https://images.pexels.com/photos/4792489/pexels-photo-4792489.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Bathroom"]
 tags: ["remove", "black", "mold", "from", "bathroom"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-remove-black-mold-from-bathroom-caulk"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "'Kitchen and bath' caulk is usually siliconized latex, not pure silicone. It's easier to apply and clean up (soap and water instead of mineral spirits), but it's less water-resistant over time and more prone to mold penetration. For a shower or tub surround, 100% silicone is worth the slightly harder application."
   - q: "Can I caulk over existing caulk if I remove the mold first?"
     a: "No. Even if the surface is clean, applying new caulk over old creates a bond to old silicone rather than to the substrate. That bond is weaker, traps moisture between layers, and typically fails within a year or two. Remove all the old caulk, clean the joint properly, and start fresh."
+author: "Paul Zhang"
+author_slug: "paul-zhang"
+author_title: "Electrical Writer"
+author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+
 ---
 
 Black mold on bathroom caulk is one of those problems where 90% of the advice online is either dangerously wrong or just sells you something. "Spray bleach on it and you're done" is the most common instruction, and it's also the one that guarantees you'll be back in the same spot six months from now.

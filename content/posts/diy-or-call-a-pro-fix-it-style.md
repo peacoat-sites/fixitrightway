@@ -5,6 +5,11 @@ description: "Take this fun 7-question quiz to discover whether you're a confide
 slug: "diy-or-call-a-pro-fix-it-style"
 date: 2026-05-27T10:00:00+00:00
 tags: ["diy", "home repair", "quiz", "fix-it", "homeowner tips"]
+author: "Maria Gonzalez"
+author_slug: "maria-gonzalez"
+author_title: "Plumbing Writer"
+author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+
 ---
 
 Every homeowner hits that moment: a leaky faucet, a wobbly shelf, a light switch that's gone quiet. Do you grab your toolbox and figure it out, or do you reach for the phone? There's no wrong answer, just the answer that's right for *you*.

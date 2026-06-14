@@ -6,8 +6,6 @@ description: "Learn how to fix a running toilet with our simple step-by-step gui
 image: "https://images.pexels.com/photos/4239036/pexels-photo-4239036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Plumbing"]
 tags: ["running", "toilet"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-fix-a-running-toilet"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Three things to check. First, confirm the flapper is the right size for your toilet. Second, inspect the flapper seat on the overflow tube for roughness or mineral buildup. Third, check whether water is now going over the top of the overflow tube instead, which means the float is set too high. Run the dye test again with the new flapper installed. If color still shows in the bowl, you have a seat problem. If the tank overfills, you have a float problem."
   - q: "How do I know if I should repair my toilet or just replace it?"
     a: "If your toilet is newer than 15 years old, repair it every time. Parts are cheap, the fix is fast, and modern toilets are better than whatever you'd buy at the entry-level price point. If your toilet is a pre-1994 water-guzzling 3.5-gallon model, a running toilet might be the excuse to upgrade to a 1.28-gallon high-efficiency unit. You'll save $30 to $50 a year on water just from the efficiency improvement. The math on replacement makes sense in that scenario."
+author: "Paul Zhang"
+author_slug: "paul-zhang"
+author_title: "Electrical Writer"
+author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+
 ---
 
 A running toilet wastes between 20 and 200 gallons of water per day. That's not a typo. A slow, lazy run adds $10-$30 to your monthly water bill. A full-bore phantom flush can cost you $70 or more. The maddening part: most running toilets take under 30 minutes to fix, cost less than $15 in parts, and require zero plumbing experience. The reason people don't fix them isn't difficulty. It's that most guides skip straight to "replace the flapper" without explaining how to figure out which of three completely different problems you're actually dealing with.

@@ -6,8 +6,6 @@ description: "Learn how to stop a door from squeaking with simple fixes using ho
 image: "https://images.pexels.com/photos/35073953/pexels-photo-35073953.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Doors & Windows"]
 tags: ["stop", "door", "from", "squeaking"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-stop-a-door-from-squeaking"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For normal interior doors in a house with average humidity, lubricating the hinges every 5 to 10 years is plenty if you use lithium grease. High-use doors (front door, bathroom doors, busy kitchen doors) might benefit from attention every 3 to 5 years. If you're using petroleum jelly or a thinner oil, plan on reapplying more frequently."
   - q: "Is it worth replacing old hinges or should I just keep lubricating them?"
     a: "Replacement makes sense when the barrel is visibly worn and the pin has noticeable play in it, when the hinge is bent or the screw holes are badly stripped, or when the hinge is just plain ugly and you want to update the hardware anyway. A standard interior door hinge costs $4 to $12. Replacing a hinge is a 20-minute job with a screwdriver. If you've lubricated the same hinge three times in two years and it keeps squeaking, replacement is the smarter move."
+author: "Maria Gonzalez"
+author_slug: "maria-gonzalez"
+author_title: "Plumbing Writer"
+author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+
 ---
 
 Most people grab a can of WD-40, spray the hinges, and call it done. The squeak comes back in two weeks. I've seen this cycle repeat dozens of times on job sites and in client homes, and the frustrating part is that WD-40 is one of the worst things you can use on a squeaky door hinge. It's a solvent and water displacer, not a lubricant. It cleans out the existing grease, gives you a brief quiet period, and then leaves metal grinding on metal again. If your door squeak has come back multiple times after treatment, this is probably why.

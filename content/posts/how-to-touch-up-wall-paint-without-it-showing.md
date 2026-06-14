@@ -6,8 +6,6 @@ description: "Learn how to touch up wall paint without it showing using expert b
 image: "https://images.pexels.com/photos/4312855/pexels-photo-4312855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Painting"]
 tags: ["touch", "wall", "paint", "without", "showing"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-touch-up-wall-paint-without-it-showing"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A 4-inch foam roller works well for patches under about 12 inches. For larger areas, use a standard 9-inch roller with the same nap as the original wall. Wooster and Purdy both make reliable small rollers in the $4 to $8 range. Avoid the cheapest foam rollers since they tend to leave bubbles."
   - q: "Should I prime before touching up paint?"
     a: "If you're covering raw joint compound or fresh drywall repair, yes, always prime first. On an intact painted surface that just needs color matched, priming isn't necessary and can actually make the sheen mismatch worse. The exception is if the damaged area has any staining from water, smoke, or marker, in which case a shellac-based primer like Zinsser BIN before your top coat is worth it."
+author: "Maria Gonzalez"
+author_slug: "maria-gonzalez"
+author_title: "Plumbing Writer"
+author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+
 ---
 
 Most touch-up paint jobs look worse than the original damage. I'll be honest: I spent years telling homeowners "just dab it on and feather the edges" before I finally understood why that advice produces ghostly patches and mismatched sheen on practically every wall it's tried on. The problem isn't technique, at least not entirely. The problem is that most people don't know what they're actually fighting against.

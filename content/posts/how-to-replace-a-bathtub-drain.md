@@ -14,6 +14,11 @@ faqs:
     a: "You can often remove a drain using needle-nose pliers inserted into the crossbars of the drain, though a dedicated drain removal tool makes the job significantly easier and reduces the risk of slipping and scratching your tub. Drain tools are inexpensive and available at any hardware store for around $5 to $15."
   - q: "Do I need to use plumber’s putty or silicone caulk?"
     a: "It depends on your tub material. Plumber’s putty works well on cast iron and ceramic tubs but can stain acrylic and fiberglass surfaces. For acrylic and fiberglass tubs, use a silicone-based sealant instead. Always check the instructions included with your new drain kit, as many modern kits will specify which sealant to use."
+author: "Paul Zhang"
+author_slug: "paul-zhang"
+author_title: "Electrical Writer"
+author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+
 ---
 
 Your bathtub is draining slower and slower, or worse,  water is pooling around your feet every time you shower. A worn-out or corroded drain can make bath time frustrating, and ignoring it only leads to bigger plumbing headaches down the road. The good news is that learning **how to replace a bathtub drain** is a manageable DIY project, even for seniors who may not consider themselves handy. With the right tools, a little patience, and this step-by-step guide, you can restore your tub to full working order safely and confidently.

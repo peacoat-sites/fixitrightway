@@ -14,6 +14,11 @@ faqs:
     a: "Yes, you can use self-leveling compound on plywood or OSB subfloors, but preparation is critical. The subfloor must be structurally sound, firmly fastened (no squeaks or movement), and properly primed. Any movement in the subfloor can cause the leveler to crack, so make sure all loose boards are screwed down securely before you begin."
   - q: "How long does self-leveling compound last under tile?"
     a: "When properly applied over a stable subfloor, self-leveling compound can last for many years, easily 10 to 20 years or more, without any issues. The key factors are thorough surface preparation, proper priming, correct mixing, and adequate cure time before tiling. Cutting corners on any of these steps can shorten its lifespan significantly."
+author: "Kim Reeves"
+author_slug: "kim-reeves"
+author_title: "Interior Renovator"
+author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+
 ---
 
 Your floor looks uneven, your tiles keep cracking, and every time you walk across the room you can feel the dips and bumps beneath your feet. Sound familiar? Before you can lay a beautiful, lasting tile floor, you need to tackle **uneven floor leveling**,  and the good news is that with the right materials and a little patience, this is a project most homeowners can handle themselves.

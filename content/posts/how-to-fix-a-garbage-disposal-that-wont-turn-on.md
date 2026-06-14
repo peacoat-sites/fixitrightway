@@ -6,8 +6,6 @@ description: "Learn how to fix a garbage disposal that won't turn on with our st
 image: "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Kitchen"]
 tags: ["garbage", "disposal", "that", "wont", "turn"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-fix-a-garbage-disposal-that-wont-turn-on"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. A seized or failing motor draws excess current and will trip a breaker, sometimes repeatedly. If your disposal breaker trips immediately on startup, the motor is either mechanically seized or electrically failing. Clear any jam first. If the breaker still trips, the motor is done."
   - q: "How long should a garbage disposal last?"
     a: "A decent disposal, used reasonably, lasts 10 to 15 years. InSinkErator's upper-tier models (the Evolution series) tend to outlast the budget units significantly. The biggest life-reducers are grinding fibrous foods like celery and artichoke leaves, running without water, and putting grease down the drain regularly."
+author: "Steve Adams"
+author_slug: "steve-adams"
+author_title: "Home Inspector"
+author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+
 ---
 
 Your garbage disposal is silent when you hit the switch. No hum, no grind, nothing. Most articles will send you straight to "call a plumber." That's almost always wrong. In my experience, a disposal that won't turn on at all is usually fixable in under ten minutes without touching a single tool.

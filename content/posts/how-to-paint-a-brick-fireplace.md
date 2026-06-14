@@ -14,6 +14,11 @@ faqs:
     a: "It is safe as long as you use the right products. Always choose heat-resistant masonry paint for areas close to the firebox opening, and allow paint to fully cure before lighting a fire. The outer portions of the fireplace surround that do not directly face the heat can use standard latex masonry paint safely."
   - q: "Can you remove paint from a brick fireplace if you change your mind?"
     a: "Removing paint from brick is possible but quite difficult and labor-intensive. It typically involves chemical paint strippers and a lot of scrubbing. Because of this, many experts suggest that painting brick should be considered a semi-permanent change. Make sure you love your color choice before you commit."
+author: "Paul Zhang"
+author_slug: "paul-zhang"
+author_title: "Electrical Writer"
+author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+
 ---
 
 Your brick fireplace once looked charming, but now it looks dated, dingy, or simply out of place in your updated living room. The good news? Learning **how to paint a brick fireplace** is a manageable weekend project that can completely transform the heart of your home. With the right preparation, materials, and a little patience, you can give that tired brick a fresh, modern look,  no contractor required.

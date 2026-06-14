@@ -14,6 +14,11 @@ faqs:
     a: "In some cases, yes. If the drawer is only slightly off track and you can see a roller that has popped off its channel, you may be able to gently guide it back by pressing it firmly back onto the track while slowly pushing the drawer inward. However, fully removing the drawer gives you much better access and leads to a more reliable, lasting repair."
   - q: "How do I know if I need side-mounted or bottom-mounted replacement slides?"
     a: "Look inside your cabinet with the drawer removed. If you see metal tracks running along the left and right walls of the cabinet opening, those are side-mounted slides. If there is a single track in the center of the cabinet floor, that is a bottom-mounted or center-mount slide. Always replace like for like to avoid having to modify your drawer or cabinet."
+author: "Kim Reeves"
+author_slug: "kim-reeves"
+author_title: "Interior Renovator"
+author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+
 ---
 
 Your kitchen drawer suddenly pops loose, tilts sideways, and refuses to slide back in smoothly,  sound familiar? A **kitchen drawer off track** is one of the most common and frustrating household problems, especially in homes where drawers see heavy daily use. The good news is that this is almost always a fix you can do yourself, without calling a handyman, and without spending a lot of money.

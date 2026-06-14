@@ -6,8 +6,6 @@ description: "Learn how to replace a ceiling light fixture yourself with this si
 image: "https://images.pexels.com/photos/7484795/pexels-photo-7484795.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Electrical"]
 tags: ["replace", "ceiling", "light", "fixture", "yourself"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-replace-a-ceiling-light-fixture-yourself"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Look for a weight rating stamped or printed on the box itself (bring a flashlight). If you can't find one, assume the limit is 35 lbs for a standard box and upgrade accordingly. A box that's directly screwed or nailed to a joist will generally handle more than one that's only secured to drywall with a brace bar, though rated brace bars are engineered to handle substantial loads."
   - q: "The wires in my ceiling are aluminum, not copper. Does that change anything?"
     a: "It does, and it matters. Aluminum wiring (common in homes built roughly 1965-1973) requires CO/ALR-rated wire nuts and devices specifically approved for aluminum connections. Using standard copper wire nuts on aluminum wiring is a fire hazard. If you've got aluminum, the fixture swap itself isn't impossible, but use the correct connectors and consider having an electrician verify the connections if you're uncertain. This is one of the few cases where the extra phone call is genuinely worth it."
+author: "Maria Gonzalez"
+author_slug: "maria-gonzalez"
+author_title: "Plumbing Writer"
+author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+
 ---
 
 Most electrical guides open with three paragraphs about turning off the breaker. You already know to turn off the breaker. Let's skip to the parts that actually trip people up.

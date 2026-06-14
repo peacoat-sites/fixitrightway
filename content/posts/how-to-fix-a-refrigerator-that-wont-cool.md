@@ -14,6 +14,11 @@ faqs:
     a: "After making a repair or adjustment, give your refrigerator at least 4 to 8 hours to return to proper cooling temperature. Large appliances take time to stabilize, especially after being unplugged or manually defrosted. Use a thermometer to confirm the temperature has reached 35°F to 38°F before reloading it with food."
   - q: "Is it worth repairing an older refrigerator that won’t cool?"
     a: "As a general rule, if the repair cost is more than 50 percent of the price of a new refrigerator and the appliance is over 10 years old, replacement is often the better investment. Minor fixes like cleaning coils or replacing a door gasket are almost always worth doing regardless of age. A trusted appliance technician can help you weigh the options honestly."
+author: "Kim Reeves"
+author_slug: "kim-reeves"
+author_title: "Interior Renovator"
+author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+
 ---
 
 Your refrigerator isn’t keeping food cold, and you can feel the panic setting in. A **refrigerator that won ’t cool** is more than an inconvenience,  it can mean spoiled groceries, wasted money, and a stressful afternoon. The good news is that many common cooling problems are surprisingly easy to diagnose and fix yourself, without calling an expensive repair technician right away.

@@ -6,8 +6,6 @@ description: "Learn how to wire a three way switch safely with this beginner-fri
 image: "https://images.pexels.com/photos/5357150/pexels-photo-5357150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Electrical"]
 tags: ["wire", "three", "switch", "beginners"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-wire-a-three-way-switch-for-beginners"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "That flickering is almost always a loose connection at the common terminal. Turn the power off, pull the switch out, and check that the wire seated fully under the screw. With push-in terminals this can also mean the wire didn't fully seat. Strip a fresh 3/4 inch of insulation and reconnect it."
   - q: "Can I add a dimmer to a three-way switch setup?"
     a: "Yes, but you need a dimmer specifically rated for three-way use, like the Lutron Diva DVCL-153P (~$30). You can replace one or both switches with compatible three-way dimmers, but both dimmers must be from the same compatible line. Mixing brands usually doesn't work. Also check your bulbs: three-way dimmers require dimmable LED or incandescent bulbs and won't play nicely with non-dimmable LEDs."
+author: "Paul Zhang"
+author_slug: "paul-zhang"
+author_title: "Electrical Writer"
+author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+
 ---
 
 Three-way switches broke my brain the first time I encountered them. I'd been doing basic electrical work for a couple of years, felt reasonably confident, and then stared at a box with two black wires, a red wire, and a ground, completely baffled about why my hallway light kept staying on no matter which switch I flipped. That was 1998. I've wired probably a few hundred three-way circuits since then, and I still think the instructions that come with most switches are genuinely terrible.

@@ -6,8 +6,6 @@ description: "Learn how to fix a leaky faucet with our simple step-by-step guide
 image: "https://images.pexels.com/photos/36787115/pexels-photo-36787115.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Plumbing"]
 tags: ["leaky", "faucet"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-fix-a-leaky-faucet"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A few indicators lean toward full replacement: the faucet is very old (20-plus years) and parts are hard to source, the body of the faucet is cracked or corroded, or you've repaired the same faucet twice in a year and it keeps failing. Also, if your current faucet is a builder-grade fixture that cost $30 originally, a $40 repair doesn't make sense when a better replacement faucet costs $60-80 and comes with a warranty."
   - q: "Can a leaky faucet cause water damage under my sink?"
     a: "Yes, and it happens more often than people expect. A faucet that's leaking at the base or at a supply connection can drip slowly into the cabinet below, warping the cabinet floor, promoting mold growth, and eventually damaging the subfloor. I've seen what looked like a minor faucet leak turn into a $2,000 cabinet and subfloor repair because nobody checked under the sink. Any time you notice a leak, open the cabinet doors and look at the condition of the wood down there."
+author: "Maria Gonzalez"
+author_slug: "maria-gonzalez"
+author_title: "Plumbing Writer"
+author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+
 ---
 
 You wake up at 2 a.m. to the sound of dripping water. Not a flood, not a burst pipe, just that maddening, metronomic drip coming from your bathroom faucet. You jam a pillow over your head and tell yourself you'll deal with it tomorrow. Three weeks later, you're still "dealing with it tomorrow," and your water bill just jumped $40. That drip you're ignoring is wasting somewhere between 3,000 and 5,000 gallons of water a year, depending on the drip rate. I've seen homeowners convince themselves a leaky faucet is a plumber's problem when, nine times out of ten, it's a Saturday morning fix that costs under $20 in parts.

@@ -14,6 +14,11 @@ faqs:
     a: "Concrete is strongly recommended for any mailbox post installation. Without it, the post can shift, lean, or work loose over time, especially in sandy or loose soil. Quick-setting concrete mix is inexpensive, easy to use, and gives your post a foundation that can last for decades with minimal maintenance."
   - q: "How long does it take to install a mailbox post?"
     a: "Most homeowners can complete a mailbox post installation in two to four hours, not counting the concrete curing time. Plan to wait at least 24 hours after setting the post in concrete before attaching your mailbox. If you’re removing an old post first, add another 30 to 60 minutes for that step."
+author: "Steve Adams"
+author_slug: "steve-adams"
+author_title: "Home Inspector"
+author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+
 ---
 
 Your old mailbox post has finally given up the ghost,  it’s leaning sideways, rotting at the base, or simply falling apart. Whether you’re replacing a worn-out post or installing a brand-new one, knowing **how to install a mailbox post** correctly can save you time, money, and a second trip to the hardware store. The good news? This is a manageable weekend project that most homeowners can tackle with basic tools and a little guidance.

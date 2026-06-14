@@ -14,6 +14,11 @@ faqs:
     a: "Most standard residential window films are safe for single-pane and double-pane windows when applied correctly. However, some manufacturers recommend against certain dark films on double-pane windows because heat absorption can occasionally cause thermal stress cracking. Check your window manufacturer’s documentation before choosing a very dark film. If you are unsure, opt for a lighter film or consult a professional installer for advice specific to your window type."
   - q: "Can I remove window tint film if I change my mind?"
     a: "Yes, window tint film is removable, though it does require some effort. Use a razor blade held at a low angle to lift a corner of the film, then peel it back slowly while keeping the glass warm with a heat gun or hair dryer on a low setting. Any adhesive residue left behind can be removed with rubbing alcohol or a commercial adhesive remover applied gently with a soft cloth. Your glass should be left in perfect condition once the residue is fully cleaned away."
+author: "Paul Zhang"
+author_slug: "paul-zhang"
+author_title: "Electrical Writer"
+author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+
 ---
 
 Your home feels like a greenhouse every summer afternoon, and your furniture is slowly fading from constant sun exposure. If you’re tired of paying high energy bills and squinting through glare-filled windows, learning **how to tint house windows** yourself is a smart, affordable solution. Window tinting is a weekend project that seniors and homeowners of any skill level can tackle with the right guidance and a little patience.

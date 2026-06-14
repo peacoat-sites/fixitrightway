@@ -6,8 +6,6 @@ description: "Learn how to patch a hole in drywall with this step-by-step guide.
 image: "https://images.pexels.com/photos/5493663/pexels-photo-5493663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Drywall & Walls"]
 tags: ["patch", "hole", "drywall"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-patch-a-hole-in-drywall"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Buy a can of aerosol orange peel texture from any hardware store. Practice on cardboard or a scrap piece of drywall until you can match the size of the bumps on your wall. Apply over the primed patch in light coats. The most common mistake is spraying too close, which creates large splatters instead of fine texture. Let it dry completely, then prime again over the texture before painting."
   - q: "What's the difference between a handyman and a drywall finisher?"
     a: "A drywall finisher (also called a taper) specializes specifically in taping joints and finishing drywall to a paintable surface. For complex texture matching or large repairs where invisibility matters, a taper is the better call. A general handyman can handle most standard patches competently. For anything touching original plaster, water-damaged areas that might have mold, or structural damage that caused the hole, call a licensed contractor rather than either."
+author: "Steve Adams"
+author_slug: "steve-adams"
+author_title: "Home Inspector"
+author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+
 ---
 
 Most people look at a hole in their drywall and think the hard part is the repair. I've watched hundreds of homeowners carefully patch, sand, and prime a wall only to end up with a ghost — a faint circular outline that shows up the moment the light hits it at the wrong angle. The hard part isn't filling the hole. The hard part is making it disappear completely. And if you don't understand why those ghosts appear (and how to prevent them from the start), you'll be repainting the same spot three times wondering what went wrong.

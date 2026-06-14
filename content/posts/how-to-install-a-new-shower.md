@@ -14,6 +14,11 @@ faqs:
     a: "In most areas, replacing an existing shower in the same location does not require a permit. However, if you are moving plumbing or changing the footprint of the shower, a permit is typically required. Always check with your local building department before starting to avoid fines or complications when selling your home."
   - q: "Can I install a walk-in shower myself to improve safety?"
     a: "Yes, and it is an excellent idea for adults over 60. Walk-in showers with low or zero-threshold entries are highly accessible and can be installed using the same process described in this guide. Look for kits specifically labeled as accessible or ADA-compliant, and consider adding grab bars rated for at least 250 pounds of force for maximum safety."
+author: "Dana Morrison"
+author_slug: "dana-morrison"
+author_title: "Lead Contractor"
+author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+
 ---
 
 Your old shower is cracked, leaking, or simply outdated,  and every morning it reminds you of the renovation you keep putting off. Whether you are replacing a worn-out unit or upgrading your bathroom for better accessibility, knowing **how to install a shower** can save you significant money and give you a space that truly works for your needs. The good news? With the right preparation and a little patience, this is a project many handy homeowners can tackle over a weekend.

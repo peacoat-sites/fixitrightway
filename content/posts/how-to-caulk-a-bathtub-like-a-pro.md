@@ -6,8 +6,6 @@ description: "Learn how to caulk a bathtub like a pro with our step-by-step guid
 image: "https://images.pexels.com/photos/4312849/pexels-photo-4312849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Bathroom"]
 tags: ["caulk", "bathtub", "like"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-to-caulk-a-bathtub-like-a-pro"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For most people: a damp fingertip with a drop of dish soap. That's it. Professional caulk tools are nice but they're solving a problem most homeowners don't actually have. The technique matters more than the tool."
   - q: "How soon can I use the tub after caulking?"
     a: "Read your specific product, because they vary, but as a general rule: 24 hours for most silicone products, sometimes 48 hours in low humidity or poor ventilation. Some siliconized latex products claim a 3-hour cure, and they're not entirely wrong, but I'd still wait a full day. The longer you give it, the better the bond."
+author: "Steve Adams"
+author_slug: "steve-adams"
+author_title: "Home Inspector"
+author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+
 ---
 
 Bad caulk jobs are one of the most common things I see on residential walkthroughs. Not because caulking is hard. Because most people skip two steps that matter enormously, and then wonder why their fresh bead is cracking or peeling within six months.

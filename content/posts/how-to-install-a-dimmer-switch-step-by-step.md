@@ -6,8 +6,6 @@ description: "Learn how to install a dimmer switch safely with our easy step-by-
 image: "https://images.pexels.com/photos/17419779/pexels-photo-17419779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Electrical"]
 tags: ["install", "dimmer", "switch", "step", "step"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-install-a-dimmer-switch-step-by-step"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A single-pole dimmer controls a light from one location only. A 3-way setup means two switches control the same light. You need dimmers specifically rated for 3-way use, and the wiring is more involved because of the traveler wires. Don't buy a single-pole dimmer and try to force it into a 3-way setup."
   - q: "Will installing a dimmer save me money on electricity?"
     a: "Yes, though probably less than you're hoping. Dimming an incandescent bulb to 75% does reduce energy use noticeably. With LED bulbs, the savings are smaller in absolute terms because LEDs already draw so little power, but the bigger benefit is bulb lifespan. LEDs that run dimmed tend to last longer than ones running at full brightness all the time."
+author: "Paul Zhang"
+author_slug: "paul-zhang"
+author_title: "Electrical Writer"
+author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+
 ---
 
 Most people are more scared of this project than they need to be. I'll be honest: the first dimmer switch I ever installed took me about 45 minutes because I kept second-guessing myself, checking and rechecking the wiring. These days I can swap one out in under ten minutes. The work itself isn't hard. What trips people up is not understanding what they're looking at when they open the wall box.

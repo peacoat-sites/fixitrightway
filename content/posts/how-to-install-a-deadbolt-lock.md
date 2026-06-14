@@ -14,6 +14,11 @@ faqs:
     a: "No problem, you simply drill the holes yourself using the hole saw sizes described above. Most solid wood and hollow-core doors can be drilled without any issues. If you have a steel or fiberglass door, use a hole saw specifically designed for those materials, which you can find at any hardware store."
   - q: "How do I know if my new deadbolt is installed correctly?"
     a: "A correctly installed deadbolt will operate smoothly with no stiffness or grinding, the bolt will fully extend and retract, and the door will close and lock without any forcing. The faceplate and strike plate should both sit flush with the wood surface. If anything feels off, revisit the alignment of the strike plate first, that’s the most common culprit."
+author: "Kim Reeves"
+author_slug: "kim-reeves"
+author_title: "Interior Renovator"
+author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+
 ---
 
 Your front door feels a little less secure than it used to, and you know it’s time to upgrade that old lock. Installing a deadbolt is one of the smartest home security improvements you can make,  and learning **how to install a deadbolt** yourself can save you money while giving you real peace of mind. The good news is that this is a manageable DIY project, even if you’re not especially handy around the house.

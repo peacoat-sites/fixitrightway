@@ -14,6 +14,11 @@ faqs:
     a: "Most experts recommend lubricating sliding door tracks at least once or twice per year, especially before summer and winter when temperature changes can cause tracks to expand or contract. If your door is used heavily every day, for example, as a main entrance to a patio, quarterly lubrication will keep it running smoothly year-round. Regular maintenance is far easier than dealing with a fully stuck door later."
   - q: "Can I fix a sliding door stuck in the track without removing the door?"
     a: "Yes, in many cases you can. Cleaning the track, lubricating it, and adjusting the roller height screws can all be done without removing the door panel. Only when you need to replace the rollers or inspect the bottom of the door closely will you need to remove it. Always try the simpler fixes first, a good cleaning and lubrication resolves the issue for a large number of homeowners."
+author: "Dana Morrison"
+author_slug: "dana-morrison"
+author_title: "Lead Contractor"
+author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+
 ---
 
 Your sliding door is stuck, and no matter how hard you pull or push, it simply refuses to budge. A **sliding door stuck** in its track is one of the most frustrating household problems,  especially when it stands between you and your backyard, patio, or balcony. The good news is that in most cases, you can fix it yourself without calling a repair professional.

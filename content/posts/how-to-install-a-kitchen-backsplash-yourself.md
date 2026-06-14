@@ -14,6 +14,11 @@ faqs:
     a: "Subway tiles and sheet-mounted mosaic tiles are both excellent choices for first-timers. Subway tiles are flat, uniform, and widely available. Sheet-mounted mosaics come pre-spaced on a mesh backing, which dramatically speeds up placement and keeps grout lines perfectly consistent without individual spacers."
   - q: "Do I need to remove the old backsplash before installing a new one?"
     a: "Ideally, yes, especially if the existing tiles are loose, cracked, or uneven. Tiling over old tile can work if the surface is completely solid and flat, but it does add thickness, which may affect how your outlets sit flush with the wall. If you are unsure, removing the old tile gives you the cleanest possible result."
+author: "Maria Gonzalez"
+author_slug: "maria-gonzalez"
+author_title: "Plumbing Writer"
+author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+
 ---
 
 Your kitchen backsplash is cracked, stained, or simply stuck in 1987,  and every time you cook, you stare at it wishing something would change. The good news? Learning **how to install a kitchen backsplash** yourself is one of the most rewarding DIY projects you can tackle on a weekend. It transforms the look of your entire kitchen without the cost of a full renovation.

@@ -6,8 +6,6 @@ description: "Learn how to unclog a drain without chemicals using simple tools a
 image: "https://images.pexels.com/photos/4239086/pexels-photo-4239086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Plumbing"]
 tags: ["unclog", "drain", "without", "chemicals"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-to-unclog-a-drain-without-chemicals"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not necessarily. A smell without slow draining is often a biofilm issue, which is a thin layer of bacteria and soap scum coating the inside of the drain pipe. Try pouring a cup of baking soda followed by a cup of white vinegar, letting it sit for 30 minutes, then flushing with hot water. If the smell is sulfur-like or sewage-like, check that your P-trap hasn't dried out (common in guest bathrooms that don't get used often). Running the water for a minute will refill it. Persistent sewage smell warrants a closer look."
   - q: "What's the right way to maintain drains so they don't clog in the first place?"
     a: "The most effective habits are the simplest ones. Use a mesh drain cover in the shower to catch hair before it enters the drain. Never pour grease down the kitchen sink. Run hot water for 30 seconds after doing dishes. Once a month, flush your drains with hot water for a couple of minutes. That's genuinely it. Most of the enzyme-based maintenance products you'll see marketed are not harmful, but they're also not necessary if you're following the basics."
+author: "Steve Adams"
+author_slug: "steve-adams"
+author_title: "Home Inspector"
+author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+
 ---
 
 You're standing there watching water pool around your ankles in the shower, or staring at a kitchen sink that's draining so slowly you can still see yesterday's dishwater sitting in it. Maybe you've already poured half a bottle of Drano down there with mixed results. Here's something most people don't realize: chemical drain cleaners are often the least effective solution for a real clog, and they can actually damage older pipes, corrode metal P-traps, and create a hazardous situation if you then need to snake the drain manually. The good news is that most household drain clogs can be cleared with tools you already own or can buy for under $30, and once you know the method, you'll never go back to the chemical stuff.

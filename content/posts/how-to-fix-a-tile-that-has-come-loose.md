@@ -14,6 +14,11 @@ faqs:
     a: "The active work time is usually just two to three hours for a single tile. However, you need to factor in drying time, the adhesive typically needs 24 hours to cure before you can grout, and the grout needs another 48 to 72 hours before the repair is fully ready for normal traffic. Plan to keep the area out of use for about three days total."
   - q: "What if the tile cracks when I try to remove it?"
     a: "A broken tile during removal is not unusual, especially with older, more brittle tiles. Take a small piece of the broken tile to a tile store to try to find a match. If an exact match is unavailable, consider replacing two or three tiles in a small pattern to make any color difference look intentional rather than accidental. Keeping a few spare tiles from your original installation is always a smart practice for exactly this reason."
+author: "Maria Gonzalez"
+author_slug: "maria-gonzalez"
+author_title: "Plumbing Writer"
+author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+
 ---
 
 You hear it before you feel it,  that hollow clunk underfoot as you walk across your kitchen or bathroom floor. A loose floor tile is more than just annoying; left unaddressed, it can crack, shift further, and even become a tripping hazard. The good news is that **loose floor tile repair** is one of those satisfying home improvement tasks you can absolutely tackle yourself, even if you have never picked up a grout saw before. With the right tools, a little patience, and this step-by-step guide, you can have your floor looking solid and beautiful again in just a weekend.

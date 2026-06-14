@@ -6,8 +6,6 @@ description: "Learn how to paint over a water stain on your ceiling with our sim
 image: "https://images.pexels.com/photos/7640990/pexels-photo-7640990.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Painting"]
 tags: ["paint", "over", "water", "stain", "ceiling"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-paint-over-a-water-stain-on-ceiling"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If it's soft, spongy, crumbling, or the paper face is peeling away from the gypsum in sheets, it needs replacing. Drywall is cheap, around $15 for a 4x8 sheet, and replacing a 12-inch section is an afternoon's work. Trying to paint over structurally compromised drywall is how you end up with a ceiling that sags."
   - q: "Is this job worth hiring out?"
     a: "For a straightforward stain on intact drywall, no. It's well within DIY range and a painter will charge $150-300 for something you can do in an afternoon for $40 in materials. Where you should hire: if there's mold involvement, if the drywall replacement is significant, or if you need to blend a large painted area on a textured ceiling. Texture matching is genuinely skilled work and a bad texture patch looks worse than the stain."
+author: "Steve Adams"
+author_slug: "steve-adams"
+author_title: "Home Inspector"
+author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+
 ---
 
 You can paint over a water stain with regular latex ceiling paint. That's what most people do. And within six months, the stain is back, slightly darker, slightly more humiliating, and now you've also got a weird texture spot from the extra coats.

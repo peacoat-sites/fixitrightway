@@ -6,8 +6,6 @@ description: "Find the best drain snake for a clogged bathroom sink. We review t
 image: "https://images.pexels.com/photos/4312853/pexels-photo-4312853.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Plumbing"]
 tags: ["best", "drain", "snake", "clogged", "bathroom"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "best-drain-snake-for-a-clogged-bathroom-sink"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. A slow drain is a partial clog, and it'll become a full stop within weeks. Snaking it now takes ten minutes. Snaking it when you have a sink full of standing water is the same job but more annoying."
   - q: "Are drain cleaning chemicals better than snaking?"
     a: "For hair clogs, no. Liquid drain cleaners (Drano, Liquid-Plumr) work reasonably well on grease and soap scum but don't dissolve hair effectively. They also sit in your P-trap and can soften older plastic fittings with repeated use. A snake physically removes the clog. That's a more complete fix."
+author: "Dana Morrison"
+author_slug: "dana-morrison"
+author_title: "Lead Contractor"
+author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+
 ---
 
 A bathroom sink clog will humble you fast. You pour in the Drano, wait twenty minutes, run hot water, and watch it pool right back up. You do it again. Then you finally accept what you should've done twenty minutes in: you need a snake.

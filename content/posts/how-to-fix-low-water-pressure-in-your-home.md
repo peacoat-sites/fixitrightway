@@ -14,6 +14,11 @@ faqs:
     a: "Yes, chronically low pressure can affect washing machines, dishwashers, and water heaters, causing them to run longer cycles and wear out faster. Some appliances, like certain tankless water heaters, require a minimum pressure threshold to operate at all. Fixing low pressure protects both your comfort and the lifespan of your home’s appliances."
   - q: "How much does it cost to fix low water pressure in a house?"
     a: "Cost depends entirely on the cause. Cleaning an aerator costs nothing but your time. Replacing a showerhead might run $20–$50. A new pressure reducing valve installed by a plumber typically costs $200–$400 including labor. Replacing corroded galvanized pipes throughout a home is a larger project that can range from $1,500 to $15,000 depending on home size and pipe accessibility. Most homeowners find that simple fixes like cleaning aerators and checking valves solve the problem at zero cost. Low water pressure doesn’t have to mean a big plumbing bill or weeks of frustration. By working through"
+author: "Dana Morrison"
+author_slug: "dana-morrison"
+author_title: "Lead Contractor"
+author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+
 ---
 
 Your shower dribbles when it should pour. Your kitchen faucet takes forever to fill a pot. If you’re dealing with **low water pressure in your house**, you’re not alone,  and the good news is that many causes are surprisingly fixable without calling a plumber. This guide walks you through exactly what to check, what to fix, and when to ask for help.

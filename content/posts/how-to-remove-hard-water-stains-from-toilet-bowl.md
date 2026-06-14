@@ -6,8 +6,6 @@ description: "Discover the best methods to remove stubborn hard water stains fro
 image: "https://images.pexels.com/photos/1029243/pexels-photo-1029243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Bathroom"]
 tags: ["remove", "hard", "water", "stains", "from"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-remove-hard-water-stains-from-toilet-bowl"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "That's almost certainly a water hardness issue, not a cleaning technique issue. The minerals in your water are continuously depositing at the waterline every time the toilet is used. Short of treating the water supply with a softener or filter, you'll need to clean more frequently (weekly light scrubbing prevents heavy buildup) or use a citric acid tablet in the tank to slow the process."
   - q: "Is it safe to use CLR in a toilet with a septic system?"
     a: "CLR says it's safe for septic systems when used as directed and flushed thoroughly. I'd be cautious about pouring large quantities in at once. Use a reasonable amount, let it work, then flush several times to dilute it well before it reaches your tank. The bacterial colonies in a healthy septic system are fairly resilient, but it's worth not overdoing it."
+author: "Maria Gonzalez"
+author_slug: "maria-gonzalez"
+author_title: "Plumbing Writer"
+author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+
 ---
 
 I'll be honest: I wasted probably three years of my life scrubbing toilet bowls with the wrong products. And the frustrating part is that most of what gets recommended online makes the problem worse, or at best, does nothing.

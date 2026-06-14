@@ -14,6 +14,11 @@ faqs:
     a: "Concrete repairs should ideally be done when temperatures are between 50°F and 90°F. Cold temperatures slow the curing process significantly and can cause patches to crack before they fully harden. If you must work in cooler conditions, use a concrete repair product rated for cold-weather application and cover the area with insulating blankets after patching."
   - q: "Should I repair or replace my concrete walkway?"
     a: "Repair is usually the right choice if damage affects less than 25% of the total surface and the underlying base is still stable. If the walkway is extensively cracked, significantly sunken in multiple areas, or more than 30 to 40 years old with widespread deterioration, replacement may actually be more cost-effective in the long run. When in doubt, consult a local concrete contractor for a professional assessment."
+author: "Dana Morrison"
+author_slug: "dana-morrison"
+author_title: "Lead Contractor"
+author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+
 ---
 
 Your concrete walkway has seen better days. Cracks are spreading, edges are crumbling, and uneven sections have become a tripping hazard every time you step outside. Whether it’s the result of winter freeze-thaw cycles, tree roots, or simply years of use, **concrete walkway repair** is a project most homeowners will eventually face. The good news? Many common walkway problems can be fixed without hiring a contractor,  saving you hundreds of dollars and giving you the satisfaction of a job well done.

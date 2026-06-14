@@ -6,8 +6,6 @@ description: "Compare spray foam vs fiberglass insulation for DIY projects. Disc
 image: "https://images.pexels.com/photos/7446650/pexels-photo-7446650.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Energy & Insulation"]
 tags: ["spray", "foam", "fiberglass", "insulation"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "spray-foam-vs-fiberglass-insulation-for-diy"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, in occupied spaces. The International Building Code requires spray polyurethane foam to be covered with a 15-minute thermal barrier, which standard 1/2-inch drywall satisfies. This is both a fire safety requirement and a practical one since UV light degrades uncovered foam over time. In crawl spaces and unoccupied attics, requirements vary by jurisdiction, so check with your local building department."
   - q: "Which insulation is better for soundproofing?"
     a: "Neither is primarily a soundproofing product, but if that's a secondary goal, open-cell spray foam outperforms fiberglass at reducing airborne sound transmission, and it significantly beats closed-cell. For a wall you genuinely want to quiet down, dense-pack cellulose (a whole other conversation) is often the best DIY option. Fiberglass helps some; closed-cell spray foam barely at all."
+author: "Maria Gonzalez"
+author_slug: "maria-gonzalez"
+author_title: "Plumbing Writer"
+author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+
 ---
 
 You're probably standing in your attic right now, or staring at an open wall cavity, trying to figure out which of these two options is actually worth your money and your weekend. Maybe you got a contractor quote that felt like a gut punch. Maybe you're just tired of high utility bills and want to do something about it. Either way, I've had this exact conversation hundreds of times, and I want to give you the honest version.

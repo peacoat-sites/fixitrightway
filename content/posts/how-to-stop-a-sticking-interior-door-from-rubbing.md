@@ -6,8 +6,6 @@ description: "Learn how to stop a sticking interior door from rubbing with our s
 image: "https://images.pexels.com/photos/5484718/pexels-photo-5484718.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Doors & Windows"]
 tags: ["stop", "sticking", "interior", "door", "from"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-stop-a-sticking-interior-door-from-rubbing"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Usually a hinge problem, specifically the top hinge. Check whether the top hinge screws are loose or stripped. Also check if the top hinge is set too deep in its mortise (which pulls the top of the door toward the jamb) or if the bottom hinge is sticking proud (which tilts the door and causes the same effect). Fix the hinge before reaching for any cutting tool."
   - q: "Will a door plane fix permanent warping?"
     a: "No. If a door has developed a significant warp or bow, no amount of planing will make it hang true again. You can sometimes compensate for a slight bow by adjusting the strike plate and hinge positions, but a badly warped door needs to be replaced. Solid-core doors warp less than hollow-core, which is one reason they're worth the extra cost in high-humidity rooms like bathrooms."
+author: "Steve Adams"
+author_slug: "steve-adams"
+author_title: "Home Inspector"
+author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+
 ---
 
 A sticking door is one of those problems that starts as a minor annoyance and somehow becomes the thing that breaks you. You shove it open with your shoulder every morning for six months, and then one day a houseguest uses that bathroom and you want to disappear into the floor. I've fixed hundreds of these, and the good news is that 90% of them cost nothing but an afternoon.

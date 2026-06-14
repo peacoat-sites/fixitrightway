@@ -14,6 +14,11 @@ faqs:
     a: "Yes, if the drywall is still structurally solid, firm, not soft or crumbling, you can treat the stain without replacement. Clean the area with a diluted bleach solution (one part bleach to three parts water), allow it to dry completely, and then apply a coat of oil-based or shellac stain-blocking primer. Follow with two coats of ceiling paint for a clean result."
   - q: "How do I know if my ceiling has mold and is it safe to handle myself?"
     a: "Mold often appears as black, green, or fuzzy spots and may have a musty odor. Small areas of mold, generally less than 10 square feet, can typically be handled by a careful DIYer using an N95 mask, gloves, and eye protection. Larger infestations, or any mold found on structural framing, should be assessed and remediated by a certified mold remediation professional to protect your health and home."
+author: "Steve Adams"
+author_slug: "steve-adams"
+author_title: "Home Inspector"
+author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+
 ---
 
 You walk into a room and notice it immediately,  a brownish stain spreading across your ceiling, paint bubbling up, or worse, a soft sagging spot that tells you water has been sitting there for a while. A water damaged ceiling is one of the most common and frustrating home repair problems homeowners face. The good news is that **water damaged ceiling repair** is absolutely a DIY-friendly project if you follow the right steps and take proper precautions. This guide will walk you through everything you need to know, from diagnosing the damage to finishing with a flawless coat of paint.

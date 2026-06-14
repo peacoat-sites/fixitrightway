@@ -14,6 +14,11 @@ faqs:
     a: "Most flappers last between four and eight years, though hard water with high mineral content can shorten that lifespan. It is a good idea to inspect your flapper once a year during routine home maintenance. Replacing it proactively every five years is an easy and inexpensive habit that prevents water waste."
   - q: "Can I replace a toilet flapper without turning off the water?"
     a: "Technically, you can work quickly with the water on, but it is not recommended. Shutting off the water supply first makes the repair cleaner, safer, and far easier to manage. It also prevents accidental splashing and gives you time to work without the tank constantly refilling. Always turn off the water first for the best results."
+author: "Maria Gonzalez"
+author_slug: "maria-gonzalez"
+author_title: "Plumbing Writer"
+author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+
 ---
 
 Your toilet keeps running long after you flush, driving up your water bill and making that endless hissing sound day and night. The good news? You almost certainly don’t need a plumber. Learning **how to replace a toilet flapper** is one of the easiest home repairs anyone can do,  including seniors who may not have much DIY experience. With the right guidance, most people can finish this fix in under 30 minutes.

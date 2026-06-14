@@ -6,8 +6,6 @@ description: "Learn how to insulate your attic yourself with our step-by-step gu
 image: "https://images.pexels.com/photos/11398216/pexels-photo-11398216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Energy & Insulation"]
 tags: ["insulate", "attic", "yourself", "save", "energy"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-insulate-an-attic-yourself-to-save-energy"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "In most jurisdictions, no permit is required for adding insulation. It's worth a two-minute call to your local building department to confirm, but I've done this in dozens of municipalities and never pulled a permit for a straightforward insulation job. Some areas require permits when you're doing new construction or full gut-rehab, but adding insulation to an existing attic almost never triggers it."
   - q: "Is spray foam worth it in the attic instead of blown-in?"
     a: "Open-cell spray foam runs $1.00 to $1.50 per board foot installed, and closed-cell runs $1.50 to $3.00. Blown-in cellulose or fiberglass is a fraction of that cost. Spray foam is genuinely superior in some situations, particularly if you want to condition the attic space or if you have complex roof geometry. But for a standard vented attic with accessible floor joists, blown-in insulation is perfectly effective and there's no performance reason to spend three times as much."
+author: "Dana Morrison"
+author_slug: "dana-morrison"
+author_title: "Lead Contractor"
+author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+
 ---
 
 My gas bill dropped $74 the first month after I insulated my attic. Not because I did anything fancy — I rented a blower machine from Home Depot for $25, bought 20 bags of Owens Corning PINK fiberglass loose-fill at around $13 a bag, and spent a Saturday crawling around in a respirator. That's it. No contractor, no permits in most jurisdictions, no special skills required. Just the willingness to be uncomfortable for a few hours.

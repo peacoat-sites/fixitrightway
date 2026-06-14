@@ -14,6 +14,11 @@ faqs:
     a: "If your shower has a dedicated shut-off valve, usually found in an access panel behind the shower wall, you can use that instead of shutting off the whole house. However, if no dedicated valve exists, you must turn off the main supply. Never attempt to open a valve body with water pressure active."
   - q: "How long do shower cartridges typically last?"
     a: "Most shower cartridges last between 10 and 20 years with normal use. Water quality plays a big role, hard water with high mineral content tends to wear cartridges out faster. If your shower is more than 15 years old and starts dripping, replacing the cartridge proactively is a smart and affordable maintenance move."
+author: "Steve Adams"
+author_slug: "steve-adams"
+author_title: "Home Inspector"
+author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+
 ---
 
 Your shower won’t stop dripping even after you turn it all the way off. That slow, steady drip isn’t just annoying,  it can waste hundreds of gallons of water every month and quietly drive up your water bill. If your **shower drips when off**, the good news is that this is one of the most common plumbing problems homeowners face, and it’s almost always fixable without calling a plumber. In this guide, we’ll walk you through exactly what causes the drip and how to stop it for good.

@@ -6,8 +6,6 @@ description: "Discover the best drywall anchors for heavy mirrors to keep your w
 image: "https://images.pexels.com/photos/6474458/pexels-photo-6474458.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Drywall & Walls"]
 tags: ["best", "drywall", "anchors", "heavy", "mirrors"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "best-drywall-anchors-for-heavy-mirrors"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The standard 1/4-20 SnapToggle requires a 1/2-inch diameter hole. The smaller 8-32 size uses a 3/8-inch hole. Check the packaging of the specific size you're using and do not guess on this one."
   - q: "My anchor feels loose after I installed it. Can I fix it or do I need to start over?"
     a: "If a toggle-style anchor is loose, it almost always means the hole was too large or the drywall is damaged around the hole. You'll need to move to a new location at least 3-4 inches away from the failed spot. Trying to re-anchor in a damaged hole rarely ends well, and patching it with spackle and re-drilling in the same spot definitely won't hold weight."
+author: "Kim Reeves"
+author_slug: "kim-reeves"
+author_title: "Interior Renovator"
+author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+
 ---
 
 Three years ago I watched a homeowner hang a 65-pound antique mirror using a single plastic expansion anchor, the kind that comes in those little hardware store variety packs. It held for about four days. When it came down, it took a fist-sized chunk of drywall with it and nearly took out a lamp on the way. That mirror survived. The wall did not.

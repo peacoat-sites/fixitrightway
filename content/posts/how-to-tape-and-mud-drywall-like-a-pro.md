@@ -14,6 +14,11 @@ faqs:
     a: "Paper tape creates stronger seams and is preferred by most professionals for flat seams. It requires being embedded in wet mud to adhere properly. Fiberglass mesh tape is self-adhesive and easier for beginners to apply, but it can crack more easily over time and requires setting-type compound for the first coat. For most interior flat seams, paper tape is the better long-term choice."
   - q: "How many coats of mud do I need for a smooth finish?"
     a: "Most drywall finishing jobs require three coats: a tape coat, a fill coat, and a finish coat. Some surfaces or high-visibility areas may benefit from a fourth skim coat applied over the entire wall. Each coat must be fully dry and lightly sanded before the next is applied. Rushing by applying thick coats will cause cracking and shrinkage."
+author: "Kim Reeves"
+author_slug: "kim-reeves"
+author_title: "Interior Renovator"
+author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+
 ---
 
 You’ve patched a hole, installed new drywall, or finished a renovation,  and now you’re staring at bare seams, screw dimples, and rough edges wondering how to make it all look smooth. Learning **how to tape and mud drywall** is one of the most rewarding DIY skills you can pick up. With the right tools, a little patience, and the step-by-step guidance in this article, you’ll achieve professional-looking results without hiring a contractor.

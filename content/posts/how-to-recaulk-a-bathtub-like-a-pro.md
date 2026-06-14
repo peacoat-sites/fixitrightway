@@ -6,8 +6,6 @@ description: "Learn how to recaulk a bathtub like a pro with our step-by-step gu
 image: "https://images.pexels.com/photos/175039/pexels-photo-175039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Bathroom"]
 tags: ["recaulk", "bathtub", "like"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-recaulk-a-bathtub-like-a-pro"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. Paintable caulks exist, but they're latex-based and won't hold up in a submerged or constantly wet area. If you need a color match, look for siliconized acrylic caulk (like DAP Alex Flex) or the Polyblend grout caulk mentioned above. Pure silicone cannot be painted."
   - q: "When should I call a professional instead of doing this myself?"
     a: "If you find soft drywall, black mold on the substrate behind the old caulk, or rotting wood when you strip the old bead, stop there and call someone. That's water damage that needs to be assessed and repaired before new caulk goes on. The caulk job itself is absolutely DIY-able -- what's behind the wall sometimes isn't."
+author: "Kim Reeves"
+author_slug: "kim-reeves"
+author_title: "Interior Renovator"
+author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+
 ---
 
 The old caulk around your tub doesn't fail all at once. It starts with one small section that looks a little gray, a little soft. You peel at it, and suddenly you've got a six-inch gap between the tub and the wall. I've watched homeowners spend $400 on a plumber to investigate what they thought was a mysterious leak, only to trace it back to exactly that: a failed caulk joint they'd been ignoring for two years.

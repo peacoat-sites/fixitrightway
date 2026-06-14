@@ -6,8 +6,6 @@ description: "Learn how to fix a leaking shower valve behind the wall with our s
 image: "https://images.pexels.com/photos/4312854/pexels-photo-4312854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Bathroom"]
 tags: ["leaking", "shower", "valve", "behind", "wall"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-to-fix-a-leaking-shower-valve-behind-the-wall"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, that typically means a failed O-ring or seat washer rather than a cartridge failure, though a worn cartridge can cause it too. In either case, it's usually still a fix you can do without opening the wall. Rebuild kits for most valve brands include O-rings and seat washers along with the cartridge."
   - q: "How long does a shower valve repair typically take?"
     a: "A cartridge replacement usually runs 1 to 3 hours for someone doing it for the first time, including shutting off water, disassembling, sourcing the part if you don't have it, and reassembling. A full valve replacement with wall access and patch work is realistically a full day, sometimes two if the drywall mud needs to dry between coats."
+author: "Paul Zhang"
+author_slug: "paul-zhang"
+author_title: "Electrical Writer"
+author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+
 ---
 
 You found the leak on a Tuesday morning. Maybe it was a soft stain spreading across the drywall behind your shower, or water dripping into the cabinet below, or a puddle on the subfloor that you kept hoping was condensation. Whatever tipped you off, here you are, and you're probably asking yourself some version of the same question I hear all the time: "Do I have to open up my wall for this?"

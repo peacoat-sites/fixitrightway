@@ -14,6 +14,11 @@ faqs:
     a: "Look for tapes labeled “easy read” or “large print” at hardware stores. These feature bold, high-contrast numbers and color-coded fractions that are much easier on the eyes. A tape with a 1-inch wide blade is also helpful because the larger surface gives more room for bigger print. Brands like Stanley FatMax and Milwaukee offer excellent senior-friendly options."
   - q: "How do I measure the inside of a space, like a cabinet or doorframe?"
     a: "For an inside measurement, press the end of the tape firmly against one wall or edge and extend it to the opposite side. Most tape measure cases have the case length printed on them, often 3 inches. Add that number to whatever the tape reads at the far edge to get your total inside measurement. This is called an “add-on” measurement and it is a very useful trick to know."
+author: "Dana Morrison"
+author_slug: "dana-morrison"
+author_title: "Lead Contractor"
+author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+
 ---
 
 You pull out your measuring tape to check a shelf, a piece of fabric, or a new appliance,  and suddenly those tiny numbers and strange markings feel more confusing than a doctor’s prescription. If you have ever struggled to read a measuring tape accurately, you are not alone. Learning **how to read measuring tape** correctly is a surprisingly simple skill once someone breaks it down for you. And at any age, getting accurate measurements saves you time, money, and frustration.

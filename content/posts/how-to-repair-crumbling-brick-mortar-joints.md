@@ -6,8 +6,6 @@ description: "Learn how to repair crumbling brick mortar joints with our step-by
 image: "https://images.pexels.com/photos/9497823/pexels-photo-9497823.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Masonry & Concrete"]
 tags: ["repair", "crumbling", "brick", "mortar", "joints"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-repair-crumbling-brick-mortar-joints"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Usually no, and I'd actually caution against it. Most clear brick sealers trap moisture inside the wall rather than letting it breathe, which can accelerate spalling and freeze-thaw damage in cold climates. If you're in a very wet climate and considering a sealer, use a silane/siloxane-based penetrating sealer (like Techniseal or SiloXane from RadonSeal) rather than a film-forming product. Avoid anything that promises to 'waterproof' brick -- that's marketing, not masonry."
   - q: "Why does the new mortar look so different from the old?"
     a: "Fresh mortar is almost always lighter in color than weathered mortar, and it'll typically blend in more over 6-12 months of weathering. If the color difference bothers you right away, you can try adding small amounts of masonry pigment to the mix to approximate the existing color -- it's not an exact science but it can get you closer. On historically significant homes, color-matching is a whole specialty service that some masonry contractors offer specifically."
+author: "Kim Reeves"
+author_slug: "kim-reeves"
+author_title: "Interior Renovator"
+author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+
 ---
 
 Tuck-pointing is one of those repairs that sounds scarier than it is -- until you ignore it long enough that it actually becomes scary. I've watched homeowners let soft, crumbling mortar sit for two, three, sometimes five years because they assumed it was a big-ticket masonry job. In a lot of cases, they were right by the time they called me. What started as a weekend afternoon of grinding and patching had turned into spalling brick faces, water intrusion, and in one case a 1920s Chicago bungalow with a basement wall that had started to bow inward. A $200 repair became a $14,000 conversation.

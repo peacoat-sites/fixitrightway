@@ -14,6 +14,11 @@ faqs:
     a: "If your tile saw is taking longer than usual to cut through tile, producing rough or chipped edges, or making a burning smell, it’s likely time for a new blade. A worn-out blade is not only slower, it’s also less safe. Most diamond blades last through 20 to 40 hours of cutting time, depending on the hardness of the material. Check the blade regularly for visible wear, cracks, or warping."
   - q: "Can I use a tile saw indoors?"
     a: "You can use a tile saw indoors, but it requires good preparation. The saw will splash water and create some noise, so lay down plastic sheeting to protect floors and connect to a GFCI outlet. Make sure the space is well-ventilated and that you have easy access to a drain or buckets for water management. Many people prefer to set up near an open garage door or on a covered patio for easier cleanup."
+author: "Kim Reeves"
+author_slug: "kim-reeves"
+author_title: "Interior Renovator"
+author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+
 ---
 
 You’ve got a beautiful tile project ahead of you,  maybe a kitchen backsplash, a bathroom floor, or a new patio,  but there’s one problem standing between you and that finished look: cutting tile precisely without cracking it or making a mess. Learning **how to use a tile saw** can feel intimidating at first, especially if you’ve never worked with one before. But with the right guidance and a little patience, even a first-timer can get clean, professional cuts every time.

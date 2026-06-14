@@ -6,8 +6,6 @@ description: "Discover the best primers for covering dark walls in one coat. Sav
 image: "https://images.pexels.com/photos/7484788/pexels-photo-7484788.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Painting"]
 tags: ["best", "primer", "covering", "dark", "walls"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "best-primer-for-covering-dark-walls-in-one-coat"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. Primer adhesion to high-gloss surfaces is genuinely compromised without some surface prep. You don't need to strip the sheen completely, but a light scuff sand with 120-grit, followed by wiping off the dust, makes a real difference. Shellac is the most forgiving on glossy surfaces of all the primer types, but even shellac benefits from a light abrasion on slick paint."
   - q: "Is the smell from shellac primer really that bad?"
     a: "I'll be honest: yes. Zinsser BIN is potent. It's not 'open a window' territory, it's 'open every window, run a fan, and seriously consider a respirator' territory. The denatured alcohol vapors are significant in an enclosed space. That said, it dries fast and the smell dissipates once cured. Do it on a day when you can air the house out for several hours and you'll be fine. If you have respiratory sensitivities or are working in a tight space with no ventilation, go with oil-based instead and accept slightly less blocking performance."
+author: "Paul Zhang"
+author_slug: "paul-zhang"
+author_title: "Electrical Writer"
+author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+
 ---
 
 Most people buying primer for dark walls are going to grab whatever the paint store employee recommends, slap it on, and then stand there staring at a wall that still looks vaguely purple through the white. I've watched this happen dozens of times. The assumption is that primer is primer, and any decent coat will do the job. What surprised me when I started really digging into this specific problem is how much the *type* of primer matters, not just the quality of it. There's a significant difference between a primer that "helps" with coverage and one that was genuinely engineered to block dark pigments. Getting that wrong costs you time, paint, and real money.

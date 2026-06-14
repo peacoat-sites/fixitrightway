@@ -6,8 +6,6 @@ description: "Discover easy, chemical-free methods to fix a slow draining shower
 image: "https://images.pexels.com/photos/7285980/pexels-photo-7285980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Plumbing"]
 tags: ["slow", "draining", "shower", "without", "chemicals"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-fix-a-slow-draining-shower-without-chemicals"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not typically for a single slow shower. Roots affect your main sewer line, which would slow multiple fixtures at once, often with gurgling or sewage smell. If only your shower is slow and the other drains are fine, roots aren't your problem."
   - q: "How often should I be cleaning my shower drain to prevent buildup?"
     a: "Pull the drain cover and do a quick visual check once a month. If you're using a hair catcher, clean it weekly. A full manual cleaning with a Zip-It every two to three months keeps most showers draining properly year-round."
+author: "Kim Reeves"
+author_slug: "kim-reeves"
+author_title: "Interior Renovator"
+author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+
 ---
 
 Your shower drain is slow. Not clogged-completely-standing-in-water slow, but that creeping, ankle-deep puddle that collects every time you wash your hair. You've been ignoring it for two weeks. I know, because I've seen this exact situation in probably a third of the homes I've walked into for unrelated work over the years.

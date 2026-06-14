@@ -6,8 +6,6 @@ description: "Stop cold air and high heating bills with these easy DIY methods t
 image: "https://images.pexels.com/photos/5583089/pexels-photo-5583089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Energy & Insulation"]
 tags: ["seal", "drafty", "windows", "winter"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-seal-drafty-windows-in-winter"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Cheap open-cell foam tape: maybe one winter. Closed-cell foam tape: two to four years. EPDM rubber gasket: five to ten years. Bronze V-strip: if it's properly installed and not damaged, it can outlast the window. The price difference between foam tape and bronze V-strip is about $8 for a typical window. Do the math."
   - q: "Will these fixes actually lower my heating bill?"
     a: "Yes, but the number varies too much to promise you anything specific. Air sealing is consistently one of the highest-ROI improvements in home energy audits -- the Department of Energy's own data shows infiltration accounts for 25% to 40% of heating and cooling costs in typical homes. A full weatherstripping and caulking job on a drafty older home runs $50 to $150 in materials and an afternoon of work. That math usually lands in your favor before February."
+author: "Kim Reeves"
+author_slug: "kim-reeves"
+author_title: "Interior Renovator"
+author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+
 ---
 
 Your windows are probably leaking more heat than your insulation is saving. That's not a hot take -- it's just what happens when weatherstripping ages out, caulk shrinks and cracks, and nobody's touched the glazing compound since the Clinton administration. Most articles on this topic tell you to "feel for drafts with your hand" and then recommend one generic product. That's not enough. Let me actually walk you through what's going on, what fixes it, and what's a waste of money.

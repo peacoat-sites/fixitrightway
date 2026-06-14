@@ -6,8 +6,6 @@ description: "Learn how to find studs behind drywall without a stud finder using
 image: "https://images.pexels.com/photos/28231717/pexels-photo-28231717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Drywall & Walls"]
 tags: ["find", "studs", "behind", "drywall", "without"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-find-studs-behind-drywall-without-a-stud-finder"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Once you've confirmed you're on a stud with a finish nail, probe an inch or so to each side until the nail stops hitting solid material. The center of the stud sits halfway between those two edges. For a standard 2x4, that's a range of 1.5 inches, so your center is 3/4 inch in from either side."
   - q: "Does the outlet trick actually work every time?"
     a: "Almost. The National Electrical Code requires outlets to be mounted to framing, so there's always a stud adjacent to an electrical box. The box is usually nailed to the left or right face of a stud. The one exception is when someone installed an old-work box between studs using plastic mounting wings, which became common in retrofit work. If the box wiggles when you press on the cover plate, it might be a floating old-work box. If it's rock solid, there's a stud right there."
+author: "Kim Reeves"
+author_slug: "kim-reeves"
+author_title: "Interior Renovator"
+author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+
 ---
 
 My stud finder died mid-project on a Saturday afternoon, and I'll be honest: it was the best thing that ever happened to my understanding of wall framing. I found that stud in about 90 seconds using nothing but my knuckle and a finish nail, and realized I'd been over-relying on a $30 gadget for years.
