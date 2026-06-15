@@ -1,0 +1,66 @@
+---
+title: "How Tariffs Are Changing the Cost of Your Next DIY Project"
+date: 2026-06-15T12:54:56.243014+00:00
+draft: false
+description: "Discover how new tariffs are raising prices on lumber, steel, and hardware. Learn smart tips to budget wisely and save money on your next DIY project."
+image: "https://images.pexels.com/photos/12278592/pexels-photo-12278592.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+categories: ["trending"]
+tags: ["tariffs", "changing", "cost", "your", "next"]
+author: "Steve Adams"
+author_slug: "steve-adams"
+author_title: "Home Inspector"
+author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+slug: "how-tariffs-are-changing-the-cost-of-your-next-diy-project"
+affiliate_disclosure: true
+---
+
+Most DIY coverage right now is still telling you to "shop around for deals" and "consider alternatives." That's not a materials strategy. That's a shrug. Here's what's actually happening to prices, and what it means for the deck, fence, or cabinet project you're planning this summer.
+
+## The Numbers Behind the Sticker Shock
+
+Framing lumber hit $916.62 per thousand board feet in Q2 2026, according to Gordian/RSMeans data published in May. That's a 5.11% spike in a single quarter, following two quarters of declines that had homeowners feeling cautiously optimistic. It's also the ninth consecutive quarter of year-over-year growth, up 4.21% from this time last year. The brief dip was a head fake.
+
+The driver isn't a mystery. The U.S. Commerce Department locked in a 10% tariff on all softwood timber and lumber imports effective October 14, 2025. Canada supplies roughly 30% of U.S. lumber, so that tariff landed immediately and broadly. Cushman & Wakefield's April 2026 analysis put total construction materials costs at roughly 6% above a 2024 baseline, with overall project costs up about 3%. For a $15,000 deck, that's $450 you weren't budgeting for. For a $40,000 kitchen remodel, the math gets uglier fast.
+
+## Cabinets Got Hit Hardest
+
+If you're planning a kitchen update, the cabinet situation deserves its own conversation. A 25% tariff on imported kitchen cabinets and vanities took effect in mid-2025. It then doubled to 50% on January 1, 2026. That's not a rounding error; that's a structural price reset on one of the highest-cost line items in any kitchen project.
+
+Most of the flat-pack and semi-custom cabinets sold at the big box stores, including RTA (ready-to-assemble) lines that DIYers rely on, source heavily from overseas manufacturing. A 50% tariff doesn't necessarily mean your cabinet order costs 50% more at the register; importers absorb some margin, retailers adjust sourcing, manufacturers shift production. But the direction is unmistakably up, and the NAHB has been direct about the headwinds this creates for residential construction and renovation alike.
+
+The practical move here: if you've been watching cabinet prices and waiting for them to stabilize, there's no signal that stabilization is coming before your project window closes. Price what you need now, lock it in if the supplier allows it, and treat any quote older than 30 days as expired.
+
+## It's Not Just Wood
+
+Here's where it gets worse for the DIYer who thinks "I'll just skip the deck and wire up that workshop instead." Copper wire prices are up 322% since 2019. Aluminum wire has surged 1,390% over the same period, according to HousingWire's February 2026 reporting. Electrical projects that felt affordable two or three years ago are in completely different cost territory now.
+
+That matters for anyone pricing out a subpanel addition, running circuits to a detached garage, or adding outlets to a kitchen remodel. The wire itself is a meaningful line item, not a rounding error. A 100-amp subpanel run that cost $800 in materials in 2021 can easily run $1,800 to $2,400 in materials today depending on the run length and wire gauge. Get current quotes. Don't use old project estimates from YouTube videos filmed before 2024.
+
+## What "Policy Remains in Flux" Actually Means for Your Project Timeline
+
+Cushman & Wakefield's April 2026 report used a phrase that deserves more attention than it got: "policy remains in flux." That's not boilerplate hedging. It's a real warning that the tariff structure you're pricing against today could change mid-project.
+
+For a weekend fence build, that risk is minimal. For a multi-week deck or kitchen project where you're buying lumber in stages, or ordering cabinets with a 6- to 8-week lead time, a mid-project tariff adjustment can blow up your budget in either direction. The AGC-NCCER survey found 43% of general contractors reported at least one project canceled, postponed, or scaled back in the past six months due to higher material costs from tariffs. Contractors have purchasing leverage and supplier relationships that most homeowners don't. If nearly half of them are feeling enough pain to defer projects, a DIYer with a tighter margin for error should be paying attention.
+
+The practical response isn't paralysis; it's front-loading your materials procurement. Buy your lumber, hardware, and fasteners before you break ground, not in stages. Get a firm written quote on cabinets and ask explicitly whether it's price-protected through your expected delivery date. If a supplier won't hold a price for 30 days, that tells you something about how volatile their own supply chain is right now.
+
+## Where to Find Real Leverage Right Now
+
+Domestic lumber is less exposed than imported, so regional sawmills and lumber yards carrying domestic Douglas fir, Southern yellow pine, or hem-fir are worth a call before defaulting to big box pricing. You won't always save money, but you'll avoid the import tariff markup and often get better-grade material.
+
+For cabinets, domestically manufactured lines from companies like Kraftmaid (assembled in Ohio) or Wellborn (Alabama) carry a tariff-exposure premium in the market right now because everyone's pivoting to them simultaneously. The price advantage over imported is narrowing, but lead times may be shorter and price stability is better. Stock cabinets, whatever the brand, are almost always a smarter play right now than custom or semi-custom with a long order window.
+
+On the electrical side, there's no real workaround for copper prices. Aluminum wiring is back in favor for larger-gauge runs (10-gauge and above) where code allows it, with proper connectors and terminations. This is worth discussing with your electrician or researching carefully before you spec it, but it's a legitimate cost-reduction option that the industry has largely re-embraced for specific applications.
+
+The summer of 2026 is a genuinely difficult time to be sourcing materials for a major DIY project, and anyone telling you otherwise is either selling something or hasn't looked at a lumber invoice recently. Buy early, get price commitments in writing, and build a 10 to 15% materials contingency into your budget before you pull a single permit.
+
+## Sources
+
+- [What the Data Says: Lumber Price Updates (Q2 2026) | Gordian](https://www.gordian.com/resources/lumber-price-updates/) (May 2026)
+- [New Tariffs on Lumber, Wood Product Imports Add Headwinds to Housing Market | NAHB](https://www.nahb.org/blog/2025/09/section-232-tariffs) (September 2025)
+- [Recent Tariffs Threaten Residential Construction | Brookings](https://www.brookings.edu/articles/recent-tariffs-threaten-residential-construction/) (October 2025)
+- [The Impact of Tariffs on U.S. CRE Construction Costs | Cushman & Wakefield](https://www.cushmanwakefield.com/en/united-states/insights/the-impact-of-tariffs-on-cre-construction-costs) (April 2026)
+- [Commodity Price Volatility Hits Homebuilders as Tariffs Reshape Costs | HousingWire](https://www.housingwire.com/articles/builder-material-costs-tariffs/) (February 2026)
+- [Construction Material Costs in 2026: What Contractors Should Expect | Inflow Inventory](https://www.inflowinventory.com/blog/construction-material-cost/) (May 2026)
+
+*Photo: [Mark Stebnicki](https://www.pexels.com/@nc-farm-bureau-mark) via Pexels*
