@@ -119,19 +119,6 @@ Clean your brushes and rollers thoroughly. If you used oil-based primer, you’l
 
 Step back and admire your work. With proper preparation, a painted-over wallpaper wall can look nearly indistinguishable from a freshly plastered surface.
 
-## Frequently Asked Questions
-
-### Will paint bubbling always happen when I paint over wallpaper?
-
-Bubbling most commonly occurs when water-based products are applied directly to wallpaper without proper sealing. By using an oil-based primer first, you create a moisture barrier that prevents the paper from absorbing liquid and swelling. As long as you follow the preparation steps outlined above, bubbling should not be a significant problem.
-
-### How many coats of paint do I need over wallpaper?
-
-Plan on a minimum of two coats of your topcoat paint, applied over one coat of primer. Some situations,  very dark or patterned wallpaper, or textured surfaces,  may benefit from a third coat. Always allow each coat to dry fully before assessing whether another coat is needed.
-
-### Is it better to remove wallpaper or paint over it?
-
-The best choice depends on the condition of your wallpaper and the wall behind it. If the wallpaper is firmly adhered, in good condition, and only one or two layers thick, painting over it is often faster and less risky. If the wallpaper is peeling significantly or the walls behind it are sturdy plaster, removal and a fresh start may give you a better long-term result. When in doubt, consult a local painting professional for advice specific to your situation.
 
 ## You’ve Got This!
 

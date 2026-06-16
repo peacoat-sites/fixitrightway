@@ -116,21 +116,6 @@ Now for the fun part,  programming your schedule. Most programmable thermostats 
 
 Follow the specific programming instructions in your thermostat’s manual,  each model works a little differently. Once programmed, test both the heating and cooling modes to confirm everything is working correctly.
 
-## Frequently Asked Questions
-
-Photo by [Howen](https://unsplash.com/@oweni?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
-
-### What if my new thermostat doesn’t turn on after installation?
-
-First, double-check that the circuit breaker is fully in the ON position. Then, verify that each wire is seated firmly in the correct terminal,  a loose connection is the most common reason a thermostat won’t power up. Also check that fresh batteries are installed if your model requires them. If it still won’t turn on, turn off the power and recheck your wiring against both your labeled photo and the thermostat’s diagram.
-
-### Do I need an electrician to install a programmable thermostat?
-
-For most standard low-voltage systems in homes built after 1975, a confident DIYer can handle this project safely by following each step carefully. However, if you have a line-voltage system, a heat pump, or very old wiring you don’t recognize, calling a licensed HVAC technician is the wisest choice. There’s no shame in knowing when a job is better left to a professional,  your safety is always worth it.
-
-### Will a programmable thermostat work with my heat pump?
-
-Many programmable thermostats are compatible with heat pumps, but you need to purchase one specifically labeled as “heat pump compatible.” Heat pump systems use additional wiring terminals (like O/B) that standard thermostats don’t accommodate. Check the packaging carefully or use the compatibility checker on the thermostat manufacturer’s website before you buy.
 
 ## You’ve Got This!
 

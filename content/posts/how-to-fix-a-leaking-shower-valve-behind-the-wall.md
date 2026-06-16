@@ -104,27 +104,6 @@ The DIY savings are real. But they're only real if you stop when you're in over 
 
 ---
 
-## FAQ
-
-### How do I know if my shower valve is leaking or if it's a grout or caulk problem?
-
-Shut off the water supply to the house and watch the area for 24 hours. If the moisture or leak stops, your problem is plumbing related, either the valve, supply lines, or connections. If water keeps appearing even with no water pressure in the system, you're likely dealing with a drainage or waterproofing failure that has nothing to do with the valve itself.
-
-### Can I replace a shower valve cartridge without turning off the main water supply?
-
-Only if you have dedicated shutoff valves for the shower supply lines, which are sometimes accessible through an access panel. If you have those, yes, you can isolate just the shower. If not, you'll need to shut off the main. It's a 20-minute inconvenience, not a big deal.
-
-### What brand of shower valve is easiest to repair?
-
-Moen is generally the easiest for DIY cartridge replacement. Their cartridges pull out cleanly, the retaining clip is straightforward, and Moen will actually send you a replacement cartridge for free under their lifetime warranty if you call and explain the situation. Delta and Kohler are also DIY-friendly but have more variation between models.
-
-### My shower valve leaks only when I turn the shower on, not when it's off. Is that different?
-
-Yes, that typically means a failed O-ring or seat washer rather than a cartridge failure, though a worn cartridge can cause it too. In either case, it's usually still a fix you can do without opening the wall. Rebuild kits for most valve brands include O-rings and seat washers along with the cartridge.
-
-### How long does a shower valve repair typically take?
-
-A cartridge replacement usually runs 1 to 3 hours for someone doing it for the first time, including shutting off water, disassembling, sourcing the part if you don't have it, and reassembling. A full valve replacement with wall access and patch work is realistically a full day, sometimes two if the drywall mud needs to dry between coats.
 
 ---
 

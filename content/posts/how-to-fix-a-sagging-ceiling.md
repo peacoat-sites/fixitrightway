@@ -120,18 +120,3 @@ Signs that professional help is needed include:
 
 Homes built before 1980 may have asbestos-containing ceiling materials. Never sand or disturb these without professional testing first.
 
-## Frequently Asked Questions
-
-### How much does sagging ceiling repair cost if I hire a professional?
-
-Professional sagging ceiling repair typically costs between $250 and $800 for a standard residential repair, depending on the size of the damage and your location. If structural issues or mold remediation are involved, costs can climb to $2,000 or more. DIY repairs using store-bought materials usually cost $50 to $150 in supplies.
-
-### Can I repair a sagging ceiling without replacing the drywall?
-
-Yes, in many cases. If the drywall is still firm and undamaged but has simply pulled away from the joists, you can refasten it with drywall screws and cover the repairs with joint compound. However, if the panel is water-damaged, soft, or crumbling, replacement is the only safe option.
-
-### How do I prevent my ceiling from sagging again after repair?
-
-The best prevention is addressing the root cause,  fix any roof leaks, plumbing issues, or ventilation problems that allow moisture to reach your ceiling. Use the correct drywall thickness (5/8 inch in bathrooms and humid spaces) and fasten panels with screws rather than nails. Checking your attic annually for signs of moisture also helps you catch problems early before they become expensive repairs.
-
-A sagging ceiling can feel like a major problem, but with the right approach, it’s a very manageable DIY repair. Take your time to diagnose the cause, gather your materials, and work methodically through each step. Your ceiling,  and your home,  will look as good as new before you know it.

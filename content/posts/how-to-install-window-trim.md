@@ -126,19 +126,6 @@ Start by filling all nail holes with wood putty. Let it dry, then sand smooth wi
 
 Most people choose white or off-white trim paint to create a bright, classic contrast against colored walls. However, trim painted to match your wall color creates a more modern, seamless look.
 
-## Frequently Asked Questions
-
-### How much does it cost to install window trim yourself?
-
-The cost of a DIY window trim project is very affordable. A basic interior window trim kit typically costs between $15 and $40 per window, depending on the style and material. Adding paint, caulk, and nails, most homeowners spend under $60 per window doing it themselves, compared to $150 to $300 per window for professional installation.
-
-### Do I need special skills or experience to install window trim?
-
-No special experience is required to install basic window trim. The most important skill is patience with measuring and cutting. If mitered corners feel too intimidating, you can use a simpler butt joint style with corner blocks, which requires only straight 90-degree cuts and looks beautiful in traditional-style homes.
-
-### Can I install window trim without a nail gun?
-
-Absolutely. A hammer and finish nails work perfectly well for installing window trim. Many experienced carpenters still prefer hand nailing because it gives them more control. Just pre-drill small pilot holes near the ends of your trim pieces to prevent the wood from splitting when you drive the nails in.
 
 ## You Can Do This!
 

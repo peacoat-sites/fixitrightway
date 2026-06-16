@@ -112,19 +112,6 @@ Contact a licensed electrician if you encounter any of the following:
 
 There is no shame in calling a professional when a situation exceeds your comfort level. Electrical safety is never worth compromising.
 
-## Frequently Asked Questions
-
-### How do I know if I need a 15-amp or 20-amp GFCI outlet?
-
-Check the amperage rating on the circuit breaker that controls the outlet,  it will be stamped directly on the breaker switch. A 15-amp circuit requires a 15-amp GFCI outlet, and a 20-amp circuit requires a 20-amp outlet. You can also look at your existing outlet: a 20-amp outlet has a small T-shaped slot on one side, while a 15-amp outlet has two straight vertical slots.
-
-### Why does my new GFCI outlet keep tripping?
-
-A new GFCI outlet that trips repeatedly may indicate moisture in the electrical box, a wiring problem upstream on the circuit, or a faulty appliance plugged into the outlet or a downstream outlet. Try unplugging everything on the circuit and resetting. If the outlet still trips with nothing plugged in, there may be a wiring issue that requires an electrician to diagnose.
-
-### Can one GFCI outlet protect multiple regular outlets?
-
-Yes,  this is exactly what the LOAD terminals are designed for. When additional outlets are wired through the LOAD terminals of a GFCI outlet, those downstream outlets also receive GFCI protection. This is why you sometimes see regular-looking outlets in a bathroom labeled “GFCI Protected”,  they’re being protected by a GFCI outlet elsewhere on the same circuit.
 
 ## You’ve Got This
 

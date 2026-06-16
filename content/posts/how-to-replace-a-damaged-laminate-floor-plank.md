@@ -100,27 +100,6 @@ And if your floor was installed as a glue-down (some older laminate and most eng
 
 ---
 
-## FAQ
-
-### How long does it take to replace a single laminate plank?
-
-For the cut-and-replace method on a mid-room plank, budget about 2-3 hours including prep and cleanup. Add another hour if you're working back from a wall and disassembling rows. The adhesive cure time adds another 24 hours before you should put weight on the repair.
-
-### Do I need special tools, or can I get away with basic ones?
-
-You can do this with a circular saw and utility knife if you're careful, but an oscillating multi-tool makes the detail cuts near the end joints significantly easier and reduces the risk of damaging surrounding planks. If you don't own one, they rent for around $40-50/day at most home improvement stores.
-
-### What if I can't find a matching replacement plank?
-
-Try the brand's website first for discontinued stock, then specialty flooring retailers. If there's truly no match, the closet-swap trick is your best option: use a plank from a hidden area for the repair and put the close-but-not-perfect replacement somewhere it won't be noticed.
-
-### Will the repaired plank look different from the rest of the floor?
-
-With a good match, the repair is nearly invisible. With a plank that's even slightly off in color or texture, it will stand out, especially in raking light (late afternoon sun hitting the floor at a low angle). The better the match, the better the result -- this is where it's worth spending time before you start cutting.
-
-### Can I replace a laminate plank if the floor is glued to the subfloor?
-
-Technically yes, but it's a much harder job. Glue-down laminate requires cutting the plank out, then scraping the adhesive residue from the subfloor before you can set the replacement. It's doable, but if you're not comfortable with that level of subfloor work, getting a quote from a flooring contractor first is reasonable.
 
 ---
 

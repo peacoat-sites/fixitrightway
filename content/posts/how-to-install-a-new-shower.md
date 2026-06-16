@@ -145,19 +145,6 @@ Use 100% silicone caulk,  not acrylic latex,  for shower applications. Silicone 
 
 Install your shower door according to the kit instructions, or hang your curtain rod. Step back, admire your work, and do a final visual inspection of every seal and connection before that first use.
 
-## Frequently Asked Questions
-
-### How long does it take to install a new shower?
-
-For most do-it-yourself homeowners, a standard shower installation takes one to three days. Day one covers demolition and preparation, day two covers installation, and day three is for final caulking and cure time. Taking your time at each stage produces better, longer-lasting results.
-
-### Do I need a permit to install a shower?
-
-In most areas, replacing an existing shower in the same location does not require a permit. However, if you are moving plumbing or changing the footprint of the shower, a permit is typically required. Always check with your local building department before starting to avoid fines or complications when selling your home.
-
-### Can I install a walk-in shower myself to improve safety?
-
-Yes, and it is an excellent idea for adults over 60. Walk-in showers with low or zero-threshold entries are highly accessible and can be installed using the same process described in this guide. Look for kits specifically labeled as accessible or ADA-compliant, and consider adding grab bars rated for at least 250 pounds of force for maximum safety.
 
 ## You Can Do This,  One Step at a Time
 

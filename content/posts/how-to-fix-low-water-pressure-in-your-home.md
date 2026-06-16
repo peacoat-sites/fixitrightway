@@ -144,20 +144,3 @@ Call a licensed plumber if you experience any of the following:
 
 Plumbing repairs done correctly the first time are almost always cheaper than fixing water damage later. There’s no shame in knowing your limits.
 
-## Frequently Asked Questions
-
-### Why is my water pressure suddenly low in my whole house?
-
-A sudden drop in pressure throughout the whole house usually points to one of three things: a main shutoff valve that has been partially closed, a failing pressure regulator, or a significant leak in your main supply line. Start by checking both shutoff valves are fully open, then test pressure at an outdoor spigot. If pressure is consistently low after those checks, contact your water utility to rule out supply issues on their end before calling a plumber.
-
-### Can low water pressure damage my appliances?
-
-Yes, chronically low pressure can affect washing machines, dishwashers, and water heaters, causing them to run longer cycles and wear out faster. Some appliances,  like certain tankless water heaters,  require a minimum pressure threshold to operate at all. Fixing low pressure protects both your comfort and the lifespan of your home’s appliances.
-
-### How much does it cost to fix low water pressure in a house?
-
-Cost depends entirely on the cause. Cleaning an aerator costs nothing but your time. Replacing a showerhead might run $20–$50. A new pressure reducing valve installed by a plumber typically costs $200–$400 including labor. Replacing corroded galvanized pipes throughout a home is a larger project that can range from $1,500 to $15,000 depending on home size and pipe accessibility. Most homeowners find that simple fixes like cleaning aerators and checking valves solve the problem at zero cost.
-
-Low water pressure doesn’t have to mean a big plumbing bill or weeks of frustration. By working through these steps methodically,  measuring pressure first, checking valves, cleaning fixtures, and inspecting the regulator,  most homeowners can restore strong, satisfying water flow in an afternoon. Start simple, be patient, and take it one step at a time. Your shower will thank you.
-
-Photo by [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)

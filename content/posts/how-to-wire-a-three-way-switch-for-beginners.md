@@ -116,26 +116,5 @@ If your boxes have four or five cables in them and you can't figure out which go
 
 ---
 
-## Frequently Asked Questions
-
-### Why does my three-way switch have four wires instead of three?
-
-The fourth wire is almost always the ground. Three-way switches have three current-carrying terminals (common plus two travelers), but the grounding wire, either bare copper or green, connects to a separate ground screw on the switch body and doesn't count as one of the three switch terminals.
-
-### Can I use a regular single-pole switch as a three-way switch?
-
-No. A single-pole switch only has two terminals and can't route current between two travelers. If you need a three-way switch, you need a three-way switch. They're labeled "3-WAY" on the box and typically have no ON/OFF markings on the toggle.
-
-### Do the traveler wires need to be specific colors?
-
-By code (NEC), travelers can be any color except white, gray, or green, which are reserved for neutral and ground. In practice you'll almost always see black and red in a 3-wire cable. What matters more than color is consistency: the same two wires that connect to the travelers on Switch 1 must connect to the travelers on Switch 2. Mixing them up won't cause damage, but the switch won't work correctly.
-
-### My light flickers when both switches are in the "up" position but not when one is "down." What's wrong?
-
-That flickering is almost always a loose connection at the common terminal. Turn the power off, pull the switch out, and check that the wire seated fully under the screw. With push-in terminals this can also mean the wire didn't fully seat. Strip a fresh 3/4 inch of insulation and reconnect it.
-
-### Can I add a dimmer to a three-way switch setup?
-
-Yes, but you need a dimmer specifically rated for three-way use, like the Lutron Diva DVCL-153P (~$30). You can replace one or both switches with compatible three-way dimmers, but both dimmers must be from the same compatible line. Mixing brands usually doesn't work. Also check your bulbs: three-way dimmers require dimmable LED or incandescent bulbs and won't play nicely with non-dimmable LEDs.
 
 *Photo: [Maria Mileta](https://www.pexels.com/@maria-mileta-3563033) via Pexels*

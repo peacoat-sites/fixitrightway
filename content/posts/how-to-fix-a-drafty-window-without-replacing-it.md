@@ -95,26 +95,5 @@ You'll feel the difference immediately in rooms with multiple windows, and you s
 
 ---
 
-## Frequently Asked Questions
-
-### Can I use regular caulk around the outside of my window frame to stop drafts?
-
-Yes, exterior caulk applied between the window frame and the exterior siding is one of the most overlooked repairs. Use a paintable siliconized latex caulk (DAP Alex Plus is about $5 a tube and works well on wood and vinyl) and apply it on a dry day above 40°F. This seals the gap between the rough opening framing and the window unit itself, which is often a significant air leak even when the window sash seals fine.
-
-### My window rattles when the wind blows. What does that mean?
-
-Rattling almost always means the sash has too much play in its channel -- either the weatherstripping has worn away, the window has shrunk, or the sash was never a tight fit to begin with. V-strip weatherstripping added to the side channels is usually the fix. On older double-hungs with parting stops, you can also move the parting stop slightly inward to reduce the slop in the channel, though that's a more involved adjustment.
-
-### Will weatherstripping a window that was painted shut cause any damage?
-
-If the window was painted shut and you're breaking it free to add weatherstripping, you'll likely damage some paint on both the sash and the stop. That's fine. Score the paint joint with a utility knife before forcing the sash, which gives you a cleaner break. You'll need to touch up paint afterward, but the window being operable is worth it for both air sealing and emergency egress.
-
-### How do I know if it's actually a draft versus just cold glass making the room feel chilly?
-
-The incense or candle test settles this. If the smoke moves, you have infiltration. If the smoke hangs straight and steady but the glass still feels cold, you're dealing with radiant heat loss through the glass. That means the glass itself has poor insulating value (common with single-pane and older double-pane windows), and no amount of weatherstripping will change it. Interior film insulation helps with radiant loss; weatherstripping does not.
-
-### Is it worth doing all this work on windows I'm planning to replace eventually?
-
-Almost certainly yes. Window replacement costs $400 to $1,200 per window installed, and "eventually" has a way of becoming a long time from now. Weatherstripping materials for a full window run $10 to $25. Even if you replace the windows two years from now, you'll have paid for the repair many times over in heating savings.
 
 *Photo: [Alina Vilchenko](https://www.pexels.com/@monstera) via Pexels*

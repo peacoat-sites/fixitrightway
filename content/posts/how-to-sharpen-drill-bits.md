@@ -111,25 +111,6 @@ Bits used in hardwood, metal, or masonry dull faster than those used in softwood
 
 A quick touch-up on the grinder every few months of regular use will keep most bits in excellent condition. Prevention is always easier than restoration.
 
-## Frequently Asked Questions
-
-### Can you sharpen all types of drill bits the same way?
-
-Standard high-speed steel (HSS) twist bits are the easiest to sharpen at home using the methods described above. Masonry bits, spade bits, and auger bits require different techniques and sometimes specialized files.
-
-Carbide-tipped bits are best sharpened by a professional tool service, as they require diamond grinding wheels and precise equipment. However, these bits are much more durable and rarely need sharpening as often as HSS bits.
-
-### Is it worth sharpening cheap drill bits?
-
-It depends on how damaged the bit is. If a cheap bit is only slightly dull, a quick sharpening absolutely makes it worth keeping in your toolbox. However, if a budget bit is badly chipped or bent, replacing it is usually the better choice.
-
-High-quality bits are always worth sharpening, since good HSS or cobalt bits can cost several dollars each and last for years with proper care. Think of sharpening as routine maintenance, just like oiling moving parts.
-
-### What is the correct angle for sharpening a standard twist drill bit?
-
-Most general-purpose twist drill bits are sharpened to a 118-degree included angle at the tip, which works well for wood, plastic, and soft metals. For harder materials like stainless steel, a slightly steeper 135-degree angle distributes cutting force more effectively.
-
-If you are unsure of the original angle, you can buy inexpensive drill bit angle gauges at most hardware stores. These small tools take the guesswork out of matching the correct geometry when sharpening.
 
 ## You Have Got This,  Keep Your Tools Sharp and Your Projects Moving
 

@@ -80,27 +80,6 @@ Epoxy floor coatings, like the Rust-Oleum RockSolid Polycuramine kits that run $
 
 ---
 
-## FAQ
-
-### How big of a hole can I patch myself?
-
-Most DIYers can confidently handle holes up to about 4-6 inches across and 2-3 inches deep. Beyond that, you're still technically in DIY territory, but the prep work gets more intensive and you'll likely need to build a small form around the patch area to keep the material contained. If the void is larger than roughly a shoebox, get a second opinion on what's underneath before filling it.
-
-### Can I use regular concrete mix instead of vinyl patcher?
-
-You can, but I'd advise against it for surface repairs. Standard concrete mix doesn't bond well to existing concrete in thin applications, it's more prone to shrinkage cracking, and it needs to be applied thicker. Vinyl patcher exists because plain concrete fails in patch situations. The extra $12 is worth it.
-
-### Why does my patch keep cracking or popping out?
-
-Almost always, it's one of two things: inadequate prep (loose material or dust left in the hole, no roughening of the edges), or a bonding mismatch (too-smooth surfaces, no bonding adhesive). The other possibility is that the hole is in an area with active movement, like a floor that shifts seasonally because of soil moisture changes. A rigid patch in a moving floor will always crack. In that case, a flexible polyurethane filler is a better long-term answer.
-
-### Do I need to worry about radon or moisture coming through a patched floor?
-
-Patching a hole with vinyl patcher does provide some moisture resistance, but it's not a vapor barrier. If you have moisture coming up through your floor (efflorescence, that white chalky residue, is a sign), a patch alone won't stop it. You'd want to address the drainage or grading issues outside and apply a dedicated concrete moisture mitigation coating. Radon is a separate issue and requires a professional assessment and mitigation system if levels are elevated.
-
-### How long before I can park my car on the patch?
-
-With Quikrete Vinyl Concrete Patcher under normal conditions (above 50°F, moderate humidity), plan on a minimum of 72 hours before driving over it. Five to seven days is safer and what I personally recommend. Cold weather slows curing significantly. Below 50°F, you shouldn't be doing this repair at all without heating the space, or using a cold-weather concrete additive.
 
 ---
 

@@ -102,19 +102,6 @@ Apply the primer with a roller to the entire patched area, extending it slightly
 
 Finish with two coats of ceiling paint in a flat or matte finish to match your existing ceiling texture. If your ceiling is textured (knockdown, orange peel, or popcorn), you will need to apply a matching texture before painting. Texture sprays are available at hardware stores for common styles and are relatively easy to use with a little practice.
 
-## Frequently Asked Questions
-
-### How long should I wait after fixing a leak before repairing the ceiling?
-
-You should wait a minimum of 24 to 48 hours after fixing the source of the leak before beginning ceiling repairs. In humid climates or for larger areas of damage, waiting 3 to 5 days is even better. Use a moisture meter to confirm readings below 15 percent before installing new drywall to ensure a lasting repair.
-
-### Can I paint over a water stain without replacing the drywall?
-
-Yes, if the drywall is still structurally solid,  firm, not soft or crumbling,  you can treat the stain without replacement. Clean the area with a diluted bleach solution (one part bleach to three parts water), allow it to dry completely, and then apply a coat of oil-based or shellac stain-blocking primer. Follow with two coats of ceiling paint for a clean result.
-
-### How do I know if my ceiling has mold and is it safe to handle myself?
-
-Mold often appears as black, green, or fuzzy spots and may have a musty odor. Small areas of mold,  generally less than 10 square feet,  can typically be handled by a careful DIYer using an N95 mask, gloves, and eye protection. Larger infestations, or any mold found on structural framing, should be assessed and remediated by a certified mold remediation professional to protect your health and home.
 
 ## You Can Do This
 

@@ -115,19 +115,6 @@ With everything installed, test your new deadbolt thoroughly before calling the 
 
 Close the door and test the lock both from the inside thumb-turn and from outside with your key. The bolt should fully seat inside the strike plate with no gaps. If you notice any misalignment, loosen the strike plate screws, adjust its position slightly, and re-tighten.
 
-## Frequently Asked Questions
-
-### Do I need any special skills to install a deadbolt myself?
-
-No special skills are needed for most standard deadbolt installations. If you can use a drill and a screwdriver comfortably, you can handle this project. Following the template that comes with your lock kit makes accurate measuring much easier, so don’t skip that step.
-
-### What if my door doesn’t have an existing hole for a deadbolt?
-
-No problem,  you simply drill the holes yourself using the hole saw sizes described above. Most solid wood and hollow-core doors can be drilled without any issues. If you have a steel or fiberglass door, use a hole saw specifically designed for those materials, which you can find at any hardware store.
-
-### How do I know if my new deadbolt is installed correctly?
-
-A correctly installed deadbolt will operate smoothly with no stiffness or grinding, the bolt will fully extend and retract, and the door will close and lock without any forcing. The faceplate and strike plate should both sit flush with the wood surface. If anything feels off, revisit the alignment of the strike plate first,  that’s the most common culprit.
 
 ## You’ve Got This!
 

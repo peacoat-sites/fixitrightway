@@ -96,26 +96,5 @@ Also: none of this insulation does much if you have a door with a broken seal at
 
 ---
 
-## FAQ
-
-### Will insulating my garage door make my garage warm enough to use as a workshop in winter?
-
-Probably not by itself, unless you add a heat source too. Garage door insulation dramatically reduces heat loss, but a garage has a lot of other uninsulated surfaces (walls, ceiling, concrete floor) that bleed heat. Think of the door insulation as keeping your heater's work from being wasted, not as a replacement for heating.
-
-### Can I insulate a garage door that has windows?
-
-Yes. Work around the windows by measuring the solid panel sections on either side and below. Don't try to cover the windows with foam, for obvious reasons. The windows themselves will still be a weak point thermally, but insulating the surrounding panel area still helps.
-
-### Will this void my garage door warranty?
-
-Check your specific warranty, but in most cases, aftermarket insulation added to the interior panel faces doesn't void a door warranty. What can void it is drilling through the panels or modifying the structural components. Adhesive-backed foam or clips on the interior face are generally considered non-invasive.
-
-### How do I know if my door opener can handle the added weight?
-
-Most modern belt-drive or chain-drive openers (Chamberlain, LiftMaster, Genie) are rated for doors up to 400 pounds and can handle the weight of foam board insulation without issue. If your opener is already hesitating on the way up or struggling to close evenly, get the door balanced by a pro before adding any insulation.
-
-### Is there a minimum R-value I should be targeting?
-
-For a garage attached to a conditioned living space in a cold climate (Climate Zones 5-7 per the building codes), R-13 to R-16 is a reasonable target for the door itself. In milder climates, R-8 to R-10 is enough to make a noticeable difference in comfort and energy use. Below R-6, honestly, you're barely moving the needle.
 
 *Photo: [Polina Tankilevitch](https://www.pexels.com/@polina-tankilevitch) via Pexels*

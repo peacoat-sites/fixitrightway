@@ -98,27 +98,6 @@ Don't use a foam roller on curved or detailed trim like fluted casings, chair ra
 
 ---
 
-## Frequently Asked Questions
-
-### Why does my trim paint look streaky when it dries but looked fine when wet?
-
-This is almost always a flashing issue. It happens when paint dries at different rates across the surface, often because of uneven application, lap marks, or painting over a partially dried section. The variation in film thickness shows up as lighter and darker areas. The fix is a light 220-grit sand when it's fully dry and a thin, even second coat applied quickly in one direction.
-
-### Can I paint over brush strokes without sanding?
-
-Technically yes, but the brush strokes from the previous coat will telegraph through unless you fill them somehow. Liquid sandpaper (deglosser) can soften them slightly, but for a truly smooth finish you need at least a light pass with 220-grit before the next coat. It takes five minutes. It's worth it.
-
-### How long should I wait between coats on trim?
-
-With standard latex, most cans say 2 to 4 hours. I prefer to wait at least 4 hours, ideally overnight, before sanding and recoating. With waterborne alkyd like Benjamin Moore Advance, the recoat window is 16 hours minimum, sometimes longer in humid conditions. Rushing recoat time is one of the most common reasons a second coat pulls up the first one.
-
-### Is there a way to fix brush strokes that have already dried hard?
-
-Yes. Sand the affected area with 120-grit until the ridges are gone, feathering out a few inches around the problem area. Wipe clean, apply a thin coat of paint, and tip off carefully. If the strokes are deep and you're dealing with a larger section, it's sometimes faster to sand the whole run of trim back to a smooth surface and start fresh with a better product.
-
-### Do I really need a primer coat on trim?
-
-If you're doing a significant color change, painting over bare wood, or covering a stained surface, yes. If you're repainting previously painted trim in a similar color with a quality paint-and-primer formula, you can often skip a separate primer coat and get away with two finish coats instead. The money you spend on a good waterborne alkyd product is more valuable than a cheap primer under cheap paint.
 
 ---
 

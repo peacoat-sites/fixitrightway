@@ -142,19 +142,6 @@ Contact a licensed plumber if you experience:
 
 These signs often point to a deeper blockage in the main sewer line, which is beyond the reach of household methods. A professional has the tools and training to diagnose and fix these issues safely.
 
-## Frequently Asked Questions
-
-### How long should I let dish soap sit in the toilet before flushing?
-
-Give the dish soap at least 15 to 20 minutes to work its way down to the clog. For more stubborn blockages, letting it sit for 30 to 45 minutes before adding hot water gives even better results. Patience really does pay off with this method.
-
-### Is it safe to use chemical drain cleaners in a toilet?
-
-Most plumbers actually advise against using harsh chemical drain cleaners like Drano in toilets. These products are designed for sink and shower drains and can damage the rubber seals and components inside your toilet tank over time. The natural methods in this guide are safer and surprisingly just as effective.
-
-### What if the water level is very high,  should I still add more water?
-
-If the bowl is nearly full, do not add more water until the level drops. Adding water to an already-full bowl risks overflow and a very unpleasant cleanup. Instead, start with the baking soda and vinegar method, which doesn’t require adding significant liquid volume. Wait for the water to drain partially before using the hot water technique.
 
 ## You’ve Got This
 

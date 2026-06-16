@@ -114,19 +114,6 @@ Home maintenance tasks don’t have to be hard on your joints. A few simple adju
 
 There is absolutely no rush with this project. Taking it in stages over a day or two is perfectly fine, and the results will be just as good.
 
-## Frequently Asked Questions
-
-### How long does it take to remove old caulk from a bathtub?
-
-For most bathtubs, plan on spending about two to three hours on the actual removal process, not including the softening wait time. If you allow one to two hours for the caulk remover to work, the whole project from start to finish usually takes about half a day. Working at a relaxed pace is perfectly fine,  this is not a job that rewards rushing.
-
-### Can I use a razor blade to remove caulk from a fiberglass tub?
-
-It is best to avoid metal razor blades on fiberglass or acrylic tub surfaces, as they can leave scratches that are difficult to repair. Instead, use a plastic caulk removal tool or a nylon scraper, which are gentle enough for these surfaces. For porcelain or ceramic tile, a metal blade is generally safe when used at a low angle with light pressure.
-
-### What is the best way to remove silicone caulk compared to latex caulk?
-
-Silicone caulk is significantly more flexible and resistant to standard caulk removers, so it typically requires a dedicated silicone remover product and a longer soaking time. Latex caulk is softer and easier to remove, often responding well to white vinegar or standard caulk remover after an hour or two. Both types benefit from the scoring step before you attempt to peel them away.
 
 ## You’ve Got This
 

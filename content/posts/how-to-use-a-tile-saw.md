@@ -111,25 +111,6 @@ Different tile projects require different types of cuts. Here’s a quick guide 
   * **Notch cuts:** Make two straight cuts to form a corner notch. Cut one line, back the tile out, rotate it, and make the second cut.
   * **Curved cuts:** Make a series of closely spaced straight cuts up to the curve line, then snap away the small pieces.
 
-## Frequently Asked Questions
-
-### Do I need a tile saw, or can I use a snap cutter instead?
-
-A snap cutter works well for simple, straight cuts on ceramic tile, and it’s a quieter, more affordable option. However, for porcelain, glass, natural stone, or any complex cuts, a tile saw gives you far better accuracy and cleaner results.
-
-If you are doing a large project or working with harder tile materials, investing in or renting a wet saw is absolutely worth it.
-
-### How do I know when to replace the blade?
-
-If your tile saw is taking longer than usual to cut through tile, producing rough or chipped edges, or making a burning smell, it’s likely time for a new blade. A worn-out blade is not only slower,  it’s also less safe.
-
-Most diamond blades last through 20 to 40 hours of cutting time, depending on the hardness of the material. Check the blade regularly for visible wear, cracks, or warping.
-
-### Can I use a tile saw indoors?
-
-You can use a tile saw indoors, but it requires good preparation. The saw will splash water and create some noise, so lay down plastic sheeting to protect floors and connect to a GFCI outlet.
-
-Make sure the space is well-ventilated and that you have easy access to a drain or buckets for water management. Many people prefer to set up near an open garage door or on a covered patio for easier cleanup.
 
 ## You’ve Got This!
 

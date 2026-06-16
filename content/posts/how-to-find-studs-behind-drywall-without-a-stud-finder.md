@@ -84,26 +84,5 @@ One more thing: if you're trying to find studs in a tile bathroom or a wall with
 
 ---
 
-## FAQ
-
-### How accurate is the 16-inch rule, really?
-
-Pretty accurate, but not perfect. Framers start their layout from a corner or from a specific reference point, so a stud that's theoretically at 48 inches might actually sit at 47 or 49 inches depending on where the layout started. Plan to sweep an inch or two in either direction from your calculated marks before committing.
-
-### Can I use my phone to find studs?
-
-There are magnetic stud finder apps that use your phone's built-in magnetometer. They're real, not gimmicks, but they're less sensitive than a dedicated neodymium magnet and harder to interpret. I've used a few and found them inconsistent. Treat them as a rough supplement to the measurement method, not a standalone solution.
-
-### What's the best way to find studs in a ceiling?
-
-The same principles apply, but ceiling joists are often 24 inches on center rather than 16, especially in older homes. Start from a wall (the joist runs perpendicular to the wall in most rooms), measure out in 16 or 24-inch increments, and confirm with the finish nail method. The knock test works on ceilings too, though it's awkward to do overhead.
-
-### How do I know if I'm hitting the center of the stud or just the edge?
-
-Once you've confirmed you're on a stud with a finish nail, probe an inch or so to each side until the nail stops hitting solid material. The center of the stud sits halfway between those two edges. For a standard 2x4, that's a range of 1.5 inches, so your center is 3/4 inch in from either side.
-
-### Does the outlet trick actually work every time?
-
-Almost. The National Electrical Code requires outlets to be mounted to framing, so there's always a stud adjacent to an electrical box. The box is usually nailed to the left or right face of a stud. The one exception is when someone installed an old-work box between studs using plastic mounting wings, which became common in retrofit work. If the box wiggles when you press on the cover plate, it might be a floating old-work box. If it's rock solid, there's a stud right there.
 
 *Photo: [Ahmet Çiftçi](https://www.pexels.com/@ahmet-ciftci-1413580052) via Pexels*

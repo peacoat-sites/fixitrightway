@@ -92,27 +92,6 @@ Also: if you have a tile surround with cracked grout throughout, fix the grout f
 
 ---
 
-## Frequently Asked Questions
-
-### How long does tub caulk last?
-
-A well-applied bead of 100% silicone in a typical residential tub should last 5-10 years before it needs replacing. Siliconized latex typically runs 3-5 years. How often you use the tub, how well it was prepped, and whether you used the fill-the-tub method all affect this.
-
-### Can I caulk over old caulk instead of removing it?
-
-Technically you can, and some products allow it, but you shouldn't. New caulk bonded to old failing caulk will fail faster than new caulk bonded to a clean surface. The 45 minutes you spend removing the old stuff is the single best investment you can make in the longevity of the new job.
-
-### Why does my caulk keep turning pink or black?
-
-Pink is usually a bacterial biofilm, and black is mold, both thriving on soap residue and moisture. Using a caulk with mildewcide (look for it specifically on the label) helps, and so does wiping the joint dry after showers. Once the discoloration is deep in the caulk, cleaning it is mostly cosmetic. Replacement is the real fix.
-
-### What's the best tool for smoothing caulk?
-
-For most people: a damp fingertip with a drop of dish soap. That's it. Professional caulk tools are nice but they're solving a problem most homeowners don't actually have. The technique matters more than the tool.
-
-### How soon can I use the tub after caulking?
-
-Read your specific product, because they vary, but as a general rule: 24 hours for most silicone products, sometimes 48 hours in low humidity or poor ventilation. Some siliconized latex products claim a 3-hour cure, and they're not entirely wrong, but I'd still wait a full day. The longer you give it, the better the bond.
 
 ---
 

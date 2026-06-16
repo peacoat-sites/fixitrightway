@@ -119,19 +119,6 @@ After the leveler has fully cured, drag your straightedge across the surface aga
 
 Once you confirm the floor is level, you are ready to start laying your tile. Congratulations,  the hardest part is behind you!
 
-## Frequently Asked Questions
-
-### How thick can self-leveling compound be applied in one pour?
-
-Most standard self-leveling compounds can be applied in a single pour of up to **1 inch thick**. For deeper low spots, you will need to apply multiple layers, allowing each one to fully cure before adding the next. Always check your specific product label, as maximum depths vary by brand.
-
-### Can I use self-leveling compound on a wood subfloor?
-
-Yes, you can use self-leveling compound on plywood or OSB subfloors, but preparation is critical. The subfloor must be structurally sound, firmly fastened (no squeaks or movement), and properly primed. Any movement in the subfloor can cause the leveler to crack, so make sure all loose boards are screwed down securely before you begin.
-
-### How long does self-leveling compound last under tile?
-
-When properly applied over a stable subfloor, self-leveling compound can last for many years,  easily **10 to 20 years or more**,  without any issues. The key factors are thorough surface preparation, proper priming, correct mixing, and adequate cure time before tiling. Cutting corners on any of these steps can shorten its lifespan significantly.
 
 ## You Are Ready to Tile With Confidence
 

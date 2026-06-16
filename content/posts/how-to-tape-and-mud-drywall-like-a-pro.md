@@ -115,19 +115,6 @@ Wipe down the entire wall with a barely damp cloth to remove all dust. Let it dr
   * Don’t skip priming,  paint directly over bare mud will look dull and uneven
   * For extra-smooth results, apply a full skim coat over the entire wall before priming
 
-## Frequently Asked Questions
-
-### How long does joint compound take to dry between coats?
-
-Under normal conditions,  around 70°F and 50% humidity,  each coat of pre-mixed joint compound takes approximately 24 hours to dry. In cold or humid conditions, this can extend to 48 hours or more. Setting-type compounds harden faster, sometimes within 60 to 90 minutes. Never apply a new coat over mud that still feels cool or looks dark,  it isn’t dry yet.
-
-### What’s the difference between paper tape and mesh tape?
-
-Paper tape creates stronger seams and is preferred by most professionals for flat seams. It requires being embedded in wet mud to adhere properly. Fiberglass mesh tape is self-adhesive and easier for beginners to apply, but it can crack more easily over time and requires setting-type compound for the first coat. For most interior flat seams, paper tape is the better long-term choice.
-
-### How many coats of mud do I need for a smooth finish?
-
-Most drywall finishing jobs require three coats: a tape coat, a fill coat, and a finish coat. Some surfaces or high-visibility areas may benefit from a fourth skim coat applied over the entire wall. Each coat must be fully dry and lightly sanded before the next is applied. Rushing by applying thick coats will cause cracking and shrinkage.
 
 ## You’ve Got This,  One Coat at a Time
 

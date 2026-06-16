@@ -98,26 +98,5 @@ The one situation where I'd skip the DIY and call immediately: if you have PVC d
 
 ---
 
-## FAQ
-
-### Can I use a drain snake without removing the sink stopper?
-
-Technically yes, but the stopper blocks much of the drain opening and you'll miss most of the clog. Removing it takes two minutes and lets the cable reach the actual blockage. It's worth doing.
-
-### Will a drain snake scratch or damage my bathroom sink?
-
-The cable stays inside the drainpipe the whole time, so no. The only risk is if you're rough with the cable near the drain opening and scratch the sink finish. Feed it in gently and you won't have a problem.
-
-### How long a snake do I actually need for a bathroom sink?
-
-Fifteen feet is plenty. Honestly, a 25-foot snake is overkill and harder to manage in the confined space under a sink. A 10 to 15-foot cable hits every bathroom sink clog you'll realistically encounter.
-
-### My bathroom sink drains slowly but doesn't seem fully clogged. Should I still snake it?
-
-Yes. A slow drain is a partial clog, and it'll become a full stop within weeks. Snaking it now takes ten minutes. Snaking it when you have a sink full of standing water is the same job but more annoying.
-
-### Are drain cleaning chemicals better than snaking?
-
-For hair clogs, no. Liquid drain cleaners (Drano, Liquid-Plumr) work reasonably well on grease and soap scum but don't dissolve hair effectively. They also sit in your P-trap and can soften older plastic fittings with repeated use. A snake physically removes the clog. That's a more complete fix.
 
 *Photo: [Anna Shvets](https://www.pexels.com/@shvetsa) via Pexels*

@@ -88,27 +88,6 @@ The expensive aerosol foam kits with the gun applicator and all the nozzles are 
 
 ---
 
-## FAQ
-
-### How do I know if my window needs re-caulking or new weatherstripping?
-
-They fix different things. Caulk seals the fixed, non-moving joints -- the frame to the wall, the frame to the glass. Weatherstripping seals the moving parts, meaning the sash edges that slide or close against the frame. If your draft is coming from around the sash when it's closed, that's weatherstripping. If it's coming from the perimeter of the whole window unit, that's usually caulk (or foam behind the trim).
-
-### Can I just use spray foam on everything?
-
-Not without some care. Expanding foam is great behind trim and in hidden cavities, but if you apply too much in a narrow space, it can actually bow the window frame out of square and prevent the sash from closing properly. Use the "gaps and cracks" formulation (not the "big gap" stuff), apply in stages, and let it cure between passes.
-
-### Is rope caulk the same as regular caulk?
-
-No. Rope caulk (Mortite is the main brand) is a pliable putty-like product you press into gaps by hand. It doesn't need to cure, never fully hardens, and peels off without damaging paint. It's explicitly temporary -- good for windows you want sealed for winter but functional again in spring. Regular caulk cures hard and is meant to last years.
-
-### How long does weatherstripping actually last?
-
-Cheap open-cell foam tape: maybe one winter. Closed-cell foam tape: two to four years. EPDM rubber gasket: five to ten years. Bronze V-strip: if it's properly installed and not damaged, it can outlast the window. The price difference between foam tape and bronze V-strip is about $8 for a typical window. Do the math.
-
-### Will these fixes actually lower my heating bill?
-
-Yes, but the number varies too much to promise you anything specific. Air sealing is consistently one of the highest-ROI improvements in home energy audits -- the Department of Energy's own data shows infiltration accounts for 25% to 40% of heating and cooling costs in typical homes. A full weatherstripping and caulking job on a drafty older home runs $50 to $150 in materials and an afternoon of work. That math usually lands in your favor before February.
 
 ---
 

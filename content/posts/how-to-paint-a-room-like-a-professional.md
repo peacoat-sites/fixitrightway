@@ -118,19 +118,6 @@ Clean latex paint from brushes and rollers with warm soapy water. Work the brist
 
 Replace outlet covers and switch plates, return furniture, and admire your handiwork. Touch up any thin spots or holidays,  small unpainted patches,  with a small brush once the room is fully dry.
 
-## Frequently Asked Questions
-
-### How long does it take to paint a standard room?
-
-Most people can paint a standard 12-by-12-foot bedroom in one full day, including preparation and two coats. Allow extra drying time between coats, so plan for the project to span at least one full day,  or a relaxed weekend if you prefer to work at a comfortable pace without rushing.
-
-### What is the best paint finish for interior walls?
-
-Eggshell and satin finishes are the most versatile choices for living rooms and bedrooms. They are easy to wipe clean and have just enough sheen to look polished without highlighting wall imperfections. Save semi-gloss for trim, doors, and bathrooms where moisture resistance matters most.
-
-### How much paint do I need to buy?
-
-Measure your room’s perimeter, multiply by the ceiling height, then subtract about 20 square feet for each door and window. One gallon of paint covers approximately 350 to 400 square feet. Always buy slightly more than you calculate,  having leftover paint for future touch-ups is invaluable.
 
 ## You Have Got This
 

@@ -121,27 +121,6 @@ A professional drain cleaning runs $150 to $300 for a standard snake job. Hydroj
 
 ---
 
-## Frequently Asked Questions
-
-### Can I use a plunger on a completely blocked drain with no water flow at all?
-
-You can try, but you'll get better results if there's at least a little water in the fixture to help seal the plunger and transmit pressure. If it's totally dry, add two to three inches of water first. That said, if a drain is completely stopped and plunging doesn't move it at all after a few attempts, move straight to the snake. A total blockage usually needs physical disruption, not just pressure.
-
-### Why does my drain clog keep coming back every few months?
-
-Recurring clogs almost always mean one of three things: the original clog wasn't fully cleared (part of it is still there, accumulating new debris), there's a buildup along the pipe walls that keeps catching material, or there's a structural problem like a low spot in the pipe, root intrusion, or a partial collapse. If you've cleared it properly twice and it keeps coming back, have a plumber run a camera down the line. A drain camera inspection typically costs $100 to $250 and gives you a definitive answer.
-
-### Is it safe to use boiling water in PVC pipes?
-
-Technically, PVC has a softening point around 140 to 170 degrees Fahrenheit, and boiling water is 212 degrees. Pouring a full kettle of boiling water repeatedly into a PVC drain could potentially soften joints over time, though most people never have a problem with occasional use. If you want to be cautious, use very hot tap water instead (around 120 to 130 degrees), which is effective for grease and safer for plastic pipes.
-
-### My shower drain has a weird smell but drains fine. Do I have a clog?
-
-Not necessarily. A smell without slow draining is often a biofilm issue, which is a thin layer of bacteria and soap scum coating the inside of the drain pipe. Try pouring a cup of baking soda followed by a cup of white vinegar, letting it sit for 30 minutes, then flushing with hot water. If the smell is sulfur-like or sewage-like, check that your P-trap hasn't dried out (common in guest bathrooms that don't get used often). Running the water for a minute will refill it. Persistent sewage smell warrants a closer look.
-
-### What's the right way to maintain drains so they don't clog in the first place?
-
-The most effective habits are the simplest ones. Use a mesh drain cover in the shower to catch hair before it enters the drain. Never pour grease down the kitchen sink. Run hot water for 30 seconds after doing dishes. Once a month, flush your drains with hot water for a couple of minutes. That's genuinely it. Most of the enzyme-based maintenance products you'll see marketed are not harmful, but they're also not necessary if you're following the basics.
 
 ---
 

@@ -128,19 +128,6 @@ Once your grout is clean and sealed, simple maintenance habits will keep it look
   * Mop tiled floors regularly with a pH-neutral floor cleaner
   * Do a light grout scrub every few months to stay ahead of buildup
 
-## Frequently Asked Questions
-
-### Can I use bleach to clean grout?
-
-Bleach can be effective on white grout and stubborn mold, but it should be used carefully and sparingly. Dilute it with water (one part bleach to ten parts water), ventilate the room well, and always wear gloves. Bleach can discolor colored grout and may weaken grout over time with repeated use, so it’s best reserved for occasional tough jobs rather than regular cleaning.
-
-### How do I clean grout in a shower without damaging the tiles?
-
-The safest approach for shower grout is using baking soda paste and hydrogen peroxide, which are effective but gentle on most tile types. Avoid vinegar if your tiles are natural stone like marble or travertine, as the acid can etch the surface. Always test any cleaner on a small, hidden area first if you’re unsure about your tile type.
-
-### How often should I deep clean my grout?
-
-For bathroom and kitchen floors, a thorough grout cleaning every three to six months is a good general guideline. High-traffic areas or shower stalls may need attention every one to two months. If you’ve applied a quality grout sealer, you’ll find that dirt releases much more easily and deep cleaning sessions are quicker and less frequent.
 
 ## You’ve Got This!
 

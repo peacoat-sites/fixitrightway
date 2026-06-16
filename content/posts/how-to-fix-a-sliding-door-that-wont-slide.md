@@ -129,19 +129,6 @@ Run your fingers along the inside of the track channel and feel for any raised s
 
 After any track repairs, clean and lubricate the channel again before reinstalling or testing the door.
 
-## Frequently Asked Questions
-
-### Why does my sliding door keep jumping off the track?
-
-A door that repeatedly jumps off the track is usually suffering from worn rollers, a damaged track, or improper roller height adjustment. When rollers are too low, they cannot stay seated properly in the channel and pop out with normal use. Inspect both the rollers and the track carefully, and adjust the roller height so the door sits securely. If the problem persists after adjustment, replacing the rollers is usually the permanent fix.
-
-### How often should I lubricate a sliding door track?
-
-Most experts recommend lubricating sliding door tracks at least once or twice per year, especially before summer and winter when temperature changes can cause tracks to expand or contract. If your door is used heavily every day,  for example, as a main entrance to a patio,  quarterly lubrication will keep it running smoothly year-round. Regular maintenance is far easier than dealing with a fully stuck door later.
-
-### Can I fix a sliding door stuck in the track without removing the door?
-
-Yes, in many cases you can. Cleaning the track, lubricating it, and adjusting the roller height screws can all be done without removing the door panel. Only when you need to replace the rollers or inspect the bottom of the door closely will you need to remove it. Always try the simpler fixes first,  a good cleaning and lubrication resolves the issue for a large number of homeowners.
 
 ## You Can Do This!
 

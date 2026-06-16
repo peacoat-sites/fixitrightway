@@ -101,26 +101,5 @@ For soap scum buildup, a monthly flush of boiling water helps. Pour a full kettl
 
 ---
 
-## FAQ
-
-### How do I know if my slow drain is a clog or a venting problem?
-
-If the drain is consistently slow and you can hear gurgling sounds when you drain water or flush a toilet nearby, venting is likely part of the problem. A clogged vent stack can create negative pressure that slows drainage throughout the house. This one's worth a call to a plumber, because accessing the vent stack usually means going on the roof.
-
-### My shower drains fine at first but slows down mid-shower. What's causing that?
-
-This usually means there's a partial clog that handles a slow trickle but can't keep up with full shower flow. The hair-and-soap-scum mat in the drain has enough gaps to let standing water slowly seep through, but not enough to drain freely. The Zip-It tool or plunger method should address this.
-
-### Is it worth buying a motorized drain auger instead of a hand crank?
-
-For a single shower drain, no. A 25-foot hand-crank auger handles almost every residential shower drain situation you'll encounter. Motorized augers are genuinely useful for long drain runs and main line clogs. Renting one for a simple shower drain is overkill and, honestly, a little easy to misuse if you haven't handled one before.
-
-### Can tree roots cause a slow shower drain?
-
-Not typically for a single slow shower. Roots affect your main sewer line, which would slow multiple fixtures at once, often with gurgling or sewage smell. If only your shower is slow and the other drains are fine, roots aren't your problem.
-
-### How often should I be cleaning my shower drain to prevent buildup?
-
-Pull the drain cover and do a quick visual check once a month. If you're using a hair catcher, clean it weekly. A full manual cleaning with a Zip-It every two to three months keeps most showers draining properly year-round.
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*

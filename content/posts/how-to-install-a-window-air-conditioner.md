@@ -127,19 +127,6 @@ At the end of each cooling season, remove the unit, clean it thoroughly, and sto
   * Inspect the weatherstripping each season and replace if worn
   * Store the unit indoors during winter months
 
-## Frequently Asked Questions
-
-### Can I install a window AC unit in a sliding window?
-
-Yes, but it requires a different approach. Sliding windows open side to side rather than up and down, so standard window AC kits don’t fit. You’ll need a special sliding window AC kit or a portable AC unit that vents through a sliding door or window instead.
-
-### Do I need a special outlet for a window air conditioner?
-
-Most standard window AC units (under 15,000 BTU) run on a regular 115-volt, 15-amp household outlet. Larger units may require a 230-volt outlet. Always check your unit’s label and your home’s circuit capacity before plugging in. If you’re unsure, consult a licensed electrician.
-
-### How do I keep bugs from coming in around my window AC unit?
-
-The best defense is thorough sealing with foam weatherstripping around all edges of the unit and side panels. You can also apply a thin bead of removable caulk around the accordion panels where they meet the window frame. Check the seal at the beginning of each season and replace any worn weatherstripping promptly.
 
 ## You’ve Got This!
 

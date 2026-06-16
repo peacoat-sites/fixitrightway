@@ -112,19 +112,6 @@ In this case, you have two options. You can use a seat wrench to remove and repl
 
 If you notice cracks in the faucet body itself or signs of significant corrosion, a full replacement is likely the best and most cost-effective path forward.
 
-## Frequently Asked Questions
-
-### How do I know if my outdoor faucet washer needs replacing?
-
-The most obvious sign is a faucet that drips from the spout even when fully turned off. You may also notice that the faucet requires more and more force to stop the dripping as the washer wears down. Replacing the washer is a quick, inexpensive fix that typically costs less than two dollars in parts.
-
-### How long does it take to fix a leaky outdoor faucet?
-
-For most homeowners, this repair takes between 30 minutes and one hour from start to finish. If you need to make a trip to the hardware store to match parts, budget a bit of extra time. Having the right replacement parts on hand before you begin is the single best way to speed up the process.
-
-### Can a leaky outdoor faucet increase my water bill?
-
-Absolutely. Even a faucet that drips just once per second can waste more than 3,000 gallons of water per year, according to the U.S. Environmental Protection Agency. That translates directly into higher water bills and unnecessary strain on the environment. Fixing the leak promptly is both a money-saving and eco-friendly decision.
 
 ## You Can Do This
 

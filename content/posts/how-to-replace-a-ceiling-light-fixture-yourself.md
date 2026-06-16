@@ -88,26 +88,5 @@ Where not to cut corners: the mounting hardware and wire connections. A $12 brac
 
 ---
 
-## FAQ
-
-### Can I replace a ceiling light fixture without an electrician?
-
-Yes, in most U.S. jurisdictions, replacing a like-for-like light fixture doesn't require a permit or a licensed electrician. It's considered routine homeowner maintenance. The exception is if you're adding a new circuit, moving the box, or working in a jurisdiction with stricter rules (some cities require permits for any electrical work). When in doubt, check your local building department's website.
-
-### What if I find more than three wires in the box?
-
-Multiple wire sets in one box usually means the box is mid-run on a circuit, feeding other outlets or lights downstream. It looks alarming but it's common. The fix is simple: connect the matching colors together, including the existing wires, with a single wire nut. Black to blacks, white to whites. Don't disconnect anything you don't need to disconnect and take that photo before you touch anything.
-
-### My new fixture has a green wire but my box only has a bare copper ground. Are they compatible?
-
-Yes. Green insulated wire and bare copper wire are both ground conductors. Connect them together and you're done.
-
-### How do I know if my ceiling box can handle a heavier fixture?
-
-Look for a weight rating stamped or printed on the box itself (bring a flashlight). If you can't find one, assume the limit is 35 lbs for a standard box and upgrade accordingly. A box that's directly screwed or nailed to a joist will generally handle more than one that's only secured to drywall with a brace bar, though rated brace bars are engineered to handle substantial loads.
-
-### The wires in my ceiling are aluminum, not copper. Does that change anything?
-
-It does, and it matters. Aluminum wiring (common in homes built roughly 1965-1973) requires CO/ALR-rated wire nuts and devices specifically approved for aluminum connections. Using standard copper wire nuts on aluminum wiring is a fire hazard. If you've got aluminum, the fixture swap itself isn't impossible, but use the correct connectors and consider having an electrician verify the connections if you're uncertain. This is one of the few cases where the extra phone call is genuinely worth it.
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

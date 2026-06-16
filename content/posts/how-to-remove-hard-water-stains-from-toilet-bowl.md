@@ -86,26 +86,5 @@ If your water is especially hard (anything over 200 ppm of dissolved minerals), 
 
 ---
 
-## FAQ
-
-### Can I use bleach to remove hard water stains?
-
-Bleach does not dissolve mineral deposits. It's designed to kill bacteria and whiten organic stains, which is a completely different chemical reaction than breaking down calcium or iron buildup. Using bleach on hard water stains is ineffective, and mixing it with an acid-based cleaner like CLR or vinegar is genuinely dangerous.
-
-### Will a pumice stone scratch my toilet?
-
-It can, if you use it dry or apply too much pressure on porcelain that's already worn. Always wet both the stone and the surface thoroughly before scrubbing, and use light circular pressure. On modern, intact vitreous china, a wet pumice stone won't leave visible scratches. Avoid using it on colored toilets or plastic surfaces.
-
-### How long should I let CLR sit in the toilet bowl?
-
-For moderate stains, 15-20 minutes is usually enough. For heavy buildup that's been accumulating for months or years, I'd let it sit 45 minutes to an hour, reapplying if the surface starts to dry. Lower the water level first so the product isn't diluted and stays in contact with the stained area.
-
-### My toilet has a brown ring that comes back within a few weeks no matter how often I clean. What's going on?
-
-That's almost certainly a water hardness issue, not a cleaning technique issue. The minerals in your water are continuously depositing at the waterline every time the toilet is used. Short of treating the water supply with a softener or filter, you'll need to clean more frequently (weekly light scrubbing prevents heavy buildup) or use a citric acid tablet in the tank to slow the process.
-
-### Is it safe to use CLR in a toilet with a septic system?
-
-CLR says it's safe for septic systems when used as directed and flushed thoroughly. I'd be cautious about pouring large quantities in at once. Use a reasonable amount, let it work, then flush several times to dilute it well before it reaches your tank. The bacterial colonies in a healthy septic system are fairly resilient, but it's worth not overdoing it.
 
 *Photo: [suntorn somtong](https://www.pexels.com/@suntorn-somtong-386224) via Pexels*

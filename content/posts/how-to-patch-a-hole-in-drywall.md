@@ -128,27 +128,6 @@ For a typical medium-sized hole, a handyman or drywall finisher will usually cha
 
 ---
 
-## Frequently Asked Questions
-
-### How long does joint compound need to dry before sanding?
-
-The rule I use is: it's ready when it's uniformly white with no darker spots. Depending on thickness, temperature, and humidity, that's usually 4 to 8 hours per coat. Rushing this is one of the most common mistakes. Sanding compound that isn't fully dry creates a gummy surface that tears and smears rather than smoothing out. If you're doing multiple coats, give yourself a full day between them when you can.
-
-### Can I paint directly over joint compound without priming?
-
-Technically yes. Practically, no. Unprimed joint compound absorbs paint at a dramatically different rate than the surrounding wall, which creates that ghosted circle effect I mentioned up top. PVA drywall primer is cheap, takes 30 minutes to apply, and saves you hours of repainting. Just do it.
-
-### My patch keeps cracking. What am I doing for wrong?
-
-Usually one of two things: you applied compound too thick in a single coat, or you didn't let it dry fully between coats. Joint compound shrinks as it dries, and thick applications crack as they cure. The fix is thin coats, full drying time, and patience. If the crack reappears after the repair is fully finished and painted, that suggests movement in the wall, either settling or framing issues, which is a different problem worth investigating.
-
-### How do I match orange peel texture?
-
-Buy a can of aerosol orange peel texture from any hardware store. Practice on cardboard or a scrap piece of drywall until you can match the size of the bumps on your wall. Apply over the primed patch in light coats. The most common mistake is spraying too close, which creates large splatters instead of fine texture. Let it dry completely, then prime again over the texture before painting.
-
-### What's the difference between a handyman and a drywall finisher?
-
-A drywall finisher (also called a taper) specializes specifically in taping joints and finishing drywall to a paintable surface. For complex texture matching or large repairs where invisibility matters, a taper is the better call. A general handyman can handle most standard patches competently. For anything touching original plaster, water-damaged areas that might have mold, or structural damage that caused the hole, call a licensed contractor rather than either.
 
 ---
 

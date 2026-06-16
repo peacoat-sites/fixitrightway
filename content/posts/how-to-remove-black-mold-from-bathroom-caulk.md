@@ -84,26 +84,5 @@ Caulk lifespan in a well-maintained shower is typically 5 to 10 years for qualit
 
 ---
 
-## FAQ
-
-### Can I use bleach directly from the bottle, or does it need to be diluted?
-
-For surface mold on caulk, straight household bleach (typically 3-8% sodium hypochlorite) works best. Diluted solutions require longer contact time and are less effective on embedded growth. That said, never mix bleach with ammonia-based cleaners or vinegar; those combinations produce toxic gases.
-
-### Is vinegar a good alternative to bleach for mold on caulk?
-
-Vinegar kills certain mold species but not all of them, and it's less effective than bleach on embedded caulk mold. It's not a bad first step on very fresh, light growth, but if the mold is established, you'll get better results from bleach with proper contact time.
-
-### How do I know if the mold in my bathroom is actually dangerous?
-
-The color alone doesn't tell you. "Black mold" is not a specific species. A musty smell, large surface area coverage (bigger than about 10 square feet), or anyone in the household with respiratory issues, immune suppression, or allergies to mold are all reasons to get a professional assessment rather than DIY. For typical shower caulk mold with no health concerns, standard remediation is appropriate.
-
-### What's the difference between silicone caulk and caulk labeled "kitchen and bath"?
-
-"Kitchen and bath" caulk is usually siliconized latex, not pure silicone. It's easier to apply and clean up (soap and water instead of mineral spirits), but it's less water-resistant over time and more prone to mold penetration. For a shower or tub surround, 100% silicone is worth the slightly harder application.
-
-### Can I caulk over existing caulk if I remove the mold first?
-
-No. Even if the surface is clean, applying new caulk over old creates a bond to old silicone rather than to the substrate. That bond is weaker, traps moisture between layers, and typically fails within a year or two. Remove all the old caulk, clean the joint properly, and start fresh.
 
 *Photo: [Anete Lusina](https://www.pexels.com/@anete-lusina) via Pexels*

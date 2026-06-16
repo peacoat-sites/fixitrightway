@@ -108,19 +108,6 @@ If your toilet is a specialty brand or high-efficiency model, a brand-specific f
 
 Adjustable flappers are a great option if you want to fine-tune your toilet’s water usage. They let you control how much water is released with each flush, which can lower your water bill even further.
 
-## Frequently Asked Questions
-
-### How do I know if my toilet flapper needs replacing?
-
-The most common sign is a toilet that keeps running after you flush. You may also hear a hissing or trickling sound coming from the tank even when no one has used the toilet. The food coloring test described above is a reliable way to confirm a leaking flapper.
-
-### How often should I replace my toilet flapper?
-
-Most flappers last between four and eight years, though hard water with high mineral content can shorten that lifespan. It is a good idea to inspect your flapper once a year during routine home maintenance. Replacing it proactively every five years is an easy and inexpensive habit that prevents water waste.
-
-### Can I replace a toilet flapper without turning off the water?
-
-Technically, you can work quickly with the water on, but it is not recommended. Shutting off the water supply first makes the repair cleaner, safer, and far easier to manage. It also prevents accidental splashing and gives you time to work without the tank constantly refilling. Always turn off the water first for the best results.
 
 ## You’ve Got This!
 

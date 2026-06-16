@@ -114,27 +114,6 @@ Interior doors are usually hollow-core and lighter, which means hinges last long
 
 ---
 
-## Frequently Asked Questions
-
-### How do I know if my sticking door is a DIY fix or a contractor job?
-
-If it sticks only seasonally, responds to hinge tightening, or has a clear rubbing spot on one edge, it's DIY territory. If the gap is visibly uneven, the frame looks out of square, or drywall cracks have appeared near the corners, call a contractor. The door may be symptomatic of something bigger.
-
-### Can I fix a sticking door without removing it?
-
-Often, yes. Hinge tightening, hinge pin lubrication, strike plate adjustment, and minor sanding with a hand plane or sanding block can all be done with the door in place. You only need to remove the door if you're planing a significant amount of material from the latch edge or the full top edge.
-
-### My hinge screws keep stripping out. Is there a better fix than toothpicks?
-
-Toothpicks with wood glue work for light- to medium-duty situations. For exterior doors or solid-core interior doors, use wooden golf tees instead. They're thicker and fill the hole more completely. For seriously damaged holes, a golf tee plus wood glue and then a 3-inch screw into the stud is as permanent as it gets without full frame repair.
-
-### Will painting my door help stop it from sticking?
-
-Painting helps by sealing the wood against moisture absorption. It won't fix an already-swollen door, but it's genuinely effective as prevention. The key is sealing all six faces of the door, including top and bottom edges that most people ignore. An unsealed bottom edge can absorb enough moisture to cause noticeable swelling on its own.
-
-### How much does it cost to have a contractor fix a sticking door?
-
-A simple hinge adjustment or minor planing runs $75 to $150 for a service call with an experienced handyman. Full door removal, planing, rehanging, and refinishing can run $200 to $400 depending on your area. If the frame needs adjustment or the door needs replacement, add $300 to $800. Foundation issues are a separate budget line entirely.
 
 ---
 

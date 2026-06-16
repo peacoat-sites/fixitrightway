@@ -115,19 +115,6 @@ Cover the repaired area with plastic sheeting or damp burlap for at least 24 to 
 
 Once the patch is fully cured,  usually after several days,  consider applying a penetrating concrete sealer to the entire walkway. This protects the surface from water infiltration, freeze-thaw cycles, and staining, dramatically extending the life of both old and new concrete.
 
-## Frequently Asked Questions
-
-### How long does a concrete walkway repair last?
-
-A properly prepared and applied repair can last 10 years or more, especially when sealed afterward. The key factors are thorough surface preparation, using the right product for the type of damage, and allowing adequate curing time. Skipping the bonding adhesive or rushing the cure are the most common reasons repairs fail early.
-
-### Can I repair a concrete walkway in cold weather?
-
-Concrete repairs should ideally be done when temperatures are between 50°F and 90°F. Cold temperatures slow the curing process significantly and can cause patches to crack before they fully harden. If you must work in cooler conditions, use a concrete repair product rated for cold-weather application and cover the area with insulating blankets after patching.
-
-### Should I repair or replace my concrete walkway?
-
-Repair is usually the right choice if damage affects less than 25% of the total surface and the underlying base is still stable. If the walkway is extensively cracked, significantly sunken in multiple areas, or more than 30 to 40 years old with widespread deterioration, replacement may actually be more cost-effective in the long run. When in doubt, consult a local concrete contractor for a professional assessment.
 
 ## You’ve Got This!
 

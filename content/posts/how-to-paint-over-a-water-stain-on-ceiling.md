@@ -92,27 +92,6 @@ The worst option: buying a can of off-the-shelf "ceiling white" and hoping it ma
 
 ---
 
-## FAQ
-
-### Can I use spray paint or a spray can of primer instead of rolling?
-
-Aerosol shellac primer (Zinsser BIN comes in a spray can) works well for small stains, roughly 6 inches or less. It's more expensive per square foot and the overspray requires more masking. For anything larger, roll it.
-
-### Why does my ceiling stain look darker after I painted over it?
-
-Almost always because regular latex paint was used without stain-blocking primer. The water-soluble tannins and minerals are migrating through the wet paint and redepositing at the surface as it dries. Strip back to bare drywall if needed and start over with shellac-based primer.
-
-### Do I need to sand between coats?
-
-Not for the primer coats on a water stain repair. You would sand lightly (220-grit) only if you've applied joint compound and need to smooth it before painting. Otherwise, skip it.
-
-### How do I know if the drywall needs to be replaced versus just primed and painted?
-
-If it's soft, spongy, crumbling, or the paper face is peeling away from the gypsum in sheets, it needs replacing. Drywall is cheap, around $15 for a 4x8 sheet, and replacing a 12-inch section is an afternoon's work. Trying to paint over structurally compromised drywall is how you end up with a ceiling that sags.
-
-### Is this job worth hiring out?
-
-For a straightforward stain on intact drywall, no. It's well within DIY range and a painter will charge $150-300 for something you can do in an afternoon for $40 in materials. Where you should hire: if there's mold involvement, if the drywall replacement is significant, or if you need to blend a large painted area on a textured ceiling. Texture matching is genuinely skilled work and a bad texture patch looks worse than the stain.
 
 ---
 

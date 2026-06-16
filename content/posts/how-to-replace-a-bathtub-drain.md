@@ -119,19 +119,6 @@ While replacing a bathtub drain is well within the reach of most DIYers, there a
 
 Similarly, if the drain pipe itself appears cracked or corroded below the floor level, a plumber has the tools and expertise to address that safely. Do not hesitate to ask for help,  knowing your limits is a sign of wisdom, not weakness.
 
-## Frequently Asked Questions
-
-### How long does it take to replace a bathtub drain?
-
-Most people complete a basic drain replacement in 30 to 60 minutes. If your old drain is heavily corroded or stuck, add some extra time for soaking with penetrating oil. First-timers may take a bit longer, and that is perfectly fine,  there is no rush.
-
-### Can I replace a bathtub drain without special tools?
-
-You can often remove a drain using needle-nose pliers inserted into the crossbars of the drain, though a dedicated drain removal tool makes the job significantly easier and reduces the risk of slipping and scratching your tub. Drain tools are inexpensive and available at any hardware store for around $5 to $15.
-
-### Do I need to use plumber’s putty or silicone caulk?
-
-It depends on your tub material. Plumber’s putty works well on cast iron and ceramic tubs but can stain acrylic and fiberglass surfaces. For acrylic and fiberglass tubs, use a silicone-based sealant instead. Always check the instructions included with your new drain kit, as many modern kits will specify which sealant to use.
 
 ## You Have Got This!
 

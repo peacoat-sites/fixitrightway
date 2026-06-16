@@ -131,19 +131,6 @@ Apply a fresh bead of silicone caulk or plumber’s putty around the sink rim be
 
 Wipe down the entire countertop and enjoy the view. You did it!
 
-## Frequently Asked Questions
-
-### How long does it take to replace a kitchen countertop?
-
-For most homeowners, a basic countertop replacement takes between four and eight hours spread over one to two days. The removal and installation itself may only take a few hours, but you need to allow 24 hours for adhesive and caulk to fully cure before using the kitchen normally.
-
-### Do I need a permit to replace a kitchen countertop?
-
-In most cases, replacing a countertop is considered a cosmetic improvement and does not require a building permit. However, if your project involves moving plumbing lines or making structural changes to cabinets, you should check with your local building department to be sure.
-
-### What is the easiest countertop material to install for a DIYer?
-
-Laminate countertops are widely considered the most beginner-friendly option. They are lightweight, affordable, easy to cut, and come in a huge variety of colors and styles. Pre-cut laminate sections from home improvement stores make the job even simpler, since minimal cutting is required.
 
 ## You Can Do This!
 

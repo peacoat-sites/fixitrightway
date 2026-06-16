@@ -116,19 +116,6 @@ Most dripping showers can be fixed with the steps above, but there are situation
 
 A plumber can typically fix a dripping shower valve in under an hour. The peace of mind is worth it if you’re feeling unsure about any step in this process.
 
-## Frequently Asked Questions
-
-### How much water does a dripping shower waste?
-
-A shower that drips just 10 times per minute wastes more than 500 gallons of water per year. A faster drip,  which is more common with a failing cartridge,  can waste well over 3,000 gallons annually. Fixing the leak promptly saves both water and money on your utility bills.
-
-### Can I fix a dripping shower without turning off the main water supply?
-
-If your shower has a dedicated shut-off valve,  usually found in an access panel behind the shower wall,  you can use that instead of shutting off the whole house. However, if no dedicated valve exists, you must turn off the main supply. Never attempt to open a valve body with water pressure active.
-
-### How long do shower cartridges typically last?
-
-Most shower cartridges last between 10 and 20 years with normal use. Water quality plays a big role,  hard water with high mineral content tends to wear cartridges out faster. If your shower is more than 15 years old and starts dripping, replacing the cartridge proactively is a smart and affordable maintenance move.
 
 ## You’ve Got This
 

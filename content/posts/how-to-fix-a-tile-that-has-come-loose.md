@@ -121,19 +121,6 @@ Most single loose tiles are an easy DIY project, but there are times when callin
 
 These situations often involve more than just re-gluing a tile,  they require diagnosing and fixing the underlying cause. A licensed tile contractor can assess the situation quickly and save you from a much bigger repair bill later.
 
-## Frequently Asked Questions
-
-### Can I use regular household glue for loose floor tile repair?
-
-Regular household glue is not strong enough to handle the weight and movement that floor tiles experience every day. Always use a product specifically designed for floor tiles, such as thin-set mortar or a dedicated floor tile adhesive. Using the wrong adhesive is the number one reason DIY tile repairs fail within a few months.
-
-### How long does it take to complete a loose tile repair from start to finish?
-
-The active work time is usually just two to three hours for a single tile. However, you need to factor in drying time,  the adhesive typically needs 24 hours to cure before you can grout, and the grout needs another 48 to 72 hours before the repair is fully ready for normal traffic. Plan to keep the area out of use for about three days total.
-
-### What if the tile cracks when I try to remove it?
-
-A broken tile during removal is not unusual, especially with older, more brittle tiles. Take a small piece of the broken tile to a tile store to try to find a match. If an exact match is unavailable, consider replacing two or three tiles in a small pattern to make any color difference look intentional rather than accidental. Keeping a few spare tiles from your original installation is always a smart practice for exactly this reason.
 
 ## You Have Got This
 

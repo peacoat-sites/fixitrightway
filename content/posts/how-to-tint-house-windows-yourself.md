@@ -107,25 +107,6 @@ Choosing the right day makes a real difference. Work on a cloudy day or in the e
 
 If you are tinting a very large window, ask a family member or neighbor to help you hold the film. Managing a large, floppy piece of film alone is genuinely difficult and often leads to creases or misalignment.
 
-## Frequently Asked Questions
-
-### How long does DIY window tint film last on house windows?
-
-High-quality residential window film typically lasts between ten and fifteen years with proper care. Cheaper films may peel, bubble, or discolor within three to five years, so it pays to invest in a reputable brand.
-
-Avoid using abrasive cleaners or sharp tools on tinted windows. Clean them gently with a soft cloth and mild soapy water to extend the film’s life as long as possible.
-
-### Will window tint film damage my windows or void any warranties?
-
-Most standard residential window films are safe for single-pane and double-pane windows when applied correctly. However, some manufacturers recommend against certain dark films on double-pane windows because heat absorption can occasionally cause thermal stress cracking.
-
-Check your window manufacturer’s documentation before choosing a very dark film. If you are unsure, opt for a lighter film or consult a professional installer for advice specific to your window type.
-
-### Can I remove window tint film if I change my mind?
-
-Yes, window tint film is removable, though it does require some effort. Use a razor blade held at a low angle to lift a corner of the film, then peel it back slowly while keeping the glass warm with a heat gun or hair dryer on a low setting.
-
-Any adhesive residue left behind can be removed with rubbing alcohol or a commercial adhesive remover applied gently with a soft cloth. Your glass should be left in perfect condition once the residue is fully cleaned away.
 
 ## You Can Do This
 

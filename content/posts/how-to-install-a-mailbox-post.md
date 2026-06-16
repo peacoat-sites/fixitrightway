@@ -116,21 +116,6 @@ Most mailboxes attach to the post with screws through pre-drilled holes in the b
 
 Stand back and take a look at your finished work. A straight, handsome mailbox post adds real curb appeal to your home,  and lets everyone know you take pride in your property.
 
-## Frequently Asked Questions
-
-Photo by [Centre for Ageing Better](https://unsplash.com/@ageing_better?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
-
-### How deep should a mailbox post be buried?
-
-For a standard residential mailbox post, bury at least one-third of the total post length underground. For a 6-foot post, that means digging down 24 to 28 inches. In areas with heavy frost, going a bit deeper,  past the frost line,  will prevent the post from heaving out of the ground during winter freezes.
-
-### Do I need concrete to install a mailbox post?
-
-Concrete is strongly recommended for any mailbox post installation. Without it, the post can shift, lean, or work loose over time,  especially in sandy or loose soil. Quick-setting concrete mix is inexpensive, easy to use, and gives your post a foundation that can last for decades with minimal maintenance.
-
-### How long does it take to install a mailbox post?
-
-Most homeowners can complete a mailbox post installation in two to four hours, not counting the concrete curing time. Plan to wait at least 24 hours after setting the post in concrete before attaching your mailbox. If you’re removing an old post first, add another 30 to 60 minutes for that step.
 
 ## You’ve Got This!
 

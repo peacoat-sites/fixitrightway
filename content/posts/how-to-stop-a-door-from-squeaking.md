@@ -114,27 +114,6 @@ Expect to pay $50 to $150 for a carpenter to adjust a sticking or squeaking door
 
 ---
 
-## Frequently Asked Questions
-
-### Why does my door squeak only in certain weather?
-
-Wood expands when it absorbs moisture and contracts when it dries out. If your squeak appears in summer or during rainy seasons and disappears in winter, the door is swelling slightly and rubbing against the frame. Lubrication won't solve this. The fix is either waiting it out (sometimes a dry season normalizes things), sealing the door edges with paint or polyurethane to reduce moisture absorption, or having the door planed if the problem is severe enough.
-
-### Can I fix a squeaky door without removing the hinge pins?
-
-Yes, with some limitations. Aerosol lubricants with a narrow nozzle tube can be sprayed directly into the hinge gap while the door is in place. This works reasonably well for light squeaks but doesn't give you the full pin coverage you get from removing and coating the pin directly. It's a decent temporary fix or a fix for hinges where the pin is corroded and won't budge.
-
-### My door squeaks at the top but the top hinge seems fine. What's going on?
-
-Sound travels in wood, so the source isn't always where you hear it loudest. Check all hinges, not just the one nearest the squeak. Also check whether the door top is rubbing the frame by sliding a piece of paper along the top edge with the door closed. If it drags or won't pass through, that rubbing is your squeak source.
-
-### How often should I lubricate door hinges?
-
-For normal interior doors in a house with average humidity, lubricating the hinges every 5 to 10 years is plenty if you use lithium grease. High-use doors (front door, bathroom doors, busy kitchen doors) might benefit from attention every 3 to 5 years. If you're using petroleum jelly or a thinner oil, plan on reapplying more frequently.
-
-### Is it worth replacing old hinges or should I just keep lubricating them?
-
-Replacement makes sense when the barrel is visibly worn and the pin has noticeable play in it, when the hinge is bent or the screw holes are badly stripped, or when the hinge is just plain ugly and you want to update the hardware anyway. A standard interior door hinge costs $4 to $12. Replacing a hinge is a 20-minute job with a screwdriver. If you've lubricated the same hinge three times in two years and it keeps squeaking, replacement is the smarter move.
 
 ---
 

@@ -92,26 +92,5 @@ Don't open a junction box live. This one actually matters.
 
 ---
 
-## FAQ
-
-### Why does my garbage disposal have power but still won't turn on?
-
-If your lights or other appliances on the same circuit are working but the disposal is dead, the internal overload protector has almost certainly tripped. Find the reset button on the bottom of the unit and press it firmly. If it keeps tripping, clear the jam with a 1/4-inch Allen wrench before resetting.
-
-### Is it safe to reset a garbage disposal myself?
-
-Yes, as long as the wall switch is off before you do anything mechanical under the sink. The reset button itself carries no risk. The only real hazard is reaching into the disposal opening with your hand, which you should never do regardless of whether the power is on.
-
-### How do I know if my garbage disposal motor is burned out?
-
-A burned-out motor usually smells like hot electrical components or burnt plastic. The disposal may hum briefly and then go silent, or it may be completely dead even after a successful reset and jam-clearing. If the unit is silent, reset, jam-cleared, and getting confirmed power from the outlet, the motor is likely gone.
-
-### Can a bad garbage disposal trip my circuit breaker?
-
-Yes. A seized or failing motor draws excess current and will trip a breaker, sometimes repeatedly. If your disposal breaker trips immediately on startup, the motor is either mechanically seized or electrically failing. Clear any jam first. If the breaker still trips, the motor is done.
-
-### How long should a garbage disposal last?
-
-A decent disposal, used reasonably, lasts 10 to 15 years. InSinkErator's upper-tier models (the Evolution series) tend to outlast the budget units significantly. The biggest life-reducers are grinding fibrous foods like celery and artichoke leaves, running without water, and putting grease down the drain regularly.
 
 *Photo: [FFD Restorations](https://www.pexels.com/@ffd-restorations-400571257) via Pexels*

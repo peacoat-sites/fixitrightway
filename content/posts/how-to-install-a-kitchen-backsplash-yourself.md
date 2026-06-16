@@ -112,19 +112,6 @@ Wait about 15–20 minutes, then use a damp sponge to wipe the tiles clean in a 
 
 Finally, apply grout sealer once the grout has fully cured (usually 48–72 hours). This step protects against moisture, staining, and mold,  especially important in a kitchen environment. Run a thin bead of caulk where the backsplash meets the countertop instead of grout, as this joint needs flexibility to absorb movement.
 
-## Frequently Asked Questions
-
-### How long does it take to install a kitchen backsplash yourself?
-
-For most standard kitchens, the entire project takes about two days when you include drying time. Day one covers preparation, layout, and setting the tiles. Day two covers grouting and sealing. The actual hands-on work time is typically five to eight hours total.
-
-### What type of tile is easiest for a beginner to install?
-
-Subway tiles and sheet-mounted mosaic tiles are both excellent choices for first-timers. Subway tiles are flat, uniform, and widely available. Sheet-mounted mosaics come pre-spaced on a mesh backing, which dramatically speeds up placement and keeps grout lines perfectly consistent without individual spacers.
-
-### Do I need to remove the old backsplash before installing a new one?
-
-Ideally, yes,  especially if the existing tiles are loose, cracked, or uneven. Tiling over old tile can work if the surface is completely solid and flat, but it does add thickness, which may affect how your outlets sit flush with the wall. If you are unsure, removing the old tile gives you the cleanest possible result.
 
 ## You Are Ready to Transform Your Kitchen
 

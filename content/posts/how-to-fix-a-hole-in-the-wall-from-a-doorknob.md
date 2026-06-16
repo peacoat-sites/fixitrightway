@@ -118,27 +118,6 @@ Plaster walls, which are common in homes built before 1950, have a completely di
 
 ---
 
-## Frequently Asked Questions
-
-### Can I use spackle instead of joint compound for a doorknob hole?
-
-Spackling works fine for nail holes and very small divots, but for anything bigger than half an inch, joint compound gives you a better result. Spackle shrinks more as it dries and doesn't feather as smoothly over wider areas. For a doorknob hole, spend the extra few dollars on a small tub of all-purpose joint compound. You'll use the rest for other repairs around the house anyway.
-
-### How long does a drywall patch take to dry before I can paint?
-
-Each coat of joint compound needs a minimum of 4 hours to dry, though overnight is better. The compound changes from a darker gray-beige to a consistent light white when it's fully dry. Don't rush this. Painting over damp compound causes cracking and adhesion failures that will haunt you later. In high-humidity environments, drying can take significantly longer.
-
-### Do I really need to prime before painting the patch?
-
-Yes, and I can't stress this enough. Fresh joint compound is extremely porous. If you skip primer and paint directly over it, the compound will absorb moisture from the paint unevenly, leaving a visible dull spot called flashing even after the paint color looks right. A single coat of drywall or PVA primer seals the compound and gives your topcoat something consistent to bond to.
-
-### The patch looks fine until the light hits it at an angle, then I can see it. What went wrong?
-
-This is almost always a feathering issue. The transition from the patch to the surrounding wall wasn't gradual enough, leaving a slight ridge or hump that shows under raking light. The fix is to skim a very thin, wide coat of compound over the area, extending it further out than you think you need to. Sometimes 12 inches in each direction. Sand it smooth and reprime. Catching this before painting is much easier than fixing it after.
-
-### I fixed the hole. What do I use to keep it from happening again?
-
-Install a door stop. A hinge-mounted door stop is completely invisible and costs about $5. It attaches directly to the door hinge and physically prevents the door from swinging past a certain point. Wall-mounted rubber bumpers work too but they require the door to hit the same spot every time. A floor-mounted stop is also an option for heavy doors. Any of these will protect your wall indefinitely. It's five minutes of work and the best insurance policy for your fresh repair.
 
 ---
 

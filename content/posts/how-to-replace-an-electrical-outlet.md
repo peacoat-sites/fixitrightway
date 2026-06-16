@@ -108,27 +108,6 @@ Replacing a like-for-like outlet in a modern, grounded system is squarely in DIY
 
 ---
 
-## FAQ
-
-### How do I know if my outlet needs to be replaced or if it's a wiring problem?
-
-Plug a lamp into the outlet. If the lamp doesn't work, plug it into an adjacent outlet on the same wall. If that works too, the problem is isolated to the first outlet. Try resetting any GFCI outlets in the room (they protect other outlets downstream). If the outlet is dead, physically damaged, sparking, or hot to the touch, replace it. If multiple outlets in the room are dead and there's no GFCI to reset, you likely have a tripped breaker or a loose connection deeper in the circuit.
-
-### Can I replace a two-prong outlet with a three-prong outlet without rewiring?
-
-Yes, but only by installing a GFCI outlet and labeling it "No Equipment Ground" per NEC 406.4(D)(2). This provides personnel protection without an actual ground wire. It does not provide equipment grounding, which matters for sensitive electronics. The proper fix is running a new grounded circuit. The GFCI method is code-compliant and widely accepted, just understand what it does and doesn't do.
-
-### What's the difference between a 15-amp and 20-amp outlet, and does it matter?
-
-A 15-amp outlet has two vertical slots. A 20-amp outlet has a T-shaped left slot. The amperage must match or be rated below the breaker protecting the circuit. You can use a 15-amp outlet on a 20-amp circuit (the breaker protects the wiring, not the outlet), but you cannot use a 20-amp outlet on a 15-amp circuit. For most bedroom and living room circuits, 15-amp is standard. Kitchen and bathroom circuits are typically 20-amp.
-
-### My new outlet is loose and wiggles in the wall. What do I do?
-
-The outlet box is either too deep for the wall thickness or the mounting tabs aren't catching properly. Outlet shims (thin plastic spacers, a few dollars at the hardware store) slip over the mounting screws and fill the gap. Stack them until the outlet sits flush. This isn't a code issue, it's a cosmetic and mechanical one, but a loose outlet that rocks back and forth can eventually loosen wire connections, so fix it.
-
-### How long does this job actually take?
-
-For a straightforward swap in a modern home: 15 to 20 minutes including turning off the breaker and testing. If you're replacing multiple outlets in a room, figure 10 to 15 minutes each once you're in a rhythm. If you encounter aluminum wiring, no ground wire, or a crowded box with more than three cables, double that and consider whether to call in help.
 
 ---
 

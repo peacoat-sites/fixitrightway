@@ -86,27 +86,6 @@ An electrician will charge anywhere from $75 to $200 for a single dimmer swap de
 
 ---
 
-## FAQ
-
-### Can I put a dimmer on any light fixture?
-
-No. Fluorescent lights generally require dedicated dimming ballasts and aren't compatible with standard dimmers. Fans need fan-speed controls, not light dimmers, because the circuitry is different and using a light dimmer on a fan motor can actually damage it. Most incandescent, halogen, and LED fixtures work fine as long as you buy the right dimmer for the bulb type.
-
-### Do I need a special dimmer for LED bulbs?
-
-Yes, you do. A dimmer labeled for incandescent or CFL use may technically function with LEDs but you'll likely get flickering, buzzing, or the light dropping out entirely below a certain level. Look for dimmers specifically rated for LED/CFL use. Lutron and Leviton both clearly label these, and most cost $15 to $25.
-
-### Why does my dimmer switch feel warm to the touch?
-
-Some warmth is normal, dimmers dissipate a small amount of heat as they reduce voltage. But if it's hot to the point where holding your hand on it is uncomfortable, that's a problem. It usually means the dimmer is overloaded (the connected lights exceed its wattage rating) or it's in a crowded box with poor airflow. Check the wattage rating on the dimmer and add up your bulb wattages.
-
-### What's the difference between a single-pole and a 3-way dimmer?
-
-A single-pole dimmer controls a light from one location only. A 3-way setup means two switches control the same light. You need dimmers specifically rated for 3-way use, and the wiring is more involved because of the traveler wires. Don't buy a single-pole dimmer and try to force it into a 3-way setup.
-
-### Will installing a dimmer save me money on electricity?
-
-Yes, though probably less than you're hoping. Dimming an incandescent bulb to 75% does reduce energy use noticeably. With LED bulbs, the savings are smaller in absolute terms because LEDs already draw so little power, but the bigger benefit is bulb lifespan. LEDs that run dimmed tend to last longer than ones running at full brightness all the time.
 
 ---
 

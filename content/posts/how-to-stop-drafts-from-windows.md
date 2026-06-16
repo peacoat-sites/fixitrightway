@@ -135,19 +135,6 @@ Consider these easy additions:
 
 These comfort measures are especially helpful in bedrooms and living areas where you spend the most time during winter months.
 
-## Frequently Asked Questions
-
-### How much can fixing drafty windows lower my heating bill?
-
-According to the U.S. Department of Energy, air leaks around windows and doors can account for up to 30% of home heating costs. By sealing drafts properly with weatherstripping and caulk, many homeowners see a noticeable reduction in monthly energy bills,  sometimes 10–20% or more.
-
-### Is window insulation film safe and easy to remove in spring?
-
-Yes, window insulation film is completely safe and designed to be temporary. It attaches using double-sided tape and peels away cleanly when the warmer weather arrives. Most kits leave no sticky residue and won’t damage painted frames when removed carefully.
-
-### When should I call a professional instead of fixing drafts myself?
-
-If your window frame is visibly warped, rotted, or cracked,  or if the glass pane itself is broken or fogged between double panes,  it’s time to call a window professional. These issues go beyond simple sealing and may require frame repair or full window replacement to solve properly.
 
 ## You’ve Got This,  Stay Warm and Comfortable This Winter
 

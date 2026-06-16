@@ -80,27 +80,6 @@ I'll be honest, I've talked homeowners out of touch-ups and into full repaints w
 
 ---
 
-## FAQ
-
-### Why does my touch-up paint look darker than the wall even though I used the same color?
-
-Fresh paint almost always looks darker or richer than cured, aged paint on the wall. The color will shift as it dries, but it still won't perfectly match paint that's been on the wall for months or years. Doing two thin coats and feathering well past the damage area reduces how obvious this contrast is.
-
-### How long should I wait before judging a touch-up?
-
-At least 24 hours, and look at it under different lighting conditions before deciding it failed. Many touch-ups that look terrible wet or even slightly damp will blend in reasonably well once fully cured. Artificial light hides a lot; raking natural light reveals everything.
-
-### Can I touch up flat paint successfully?
-
-Flat paint is actually the most forgiving finish for touch-ups because it doesn't reflect light in a way that highlights sheen differences. Use the same flat paint, apply thin coats, and feather your coverage. It's the one situation where I'd say a careful touch-up has a solid chance of being invisible.
-
-### What's the best small roller for touch-up work?
-
-A 4-inch foam roller works well for patches under about 12 inches. For larger areas, use a standard 9-inch roller with the same nap as the original wall. Wooster and Purdy both make reliable small rollers in the $4 to $8 range. Avoid the cheapest foam rollers since they tend to leave bubbles.
-
-### Should I prime before touching up paint?
-
-If you're covering raw joint compound or fresh drywall repair, yes, always prime first. On an intact painted surface that just needs color matched, priming isn't necessary and can actually make the sheen mismatch worse. The exception is if the damaged area has any staining from water, smoke, or marker, in which case a shellac-based primer like Zinsser BIN before your top coat is worth it.
 
 ---
 

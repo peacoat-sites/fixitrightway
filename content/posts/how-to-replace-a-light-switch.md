@@ -120,27 +120,6 @@ I'm not someone who defaults to "hire a pro" for everything. But there are speci
 
 ---
 
-## Frequently Asked Questions
-
-### Why does my new switch work but the light flickers?
-
-Almost always a loose connection. Turn the power off, pull the switch out, and check that each wire is firmly seated under its screw. A small amount of movement in the wire means it's not tight enough. You can also check the wire ends: if there's oxidation or the copper looks dull, clip back to fresh wire and reconnect. Back-stabbed connections are especially prone to this.
-
-### Can I replace a regular switch with a dimmer myself?
-
-Yes, with a few conditions. The dimmer has to be rated for the bulb type you're using (LED dimmers and incandescent dimmers are different). The circuit needs a ground wire if the dimmer requires one (most do). And you cannot put a standard dimmer on a 3-way switch circuit without buying a 3-way compatible dimmer. If all that checks out, the swap process is identical to a standard switch replacement.
-
-### My switch box has only two wires and no ground. Is that a problem?
-
-It's common in older homes. A standard switch will work fine without a ground. A smart switch or many dimmers require a ground to operate safely, so you'll need to either run a new ground wire (which means permits and an electrician in most cases) or look for a specific no-neutral, no-ground compatible smart switch. They exist, but your options are narrower.
-
-### How do I know which wire is the "common" on my 3-way switch?
-
-Look at the switch body itself. The common terminal is usually labeled, physically marked with a dot, or it's a distinctly different color (often black or dark-colored) compared to the two brass traveler terminals. Before disconnecting anything, put a piece of tape on the wire attached to that common terminal. That wire goes to the common terminal of the new switch, no matter what.
-
-### What if I turn the breaker back on and nothing works?
-
-Check three things: the breaker actually reset (some breakers need to go fully to the OFF position before flipping back to ON), the wires are fully tightened under the screws with good metal-to-metal contact, and you haven't accidentally swapped the hot wire to the wrong terminal. If the breaker immediately trips when you restore power, turn it off and call an electrician. That means something is shorted, and diagnosing a short requires more than a switch swap.
 
 ---
 

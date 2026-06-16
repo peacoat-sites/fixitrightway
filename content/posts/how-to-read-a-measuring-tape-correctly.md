@@ -113,19 +113,6 @@ Another option is to use a pencil mark or a piece of painter’s tape to hold th
   * Lock the tape in place before walking to the far end
   * Keep a small notepad in your toolkit just for jotting measurements
 
-## Frequently Asked Questions
-
-### Why does the metal hook on my tape measure move back and forth,  is it broken?
-
-Not at all! That slight movement is intentional and built by the manufacturer. The hook shifts to account for its own thickness, ensuring accurate measurements whether you hook it over an edge (outside measurement) or press it against a surface (inside measurement). It is a clever design feature, not a defect.
-
-### What is the easiest measuring tape to use for someone with vision difficulties?
-
-Look for tapes labeled “easy read” or “large print” at hardware stores. These feature bold, high-contrast numbers and color-coded fractions that are much easier on the eyes. A tape with a 1-inch wide blade is also helpful because the larger surface gives more room for bigger print. Brands like Stanley FatMax and Milwaukee offer excellent senior-friendly options.
-
-### How do I measure the inside of a space, like a cabinet or doorframe?
-
-For an inside measurement, press the end of the tape firmly against one wall or edge and extend it to the opposite side. Most tape measure cases have the case length printed on them,  often 3 inches. Add that number to whatever the tape reads at the far edge to get your total inside measurement. This is called an “add-on” measurement and it is a very useful trick to know.
 
 ## You Have Got This!
 

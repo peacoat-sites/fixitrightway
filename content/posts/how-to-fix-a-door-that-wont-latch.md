@@ -140,19 +140,6 @@ Remove the door handle and latch assembly by unscrewing the handle plates on bot
 
 Replacing a latch mechanism is simpler than it looks. The new unit slides right into the existing hole in the door edge, and the handles reattach the same way the old ones came off.
 
-## Frequently Asked Questions
-
-### Why does my door latch fine in winter but not in summer?
-
-This is a classic sign of wood swelling due to humidity. In warmer, humid months, wood absorbs moisture from the air and expands slightly. Sealing the door edges with paint or varnish helps prevent moisture absorption and reduces seasonal movement significantly.
-
-### Can I fix a door that won’t latch without removing the door?
-
-Yes, absolutely. In most cases, you won’t need to remove the door at all. Tightening hinge screws, adjusting the strike plate, and lubricating the latch can all be done with the door in place. Only in cases of severe swelling or frame damage might removal become necessary.
-
-### How do I know if the door frame itself is warped or damaged?
-
-Use a long straightedge or level along the door frame to check for bowing or twisting. If the frame is visibly warped or the door gap is uneven from top to bottom, the frame may need repair or replacement. This is a less common issue but does occur in older homes with significant settling,  at that point, consulting a carpenter is a smart move.
 
 ## You’ve Got This
 
