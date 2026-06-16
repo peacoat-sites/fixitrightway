@@ -3,7 +3,7 @@ title: "How To Wire A Three Way Switch For Beginners"
 date: 2026-06-14T10:08:29.287244+00:00
 draft: false
 description: "Learn how to wire a three way switch safely with this beginner-friendly guide. Step-by-step instructions, diagrams, and tips make the process simple and stress-"
-image: "https://images.pexels.com/photos/5357150/pexels-photo-5357150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/16888160/pexels-photo-16888160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Electrical"]
 tags: ["wire", "three", "switch", "beginners"]
 slug: "how-to-wire-a-three-way-switch-for-beginners"
@@ -117,4 +117,4 @@ If your boxes have four or five cables in them and you can't figure out which go
 ---
 
 
-*Photo: [Maria Mileta](https://www.pexels.com/@maria-mileta-3563033) via Pexels*
+*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*

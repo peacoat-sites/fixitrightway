@@ -3,7 +3,7 @@ title: "Spray Foam Vs Fiberglass Insulation For DIY"
 date: 2026-06-07T09:50:23.633798+00:00
 draft: false
 description: "Compare spray foam vs fiberglass insulation for DIY projects. Discover costs, R-values, ease of installation, and which option best suits your home and budget."
-image: "https://images.pexels.com/photos/7446650/pexels-photo-7446650.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8488031/pexels-photo-8488031.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Energy & Insulation"]
 tags: ["spray", "foam", "fiberglass", "insulation"]
 slug: "spray-foam-vs-fiberglass-insulation-for-diy"
@@ -81,7 +81,7 @@ The IRC (International Residential Code) has specific requirements by climate zo
 
 Pick the project you can actually do well, not the most ambitious one. A properly installed attic with air sealing and fiberglass batts will outperform a sloppy spray foam job every time. Know your limits, know your climate, and spend the money where it moves the needle.
 
-*Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
+*Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
 ---
 

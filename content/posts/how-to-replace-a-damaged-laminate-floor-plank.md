@@ -3,7 +3,7 @@ title: "How To Replace A Damaged Laminate Floor Plank"
 date: 2026-06-05T12:22:36.256199+00:00
 draft: false
 description: "Learn how to replace a damaged laminate floor plank with our simple step-by-step guide. Save money on repairs and restore your floor to perfect condition fast."
-image: "https://images.pexels.com/photos/17063686/pexels-photo-17063686.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/269063/pexels-photo-269063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Flooring"]
 tags: ["replace", "damaged", "laminate", "floor", "plank"]
 slug: "how-to-replace-a-damaged-laminate-floor-plank"
@@ -105,4 +105,4 @@ And if your floor was installed as a glue-down (some older laminate and most eng
 
 One more thing worth saying: the repair you do this weekend doesn't have to be perfect forever. If you get it 90% right, that's a floor that looks good and performs well. Laminate is a forgiving material in a lot of ways, and a solid repair with decent technique will hold up for years. Don't let the pursuit of a perfect match or a flawless seam keep you from actually fixing the thing.
 
-*Photo: [Jimmy Liao](https://www.pexels.com/@jimmy-liao-3615017) via Pexels*
+*Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*

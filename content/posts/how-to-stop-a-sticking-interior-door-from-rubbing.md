@@ -3,7 +3,7 @@ title: "How To Stop A Sticking Interior Door From Rubbing"
 date: 2026-06-04T12:19:40.082293+00:00
 draft: false
 description: "Learn how to stop a sticking interior door from rubbing with our simple fixes. Identify the cause, adjust hinges, sand problem areas and get a perfectly fitting"
-image: "https://images.pexels.com/photos/5484718/pexels-photo-5484718.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/12700466/pexels-photo-12700466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Doors & Windows"]
 tags: ["stop", "sticking", "interior", "door", "from"]
 slug: "how-to-stop-a-sticking-interior-door-from-rubbing"
@@ -85,7 +85,7 @@ If you see paint buildup, the right call is to strip the edge back to bare wood 
 
 The fix that works is almost always the simplest one: tight hinges, a little planing, a coat of paint on the exposed edge. I've seen homeowners spend $400 on a new door when $6 in toothpicks and wood glue would have solved the problem. Take twenty minutes to actually diagnose it before you do anything else. That's the whole trick.
 
-*Photo: [Mike van Schoonderwalt](https://www.pexels.com/@mike-van-schoonderwalt-1884800) via Pexels*
+*Photo: [Curtis Adams](https://www.pexels.com/@curtis-adams-1694007) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "How To Insulate A Garage Door Yourself"
 date: 2026-06-11T11:18:12.782539+00:00
 draft: false
 description: "Save money and improve energy efficiency by learning how to insulate your garage door yourself with our easy step-by-step guide covering materials, tools, and t"
-image: "https://images.pexels.com/photos/5583054/pexels-photo-5583054.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/18335929/pexels-photo-18335929.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Energy & Insulation"]
 tags: ["insulate", "garage", "door", "yourself"]
 slug: "how-to-insulate-a-garage-door-yourself"
@@ -97,4 +97,4 @@ Also: none of this insulation does much if you have a door with a broken seal at
 ---
 
 
-*Photo: [Polina Tankilevitch](https://www.pexels.com/@polina-tankilevitch) via Pexels*
+*Photo: [Jan van der Wolf](https://www.pexels.com/@jan-van-der-wolf-11680885) via Pexels*

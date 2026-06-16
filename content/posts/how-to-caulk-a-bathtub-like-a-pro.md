@@ -3,7 +3,7 @@ title: "How To Caulk A Bathtub Like A Pro"
 date: 2026-06-11T11:15:45.012491+00:00
 draft: false
 description: "Learn how to caulk a bathtub like a pro with our step-by-step guide. Get a watertight, clean finish that prevents mold and keeps your tub looking brand new."
-image: "https://images.pexels.com/photos/4312849/pexels-photo-4312849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/3990591/pexels-photo-3990591.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Bathroom"]
 tags: ["caulk", "bathtub", "like"]
 slug: "how-to-caulk-a-bathtub-like-a-pro"
@@ -97,4 +97,4 @@ Also: if you have a tile surround with cracked grout throughout, fix the grout f
 
 The whole job, done right, takes maybe two hours including prep. Most of that is waiting for cleaner to dry. The materials will run you $20-$30 total. It's one of the highest-value repairs you can do yourself, and when you see that clean, tight bead holding up three years later, you'll understand why the prep matters so much.
 
-*Photo: [Anna Shvets](https://www.pexels.com/@shvetsa) via Pexels*
+*Photo: [Curtis Adams](https://www.pexels.com/@curtis-adams-1694007) via Pexels*

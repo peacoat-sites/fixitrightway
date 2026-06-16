@@ -3,7 +3,7 @@ title: "How to tint house windows yourself"
 date: 2026-05-23T00:45:05.892277+00:00
 draft: false
 description: "Learn how to tint house windows yourself with this complete step-by-step guide. Save money on energy bills, reduce glare, and protect your furniture with eas"
-image: "https://images.pexels.com/photos/31280557/pexels-photo-31280557.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/19868900/pexels-photo-19868900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["windows"]
 slug: "how-to-tint-house-windows-yourself"
 affiliate_disclosure: true

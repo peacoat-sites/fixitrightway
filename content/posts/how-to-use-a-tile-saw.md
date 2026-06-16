@@ -3,7 +3,7 @@ title: "How to use a tile saw"
 date: 2026-05-22T17:46:02.076686+00:00
 draft: false
 description: "Learn how to use a tile saw safely and confidently with this step-by-step guide. Includes setup tips, cutting techniques, safety advice, and answers to commo"
-image: "https://images.pexels.com/photos/6942294/pexels-photo-6942294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/14124893/pexels-photo-14124893.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["tools"]
 slug: "how-to-use-a-tile-saw"
 affiliate_disclosure: true

@@ -3,7 +3,7 @@ title: "How To Fix A Sticking Door"
 date: 2026-05-19T16:13:32.754559+00:00
 draft: false
 description: "Learn how to fix a sticking door with our simple step-by-step guide. Discover common causes and easy solutions to get your door opening smoothly again."
-image: "https://images.pexels.com/photos/3615723/pexels-photo-3615723.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/2937800/pexels-photo-2937800.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Doors & Windows"]
 tags: ["sticking", "door"]
 slug: "how-to-fix-a-sticking-door"

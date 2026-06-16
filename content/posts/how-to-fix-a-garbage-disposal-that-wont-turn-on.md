@@ -3,7 +3,7 @@ title: "How To Fix A Garbage Disposal That Wont Turn On"
 date: 2026-06-14T10:10:47.395407+00:00
 draft: false
 description: "Learn how to fix a garbage disposal that won't turn on with our step-by-step guide covering reset buttons, circuit breakers, jams, and wiring issues."
-image: "https://images.pexels.com/photos/15102482/pexels-photo-15102482.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8544015/pexels-photo-8544015.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Kitchen"]
 tags: ["garbage", "disposal", "that", "wont", "turn"]
 slug: "how-to-fix-a-garbage-disposal-that-wont-turn-on"
@@ -93,4 +93,4 @@ Don't open a junction box live. This one actually matters.
 ---
 
 
-*Photo: [FFD Restorations](https://www.pexels.com/@ffd-restorations-400571257) via Pexels*
+*Photo: [Dmax Tran](https://www.pexels.com/@dmax-tran-1398585) via Pexels*

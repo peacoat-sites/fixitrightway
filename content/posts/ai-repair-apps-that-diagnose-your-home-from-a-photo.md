@@ -3,7 +3,7 @@ title: "AI Repair Apps That Diagnose Your Home from a Photo"
 date: 2026-06-16T12:00:03.934690+00:00
 draft: false
 description: "Discover AI repair apps that diagnose home problems from a single photo. Save time and money by identifying issues instantly before calling a professional contr"
-image: "https://images.pexels.com/photos/11921157/pexels-photo-11921157.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7415021/pexels-photo-7415021.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["trending"]
 tags: ["repair", "apps", "that", "diagnose", "your"]
 author: "Paul Zhang"
@@ -65,4 +65,4 @@ The category is going to keep improving. But the version available right now, in
 - [What the Data Says: Lumber Price Updates ,  Gordian](https://www.gordian.com/resources/lumber-price-updates/) (May 5, 2026)
 - [Recent Tariffs Threaten Residential Construction ,  Brookings](https://www.brookings.edu/articles/recent-tariffs-threaten-residential-construction/) (October 9, 2025)
 
-*Photo: [Towfiqu barbhuiya](https://www.pexels.com/@towfiqu-barbhuiya-3440682) via Pexels*
+*Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*

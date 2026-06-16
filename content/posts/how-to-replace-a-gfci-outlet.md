@@ -3,7 +3,7 @@ title: "How to replace a GFCI outlet"
 date: 2026-05-19T15:37:50.742751+00:00
 draft: false
 description: "Learn how to replace a GFCI outlet safely with this step-by-step guide. Covers tools needed, wire connections, safety tips, and when to call an electrician.<"
-image: "https://images.pexels.com/photos/8817851/pexels-photo-8817851.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/36777554/pexels-photo-36777554.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["electrical"]
 slug: "how-to-replace-a-gfci-outlet"
 affiliate_disclosure: true

@@ -3,7 +3,7 @@ title: "How To Insulate An Attic Yourself To Save Energy"
 date: 2026-06-07T09:52:34.970256+00:00
 draft: false
 description: "Learn how to insulate your attic yourself with our step-by-step guide. Cut energy bills, boost comfort, and choose the right materials for maximum savings."
-image: "https://images.pexels.com/photos/11398216/pexels-photo-11398216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/29356271/pexels-photo-29356271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Energy & Insulation"]
 tags: ["insulate", "attic", "yourself", "save", "energy"]
 slug: "how-to-insulate-an-attic-yourself-to-save-energy"
@@ -93,4 +93,4 @@ Blown-in insulation is also a legitimate option for professionals to install in 
 ---
 
 
-*Photo: [Benjamin Lehman](https://www.pexels.com/@benjaminlehman) via Pexels*
+*Photo: [Raymond Petrik](https://www.pexels.com/@raymond-petrik-1448389535) via Pexels*

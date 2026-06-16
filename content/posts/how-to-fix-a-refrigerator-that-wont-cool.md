@@ -3,7 +3,7 @@ title: "How to fix a refrigerator that won&#8217;t cool"
 date: 2026-05-25T20:42:35.265306+00:00
 draft: false
 description: "Is your refrigerator won&#8217;t cool? Follow this step-by-step guide to diagnose and fix the most common causes,  from dirty coils to defrost issues,  and g"
-image: "https://images.pexels.com/photos/36979662/pexels-photo-36979662.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8146160/pexels-photo-8146160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["kitchen"]
 slug: "how-to-fix-a-refrigerator-that-wont-cool"
 affiliate_disclosure: true

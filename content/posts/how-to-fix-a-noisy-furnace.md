@@ -3,7 +3,7 @@ title: "How to fix a noisy furnace"
 date: 2026-05-22T23:00:59.993679+00:00
 draft: false
 description: "Discover how to fix a noisy furnace with this step-by-step guide. Learn to identify banging, rattling, and squealing sounds and make simple DIY repairs to re"
-image: "https://images.pexels.com/photos/8961699/pexels-photo-8961699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8803237/pexels-photo-8803237.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["hvac"]
 slug: "how-to-fix-a-noisy-furnace"
 affiliate_disclosure: true

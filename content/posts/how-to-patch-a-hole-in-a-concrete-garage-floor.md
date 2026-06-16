@@ -3,7 +3,7 @@ title: "How To Patch A Hole In A Concrete Garage Floor"
 date: 2026-06-03T14:10:04.882599+00:00
 draft: false
 description: "Learn how to patch a hole in a concrete garage floor with our step-by-step guide. We cover the tools, materials, and techniques needed for a lasting repair."
-image: "https://images.pexels.com/photos/4792495/pexels-photo-4792495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/10451018/pexels-photo-10451018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Masonry & Concrete"]
 tags: ["patch", "hole", "concrete", "garage", "floor"]
 slug: "how-to-patch-a-hole-in-a-concrete-garage-floor"
@@ -85,4 +85,4 @@ Epoxy floor coatings, like the Rust-Oleum RockSolid Polycuramine kits that run $
 
 The repair itself takes a couple of hours spread across a day. The prep takes thirty minutes and determines whether the whole thing holds. That's really the only thing worth remembering here. Get the preparation right, match the product to the type of damage, and give it time to cure. Your floor will look better, you'll stop stepping around that spot, and you'll have handled it yourself for somewhere between $20 and $50 in materials.
 
-*Photo: [Anete Lusina](https://www.pexels.com/@anete-lusina) via Pexels*
+*Photo: [chickenbunny](https://www.pexels.com/@chickenbunny-102941452) via Pexels*

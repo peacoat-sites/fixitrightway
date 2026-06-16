@@ -3,7 +3,7 @@ title: "How to install a deadbolt lock"
 date: 2026-05-20T21:42:56.098210+00:00
 draft: false
 description: "Learn how to install a deadbolt step by step with this beginner-friendly guide. Includes tools list, drilling tips, strike plate installation, and a helpful"
-image: "https://images.pexels.com/photos/6732547/pexels-photo-6732547.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/30996086/pexels-photo-30996086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["doors"]
 slug: "how-to-install-a-deadbolt-lock"
 affiliate_disclosure: true

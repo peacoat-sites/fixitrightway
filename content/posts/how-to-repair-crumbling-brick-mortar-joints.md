@@ -3,7 +3,7 @@ title: "How To Repair Crumbling Brick Mortar Joints"
 date: 2026-06-04T12:21:39.962305+00:00
 draft: false
 description: "Learn how to repair crumbling brick mortar joints with our step-by-step guide. Restore your brickwork, prevent water damage, and extend the life of your walls."
-image: "https://images.pexels.com/photos/9497823/pexels-photo-9497823.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33673867/pexels-photo-33673867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Masonry & Concrete"]
 tags: ["repair", "crumbling", "brick", "mortar", "joints"]
 slug: "how-to-repair-crumbling-brick-mortar-joints"
@@ -91,7 +91,7 @@ And honestly, if you're looking at more than about 50-60 square feet of deterior
 ---
 
 
-*Photo: [Anete Lusina](https://www.pexels.com/@anete-lusina) via Pexels*
+*Photo: [Blue Arauz](https://www.pexels.com/@blue) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "How To Fix A Leaking Shower Valve Behind The Wall"
 date: 2026-06-09T10:24:47.401864+00:00
 draft: false
 description: "Learn how to fix a leaking shower valve behind the wall with our step-by-step guide. Stop water damage fast and save money on costly plumber call-out fees."
-image: "https://images.pexels.com/photos/4312854/pexels-photo-4312854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7937292/pexels-photo-7937292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Bathroom"]
 tags: ["leaking", "shower", "valve", "behind", "wall"]
 slug: "how-to-fix-a-leaking-shower-valve-behind-the-wall"
@@ -109,4 +109,4 @@ The DIY savings are real. But they're only real if you stop when you're in over 
 
 Get the diagnosis right before you commit to any of this. The cartridge fix is genuinely accessible for most people willing to take their time. The in-wall work is where you need to be honest with yourself about your skill level. There's no shame in calling a plumber for the valve replacement and doing the drywall patch yourself. That's how you get the job done right without paying for everything twice.
 
-*Photo: [Anna Shvets](https://www.pexels.com/@shvetsa) via Pexels*
+*Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*

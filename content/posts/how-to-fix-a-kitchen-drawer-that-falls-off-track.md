@@ -3,7 +3,7 @@ title: "How to fix a kitchen drawer that falls off track"
 date: 2026-05-20T13:09:24.607028+00:00
 draft: false
 description: "Learn how to fix a kitchen drawer off track with this simple step-by-step guide. Covers cleaning, realigning, tightening screws, and replacing slides,  no ex"
-image: "https://images.pexels.com/photos/30413424/pexels-photo-30413424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/28272327/pexels-photo-28272327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["kitchen"]
 slug: "how-to-fix-a-kitchen-drawer-that-falls-off-track"
 affiliate_disclosure: true

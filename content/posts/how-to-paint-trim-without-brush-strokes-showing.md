@@ -3,7 +3,7 @@ title: "How To Paint Trim Without Brush Strokes Showing"
 date: 2026-06-02T12:52:36.600580+00:00
 draft: false
 description: "Learn how to paint trim without brush strokes showing using the right tools, techniques, and paint prep tips for a smooth, professional finish every time."
-image: "https://images.pexels.com/photos/7217961/pexels-photo-7217961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9036949/pexels-photo-9036949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Painting"]
 tags: ["paint", "trim", "without", "brush", "strokes"]
 slug: "how-to-paint-trim-without-brush-strokes-showing"
@@ -103,4 +103,4 @@ Don't use a foam roller on curved or detailed trim like fluted casings, chair ra
 
 Getting smooth trim comes down to three things more than anything else: the right paint with enough open time to level itself, a quality brush that you load and use correctly, and enough patience to sand between coats and not go back over tacking paint. None of it is complicated once you know what's actually causing the problem. Do those things, and your trim will look like it was sprayed.
 
-*Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
+*Photo: [Ikke mist deg selv Goshawk](https://www.pexels.com/@ikke-mist-deg-selv-goshawk-66352007) via Pexels*

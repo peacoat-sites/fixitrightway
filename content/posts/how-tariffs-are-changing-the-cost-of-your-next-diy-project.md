@@ -3,7 +3,7 @@ title: "How Tariffs Are Changing the Cost of Your Next DIY Project"
 date: 2026-06-15T12:54:56.243014+00:00
 draft: false
 description: "Discover how new tariffs are raising prices on lumber, steel, and hardware. Learn smart tips to budget wisely and save money on your next DIY project."
-image: "https://images.pexels.com/photos/12278592/pexels-photo-12278592.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/30839695/pexels-photo-30839695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["trending"]
 tags: ["tariffs", "changing", "cost", "your", "next"]
 author: "Steve Adams"
@@ -63,7 +63,7 @@ The summer of 2026 is a genuinely difficult time to be sourcing materials for a 
 - [Commodity Price Volatility Hits Homebuilders as Tariffs Reshape Costs | HousingWire](https://www.housingwire.com/articles/builder-material-costs-tariffs/) (February 2026)
 - [Construction Material Costs in 2026: What Contractors Should Expect | Inflow Inventory](https://www.inflowinventory.com/blog/construction-material-cost/) (May 2026)
 
-*Photo: [Mark Stebnicki](https://www.pexels.com/@nc-farm-bureau-mark) via Pexels*
+*Photo: [Markus Winkler](https://www.pexels.com/@markus-winkler-1430818) via Pexels*
 
 ---
 

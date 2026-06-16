@@ -3,7 +3,7 @@ title: "How To Recaulk A Bathtub Like A Pro"
 date: 2026-06-06T09:12:53.256385+00:00
 draft: false
 description: "Learn how to recaulk a bathtub like a pro with our step-by-step guide. Remove old caulk, prep the surface, and apply fresh caulk for a watertight seal."
-image: "https://images.pexels.com/photos/175039/pexels-photo-175039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4405007/pexels-photo-4405007.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Bathroom"]
 tags: ["recaulk", "bathtub", "like"]
 slug: "how-to-recaulk-a-bathtub-like-a-pro"
@@ -91,4 +91,4 @@ A bead that cracks within a year. On a brand-new tub install, this is often beca
 
 A well-done caulk joint is one of those things that nobody notices. Which is exactly the point. Get it right and it'll quietly protect your walls and subfloor for years. Get it wrong and you'll be back here in six months, wondering why it's already peeling. Follow the prep steps even when they feel tedious, use real silicone, fill the tub first, and wait the full cure time. That's genuinely most of it.
 
-*Photo: [energepic.com](https://www.pexels.com/@energepic-com-27411) via Pexels*
+*Photo: [Castorly Stock](https://www.pexels.com/@castorlystock) via Pexels*

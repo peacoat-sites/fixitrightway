@@ -3,7 +3,7 @@ title: "How to tape and mud drywall like a pro"
 date: 2026-05-28T11:09:31.036669+00:00
 draft: false
 description: "Learn how to tape and mud drywall like a pro with this complete step-by-step guide. Covers tools, tape types, coat-by-coat instructions, sanding, and FAQs fo"
-image: "https://images.pexels.com/photos/7423708/pexels-photo-7423708.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/36035072/pexels-photo-36035072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["drywall"]
 slug: "how-to-tape-and-mud-drywall-like-a-pro"
 affiliate_disclosure: true

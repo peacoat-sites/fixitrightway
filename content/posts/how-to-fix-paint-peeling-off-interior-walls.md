@@ -3,7 +3,7 @@ title: "How To Fix Paint Peeling Off Interior Walls"
 date: 2026-06-16T11:57:55.446307+00:00
 draft: false
 description: "Learn how to fix paint peeling off interior walls with simple steps. Discover causes, prep tips, and the best way to repaint for lasting results."
-image: "https://images.pexels.com/photos/36050822/pexels-photo-36050822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/35931006/pexels-photo-35931006.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Painting"]
 tags: ["paint", "peeling", "interior", "walls"]
 author: "Kim Reeves"
@@ -98,4 +98,4 @@ And if you're dealing with peeling throughout an entire house and you genuinely 
 
 Peeling paint feels overwhelming when you're staring at a wall that looks like it's molting. It rarely is. Most of the time it's a straightforward repair that takes a weekend and the right sequence of steps. Get the moisture situation handled first, scrape more than you think you need to, and don't shortchange the primer. The painting part is actually the easy part.
 
-*Photo: [Moussa Idrissi](https://www.pexels.com/@mographe) via Pexels*
+*Photo: [Saifee Art](https://www.pexels.com/@saifee-art-1727821618) via Pexels*

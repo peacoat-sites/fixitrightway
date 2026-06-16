@@ -3,7 +3,7 @@ title: "How to unclog a toilet without a plunger"
 date: 2026-05-22T03:54:06.446717+00:00
 draft: false
 description: "Learn how to unclog a toilet without a plunger using simple household items like dish soap, baking soda, and hot water. Step-by-step methods that really work"
-image: "https://images.pexels.com/photos/5799058/pexels-photo-5799058.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8089093/pexels-photo-8089093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["plumbing"]
 slug: "how-to-unclog-a-toilet-without-a-plunger"
 affiliate_disclosure: true

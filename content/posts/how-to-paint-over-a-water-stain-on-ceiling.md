@@ -3,7 +3,7 @@ title: "How To Paint Over A Water Stain On Ceiling"
 date: 2026-06-03T14:07:45.750678+00:00
 draft: false
 description: "Learn how to paint over a water stain on your ceiling with our simple step-by-step guide. Get a flawless finish and stop stains from bleeding through for good."
-image: "https://images.pexels.com/photos/7640990/pexels-photo-7640990.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6961/wood-water-macro-olivia-henry.jpg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Painting"]
 tags: ["paint", "over", "water", "stain", "ceiling"]
 slug: "how-to-paint-over-a-water-stain-on-ceiling"
@@ -97,4 +97,4 @@ The worst option: buying a can of off-the-shelf "ceiling white" and hoping it ma
 
 One last thing. The ceiling won't look perfect the day you do it. Give it 24 hours for the paint to fully cure and the sheen to settle. Most repairs that look slightly off right after painting look fine the next morning once the lighting normalizes. If it still looks wrong after a day, it's the color match, not the repair.
 
-*Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
+*Photo: [Snapwire](https://www.pexels.com/@snapwire) via Pexels*

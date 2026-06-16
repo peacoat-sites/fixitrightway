@@ -3,7 +3,7 @@ title: "How To Replace An Electrical Outlet"
 date: 2026-05-23T17:12:06.506826+00:00
 draft: false
 description: "Learn how to safely replace an electrical outlet with our step-by-step guide. We cover the tools needed, wiring tips, and safety precautions for a smooth DIY jo"
-image: "https://images.pexels.com/photos/978743/pexels-photo-978743.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4981793/pexels-photo-4981793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Electrical"]
 tags: ["replace", "electrical", "outlet"]
 slug: "how-to-replace-an-electrical-outlet"

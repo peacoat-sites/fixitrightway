@@ -3,7 +3,7 @@ title: "How To Fix A Drafty Window Without Replacing It"
 date: 2026-06-15T12:57:31.951656+00:00
 draft: false
 description: "Learn how to fix a drafty window without replacing it using weatherstripping, caulk, and draft snakes to save energy and stay warm all winter long."
-image: "https://images.pexels.com/photos/3218837/pexels-photo-3218837.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/12513369/pexels-photo-12513369.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Doors & Windows"]
 tags: ["drafty", "window", "without", "replacing"]
 author: "Dana Morrison"
@@ -96,4 +96,4 @@ You'll feel the difference immediately in rooms with multiple windows, and you s
 ---
 
 
-*Photo: [Alina Vilchenko](https://www.pexels.com/@monstera) via Pexels*
+*Photo: [Jonathan Cooper](https://www.pexels.com/@theshuttervision) via Pexels*

@@ -3,7 +3,7 @@ title: "How To Fix A Hole In The Wall From A Doorknob"
 date: 2026-05-26T11:21:57.260706+00:00
 draft: false
 description: "Learn how to fix a hole in the wall from a doorknob with our easy step-by-step guide. Repair drywall damage quickly using simple tools and materials."
-image: "https://images.pexels.com/photos/3926798/pexels-photo-3926798.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/35452995/pexels-photo-35452995.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Drywall & Walls"]
 tags: ["hole", "wall", "from", "doorknob"]
 slug: "how-to-fix-a-hole-in-the-wall-from-a-doorknob"
