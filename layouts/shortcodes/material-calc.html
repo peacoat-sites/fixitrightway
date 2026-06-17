@@ -1,0 +1,252 @@
+<style>
+.mcalc{margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.mcalc-head{padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.mcalc-head select{padding:7px 12px;border:1.5px solid var(--border-strong);border-radius:8px;font-size:14px;font-weight:600;color:var(--text);background:var(--surface);font-family:inherit;cursor:pointer}
+.mcalc-body{padding:20px}
+.mc-panel{display:none}
+.mc-panel.active{display:block}
+.mc-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:16px}
+.mc-label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)}
+.mc-label input,.mc-label select{width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s}
+.mc-label input:focus,.mc-label select:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)}
+.mc-results{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px}
+.rc{background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center}
+.rl{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+.rv{display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0}
+.rs{display:block;font-size:11.5px;color:var(--muted)}
+.mc-callout{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem;line-height:1.5}
+.mc-callout b{color:var(--accent)}
+.mc-note{margin:16px 0 0;font-size:12px;color:var(--stone);line-height:1.5}
+@media(max-width:560px){.rv{font-size:1.4rem}}
+</style>
+
+<div class="mcalc">
+  <div class="mcalc-head">
+    <span>DIY Material Calculator</span>
+    <select id="mc-mode" onchange="mcSwitch(this.value)">
+      <option value="paint">Paint</option>
+      <option value="floor">Flooring / Tile</option>
+      <option value="concrete">Concrete</option>
+      <option value="drywall">Drywall</option>
+      <option value="mulch">Mulch / Landscaping</option>
+      <option value="fence">Fence</option>
+    </select>
+  </div>
+  <div class="mcalc-body">
+
+    <!-- PAINT -->
+    <div class="mc-panel active" id="mc-paint">
+      <div class="mc-grid">
+        <label class="mc-label">Room Length (ft)<input id="p-len" type="number" min="0" value="12" oninput="calcPaint()"></label>
+        <label class="mc-label">Room Width (ft)<input id="p-wid" type="number" min="0" value="10" oninput="calcPaint()"></label>
+        <label class="mc-label">Ceiling Height (ft)<input id="p-ht" type="number" min="0" value="8" oninput="calcPaint()"></label>
+        <label class="mc-label">Number of Doors<input id="p-doors" type="number" min="0" value="1" oninput="calcPaint()"></label>
+        <label class="mc-label">Number of Windows<input id="p-wins" type="number" min="0" value="2" oninput="calcPaint()"></label>
+        <label class="mc-label">Coats
+          <select id="p-coats" onchange="calcPaint()">
+            <option value="1">1 coat</option>
+            <option value="2" selected>2 coats</option>
+          </select>
+        </label>
+        <label class="mc-label">Surface Type
+          <select id="p-surf" onchange="calcPaint()">
+            <option value="1">Smooth</option>
+            <option value="1.15">Textured (+15%)</option>
+          </select>
+        </label>
+      </div>
+      <div class="mc-results">
+        <div class="rc"><span class="rl">Paintable sqft</span><span class="rv" id="p-sqft">—</span><span class="rs">net wall area</span></div>
+        <div class="rc"><span class="rl">Gallons (1 coat)</span><span class="rv" id="p-gal1">—</span><span class="rs">round up at store</span></div>
+        <div class="rc"><span class="rl">Gallons (total)</span><span class="rv" id="p-gal2">—</span><span class="rs">for selected coats</span></div>
+      </div>
+      <div class="mc-callout" id="p-callout"></div>
+      <p class="mc-note">Based on 350 sq ft per gallon coverage. Textured surfaces require ~15% more. Always buy one extra quart for touch-ups.</p>
+    </div>
+
+    <!-- FLOORING -->
+    <div class="mc-panel" id="mc-floor">
+      <div class="mc-grid">
+        <label class="mc-label">Room Length (ft)<input id="f-len" type="number" min="0" value="12" oninput="calcFloor()"></label>
+        <label class="mc-label">Room Width (ft)<input id="f-wid" type="number" min="0" value="10" oninput="calcFloor()"></label>
+        <label class="mc-label">Waste %
+          <select id="f-waste" onchange="calcFloor()">
+            <option value="5">5% (straight lay)</option>
+            <option value="10" selected>10% (diagonal/offset)</option>
+            <option value="15">15% (herringbone)</option>
+          </select>
+        </label>
+        <label class="mc-label">Sqft Per Box<input id="f-box" type="number" min="1" value="20" oninput="calcFloor()"></label>
+      </div>
+      <div class="mc-results">
+        <div class="rc"><span class="rl">Net sqft</span><span class="rv" id="f-net">—</span><span class="rs">room area</span></div>
+        <div class="rc"><span class="rl">With waste</span><span class="rv" id="f-waste-v">—</span><span class="rs">order this much</span></div>
+        <div class="rc"><span class="rl">Boxes needed</span><span class="rv" id="f-boxes">—</span><span class="rs">round up</span></div>
+      </div>
+      <div class="mc-callout" id="f-callout"></div>
+      <p class="mc-note">Always round boxes up — buying extra prevents mismatched dye lots if you need more later.</p>
+    </div>
+
+    <!-- CONCRETE -->
+    <div class="mc-panel" id="mc-concrete">
+      <div class="mc-grid">
+        <label class="mc-label">Length (ft)<input id="c-len" type="number" min="0" value="10" oninput="calcConcrete()"></label>
+        <label class="mc-label">Width (ft)<input id="c-wid" type="number" min="0" value="10" oninput="calcConcrete()"></label>
+        <label class="mc-label">Depth (inches)<input id="c-dep" type="number" min="0" value="4" oninput="calcConcrete()"></label>
+      </div>
+      <div class="mc-results">
+        <div class="rc"><span class="rl">Cubic yards</span><span class="rv" id="c-cy">—</span><span class="rs">order ready-mix</span></div>
+        <div class="rc"><span class="rl">60 lb bags</span><span class="rv" id="c-60">—</span><span class="rs">≈45 bags/cu yd</span></div>
+        <div class="rc"><span class="rl">80 lb bags</span><span class="rv" id="c-80">—</span><span class="rs">≈34 bags/cu yd</span></div>
+      </div>
+      <div class="mc-callout" id="c-callout"></div>
+      <p class="mc-note">For pours under ~1 cu yd, bagged concrete is more practical. Over 1 cu yd, consider ready-mix delivery.</p>
+    </div>
+
+    <!-- DRYWALL -->
+    <div class="mc-panel" id="mc-drywall">
+      <div class="mc-grid">
+        <label class="mc-label">Room Length (ft)<input id="d-len" type="number" min="0" value="12" oninput="calcDrywall()"></label>
+        <label class="mc-label">Room Width (ft)<input id="d-wid" type="number" min="0" value="10" oninput="calcDrywall()"></label>
+        <label class="mc-label">Ceiling Height (ft)<input id="d-ht" type="number" min="0" value="8" oninput="calcDrywall()"></label>
+        <label class="mc-label">Number of Doors<input id="d-doors" type="number" min="0" value="1" oninput="calcDrywall()"></label>
+        <label class="mc-label">Number of Windows<input id="d-wins" type="number" min="0" value="2" oninput="calcDrywall()"></label>
+      </div>
+      <div class="mc-results">
+        <div class="rc"><span class="rl">Wall sqft</span><span class="rv" id="d-sqft">—</span><span class="rs">net wall area</span></div>
+        <div class="rc"><span class="rl">With 10% waste</span><span class="rv" id="d-waste">—</span><span class="rs">order this much</span></div>
+        <div class="rc"><span class="rl">4×8 sheets</span><span class="rv" id="d-sheets">—</span><span class="rs">round up</span></div>
+      </div>
+      <div class="mc-callout" id="d-callout"></div>
+      <p class="mc-note">Each 4×8 drywall sheet covers 32 sq ft. Add 10% waste for cuts. Don't forget joint compound and tape.</p>
+    </div>
+
+    <!-- MULCH -->
+    <div class="mc-panel" id="mc-mulch">
+      <div class="mc-grid">
+        <label class="mc-label">Area Length (ft)<input id="m-len" type="number" min="0" value="20" oninput="calcMulch()"></label>
+        <label class="mc-label">Area Width (ft)<input id="m-wid" type="number" min="0" value="10" oninput="calcMulch()"></label>
+        <label class="mc-label">Depth (inches)<input id="m-dep" type="number" min="0" value="3" oninput="calcMulch()"></label>
+      </div>
+      <div class="mc-results">
+        <div class="rc"><span class="rl">Cubic yards</span><span class="rv" id="m-cy">—</span><span class="rs">bulk mulch</span></div>
+        <div class="rc"><span class="rl">2 cu ft bags</span><span class="rv" id="m-bags">—</span><span class="rs">bagged mulch</span></div>
+      </div>
+      <div class="mc-callout" id="m-callout"></div>
+      <p class="mc-note">2–3 inches is ideal for weed suppression. Over 4 inches can prevent water from reaching roots. Bulk delivery is cheaper above ~3 cu yd.</p>
+    </div>
+
+    <!-- FENCE -->
+    <div class="mc-panel" id="mc-fence">
+      <div class="mc-grid">
+        <label class="mc-label">Total Linear Feet<input id="fe-len" type="number" min="0" value="100" oninput="calcFence()"></label>
+        <label class="mc-label">Post Spacing
+          <select id="fe-spacing" onchange="calcFence()">
+            <option value="6">6 ft apart</option>
+            <option value="8" selected>8 ft apart</option>
+          </select>
+        </label>
+        <label class="mc-label">Rails Per Section
+          <select id="fe-rails" onchange="calcFence()">
+            <option value="2" selected>2 rails</option>
+            <option value="3">3 rails</option>
+          </select>
+        </label>
+      </div>
+      <div class="mc-results">
+        <div class="rc"><span class="rl">Posts needed</span><span class="rv" id="fe-posts">—</span><span class="rs">including corners</span></div>
+        <div class="rc"><span class="rl">Rails needed</span><span class="rv" id="fe-rails-v">—</span><span class="rs">horizontal boards</span></div>
+        <div class="rc"><span class="rl">Pickets (6" wide)</span><span class="rv" id="fe-pickets">—</span><span class="rs">at 6" spacing</span></div>
+      </div>
+      <div class="mc-callout" id="fe-callout"></div>
+      <p class="mc-note">Add 10% extra pickets for waste and future repairs. Post count includes end posts. Actual picket count depends on picket width and desired gap.</p>
+    </div>
+
+  </div>
+</div>
+
+<script>
+function mcSwitch(mode) {
+  document.querySelectorAll('.mc-panel').forEach(p => p.classList.remove('active'));
+  var map = {paint:'mc-paint',floor:'mc-floor',concrete:'mc-concrete',drywall:'mc-drywall',mulch:'mc-mulch',fence:'mc-fence'};
+  document.getElementById(map[mode]).classList.add('active');
+}
+
+function v(id){return parseFloat(document.getElementById(id).value)||0;}
+function ceil(n){return Math.ceil(n);}
+
+function calcPaint(){
+  var l=v('p-len'),w=v('p-wid'),h=v('p-ht'),doors=v('p-doors'),wins=v('p-wins');
+  var coats=v('p-coats'),surf=parseFloat(document.getElementById('p-surf').value)||1;
+  var sqft = (2*(l+w)*h - doors*20 - wins*15)*surf;
+  if(sqft<=0){sqft=0;}
+  var gal1=ceil(sqft/350);
+  var gal2=ceil(sqft/350*coats);
+  document.getElementById('p-sqft').textContent=sqft.toFixed(0)+' sqft';
+  document.getElementById('p-gal1').textContent=gal1+' gal';
+  document.getElementById('p-gal2').textContent=gal2+' gal';
+  document.getElementById('p-callout').innerHTML='<b>Buy '+gal2+' gallon'+(gal2!==1?'s':'')+' of paint</b> for '+coats+' coat'+(coats>1?'s':'')+' on '+sqft.toFixed(0)+' sq ft of wall area. Consider buying an extra quart for future touch-ups.';
+}
+
+function calcFloor(){
+  var l=v('f-len'),w=v('f-wid'),waste=v('f-waste'),box=v('f-box')||20;
+  var net=l*w;
+  var total=net*(1+waste/100);
+  var boxes=ceil(total/box);
+  document.getElementById('f-net').textContent=net.toFixed(1)+' sqft';
+  document.getElementById('f-waste-v').textContent=total.toFixed(1)+' sqft';
+  document.getElementById('f-boxes').textContent=boxes;
+  document.getElementById('f-callout').innerHTML='<b>Order '+boxes+' box'+(boxes!==1?'es':'')+' ('+total.toFixed(1)+' sq ft with '+waste+'% waste)</b> — that\'s '+net.toFixed(1)+' sq ft room area plus cutting allowance.';
+}
+
+function calcConcrete(){
+  var l=v('c-len'),w=v('c-wid'),dep=v('c-dep');
+  var cf=l*w*(dep/12);
+  var cy=cf/27;
+  var bags60=ceil(cy*45);
+  var bags80=ceil(cy*34);
+  document.getElementById('c-cy').textContent=cy.toFixed(2)+' yd³';
+  document.getElementById('c-60').textContent=bags60;
+  document.getElementById('c-80').textContent=bags80;
+  document.getElementById('c-callout').innerHTML=cy>=1
+    ? '<b>'+cy.toFixed(2)+' cubic yards</b> — consider ordering ready-mix concrete for pours this size.'
+    : '<b>'+cy.toFixed(2)+' cubic yards</b> — bagged concrete works well for this volume. Choose '+bags80+' bags of 80 lb for fewer trips.';
+}
+
+function calcDrywall(){
+  var l=v('d-len'),w=v('d-wid'),h=v('d-ht'),doors=v('d-doors'),wins=v('d-wins');
+  var sqft=2*(l+w)*h - doors*20 - wins*15;
+  if(sqft<0)sqft=0;
+  var waste=sqft*1.1;
+  var sheets=ceil(waste/32);
+  document.getElementById('d-sqft').textContent=sqft.toFixed(0)+' sqft';
+  document.getElementById('d-waste').textContent=waste.toFixed(0)+' sqft';
+  document.getElementById('d-sheets').textContent=sheets+' sheets';
+  document.getElementById('d-callout').innerHTML='<b>Buy '+sheets+' sheet'+(sheets!==1?'s':'')+' of 4×8 drywall</b> ('+waste.toFixed(0)+' sq ft including 10% cut waste) for this room.';
+}
+
+function calcMulch(){
+  var l=v('m-len'),w=v('m-wid'),dep=v('m-dep');
+  var area=l*w;
+  var cy=area*(dep/12)/27;
+  var bags=ceil(cy*13.5);
+  document.getElementById('m-cy').textContent=cy.toFixed(2)+' yd³';
+  document.getElementById('m-bags').textContent=bags;
+  document.getElementById('m-callout').innerHTML='<b>'+cy.toFixed(2)+' cubic yards</b> of mulch needed — that\'s about <b>'+bags+' bags</b> (2 cu ft each) or consider bulk delivery if over 3 yards.';
+}
+
+function calcFence(){
+  var ft=v('fe-len'),spacing=v('fe-spacing'),rails=v('fe-rails');
+  var posts=Math.floor(ft/spacing)+1;
+  var sections=posts-1;
+  var totalRails=sections*rails;
+  var pickets=ceil(ft*12/6);
+  document.getElementById('fe-posts').textContent=posts;
+  document.getElementById('fe-rails-v').textContent=totalRails;
+  document.getElementById('fe-pickets').textContent=pickets;
+  document.getElementById('fe-callout').innerHTML='<b>'+posts+' posts, '+totalRails+' rails, ~'+pickets+' pickets</b> for '+ft+' linear feet with posts every '+spacing+' ft and '+rails+' rails per section.';
+}
+
+// Init all
+calcPaint(); calcFloor(); calcConcrete(); calcDrywall(); calcMulch(); calcFence();
+</script>

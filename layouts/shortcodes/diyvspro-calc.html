@@ -1,0 +1,95 @@
+<style>
+.dvp{margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.dvp-head{padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem}
+.dvp-body{padding:20px}
+.dvp-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:16px}
+.dvp-label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)}
+.dvp-label input,.dvp-label select{width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s}
+.dvp-label input:focus,.dvp-label select:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)}
+.dvp-results{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px}
+.rc{background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center}
+.rl{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+.rv{display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0}
+.rs{display:block;font-size:11.5px;color:var(--muted)}
+.dvp-verdict{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem;line-height:1.5}
+.dvp-verdict b{color:var(--accent)}
+.dvp-note{margin:16px 0 0;font-size:12px;color:var(--stone);line-height:1.5}
+.dvp-mat-note{font-size:12px;color:var(--stone);margin-top:4px}
+@media(max-width:560px){.rv{font-size:1.4rem}}
+</style>
+
+<div class="dvp">
+  <div class="dvp-head">DIY vs. Pro Cost Calculator</div>
+  <div class="dvp-body">
+    <div class="dvp-grid">
+      <label class="dvp-label">Project Type
+        <select id="dvp-type" onchange="dvpCalc()">
+          <option value="paint">Painting a room</option>
+          <option value="tile">Tile floor</option>
+          <option value="drywall">Drywall</option>
+          <option value="deck">Deck staining</option>
+          <option value="other">Other</option>
+        </select>
+      </label>
+      <label class="dvp-label">Project Size (sqft)<input id="dvp-size" type="number" min="0" value="200" oninput="dvpCalc()"></label>
+      <label class="dvp-label">Your Hourly Value ($)<input id="dvp-hrval" type="number" min="0" value="30" oninput="dvpCalc()"></label>
+      <label class="dvp-label">Estimated DIY Hours<input id="dvp-hrs" type="number" min="0" value="8" oninput="dvpCalc()"></label>
+      <label class="dvp-label">Pro Quote ($)<input id="dvp-pro" type="number" min="0" value="800" oninput="dvpCalc()"></label>
+    </div>
+    <div id="dvp-mat-note" class="dvp-mat-note"></div>
+    <div class="dvp-results">
+      <div class="rc"><span class="rl">DIY Materials</span><span class="rv" id="dvp-mats">—</span><span class="rs">estimated cost</span></div>
+      <div class="rc"><span class="rl">Your Time Cost</span><span class="rv" id="dvp-time">—</span><span class="rs">hrs × hourly value</span></div>
+      <div class="rc"><span class="rl">Total DIY Cost</span><span class="rv" id="dvp-diy-total">—</span><span class="rs">materials + time</span></div>
+      <div class="rc"><span class="rl">Pro Cost</span><span class="rv" id="dvp-pro-total">—</span><span class="rs">your quote</span></div>
+    </div>
+    <div class="dvp-verdict" id="dvp-verdict"></div>
+    <p class="dvp-note">Material estimates are averages and vary by region and product quality. Pro quotes include labor and often materials. Time value is subjective — only you know how you'd rather spend a weekend.</p>
+  </div>
+</div>
+
+<script>
+var MAT_RATES = {paint:0.45, tile:3.50, drywall:1.20, deck:0.60, other:1.00};
+var MAT_LABELS = {
+  paint:'~$0.45/sqft (paint + primer)',
+  tile:'~$3.50/sqft (tile + adhesive + grout)',
+  drywall:'~$1.20/sqft (drywall + compound + tape)',
+  deck:'~$0.60/sqft (stain + cleaner + supplies)',
+  other:'~$1.00/sqft (general estimate)'
+};
+
+function fmt(n){return '$'+n.toLocaleString('en-US',{minimumFractionDigits:0,maximumFractionDigits:0});}
+
+function dvpCalc(){
+  var type=document.getElementById('dvp-type').value;
+  var size=parseFloat(document.getElementById('dvp-size').value)||0;
+  var hrval=parseFloat(document.getElementById('dvp-hrval').value)||0;
+  var hrs=parseFloat(document.getElementById('dvp-hrs').value)||0;
+  var proq=parseFloat(document.getElementById('dvp-pro').value)||0;
+
+  var mats=size*MAT_RATES[type];
+  var timeCost=hrs*hrval;
+  var diyTotal=mats+timeCost;
+  var savings=proq-diyTotal;
+  var beHours = proq>mats ? (proq-mats)/hrval : 0;
+
+  document.getElementById('dvp-mats').textContent=fmt(mats);
+  document.getElementById('dvp-time').textContent=fmt(timeCost);
+  document.getElementById('dvp-diy-total').textContent=fmt(diyTotal);
+  document.getElementById('dvp-pro-total').textContent=fmt(proq);
+  document.getElementById('dvp-mat-note').textContent='Material estimate based on '+MAT_LABELS[type];
+
+  var verdict='';
+  if(savings>0){
+    verdict='<b>DIY saves you '+fmt(savings)+'</b> on this project. You\'d spend '+hrs+' hour'+(hrs!==1?'s':'')+' doing it yourself, but walk away with '+fmt(savings)+' more in your pocket.';
+  } else if(savings<0){
+    var flip=Math.abs(savings);
+    verdict='<b>Hiring a pro saves you '+fmt(flip)+'</b> once your time is valued at '+fmt(hrval)+'/hr. DIY would only be worth it if your time is worth less than '+fmt(beHours>0?Math.round(beHours/hrs*10)/10:0)+'/hr.';
+  } else {
+    verdict='<b>DIY and Pro cost the same</b> at your current hourly value. The choice comes down to whether you enjoy the work.';
+  }
+  document.getElementById('dvp-verdict').innerHTML=verdict;
+}
+
+dvpCalc();
+</script>
