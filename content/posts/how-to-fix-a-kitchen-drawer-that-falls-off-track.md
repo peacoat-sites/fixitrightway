@@ -25,6 +25,16 @@ Your kitchen drawer suddenly pops loose, tilts sideways, and refuses to slide ba
 
 Whether your drawer has completely fallen out or just wobbles and sticks, this step-by-step guide will walk you through exactly what to do. Even if you have never done a home repair before, you can handle this one. Let’s get your kitchen running smoothly again.
 
+
+<div class="value-module">
+  <div class="vm-head">Drawer Problem Diagnosis Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist to identify your specific issue and determine the right fix before you start disassembling anything.</p>
+    <table><thead><tr><th>Symptom</th><th>Likely Cause</th><th>Fix Difficulty</th><th>Action Needed</th></tr></thead><tbody><tr><td>Drawer tilts down when extended</td><td>Rear mounting bracket detached or broken</td><td>Easy (5 min)</td><td>Reattach bracket or replace if plastic tabs are snapped</td></tr><tr><td>Drawer slides but feels gritty or sticks</td><td>Debris or dried grease in slide tracks</td><td>Easy (10 min)</td><td>Clean tracks with toothbrush, apply fresh silicone lubricant</td></tr><tr><td>Drawer won't close the last inch</td><td>Obstruction behind drawer or misaligned slides</td><td>Easy (5 min)</td><td>Check for fallen items, verify both slides are parallel</td></tr><tr><td>One side drags or scrapes</td><td>Loose screws on cabinet-side slide</td><td>Easy (10 min)</td><td>Tighten all screws; fill stripped holes with toothpicks and wood glue</td></tr><tr><td>Drawer derails completely when pulled out</td><td>Worn ball bearings or bent slide rail</td><td>Moderate (20 min)</td><td>Replace slide set (measure length first: common sizes are 14", 16", 18", 20", 22")</td></tr><tr><td>Drawer front is crooked or uneven</td><td>Drawer box joints loosening</td><td>Moderate (30 min)</td><td>Remove drawer, re-glue and clamp corner joints, let cure 24 hours</td></tr><tr><td>Soft-close feature no longer works</td><td>Damper mechanism worn or disconnected</td><td>Easy (5 min)</td><td>Snap damper back into track or replace damper unit ($3–8 each)</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Kitchen Drawers Fall Off Track
 
 Before you fix the problem, it helps to understand what caused it. Drawers typically run on one of two types of systems: **side-mounted slides** or **bottom-mounted slides**. Both can slip out of alignment over time.

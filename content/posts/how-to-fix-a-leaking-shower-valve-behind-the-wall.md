@@ -30,6 +30,16 @@ You found the leak on a Tuesday morning. Maybe it was a soft stain spreading acr
 
 Sometimes yes. Sometimes no. Let me walk you through how to tell the difference, what's actually going on in there, and what this repair looks like from start to finish.
 
+
+<div class="value-module">
+  <div class="vm-head">Shower Valve Leak Diagnostic Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this systematic checklist to identify your leak source and determine whether wall access is required before cutting into anything.</p>
+    <ol><li><strong>Water-off test (24 hours):</strong> Shut off main supply, dry area completely, wait 24 hours. <em>Leak stops</em> → valve/supply issue. <em>Leak continues</em> → drain, pan, or grout failure (not valve-related).</li><li><strong>Check for existing access panel:</strong> Inspect opposite side of shower wall (closet, hallway, adjacent room). Panel present → proceed without drywall cuts.</li><li><strong>Identify valve brand/model:</strong> Remove handle trim and look for stamped manufacturer name (Moen, Delta, Kohler, Price Pfister). Photograph cartridge shape for parts matching.</li><li><strong>Pressure test supply connections:</strong> With water on, wrap toilet paper around visible fittings. Wet paper after 5 minutes → fitting leak (requires wall access for sweated joints).</li><li><strong>Cartridge drip test:</strong> Remove cartridge, turn water on briefly into bucket. <em>Clean flow from both ports</em> → cartridge was the problem. <em>Water spraying from valve body</em> → cracked body (full valve replacement needed).</li><li><strong>Decision threshold:</strong><ul><li>Cartridge/O-ring failure only → no wall cutting, parts cost $15–$80</li><li>Supply fitting leak → wall access required, repair cost $50–$150 in materials</li><li>Cracked valve body → full valve replacement, wall access required, $150–$400 in materials</li></ul></li></ol>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## First, Figure Out What's Actually Leaking
 
 This sounds obvious, but it trips people up constantly. Not every wet wall behind a shower means the valve itself is leaking. Before you cut into anything, spend 20 minutes diagnosing.

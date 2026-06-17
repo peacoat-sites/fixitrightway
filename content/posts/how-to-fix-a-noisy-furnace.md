@@ -23,6 +23,16 @@ author_bio: "Dana Morrison spent 20 years as a licensed general contractor befor
 
 Your furnace is making strange banging, rattling, or squealing noises,  and it’s driving you crazy. A noisy furnace fix is something many homeowners need, especially as heating systems age. The good news is that most furnace noises have simple causes and can be resolved without calling a technician. In this guide, we’ll walk you through exactly how to diagnose and fix a noisy furnace, step by step.
 
+
+<div class="value-module">
+  <div class="vm-head">Furnace Noise Diagnostic Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist to systematically identify your noise source and determine whether it's a DIY fix or requires professional help.</p>
+    <table><thead><tr><th>Noise Type</th><th>When It Occurs</th><th>Most Likely Cause</th><th>DIY Test</th><th>Fix Difficulty</th><th>Call a Pro If...</th></tr></thead><tbody><tr><td>Banging/booming</td><td>At startup</td><td>Delayed ignition (gas buildup)</td><td>Listen for 3+ second delay between click and ignition</td><td>Pro recommended</td><td>Boom is loud or happens every cycle</td></tr><tr><td>Banging/popping</td><td>During run cycle</td><td>Expanding/contracting ducts</td><td>Tap ducts to locate thin metal sections</td><td>Easy</td><td>Noise comes from furnace cabinet, not ducts</td></tr><tr><td>Rattling</td><td>Constant when running</td><td>Loose access panel or screws</td><td>Press panels firmly; does noise stop?</td><td>Easy</td><td>Rattling continues with panels secured</td></tr><tr><td>High-pitched squeal</td><td>Throughout run cycle</td><td>Worn or slipping blower belt</td><td>Inspect belt for cracks, glazing, or looseness</td><td>Moderate</td><td>Belt looks fine but noise persists</td></tr><tr><td>Squealing/grinding</td><td>At blower startup</td><td>Dry motor bearings</td><td>Check if motor has oil ports (small caps on housing)</td><td>Moderate</td><td>Motor is sealed (no oil ports) or grinding is severe</td></tr><tr><td>Rumbling</td><td>While burners fire</td><td>Dirty burners or flame rollout</td><td>Visually inspect burner flames (should be blue, not yellow)</td><td>Pro recommended</td><td>Yellow flames, soot buildup, or gas smell</td></tr><tr><td>Persistent clicking</td><td>Furnace won't ignite</td><td>Faulty igniter or flame sensor</td><td>Count clicks: 3+ attempts without ignition = problem</td><td>Moderate to Hard</td><td>Furnace fails to light after 3 cycles</td></tr><tr><td>Metal-on-metal scraping</td><td>When blower runs</td><td>Blower wheel loose or broken</td><td>Turn off immediately; inspect wheel for contact with housing</td><td>Hard</td><td>Always—can damage motor permanently</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Is My Furnace Making Noise?
 
 Furnaces make a variety of sounds, and each one tells a different story. Understanding the type of noise is the first step toward fixing the problem.

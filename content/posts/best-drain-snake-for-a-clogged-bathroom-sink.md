@@ -32,6 +32,16 @@ The problem is that most coverage of drain snakes splits everything into "manual
 
 Here's what actually works.
 
+
+<div class="value-module">
+  <div class="vm-head">Drain Snake Selection by Clog Type</div>
+  <div class="vm-body">
+    <p class="vm-intro">Match your tool choice to the actual obstruction—different clog compositions respond to different snake designs.</p>
+    <table><thead><tr><th>Clog Type</th><th>Typical Depth</th><th>Best Snake Style</th><th>Head Type</th><th>Why It Works</th></tr></thead><tbody><tr><td>Hair wrapped on pivot rod</td><td>0–6 inches</td><td>Plastic zip strip (e.g., Zip-It)</td><td>Barbed flexible strip</td><td>Barbs grab hair on withdrawal; no disassembly needed</td></tr><tr><td>Hair + soap scum mass in P-trap</td><td>6–18 inches</td><td>1/4-inch hand spinner (15–25 ft drum)</td><td>Small auger tip</td><td>Auger drills into compacted mass; crank provides torque to break bonds</td></tr><tr><td>Toothpaste cap / small object</td><td>6–18 inches</td><td>Remove P-trap manually</td><td>N/A</td><td>Snakes push solids deeper; manual removal is only reliable fix</td></tr><tr><td>Buildup past P-trap (rare, &lt;5% of sink clogs)</td><td>2–4 feet</td><td>1/4-inch hand spinner, full extension</td><td>Auger or drop-head</td><td>Reaches into horizontal wall pipe without damaging chrome trap fittings</td></tr><tr><td>Mineral / calcium deposits</td><td>Any depth</td><td>None—snake won't help</td><td>N/A</td><td>Requires chemical descaler or pipe replacement; mechanical tools ineffective</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Clog You're Actually Dealing With
 
 Bathroom sink drains follow a predictable path: straight down from the drain stopper, through a P-trap (that curved section under the cabinet), then into the wall. The clog is almost never past the P-trap. I've snaked hundreds of these, and maybe five percent of bathroom sink clogs required going more than two feet in.

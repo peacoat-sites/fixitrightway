@@ -28,6 +28,16 @@ author_bio: "Dana Morrison spent 20 years as a licensed general contractor befor
 
 You already know exactly how it happened. The door swung open a little too hard, maybe the wind caught it, maybe someone wasn't paying attention, and now there's a doorknob-shaped hole punched through your drywall. It's one of the most common wall repairs I get called about, and it's also one of the most unnecessary service calls. This is a repair almost any homeowner can do themselves for under $30 and a Saturday morning. Let me walk you through it the right way so you don't end up with a lumpy, visible patch that bugs you every time you walk past it.
 
+
+<div class="value-module">
+  <div class="vm-head">Patch Method Selection by Hole Size</div>
+  <div class="vm-body">
+    <p class="vm-intro">Choose your repair approach based on the actual hole diameter—using the wrong method creates visible patches or weak repairs.</p>
+    <table><thead><tr><th>Hole Diameter</th><th>Recommended Method</th><th>Materials Needed</th><th>Skill Level</th><th>Dry/Cure Time</th></tr></thead><tbody><tr><td>Under 1 inch</td><td>Spackling only</td><td>Lightweight spackling, putty knife</td><td>Beginner</td><td>1–2 hours</td></tr><tr><td>1–3 inches (typical doorknob)</td><td>Self-adhesive mesh patch</td><td>Mesh patch, joint compound, 6-inch knife</td><td>Beginner</td><td>3–4 hours (2 coats)</td></tr><tr><td>2–4 inches</td><td>California patch (backing drywall)</td><td>Scrap drywall, joint compound, tape, knife</td><td>Intermediate</td><td>4–6 hours (2–3 coats)</td></tr><tr><td>4–6 inches</td><td>Clip-in drywall patch kit</td><td>Commercial patch kit with clips, compound</td><td>Intermediate</td><td>6–8 hours (multiple coats)</td></tr><tr><td>Over 6 inches</td><td>Full drywall replacement to studs</td><td>Drywall piece, screws, tape, compound</td><td>Advanced</td><td>24+ hours</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## First, Understand What You're Actually Dealing With
 
 Doorknob holes are almost always in drywall, which is good news. Drywall is forgiving, inexpensive, and designed to be patched. What makes this specific repair a little tricky is the location: doorknob holes tend to land about 36 inches off the floor, right on the lower half of the wall where people actually look. A bad patch here is going to stand out, especially when light rakes across the wall at a low angle in the morning or evening.

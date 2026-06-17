@@ -25,6 +25,16 @@ Your tile floors looked beautiful when they were first installed, but now the gr
 
 Whether you’re dealing with bathroom tiles, kitchen floors, or an entryway that sees heavy foot traffic, this step-by-step guide will walk you through everything you need to restore your grout to its former glory. Even if you’re not particularly handy, you can absolutely do this yourself and feel proud of the results.
 
+
+<div class="value-module">
+  <div class="vm-head">Grout Cleaning Method Selection Guide</div>
+  <div class="vm-body">
+    <p class="vm-intro">Choose your cleaning approach based on stain severity and grout/tile type—stronger methods work faster but carry more risk on delicate surfaces.</p>
+    <table><thead><tr><th>Stain Level</th><th>Method</th><th>Mix Ratio</th><th>Dwell Time</th><th>Best For</th><th>Avoid On</th></tr></thead><tbody><tr><td>Light (surface film, recent discoloration)</td><td>Baking soda paste</td><td>3 parts baking soda : 1 part water</td><td>5–10 minutes</td><td>All tile types, routine maintenance</td><td>None</td></tr><tr><td>Moderate (gray/tan buildup, soap scum)</td><td>Baking soda + vinegar</td><td>Paste first, then spray undiluted vinegar</td><td>10–15 minutes</td><td>Ceramic, porcelain</td><td>Marble, travertine, limestone, slate</td></tr><tr><td>Heavy (black mold spots, deep yellowing)</td><td>Hydrogen peroxide + baking soda</td><td>1/2 cup peroxide + 1 cup baking soda</td><td>15–20 minutes</td><td>White or light grout, bathroom mold</td><td>Colored grout (may bleach)</td></tr><tr><td>Severe (years of neglect, embedded stains)</td><td>Oxygen bleach (OxiClean type)</td><td>1 scoop per gallon warm water</td><td>20–30 minutes</td><td>Floor tile, high-traffic areas</td><td>Natural stone, colored grout without testing</td></tr><tr><td>Stubborn mold/mildew only</td><td>Chlorine bleach (last resort)</td><td>1 part bleach : 10 parts water</td><td>5 minutes max</td><td>White grout in well-ventilated areas</td><td>Colored grout, natural stone, poor ventilation</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Grout Gets So Dirty
 
 Grout is a porous material, which means it absorbs moisture, soap residue, dirt, and bacteria over time. Because grout lines sit slightly lower than tile surfaces, they act like little trenches that trap everything that passes over them.

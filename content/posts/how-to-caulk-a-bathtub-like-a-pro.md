@@ -30,6 +30,16 @@ Bad caulk jobs are one of the most common things I see on residential walkthroug
 
 Let me save you that frustration.
 
+
+<div class="value-module">
+  <div class="vm-head">Caulk Type Comparison for Bathtubs</div>
+  <div class="vm-body">
+    <p class="vm-intro">Choosing the right caulk matters as much as prep work—here's how the three common options compare for typical bathtub applications.</p>
+    <table><thead><tr><th>Caulk Type</th><th>Water Resistance</th><th>Ease of Application</th><th>Mold Resistance</th><th>Cure Time</th><th>Paintable</th><th>Best For</th></tr></thead><tbody><tr><td>100% Silicone</td><td>Excellent</td><td>Difficult (sticky, hard to smooth)</td><td>Excellent (5–10 years typical)</td><td>24–48 hours</td><td>No</td><td>High-use showers, jetted tubs, humid climates</td></tr><tr><td>Siliconized Latex (Acrylic Latex + Silicone)</td><td>Good</td><td>Easy (smooths well, water cleanup)</td><td>Good (3–5 years typical)</td><td>2–4 hours surface dry; 24 hours full cure</td><td>Yes</td><td>Guest baths, standard tubs, DIYers wanting forgiveness</td></tr><tr><td>Polyurethane</td><td>Excellent</td><td>Moderate (tools well but requires solvent cleanup)</td><td>Good (4–7 years typical)</td><td>24–72 hours</td><td>Yes</td><td>Exterior transitions, tub-to-tile gaps with movement</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Most Caulk Jobs Fail Before They Start
 
 The prep work is where this goes wrong. Almost every time.

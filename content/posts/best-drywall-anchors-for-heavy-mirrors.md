@@ -30,6 +30,16 @@ Three years ago I watched a homeowner hang a 65-pound antique mirror using a sin
 
 So let's talk about doing this right, because most of the advice floating around online about drywall anchors is either dangerously vague or written by someone who's never actually put a 50-pound mirror on a wall in their life.
 
+
+<div class="value-module">
+  <div class="vm-head">Mirror Weight to Anchor Selection Guide</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this decision matrix to match your mirror's actual weight to the right anchor type, accounting for the real-world derating that occurs with typical DIY installations.</p>
+    <table><thead><tr><th>Mirror Weight</th><th>Recommended Anchor</th><th>Min. Anchors Needed</th><th>Hole Size Required</th><th>Real-World Capacity (each)</th><th>Key Installation Note</th></tr></thead><tbody><tr><td>15–25 lbs</td><td>Self-drilling zinc anchors</td><td>2</td><td>No pre-drill</td><td>25–35 lbs</td><td>Drive flush; don't overtighten or gypsum crumbles</td></tr><tr><td>26–40 lbs</td><td>Snap toggles (e.g., Toggler Snaptoggle)</td><td>2</td><td>1/2 inch</td><td>40–50 lbs</td><td>Straps must sit flat against back of drywall</td></tr><tr><td>41–65 lbs</td><td>Traditional toggle bolts (1/4-inch)</td><td>2–3</td><td>7/8 inch</td><td>50–70 lbs</td><td>Wings must fully deploy; test by tugging before hanging</td></tr><tr><td>66–100 lbs</td><td>Toggle bolts (1/4-inch) OR wall studs</td><td>3–4 toggles or 2 stud screws</td><td>7/8 inch (toggles)</td><td>50–70 lbs (toggles)</td><td>At this weight, hitting at least one stud is strongly preferred</td></tr><tr><td>Over 100 lbs</td><td>Stud mounting required</td><td>2+ stud screws (3-inch #10 minimum)</td><td>1/8-inch pilot</td><td>80–100+ lbs per screw in stud</td><td>Do not rely on drywall anchors alone at this weight</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The problem with drywall is the drywall itself
 
 Standard residential drywall is 1/2-inch or 5/8-inch gypsum board. Gypsum is basically compressed chalk. It has almost no tensile strength on its own, which means anything pulling away from the wall face, called shear load, is fine. A picture nail handles shear. But heavy mirrors create a combination of shear load from the weight and pull-out load from the anchor being yanked outward as the mirror settles. That combination is what destroys anchors and walls.

@@ -30,6 +30,16 @@ Your garbage disposal is silent when you hit the switch. No hum, no grind, nothi
 
 Let me walk you through this the right way.
 
+
+<div class="value-module">
+  <div class="vm-head">Disposal Won't Start: Diagnostic Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Work through these checks in order—most failures resolve at steps 1–3.</p>
+    <table><thead><tr><th>Step</th><th>Check</th><th>Pass Threshold</th><th>If Fails</th></tr></thead><tbody><tr><td>1</td><td>Wall switch or outlet has power</td><td>Other appliances work on same circuit; GFCI not tripped</td><td>Reset GFCI or flip breaker; test outlet with lamp or phone charger</td></tr><tr><td>2</td><td>Reset button on disposal bottom</td><td>Button flush with housing, clicks when pressed</td><td>Press firmly until click; if it pops back out, proceed to step 3</td></tr><tr><td>3</td><td>Flywheel rotates freely</td><td>¼" Allen wrench turns full 360° without binding</td><td>Crank wrench back and forth until obstruction clears, then re-try step 2</td></tr><tr><td>4</td><td>Reset button stays engaged after clearing jam</td><td>Holds flush for 10+ seconds</td><td>Motor may be burned out—replacement typically more economical than repair</td></tr><tr><td>5</td><td>Disposal runs when switch flipped</td><td>Motor spins, grinding sound normal</td><td>If hums but won't spin: jam remains (repeat step 3). If silent: wiring or switch fault—test with multimeter or call electrician</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Start Here: The Reset Button Does Most of the Heavy Lifting
 
 The overload protector is a small red or black button on the bottom of the disposal unit, underneath the sink. When the motor gets overloaded (a chicken bone, too much food too fast, running without water), it trips automatically. The disposal goes completely dead. No hum, no sound at all. Homeowners assume it's broken. It's not.

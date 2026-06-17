@@ -16,6 +16,16 @@ affiliate_disclosure: true
 
 Most DIY coverage right now is still telling you to "shop around for deals" and "consider alternatives." That's not a materials strategy. That's a shrug. Here's what's actually happening to prices, and what it means for the deck, fence, or cabinet project you're planning this summer.
 
+
+<div class="value-module">
+  <div class="vm-head">DIY Project Tariff Impact Calculator</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use these illustrative multipliers to estimate how 2025-2026 tariffs may affect your project budget compared to pre-tariff pricing.</p>
+    <table><thead><tr><th>Material Category</th><th>Tariff Rate</th><th>Typical Price Impact</th><th>$10K Project Add</th><th>Mitigation Options</th></tr></thead><tbody><tr><td>Framing lumber (Canadian softwood)</td><td>10%</td><td>+4–6%</td><td>+$400–600</td><td>Domestic southern yellow pine; reclaimed lumber</td></tr><tr><td>Imported cabinets (RTA/flat-pack)</td><td>50%</td><td>+15–25%</td><td>+$1,500–2,500</td><td>U.S.-made semi-custom; refacing existing boxes</td></tr><tr><td>Steel fasteners/hardware</td><td>25%</td><td>+8–12%</td><td>+$80–120</td><td>Buy in bulk; substitute stainless for galvanized</td></tr><tr><td>Aluminum (gutters, flashing)</td><td>25%</td><td>+10–15%</td><td>+$100–150</td><td>Vinyl alternatives; galvanized steel</td></tr><tr><td>Composite decking (imported)</td><td>10–25%</td><td>+5–10%</td><td>+$500–1,000</td><td>Pressure-treated lumber; domestic composites</td></tr><tr><td>Porcelain/ceramic tile</td><td>25%</td><td>+12–18%</td><td>+$120–180</td><td>Domestic tile; LVP flooring</td></tr></tbody><tfoot><tr><td colspan="5"><em>Note: Price impacts are illustrative ranges based on tariff pass-through estimates; actual retail pricing varies by retailer, timing, and inventory.</em></td></tr></tfoot></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Numbers Behind the Sticker Shock
 
 Framing lumber hit $916.62 per thousand board feet in Q2 2026, according to Gordian/RSMeans data published in May. That's a 5.11% spike in a single quarter, following two quarters of declines that had homeowners feeling cautiously optimistic. It's also the ninth consecutive quarter of year-over-year growth, up 4.21% from this time last year. The brief dip was a head fake.

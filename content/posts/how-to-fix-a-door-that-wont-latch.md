@@ -25,6 +25,16 @@ Your door won’t latch, and it’s driving you absolutely crazy. Whether it ref
 
 In this guide, we’ll walk you through exactly why doors stop latching and how to fix the problem step by step, no matter what’s causing it.
 
+
+<div class="value-module">
+  <div class="vm-head">Diagnosis-to-Fix Decision Matrix</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this matrix to identify your specific latch problem and jump directly to the right repair, ranked by how often each cause occurs.</p>
+    <table><thead><tr><th>Symptom</th><th>Quick Test</th><th>Likely Cause</th><th>Fix Time</th><th>Repair Action</th></tr></thead><tbody><tr><td>Latch clicks but door swings open</td><td>Close door slowly; latch retracts before engaging strike</td><td>Strike plate too far from latch (most common: 45% of cases)</td><td>10–15 min</td><td>Move strike plate toward door stop, or add strike plate shim</td></tr><tr><td>Latch won't reach strike hole</td><td>Mark latch with lipstick; close door; check mark position vs. strike opening</td><td>Strike plate misaligned vertically</td><td>15–30 min</td><td>File strike opening ⅛″ in direction of mark, or reposition plate</td></tr><tr><td>Must lift handle to latch</td><td>Open door; check gap at hinge side—wider at top than bottom?</td><td>Sagging hinges (top hinge loose)</td><td>5–20 min</td><td>Tighten or replace top-hinge screws with 3″ screws into stud</td></tr><tr><td>Must push hard to close</td><td>Door binds before latch contacts strike; rubs on frame</td><td>Swollen wood from humidity</td><td>20–45 min</td><td>Sand or plane binding edge; seal with primer after trimming</td></tr><tr><td>Latch sticks in retracted position</td><td>Operate handle with door open—latch sluggish or jammed?</td><td>Dirty or worn latch mechanism</td><td>5–10 min</td><td>Lubricate latch with dry Teflon spray; replace if bent or broken</td></tr><tr><td>Gap around door is uneven or diagonal</td><td>Measure frame corners—difference &gt;¼″ corner to corner</td><td>Frame racked from foundation settling</td><td>30–60 min+</td><td>Shim hinges to re-square door in frame, or consult contractor</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Doors Stop Latching: Common Causes
 
 Before grabbing your tools, it helps to understand what’s actually going wrong. Doors stop latching for a handful of predictable reasons, and identifying the right one will save you time and frustration.
