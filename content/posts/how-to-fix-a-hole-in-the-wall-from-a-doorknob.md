@@ -32,9 +32,9 @@ You already know exactly how it happened. The door swung open a little too hard,
 <div class="value-module">
   <div class="vm-head">Patch Method Selection by Hole Size</div>
   <div class="vm-body">
-    <p class="vm-intro">Choose your repair approach based on the actual hole diameter—using the wrong method creates visible patches or weak repairs.</p>
+    <p class="vm-intro">Choose your repair approach based on the actual hole diameter-using the wrong method creates visible patches or weak repairs.</p>
     <table><thead><tr><th>Hole Diameter</th><th>Recommended Method</th><th>Materials Needed</th><th>Skill Level</th><th>Dry/Cure Time</th></tr></thead><tbody><tr><td>Under 1 inch</td><td>Spackling only</td><td>Lightweight spackling, putty knife</td><td>Beginner</td><td>1–2 hours</td></tr><tr><td>1–3 inches (typical doorknob)</td><td>Self-adhesive mesh patch</td><td>Mesh patch, joint compound, 6-inch knife</td><td>Beginner</td><td>3–4 hours (2 coats)</td></tr><tr><td>2–4 inches</td><td>California patch (backing drywall)</td><td>Scrap drywall, joint compound, tape, knife</td><td>Intermediate</td><td>4–6 hours (2–3 coats)</td></tr><tr><td>4–6 inches</td><td>Clip-in drywall patch kit</td><td>Commercial patch kit with clips, compound</td><td>Intermediate</td><td>6–8 hours (multiple coats)</td></tr><tr><td>Over 6 inches</td><td>Full drywall replacement to studs</td><td>Drywall piece, screws, tape, compound</td><td>Advanced</td><td>24+ hours</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 

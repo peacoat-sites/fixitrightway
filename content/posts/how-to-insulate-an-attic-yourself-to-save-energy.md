@@ -26,7 +26,7 @@ author_bio: "Dana Morrison spent 20 years as a licensed general contractor befor
 
 ---
 
-My gas bill dropped $74 the first month after I insulated my attic. Not because I did anything fancy — I rented a blower machine from Home Depot for $25, bought 20 bags of Owens Corning PINK fiberglass loose-fill at around $13 a bag, and spent a Saturday crawling around in a respirator. That's it. No contractor, no permits in most jurisdictions, no special skills required. Just the willingness to be uncomfortable for a few hours.
+My gas bill dropped $74 the first month after I insulated my attic. Not because I did anything fancy, I rented a blower machine from Home Depot for $25, bought 20 bags of Owens Corning PINK fiberglass loose-fill at around $13 a bag, and spent a Saturday crawling around in a respirator. That's it. No contractor, no permits in most jurisdictions, no special skills required. Just the willingness to be uncomfortable for a few hours.
 
 If your house was built before 1990 and nobody's touched the attic insulation since, you're almost certainly losing money through your ceiling every single month. The Department of Energy estimates that heating and cooling accounts for about 46% of a typical home's energy bill, and an underinsulated attic is one of the fastest ways that money disappears. I've been in hundreds of attics over 20 years doing this work, and the most common thing I see is 3 to 4 inches of old compressed fiberglass batts doing almost nothing. What most people don't realize is that insulation loses effectiveness as it compresses over time. What was R-13 when it was installed in 1987 might be performing closer to R-7 now.
 
@@ -60,7 +60,7 @@ Go up into the attic on a cold day if you can, or use your hand to feel for warm
 
 For recessed lights, if they're the older style cans with holes in them, either replace them with LED housings rated for insulation contact (ENERGY STAR IC-rated), or build a sealed box over them from rigid foam or drywall and caulk it down to the ceiling below. Don't just cover them with insulation. Those lights will get hot and you'll create a moisture or fire issue.
 
-For everything else: a can of Great Stuff Pro or standard Great Stuff foam sealant ($7 to $10 a can) handles most penetrations. Use caulk for anything less than about a quarter inch. Use rigid foam board and canned foam or fire-rated caulk around chimneys (maintain the required clearance from the flue itself — 2 inches for a metal B-vent, no combustibles directly against a masonry chimney). The attic hatch gets weatherstripping around the frame and a rigid foam cover glued to the back of the door, at minimum R-10.
+For everything else: a can of Great Stuff Pro or standard Great Stuff foam sealant ($7 to $10 a can) handles most penetrations. Use caulk for anything less than about a quarter inch. Use rigid foam board and canned foam or fire-rated caulk around chimneys (maintain the required clearance from the flue itself, 2 inches for a metal B-vent, no combustibles directly against a masonry chimney). The attic hatch gets weatherstripping around the frame and a rigid foam cover glued to the back of the door, at minimum R-10.
 
 This step takes maybe two to three hours and costs under $60 in materials. It might be the highest-ROI two hours you spend in this entire project.
 
@@ -86,9 +86,9 @@ Total cost for a 1,200 square foot attic going from R-7 to R-38 with blown cellu
 
 Yes, actually. A few situations where I'd hire it out or at minimum get professional advice:
 
-If you have vermiculite or any suspect material in the existing insulation. If the attic has evidence of a moisture problem — staining on the roof sheathing, soft spots, any black mold. If you have spray foam already in the attic and you're not sure what type it is. If the space is genuinely inaccessible or a very tight scissor-truss situation with almost no room to work. And if you have buried knob-and-tube wiring (common in homes built before 1940), you'll want an electrician to evaluate it before you cover it with insulation, since the old wiring needs to breathe and can overheat when covered.
+If you have vermiculite or any suspect material in the existing insulation. If the attic has evidence of a moisture problem, staining on the roof sheathing, soft spots, any black mold. If you have spray foam already in the attic and you're not sure what type it is. If the space is genuinely inaccessible or a very tight scissor-truss situation with almost no room to work. And if you have buried knob-and-tube wiring (common in homes built before 1940), you'll want an electrician to evaluate it before you cover it with insulation, since the old wiring needs to breathe and can overheat when covered.
 
-Blown-in insulation is also a legitimate option for professionals to install in walls through a process called dense-pack, where they drill holes and pressure-pack cellulose in. That's not really a DIY job — it requires special equipment and technique. But attic floors? You can do this.
+Blown-in insulation is also a legitimate option for professionals to install in walls through a process called dense-pack, where they drill holes and pressure-pack cellulose in. That's not really a DIY job, it requires special equipment and technique. But attic floors? You can do this.
 
 ---
 

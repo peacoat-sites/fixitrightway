@@ -22,9 +22,9 @@ The timing matters. Framing lumber costs jumped another 5.11% in Q2 2026 alone, 
 <div class="value-module">
   <div class="vm-head">Photo Quality Checklist for Accurate Diagnosis</div>
   <div class="vm-body">
-    <p class="vm-intro">AI vision models fail predictably when photos lack key details—use this checklist before submitting to avoid misdiagnosis and wasted repair costs.</p>
+    <p class="vm-intro">AI vision models fail predictably when photos lack key details-use this checklist before submitting to avoid misdiagnosis and wasted repair costs.</p>
     <table><thead><tr><th>Requirement</th><th>Why It Matters</th><th>Minimum Threshold</th><th>Common Mistake</th></tr></thead><tbody><tr><td>Lighting</td><td>Shadows hide crack depth, stain edges, moisture patterns</td><td>Even diffused light; no harsh shadows crossing the damage</td><td>Flash creates glare that obscures surface texture</td></tr><tr><td>Distance</td><td>Too far loses detail; too close loses context</td><td>Damage fills 40–60% of frame with visible surrounding area</td><td>Zooming digitally instead of moving closer (reduces resolution)</td></tr><tr><td>Angle</td><td>Perpendicular shots show true dimensions; oblique angles distort size</td><td>Camera parallel to damaged surface, ±15°</td><td>Shooting upward at ceiling damage (foreshortens cracks)</td></tr><tr><td>Reference object</td><td>AI can't gauge scale without known-size reference</td><td>Include ruler, coin, or credit card touching or adjacent to damage</td><td>Holding reference 6+ inches away (parallax error)</td></tr><tr><td>Multiple angles</td><td>Single photo misses depth, hidden spread, structural context</td><td>Minimum 3 photos: close-up, mid-range, wide context</td><td>Submitting only the close-up, missing water trail or load path</td></tr><tr><td>Focus</td><td>Blur prevents edge detection critical for crack vs. stain distinction</td><td>Tap-to-focus on damage area; confirm sharpness before submitting</td><td>Relying on autofocus, which locks on background</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 

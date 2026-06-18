@@ -36,9 +36,9 @@ Here's the real foundation: standard residential framing spaces studs 16 inches 
 <div class="value-module">
   <div class="vm-head">Stud-Finding Methods Comparison Matrix</div>
   <div class="vm-body">
-    <p class="vm-intro">Each technique has different accuracy, speed, and best-use scenarios—here's how they actually compare in practice.</p>
+    <p class="vm-intro">Each technique has different accuracy, speed, and best-use scenarios-here's how they actually compare in practice.</p>
     <table><thead><tr><th>Method</th><th>Accuracy</th><th>Time to First Stud</th><th>Tools Needed</th><th>Best For</th><th>Limitations</th></tr></thead><tbody><tr><td>16" Measuring from Corner</td><td>85–95%</td><td>30–60 sec</td><td>Tape measure, pencil</td><td>Post-1950 standard framing; hanging multiple items in a row</td><td>Fails if framer used different starting point; 24" spacing in some homes</td></tr><tr><td>Knock/Tap Test</td><td>60–75%</td><td>15–30 sec</td><td>None (knuckle)</td><td>Quick verification; quiet environments; experienced users</td><td>Unreliable on thick drywall (⅝"), textured walls, or with insulation</td></tr><tr><td>Outlet Box Reference</td><td>90–95%</td><td>10–20 sec</td><td>None (visual check)</td><td>Fast anchor point when outlet is nearby</td><td>Some boxes are between studs; horizontal switches vary</td></tr><tr><td>Finish Nail Probe</td><td>98–100%</td><td>45–90 sec</td><td>Finish nail or small drill bit</td><td>Confirming before heavy loads; when other methods conflict</td><td>Leaves small holes; slower than estimation methods</td></tr><tr><td>Magnet/Rare Earth Magnet</td><td>80–90%</td><td>20–45 sec</td><td>Strong neodymium magnet</td><td>Finding drywall screws (newer construction); non-damaging</td><td>Misses studs if screws are sparse; won't work on nail-only installs</td></tr><tr><td>Flashlight at Outlet</td><td>70–85%</td><td>60–120 sec</td><td>Bright flashlight, outlet cover removal</td><td>Seeing stud direction inside wall cavity</td><td>Requires removing cover; limited view angle; fire-blocked cavities</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 

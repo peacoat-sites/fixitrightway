@@ -26,7 +26,7 @@ author_bio: "Steve Adams is a certified home inspector who has walked through mo
 
 ---
 
-Most people look at a hole in their drywall and think the hard part is the repair. I've watched hundreds of homeowners carefully patch, sand, and prime a wall only to end up with a ghost — a faint circular outline that shows up the moment the light hits it at the wrong angle. The hard part isn't filling the hole. The hard part is making it disappear completely. And if you don't understand why those ghosts appear (and how to prevent them from the start), you'll be repainting the same spot three times wondering what went wrong.
+Most people look at a hole in their drywall and think the hard part is the repair. I've watched hundreds of homeowners carefully patch, sand, and prime a wall only to end up with a ghost, a faint circular outline that shows up the moment the light hits it at the wrong angle. The hard part isn't filling the hole. The hard part is making it disappear completely. And if you don't understand why those ghosts appear (and how to prevent them from the start), you'll be repainting the same spot three times wondering what went wrong.
 
 ## What You're Actually Working With
 
