@@ -25,7 +25,6 @@ author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
 
 ---
-
 A sticking door is one of those problems that starts as a minor annoyance and somehow becomes the thing that breaks you. You shove it open with your shoulder every morning for six months, and then one day a houseguest uses that bathroom and you want to disappear into the floor. I've fixed hundreds of these, and the good news is that 90% of them cost nothing but an afternoon.
 
 The bad news is that most people fix the symptom and miss the cause. They sand the door, repaint it, and by the following spring it's rubbing again in the exact same spot. So before you grab sandpaper, let's figure out what's actually going on.
@@ -40,7 +39,7 @@ Before you touch the door, close it slowly and watch where it catches. Mark the 
 
 ## The Hinge Fix (Do This First, Always)
 
-Honestly, this should be the first thing anyone tries, and it solves the problem probably 40% of the time with almost zero effort.
+This should be the first thing anyone tries. It solves the problem probably 40% of the time with almost zero effort.
 
 Open the door and look at the top and middle hinge. More often than not, you'll find screws that have stripped out of the door jamb. They'll turn endlessly without biting. The hole is just wallowed out. Here's the fix that actually holds: pull the screw out, stuff the hole with wooden toothpicks and a dab of wood glue (or a golf tee cut to length for bigger holes), let it dry for an hour, then drive the screw back in. I've been doing this for 20 years and it holds indefinitely. The wood gives the screw something real to grip.
 
@@ -54,15 +53,15 @@ If the hinges check out, you're dealing with wood movement. The question is how 
 
 Light rubbing, where the door just barely drags or takes a little push to close, can sometimes be fixed without removing the door at all. Try rubbing a candle, a bar of soap, or a stick of paraffin wax along the sticking edge. This isn't a permanent fix, but it buys you time and confirms the problem is friction, not serious swelling. In dry climates or for a door that only rubs occasionally, this can genuinely be enough.
 
-For actual removal and planing, you need to know which edge to take material from. If the door sticks at the top corner of the latch side, the top hinge is usually pulling. If it drags along the entire bottom, the door has grown and you need to remove material from the bottom. Sticking at the latch edge near the middle usually means either hinge or wood swelling along that stile.
+For actual removal and planing, you need to know which edge to take material from. If the door sticks at the top corner of the latch side, the top hinge is usually pulling. Dragging along the entire bottom means the door has grown and you need to remove material from the bottom. Sticking at the latch edge near the middle usually means either hinge or wood swelling along that stile.
 
 Removing the door is easier than most people expect. Tap the hinge pins up from below with a screwdriver and hammer, pull the door free, and lean it against a wall. A standard interior door weighs between 25 and 50 lbs, so you can do this alone. Heavier solid-core doors (common in newer construction) are closer to 80 lbs. Get help for those.
 
-For light planing, a hand plane is the right tool, and a Stanley No. 4 or No. 5 runs about $40 used on eBay and is worth having. Work with the grain on the long edges, and take thin passes. You want to remove maybe 1/16 inch, test-fit, remove more if needed. Do not go aggressive with an orbital sander on a door edge unless you enjoy sanding forever and still ending up with a slightly wavy edge.
+For light planing, a hand plane is the right tool. A Stanley No. 4 or No. 5 runs about $40 used on eBay and is worth having. Work with the grain on the long edges, and take thin passes. You want to remove maybe 1/16 inch, test-fit, remove more if needed. Do not go aggressive with an orbital sander on a door edge unless you enjoy sanding forever and still ending up with a slightly wavy edge.
 
 If it's the bottom of the door that's rubbing and you don't want to remove the door, a sharp hand plane or a door-bottom planer bit in a circular saw (Bosch makes a decent adjustable one for about $30) can work with the door in place. This is fiddly. I've done it, and I still usually just take the door down.
 
-One thing that trips people up: if you plane a door edge, you need to repaint or seal that edge before rehanging. Raw wood on a door edge is how moisture gets in and causes the swelling to repeat. Use whatever paint or primer is already on the door, or hit it with a coat of Zinsser BIN if you want something that seals fast. This step takes ten minutes and skips the whole problem next summer.
+Here's the part people skip: if you plane a door edge, you need to repaint or seal that edge before rehanging. Raw wood on a door edge is how moisture gets in and causes the swelling to repeat. Use whatever paint or primer is already on the door, or hit it with a coat of Zinsser BIN if you want something that seals fast. This step takes ten minutes and prevents the whole problem next summer.
 
 ## Diagnosing and Dealing With Frame Problems
 
@@ -78,16 +77,9 @@ Paint buildup is a genuine and underdiagnosed cause of sticking doors, especiall
 
 If you see paint buildup, the right call is to strip the edge back to bare wood with a heat gun or chemical stripper, then reprime and repaint. Just sanding over existing paint makes a mess and rarely gets you back to square. Citristrip gel (about $12 a quart) is low-odor enough to use indoors with windows open, which matters for an interior door you can't easily move outside.
 
----
-
-
----
-
 The fix that works is almost always the simplest one: tight hinges, a little planing, a coat of paint on the exposed edge. I've seen homeowners spend $400 on a new door when $6 in toothpicks and wood glue would have solved the problem. Take twenty minutes to actually diagnose it before you do anything else. That's the whole trick.
 
 *Photo: [Curtis Adams](https://www.pexels.com/@curtis-adams-1694007) via Pexels*
-
----
 
 ---
 
@@ -97,4 +89,3 @@ The fix that works is almost always the simplest one: tight hinges, a little pla
 
 - **[PetArmor Plus Flea & Tick Prevention, Small Dogs (6 doses)](https://www.amazon.com/dp/B01N0BZUXO/?tag=contentportfo-20)** (~$32), Same active ingredient as Frontline Plus at a lower price, waterproof topical flea and tick prevention.
 - **[PetArmor Plus Flea & Tick Prevention, Medium Dogs (6 doses)](https://www.amazon.com/dp/B01N03Q8Q1/?tag=contentportfo-20)** (~$32), Vet-quality flea and tick prevention for dogs 23–44 lbs at a fraction of the prescription price, 6-month supply.
-

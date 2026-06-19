@@ -25,14 +25,13 @@ author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
 
 ---
-
 You already know exactly how it happened. The door swung open a little too hard, maybe the wind caught it, maybe someone wasn't paying attention, and now there's a doorknob-shaped hole punched through your drywall. It's one of the most common wall repairs I get called about, and it's also one of the most unnecessary service calls. This is a repair almost any homeowner can do themselves for under $30 and a Saturday morning. Let me walk you through it the right way so you don't end up with a lumpy, visible patch that bugs you every time you walk past it.
 
 
 <div class="value-module">
   <div class="vm-head">Patch Method Selection by Hole Size</div>
   <div class="vm-body">
-    <p class="vm-intro">Choose your repair approach based on the actual hole diameter-using the wrong method creates visible patches or weak repairs.</p>
+    <p class="vm-intro">Choose your repair approach based on the actual hole diameter, using the wrong method creates visible patches or weak repairs.</p>
     <table><thead><tr><th>Hole Diameter</th><th>Recommended Method</th><th>Materials Needed</th><th>Skill Level</th><th>Dry/Cure Time</th></tr></thead><tbody><tr><td>Under 1 inch</td><td>Spackling only</td><td>Lightweight spackling, putty knife</td><td>Beginner</td><td>1–2 hours</td></tr><tr><td>1–3 inches (typical doorknob)</td><td>Self-adhesive mesh patch</td><td>Mesh patch, joint compound, 6-inch knife</td><td>Beginner</td><td>3–4 hours (2 coats)</td></tr><tr><td>2–4 inches</td><td>California patch (backing drywall)</td><td>Scrap drywall, joint compound, tape, knife</td><td>Intermediate</td><td>4–6 hours (2–3 coats)</td></tr><tr><td>4–6 inches</td><td>Clip-in drywall patch kit</td><td>Commercial patch kit with clips, compound</td><td>Intermediate</td><td>6–8 hours (multiple coats)</td></tr><tr><td>Over 6 inches</td><td>Full drywall replacement to studs</td><td>Drywall piece, screws, tape, compound</td><td>Advanced</td><td>24+ hours</td></tr></tbody></table>
     <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
@@ -46,7 +45,7 @@ Before you buy anything, assess the damage honestly.
 
 A doorknob hole is typically 2 to 3 inches in diameter. That size puts it in a middle category for drywall repair: too big for a simple spackling dab, but not big enough to require cutting back to studs. You'll use a self-adhesive mesh patch or a California patch (more on that shortly), and the job is completely DIY-friendly.
 
-If the hole is larger than about 6 inches, or if you notice the surrounding drywall is soft, crumbly, or shows signs of water damage, that changes things. Soft drywall around an impact hole means there was pre-existing moisture damage. Don't just patch over it. Figure out why the drywall was already compromised before you seal it up.
+If the hole is larger than about 6 inches, or if the surrounding drywall feels soft, crumbly, or shows signs of water damage, that changes the equation. Soft drywall around an impact hole means there was pre-existing moisture damage. Don't just patch over it. Figure out why the drywall was already compromised before you seal it up.
 
 Also check: is there a wall anchor or door stop missing? If the door swings freely and keeps hitting the wall, your patch will last about two weeks before history repeats itself. Install a door stop (floor mount or hinge pin style) before or right after the repair. They cost $5 at any hardware store. I've seen people patch the same hole three times without ever fixing the cause.
 
@@ -68,7 +67,7 @@ A California patch (also called a drywall clip method or self-backing patch) use
 - Primer (specifically a drywall primer, not just paint)
 - Matching wall paint
 
-Skip the "fill and paint in one step" patch products. They look convenient but they don't give you good feathering control, and you'll still see the patch through the paint.
+Skip the "fill and paint in one step" patch products. They look convenient but don't give you good feathering control, and you'll still see the patch through the paint.
 
 ## Step-by-Step: How to Actually Fix the Hole
 
@@ -76,7 +75,7 @@ I'll walk you through both methods so you can pick the one that fits your tools 
 
 ### Method 1: Self-Adhesive Mesh Patch (Faster, Good for Beginners)
 
-**Step 1: Clean the edges.** Remove any loose paper or crumbled drywall around the hole. You want a reasonably clean edge. A utility knife works well for trimming away frayed paper.
+**Step 1: Clean the edges.** Remove any loose paper or crumbled drywall around the hole. A utility knife works well for trimming away frayed paper. You want a reasonably clean edge.
 
 **Step 2: Apply the patch.** Peel and stick the mesh patch centered over the hole. Press it down firmly. The mesh should overlap the hole by at least an inch on all sides.
 
@@ -126,9 +125,4 @@ Call a pro if:
 
 Plaster walls, which are common in homes built before 1950, have a completely different repair process involving bonding agents and plaster compound. A doorknob hole in plaster should be assessed differently than drywall.
 
----
-
-
----
-
-The whole job, done right, takes about two days if you count drying time, though your actual hands-on time is maybe 90 minutes. The patch blends in, you paint it, you install the door stop, and you move on. I've been doing this for 20 years and I still find drywall repair quietly satisfying because the results are so clean when you follow the steps. Take your time on the coats, don't skip the primer, and your wall will look like nothing ever happened.
+The whole job, done right, takes about two days if you count drying time. Your actual hands-on time is maybe 90 minutes. The patch blends in, you paint it, you install the door stop, and you're done. Take your time on the coats, don't skip the primer, and your wall will look like nothing ever happened.

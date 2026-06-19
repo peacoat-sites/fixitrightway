@@ -25,7 +25,6 @@ author_title: "Plumbing Writer"
 author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
 
 ---
-
 Most electrical guides open with three paragraphs about turning off the breaker. You already know to turn off the breaker. Let's skip to the parts that actually trip people up.
 
 Replacing a ceiling light fixture is one of the better DIY wins out there: low materials cost, no permits required in most jurisdictions for a straight swap, and the whole job takes under an hour once you've done it once. The first time, budget 90 minutes. The intimidation factor is mostly theater.
@@ -34,7 +33,7 @@ Replacing a ceiling light fixture is one of the better DIY wins out there: low m
 
 Before you buy anything, pull down your old fixture and look at the junction box. This is the single most important step most tutorials rush past.
 
-You've got two variables: box type and box rating. The box type tells you how to mount the new fixture. The rating tells you what weight it can hold. A standard plastic or metal box nailed to a joist can handle up to 50 lbs. A box that's just wedged between drywall with no joist support, what electricians call a "fan-rated brace bar" setup, can still hold a fixture but needs to be verified before you hang anything over 35 lbs. If you're replacing a basic flush-mount with another basic flush-mount, you're almost certainly fine. If you're stepping up to a heavy chandelier, check the box rating stamped on the side, or replace the box with a properly rated one first.
+You've got two variables: box type and box rating. The box type tells you how to mount the new fixture. The rating tells you what weight it can hold. A standard plastic or metal box nailed to a joist can handle up to 50 lbs. A box that's just wedged between drywall with no joist support (what electricians call a "fan-rated brace bar" setup) can still hold a fixture but needs to be verified before you hang anything over 35 lbs. If you're replacing a basic flush-mount with another basic flush-mount, you're almost certainly fine. If you're stepping up to a heavy chandelier, check the box rating stamped on the side, or replace the box with a properly rated one first.
 
 Also look at the wire count. Most fixtures have three wires: black (hot), white (neutral), and bare copper or green (ground). Some older homes, especially pre-1960s, only have two wires and no ground. That's a known quantity, not a crisis. Many fixtures install fine without a grounding wire, and the NEC allows it in existing installations. Just don't lie to yourself about what's there.
 
@@ -52,7 +51,7 @@ One thing I'd add to every light swap: grab a can of electrical contact cleaner 
 
 **2. Remove the old fixture.** Usually two screws holding the canopy (the decorative cover) to the mounting bracket, then the bracket comes off the box. Take photos of the wire connections before you disconnect them. Takes three seconds and prevents the "wait, which wire went where?" problem later.
 
-**3. Assess the mounting hardware.** New fixtures come with their own mounting bracket. Compare it to what's on your box. Most modern boxes use a standard 3-1/2 inch or 4 inch pattern. If the new bracket doesn't fit, the fix is usually just swapping to the correct crossbar bracket, which costs about $6 at any hardware store.
+**3. Assess the mounting hardware.** New fixtures come with their own mounting bracket. Compare it to what's on your box. Most modern boxes use a standard 3-1/2 inch or 4 inch pattern. If the new bracket doesn't fit, you can usually just swap in the correct crossbar bracket, which costs about $6 at any hardware store.
 
 **4. Connect the wires.** Black to black, white to white, ground to ground (or to the green screw on the bracket). Twist the wire nut clockwise until it's snug, then give each wire a firm tug. If it pulls out, the connection was bad. Redo it. This is the one step worth slowing down on.
 
@@ -84,9 +83,6 @@ The fixture itself is where cost varies wildly, from $25 Home Depot flush-mounts
 
 The tools and hardware to do it right: under $50 total if you don't own a voltage tester. The voltage tester alone is worth buying even if you only ever do this one job.
 
-Where not to cut corners: the mounting hardware and wire connections. A $12 brace bar is not the place to save money when your $200 fixture is hanging over your dining room table.
-
----
-
+Where not to cut corners: the mounting hardware and wire connections. A $12 brace bar isn't the place to save money when your $200 fixture is hanging over your dining room table.
 
 *Photo: [Thirdman](https://www.pexels.com/@thirdman) via Pexels*

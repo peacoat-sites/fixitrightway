@@ -20,108 +20,132 @@ author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
 
 ---
-
-Your walls are covered in dated, peeling, or just plain ugly wallpaper,  and you’re ready for a fresh look without the nightmare of a full removal project. The good news is that learning **how to paint over wallpaper** is entirely possible, and with the right preparation, you can achieve beautiful, long-lasting results. This guide walks you through every step so you can tackle this project with confidence.
+Your walls are buried under wallpaper that's either ancient, peeling, or just ugly. The nightmare of ripping it all off sounds like a two-week project. Good news: you can paint right over it. Better news: it actually works, if you don't skip the prep.
 
 ## Can You Really Paint Over Wallpaper?
 
-Yes, you absolutely can paint over wallpaper,  but it’s not as simple as just rolling on a coat of paint. Without proper prep, you risk bubbling, peeling seams, and a finish that looks worse than what you started with.
+Yes. But not by just rolling paint on top and calling it done.
 
-That said, painting over wallpaper is sometimes the smarter choice. If the wallpaper is very old, multiple layers thick, or bonded tightly to drywall, removal can cause serious wall damage. In those cases, painting over it is a perfectly legitimate solution.
+Skip the prep work and you'll get bubbling, seams that separate, and a finish that somehow looks worse than what you started with. That's the trap most people fall into.
 
-## Tools and Materials You’ll Need
+Here's the contrarian part: sometimes painting over wallpaper is actually the smarter move. Old wallpaper that's been there 20 years, multiple layers thick, bonded like concrete to the drywall? Removal tears the drywall itself. You end up needing repairs that cost more than a good primer and paint. In those situations, painting over it isn't lazy, it's practical.
 
-Getting organized before you start will save you trips to the hardware store and keep the project moving smoothly. Here’s everything you’ll want to have on hand:
+## Tools and Materials You'll Need
 
-  * Oil-based primer (shellac or alkyd-based recommended)
-  * Interior latex paint in your chosen color
-  * Seam repair adhesive or wallpaper glue
-  * Putty knife or wallpaper scraper
-  * Spackling compound or joint compound
-  * Sandpaper (120-grit and 220-grit)
-  * Paint rollers (3/8-inch nap for smooth walls)
-  * Angled paintbrush (2.5-inch)
-  * Painter’s tape
-  * Drop cloths
-  * Sponge and bucket of water
-  * TSP cleaner (trisodium phosphate) or a mild degreaser
+Get this stuff before you start, or you'll be making three trips to Home Depot:
 
-Most of these items are available at any home improvement store. Investing in quality primer is the single most important purchase you’ll make for this project.
+* Oil-based primer (shellac or alkyd-based)
+* Interior latex paint in whatever color you want
+* Seam repair adhesive or wallpaper glue
+* Putty knife or wallpaper scraper
+* Spackling compound or joint compound
+* Sandpaper (120-grit and 220-grit)
+* Paint rollers (3/8-inch nap for smooth walls)
+* Angled paintbrush (2.5-inch)
+* Painter's tape
+* Drop cloths
+* Sponge and bucket
+* TSP cleaner or mild degreaser
 
-**⚠️ Safety:** If your home was built before 1978, wallpaper and the adhesive beneath it may contain lead. Do not sand or scrape aggressively without first testing for lead using an inexpensive lead test kit from the hardware store. If lead is present, consult a professional before proceeding.
+The oil-based primer is non-negotiable. That's where your money matters most.
+
+**⚠️ Safety:** Houses built before 1978 may have lead in the wallpaper and adhesive. Grab a lead test kit from the hardware store (around $10) and test first. If it's positive, don't sand or scrape. Call a professional.
 
 ## Step 1: Assess the Condition of Your Wallpaper
 
-Before you open a single can of paint, spend time carefully inspecting every inch of your wallpaper. Look for bubbles, loose seams, tears, peeling edges, and areas where the paper has already separated from the wall.
+Inspect every inch. Look for bubbles, loose seams, tears, peeling edges, spots where it's already separating.
 
-Press firmly along the seams and in the corners. If large sections lift away easily, it may actually be worth attempting removal,  or at minimum, you’ll need to re-adhere those areas before painting. The goal is to start with the flattest, most secure surface possible.
+Press hard along the seams and corners. If whole sections peel away with light pressure, you've got a problem. You'll need to re-glue those before you paint, or remove them entirely. The flatter and more secure your surface, the better your final result.
 
-Also check for any moisture damage or mold. Painting over mold is never acceptable,  that must be remediated first by a professional if the affected area is larger than a small spot.
+Check for moisture damage or mold too. Never paint over mold. If there's more than a small spot, a professional needs to handle it first.
 
 ## Step 2: Repair Seams, Tears, and Loose Edges
 
-This is arguably the most time-consuming part of the process, but it’s also the most important. Skipping repairs will result in highly visible seams and bubbles that no amount of paint can hide.
+This takes the longest. Skip it and your seams will be visible through the paint. Not worth it.
 
-Here’s how to address the most common issues:
+Here's the rundown:
 
-  * **Loose seams:** Apply wallpaper seam adhesive with a small brush, press the seam flat, and wipe away excess with a damp sponge. Allow to dry fully.
-  * **Bubbles:** Slice a small X through the bubble with a utility knife, apply adhesive underneath, press flat, and smooth out any excess glue.
-  * **Torn or missing sections:** Fill small areas with spackling compound, let it dry, then sand smooth with 120-grit followed by 220-grit sandpaper.
-  * **Raised seam ridges:** Lightly sand with 120-grit sandpaper to flatten, then feather edges with joint compound if needed.
+* **Loose seams:** Apply wallpaper seam adhesive with a brush, press the seam flat, wipe excess with a damp sponge, let it dry completely.
+* **Bubbles:** Cut a small X into the bubble with a utility knife, work adhesive underneath, press flat, smooth out the glue.
+* **Torn or missing sections:** Fill with spackling compound, let it dry, sand with 120-grit first, then 220-grit.
+* **Raised seam ridges:** Light sand with 120-grit to flatten. Use joint compound to feather the edges if needed.
 
-Once all repairs are dry, run your hand across the entire wall to feel for any remaining irregularities. What you can feel now, you will definitely see after painting.
+Once everything's dry, run your hand over the whole wall. If you can feel it now, you'll see it after painting.
 
-**Pro Tip:** After sanding any repaired areas, wipe the wall with a lightly damp cloth to remove all dust before priming. Dust particles trapped under primer will create a rough, unprofessional finish that’s difficult to correct later.
+**Pro Tip:** After sanding repairs, wipe the wall with a barely damp cloth to get all the dust off. Dust under primer creates a rough, bumpy finish that's a pain to fix later.
 
 ## Step 3: Clean the Walls Thoroughly
 
-Wallpaper surfaces can accumulate years of grease, cooking residue, dust, and grime,  especially in kitchens and hallways. Paint will not adhere properly to a dirty surface, no matter how good your primer is.
+Wallpaper collects grease, cooking residue, dust, and years of grime. Paint won't stick to dirty walls, period.
 
-Mix a solution of TSP cleaner with warm water according to package directions. Using a sponge, wash the entire wall surface from top to bottom. Rinse with clean water and allow the walls to dry completely,  ideally for 24 hours,  before moving on.
+Mix TSP cleaner with warm water (follow the package). Wash the entire wall from top to bottom with a sponge. Rinse with clean water and let it dry completely, 24 hours if possible, before priming.
 
-In areas without heavy grime, a mild all-purpose cleaner works well. The key is ensuring the surface is clean, dry, and free of any soap residue before priming.
+For lighter grime, all-purpose cleaner works fine. Just make sure it's clean, dry, and soap-free before you prime.
 
 ## Step 4: Apply Oil-Based Primer
 
-This step is where most DIYers make a critical mistake,  using water-based primer directly on wallpaper. Water-based products can cause the wallpaper to absorb moisture, which leads to bubbling, lifting, and seam separation right before your eyes.
+Most people mess this up here. They use water-based primer on wallpaper.
 
-Always use an oil-based primer (shellac or alkyd) when painting over wallpaper. Oil-based primer will:
+Don't do that. Water makes wallpaper absorb moisture. You'll watch it bubble and lift and separate at the seams in real time.
 
-  * Seal the wallpaper without causing it to bubble
-  * Block stains and prevent them from bleeding through
-  * Create a strong bonding surface for your topcoat
-  * Hide seams and texture differences more effectively
+Oil-based primer (shellac or alkyd) does what water-based can't:
 
-Apply the primer with a roller using slow, even strokes. Cut in along the edges, ceiling, and baseboards with your angled brush first. Allow the primer to dry completely,  check the manufacturer’s drying time, but plan for at least 4 to 6 hours, or overnight if possible.
+* Seals the wallpaper without causing bubbles
+* Blocks stains from bleeding through
+* Bonds better for your topcoat
+* Hides seams and texture better than anything else
 
-Once dry, inspect the primed surface in raking light (light coming from the side). This will reveal any remaining imperfections. Sand lightly and touch up with primer if needed before painting.
+Roll it on slow and even. Cut in the edges, ceiling, and baseboards first with your brush. Let it dry fully, 4 to 6 hours minimum, or overnight. Check the can for the exact time.
+
+Once it's dry, look at it under raking light (light from the side). You'll spot imperfections you missed before. Sand lightly, touch up with primer if needed.
 
 ## Step 5: Apply Your Topcoat of Paint
 
-With a well-prepared, primed surface, the actual painting is the most enjoyable part of the project. Choose a high-quality interior latex paint in a satin or eggshell finish,  these sheens are durable, easy to clean, and offer just enough light reflection to look attractive on walls.
+Now the fun part. Pick a high-quality interior latex in satin or eggshell finish. These sheens clean easily, hold up well, and look good on walls without being too shiny.
 
-Follow this process for best results:
+Do it like this:
 
-  * Stir your paint thoroughly before starting
-  * Cut in all edges with your angled brush before rolling
-  * Use a 3/8-inch nap roller for smooth, even coverage
-  * Apply paint in a “W” or “M” pattern and then fill in without lifting the roller
-  * Allow the first coat to dry fully (typically 2-4 hours) before applying a second coat
-  * Two coats are almost always necessary for full, even coverage
+* Stir the paint thoroughly
+* Cut in all the edges with your brush first
+* Use a 3/8-inch nap roller for smooth coverage
+* Paint in a W or M pattern, then fill in without lifting the roller
+* Let the first coat dry fully (usually 2-4 hours)
+* Apply the second coat
 
-Don’t rush between coats. Applying a second coat over paint that hasn’t fully dried is a common cause of streaks, roller marks, and uneven color.
+Almost every wall needs two coats. Wait until the first is completely dry or you'll get streaks and roller marks.
 
 ## Finishing Touches and Cleanup
 
-Once your final coat is dry, carefully remove the painter’s tape at a 45-degree angle to avoid peeling any paint. Touch up any spots where the tape may have pulled, using a small artist’s brush.
+Peel the painter's tape at a 45-degree angle so it doesn't pull the paint. Touch up any spots with a small brush.
 
-Clean your brushes and rollers thoroughly. If you used oil-based primer, you’ll need mineral spirits to clean those tools,  latex paint tools clean up easily with soap and water.
+Clean your tools. Oil-based primer needs mineral spirits. Latex paint cleans up with soap and water.
 
-Step back and admire your work. With proper preparation, a painted-over wallpaper wall can look nearly indistinguishable from a freshly plastered surface.
+Step back. A properly painted-over wallpaper wall looks almost like fresh drywall.
 
+## You've Got This!
 
-## You’ve Got This!
+This project feels big before you start. But thousands of homeowners do it every year. Patience, decent materials, proper prep, that's really all it takes.
 
-Tackling a project like this might feel intimidating at first, but thousands of homeowners successfully paint over wallpaper every year. With patience, the right materials, and proper preparation, you can completely transform a room without the stress of full wallpaper removal.
+Work through it one step at a time. Don't skip the boring prep stuff. Let things dry when they need to dry. The payoff is a completely transformed room that you did yourself.
 
-Take it one step at a time, don’t skip the prep work, and give each stage the drying time it needs. The results,  a bright, refreshed room that you created yourself,  are absolutely worth the effort. Happy painting!
+### Frequently Asked Questions
+
+**What type of primer works best for painting over wallpaper?**
+Oil-based primer (shellac or alkyd) is essential. Water-based primer absorbs into the wallpaper and causes bubbling. Oil-based seals the surface properly without activating moisture issues. It's the single most important product for this project.
+
+**How long does it take to paint over wallpaper?**
+The actual painting takes a day or two, but the whole project spreads across a week or more. Repairs dry overnight, primer needs 4-6 hours, paint needs 2-4 hours between coats, and you want at least 24 hours for walls to fully cure before heavy use. Rushing it shows in the final result.
+
+**Will painted wallpaper eventually peel?**
+If prep is thorough and seams are properly secured before priming, painted wallpaper lasts years without peeling. The risk comes from skipped repair work or using the wrong primer. Poor adhesion shows up within weeks, not months.
+
+**Can I paint over textured or floral wallpaper?**
+Yes, but texture and bold patterns take more primer coats. Plan for three coats of primer if the wallpaper is heavily textured. Bold florals need primer coverage to fully block the pattern from showing through.
+
+**Do I need to remove wallpaper if it's peeling?**
+Not if you're going to paint. Just re-glue the loose sections with seam adhesive, let them dry, and then prime and paint. Removal makes sense only if large areas won't stay adhered, which is rare with proper seam work.
+
+**What's the cost difference between removing and painting over wallpaper?**
+Removal runs $1-3 per square foot for DIY, or $300-800 per room professionally. Painting over costs maybe $50-150 in materials for an average bedroom. Unless removal is actually necessary, painting saves real money.
+
+*Photo: Shutterstock*

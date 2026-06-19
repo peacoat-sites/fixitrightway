@@ -24,75 +24,71 @@ faqs:
   - q: "How long should I wait before painting over primer?"
     a: "Check the specific product label, but most latex primers are ready for topcoat in one to two hours under normal conditions (70 degrees, moderate humidity). Shellac-based primers like BIN can be recoated in 45 minutes. What I'd actually recommend: don't rush it. Give it the full dry time, lightly sand with 220-grit to knock down any raised grain, dust it off, and then paint. That last light sand makes a real difference in how smooth the final coat looks."
 ---
-
 Peeling paint is one of those problems that starts small enough to ignore and then, somehow, you're standing in your living room staring at a dinner-plate-sized chunk of wall that looks like a sunburned shoulder. I've seen it happen in houses that were painted six months ago. I've also seen walls that haven't been touched in thirty years holding up just fine. The difference almost always comes down to prep and moisture, not paint brand.
 
-Before you grab a scraper and a can of whatever's on sale at Home Depot, it's worth spending five minutes understanding *why* it's happening. Fix the wrong thing and you'll be doing this again in a year.
+Before you grab a scraper and a can of whatever's on sale at Home Depot, spend five minutes understanding *why* it's happening. Fix the wrong thing and you'll be doing this again in a year.
 
 ## Why Paint Peels (and Why the Reason Matters)
 
 Most peeling paint on interior walls traces back to one of three causes: moisture, adhesion failure, or incompatible paint layers. They look similar on the wall. The fix is very different.
 
-**Moisture** is the most common culprit and the one people most often misdiagnose. If you're seeing peeling near a window, in a bathroom, on an exterior wall, or in a basement, moisture is almost certainly involved. That could mean a slow leak, condensation from temperature differences, or inadequate ventilation. Paint won't stick to a damp substrate, and if you repaint without addressing the moisture source, you'll be right back here. Check for soft drywall, staining, or a musty smell before you do anything else.
+**Moisture** is the most common culprit and the one people most often misdiagnose. Peeling near a window, in a bathroom, on an exterior wall, or in a basement almost certainly means moisture is involved. That could be a slow leak, condensation from temperature differences, or inadequate ventilation. Paint won't stick to a damp substrate, and if you repaint without addressing the source, you'll be right back here. Check for soft drywall, staining, or a musty smell before doing anything else.
 
-**Adhesion failure** is what happens when new paint is applied over a surface that wasn't properly cleaned or primed. Grease in a kitchen, soap scum residue in a bathroom, or a glossy old paint job that nobody scuffed before rolling on the new coat. The paint technically went on fine. It just never bonded. This kind mostly peels in sheets, sometimes pulling off cleanly in large pieces, which is actually a helpful diagnostic clue.
+**Adhesion failure** happens when new paint goes over a surface that wasn't properly cleaned or primed. Grease in a kitchen, soap scum in a bathroom, or a glossy old paint job nobody scuffed before rolling on the new coat. The paint technically went on fine. It just never bonded. This kind mostly peels in sheets, sometimes pulling off cleanly in large pieces, which is actually a helpful diagnostic clue.
 
-**Incompatible layers** show up most often in older homes. Oil-based paint under latex is the classic example. Latex is flexible; oil is not. As the wall expands and contracts with temperature and humidity, the latex wants to move and the oil beneath it doesn't. Eventually, something's gotta give. If you're in a house built before the mid-1980s and the peeling seems to happen throughout the home with no obvious moisture connection, this is probably your issue.
+**Incompatible layers** show up most often in older homes. Oil-based paint under latex is the classic example. Latex is flexible; oil is not. As the wall expands and contracts with temperature and humidity, the latex wants to move and the oil beneath it doesn't. Eventually something's gotta give. If you're in a house built before the mid-1980s and the peeling happens throughout with no obvious moisture connection, this is probably your issue.
 
-Knowing which one you're dealing with changes everything about how you approach the repair.
+Knowing which one you're dealing with changes everything.
 
 ## What You Actually Need Before You Start
 
-Here's where most DIYers underinvest. They buy paint and a putty knife and show up unprepared for the real job.
+Most DIYers underinvest here. They buy paint and a putty knife and show up unprepared for the real job.
 
-For a solid repair, you'll want: a 3-inch or 4-inch flexible putty knife (the flexible part matters, a stiff one will gouge your drywall), 120-grit and 220-grit sandpaper or a sanding sponge, a good primer (more on this in a second), joint compound for skim coating over texture or divots, a paint tray, and a quality brush for cutting in. If you're dealing with a large area, a 9-inch roller and a couple of sleeves.
+For a solid repair you'll need: a 3-inch or 4-inch flexible putty knife (the flexible part matters, a stiff one will gouge your drywall), 120-grit and 220-grit sandpaper or a sanding sponge, good primer, joint compound for skim coating over texture or divots, a paint tray, and a quality brush for cutting in. Large areas need a 9-inch roller and a couple of sleeves.
 
-On primer: don't skip it, and don't use the cheap stuff. I've used Zinsser BIN shellac-based primer on problem areas for years. It bonds to almost anything including glossy surfaces and light water stains and it costs around $25 to $30 for a quart at most hardware stores. If moisture is part of your problem, Zinsser Bulls Eye 1-2-3 is a solid latex-based option that resists mildew and still gives you good adhesion. For oil-over-oil or any situation where you're not sure what's underneath, the shellac-based version is the safer choice.
+On primer: don't skip it, and don't use the cheap stuff. I've used Zinsser BIN shellac-based primer on problem areas for years. It bonds to almost anything, including glossy surfaces and light water stains, and costs around $25 to $30 for a quart at most hardware stores. If moisture is part of your problem, Zinsser Bulls Eye 1-2-3 is a solid latex-based option that resists mildew and still gives good adhesion. For oil-over-oil or any situation where you're not sure what's underneath, the shellac-based version is safer.
 
-Budget-wise: a typical 10-by-12-foot room repair, assuming you're not dealing with major moisture damage, will run you $80 to $150 in materials. That includes primer, joint compound, sandpaper, and a gallon of paint. The time investment is two days minimum, mostly waiting for things to dry.
+Budget-wise: a typical 10-by-12-foot room repair, assuming no major moisture damage, will run $80 to $150 in materials. That includes primer, joint compound, sandpaper, and a gallon of paint. Time investment is two days minimum, mostly waiting for things to dry.
 
 ## The Repair Process, Step by Step
 
-This is where the work actually lives.
+This is where the work actually happens.
 
-**Step 1: Remove all the loose paint.** Don't just scrape what's obviously peeling. Use your putty knife to test the edges and go until you hit something that's genuinely stuck. If you only scrape the obvious stuff, you'll repaint over a section that's just waiting to let go. Be aggressive here. The more you remove now, the better your repair will hold.
+**Step 1: Remove all the loose paint.** Don't just scrape what's obviously peeling. Use your putty knife to test the edges and go until you hit something genuinely stuck. If you only scrape the obvious stuff, you're repainting over a section that's waiting to let go. Be aggressive here. The more you remove now, the better your repair holds.
 
-For larger or more stubborn areas, a heat gun (I use the Wagner HT1000, around $30) softens the paint and makes removal much easier without the muscle required for dry scraping. Keep it moving so you don't scorch the drywall.
+For larger or stubborn areas, a heat gun like the Wagner HT1000 ($30) softens the paint and makes removal easier without the muscle required for dry scraping. Keep it moving so you don't scorch the drywall.
 
-**Step 2: Repair the surface.** Once you've scraped, you'll probably have a ragged edge where the peeling paint meets the still-adhered paint. That edge needs to be feathered out. Sand it down with 120-grit until the transition is smooth. Then fill any divots, gouges, or low spots with lightweight joint compound. I prefer Sheetrock Plus 3 Lightweight (about $12 for a small tub) because it dries faster and sands easier than standard compound. Apply it thin, let it dry fully, sand with 220-grit, and repeat if needed. You're not trying to build up a thick layer. You're trying to make the wall flat.
+**Step 2: Repair the surface.** Once you've scraped, you'll probably have a ragged edge where the peeling paint meets what's still adhered. Sand it down with 120-grit until the transition is smooth. Then fill any divots, gouges, or low spots with lightweight joint compound. Sheetrock Plus 3 Lightweight ($12 for a small tub) dries faster and sands easier than standard compound. Apply it thin, let it dry fully, sand with 220-grit, and repeat if needed. You're not building up a thick layer. You're making the wall flat.
 
-If you have a textured wall, matching the texture after patching is the genuinely hard part. Orange peel is doable with a can of spray texture like Homax Orange Peel (around $8 to $10). Knockdown is trickier and usually requires practice. Honestly, if you've never done it before, test on a piece of cardboard first. Don't practice on the wall.
+Matching texture after patching is the genuinely hard part. Orange peel works fine with a can of spray texture like Homax Orange Peel ($8 to $10). Knockdown is trickier and usually requires practice. If you've never done it before, test on cardboard first. Don't practice on the wall.
 
-**Step 3: Clean before you prime.** This step gets skipped constantly. Wipe the entire repaired area with a slightly damp cloth to remove all the dust. In kitchens or anywhere near cooking surfaces, use a degreaser like TSP substitute first, rinse, and let it dry completely. You'd be shocked how many adhesion failures I've traced back to a dusty surface that someone primed over without thinking.
+**Step 3: Clean before you prime.** This step gets skipped constantly. Wipe the entire repaired area with a slightly damp cloth to remove all dust. In kitchens or near cooking surfaces, use a degreaser like TSP substitute first, rinse, and let it dry completely. You'd be shocked how many adhesion failures come from dust that somebody primed over without thinking.
 
-**Step 4: Prime.** Roll or brush on your primer over the repaired area, and extend it a few inches beyond the repair zone into the surrounding painted surface. This feathers the edge and prevents flashing (that visible dull spot you sometimes see where a patch was made). Let the primer dry according to the label. Shellac-based primers like BIN are usually dry to touch in 45 minutes, but I'd give it an hour before painting.
+**Step 4: Prime.** Roll or brush primer over the repaired area, extending it a few inches beyond the repair into the surrounding painted surface. This feathers the edge and prevents flashing (that visible dull spot where a patch was made). Let primer dry according to the label. Shellac-based primers like BIN are usually dry to touch in 45 minutes, but give it an hour before painting.
 
-**Step 5: Paint.** Use a quality finish coat. This is not where to save money. A flat or eggshell finish in a living area, satin or semi-gloss in a bathroom or kitchen where you need washability. Benjamin Moore Regal Select and Sherwin-Williams Emerald are both excellent and both run about $70 to $80 per gallon. Yes, that's real money. They also cover better, so you often need one fewer coat, which offsets some of the cost. Two coats almost always look better than one, even over a well-primed repair.
+**Step 5: Paint.** Use a quality finish coat. This isn't where to save money. Flat or eggshell in a living area, satin or semi-gloss in a bathroom or kitchen where you need washability. Benjamin Moore Regal Select and Sherwin-Williams Emerald are both excellent and both run about $70 to $80 per gallon. Yes, that's real money. They cover better, so you often need one fewer coat, which offsets some cost. Two coats almost always look better than one, even over a well-primed repair.
 
 ## When Moisture Is the Real Problem
 
-I need to spend a little more time here because this is where people spend money and still fail.
+I need to spend more time here because this is where people spend money and still fail.
 
-If moisture is causing your peeling, you cannot paint your way out of it. I've seen homeowners prime and repaint a bathroom ceiling three times in two years because nobody dealt with the exhaust fan that was venting into the attic instead of outside. The paint kept peeling. The fix wasn't paint. It was a $40 flex duct run to the soffit vent.
+If moisture is causing peeling, you cannot paint your way out of it. I've seen homeowners prime and repaint a bathroom ceiling three times in two years because nobody dealt with the exhaust fan venting into the attic instead of outside. The paint kept peeling. The fix wasn't paint. It was a $40 flex duct run to the soffit vent.
 
-Before repainting any moisture-affected area, find the source. Check for: a leaky pipe in the wall or ceiling above, inadequate ventilation (bathroom fans should run for 20 minutes after a shower and should be venting *outside*), condensation on exterior walls or near windows in cold climates, and in basements, ground-level moisture migrating through the foundation wall. A simple moisture meter, something like the General Tools MMD4E at around $20, can tell you whether drywall is actually holding moisture before you repaint.
+Before repainting any moisture-affected area, find the source. Check for: a leaky pipe in the wall or ceiling above, inadequate ventilation (bathroom fans should run for 20 minutes after a shower and vent *outside*), condensation on exterior walls or near windows in cold climates, and in basements, ground-level moisture migrating through the foundation. A simple moisture meter like the General Tools MMD4E ($20) tells you whether drywall is actually holding moisture before you repaint.
 
 Once the source is fixed, let the wall dry out for at least two weeks. Then prime with a moisture-resistant primer. Then paint.
 
-If the drywall has gone soft, bubbled, or shows signs of mold, paint and primer won't fix it. That drywall needs to come out. This is not a case where you skim over it and hope for the best.
+If the drywall has gone soft, bubbled, or shows mold, paint and primer won't fix it. That drywall needs to come out. This isn't a case where you skim over it and hope.
 
 ## Knowing When to Call Someone In
 
-The vast majority of peeling paint repairs are genuinely DIY-able. But there are situations where I'd call a professional.
+The vast majority of peeling paint repairs are genuinely DIY-able. But some situations warrant a professional.
 
-If you find mold behind the peeling paint, stop. Don't keep scraping and spreading it. Mold remediation in a contained area isn't necessarily expensive (a small bathroom might run $500 to $1,500 depending on your market), but doing it wrong can create a much bigger and more expensive problem.
+If you find mold behind the peeling paint, stop. Don't keep scraping and spreading it. Mold remediation in a contained area isn't necessarily expensive ($500 to $1,500 for a small bathroom depending on your market), but doing it wrong creates a much bigger and more expensive problem.
 
-If you're in a home built before 1978 and you're doing significant scraping or sanding, test for lead paint first. A 3M LeadCheck swab costs about $10 at most hardware stores. If it tests positive, the EPA's Renovation, Repair and Painting rule applies. You don't necessarily have to hire a certified firm for minor repairs, but you do need to follow containment and cleanup procedures. The EPA website has plain-language guidance on this.
+If you're in a home built before 1978 and doing significant scraping or sanding, test for lead paint first. A 3M LeadCheck swab costs about $10 at most hardware stores. If it tests positive, the EPA's Renovation, Repair and Painting rule applies. You don't necessarily have to hire a certified firm for minor repairs, but you do need to follow containment and cleanup procedures. The EPA website has plain-language guidance.
 
-And if you're dealing with peeling throughout an entire house and you genuinely can't identify the moisture source, a home inspector or a moisture specialist (many waterproofing companies will do a free assessment) can save you a lot of wasted effort.
-
----
-
+And if peeling happens throughout an entire house and you genuinely can't identify the moisture source, a home inspector or a moisture specialist can save you a lot of wasted effort. Many waterproofing companies will do a free assessment.
 
 ---
 

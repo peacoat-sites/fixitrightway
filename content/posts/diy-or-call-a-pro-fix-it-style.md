@@ -11,20 +11,21 @@ author_title: "Plumbing Writer"
 author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
 
 ---
+Every homeowner knows the moment: water dripping from under the sink, a shelf pulling away from the wall, a light switch that suddenly won't click. Do you dig out the toolbox and spend your Saturday troubleshooting, or do you call someone and pay them to sweat instead?
 
-Every homeowner hits that moment: a leaky faucet, a wobbly shelf, a light switch that's gone quiet. Do you grab your toolbox and figure it out, or do you reach for the phone? There's no wrong answer, just the answer that's right for *you*.
+There's no universal right answer here. It depends on you.
 
-This quick 7-question quiz looks at your habits, your patience, and how you like to spend a weekend, then tells you where you naturally land on the DIY-to-pro spectrum. It's for fun and self-reflection, not a verdict on your skills.
+This 7-question quiz walks through your actual habits (how comfortable are you with failure?), your patience level, and what you actually want to do on a weekend. Answer honestly and it'll show you where you naturally sit on the DIY-to-pro scale. It's not a judgment. Just useful self-knowledge.
 
 {{< quiz >}}
 
-Wherever you landed, the smartest fixers are the ones who know when to roll up their sleeves and when to dial a pro. Browse our beginner repair guides, tool checklists, and "when to call someone" breakdowns to build confidence one project at a time, safely.
+The best home fixers aren't the ones who DIY everything. They're the ones who know which jobs they can handle, which ones will eat a weekend for nothing, and when to pick up the phone before they break something worse. We've got beginner repair guides, tool lists, and straight-up "call a professional" guides to help you figure it out safely. Build confidence on the projects that make sense, skip the ones that don't.
 
 ---
 
 ## Home Repair Cost Guide: DIY vs. Pro
 
-Not sure if a job is worth doing yourself? This table covers 30+ common repairs with DIY materials costs, typical contractor rates, and difficulty ratings, so you can make an informed call before you pick up the phone or the wrench.
+Wondering if it's worth your time? Here's a breakdown of 30+ repairs with DIY material costs, what contractors actually charge, and how hard each one is. Use this before you commit.
 
 {{< repair-costs >}}
 
@@ -36,4 +37,3 @@ Not sure if a job is worth doing yourself? This table covers 30+ common repairs 
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)** (~$199), 200W panel kit with MPPT charge controller for maximum energy harvest.
-

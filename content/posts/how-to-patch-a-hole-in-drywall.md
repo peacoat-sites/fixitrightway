@@ -25,13 +25,11 @@ author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
 
 ---
-
 Most people look at a hole in their drywall and think the hard part is the repair. I've watched hundreds of homeowners carefully patch, sand, and prime a wall only to end up with a ghost, a faint circular outline that shows up the moment the light hits it at the wrong angle. The hard part isn't filling the hole. The hard part is making it disappear completely. And if you don't understand why those ghosts appear (and how to prevent them from the start), you'll be repainting the same spot three times wondering what went wrong.
 
 ## What You're Actually Working With
 
 Drywall is a gypsum plaster core sandwiched between two layers of paper. The paper is what holds everything together, and it's what makes patching tricky. When you damage drywall, you're usually exposing raw gypsum, tearing that paper face, or both. Every repair decision you make flows from understanding which of those things happened.
-
 
 ## How Much Does Drywall Repair Cost?
 
@@ -44,19 +42,19 @@ A small patch costs just $5–$20 in materials. See the [full home repair cost g
 
 The size of the hole determines your repair strategy. This isn't just a general guideline. It's the actual decision tree.
 
-Nail holes and small dings under about half an inch: these barely count as repairs. A tiny amount of lightweight spackle, let it dry, sand flush, done. You don't need to prime separately if you're painting over it, though I'll explain in a minute why you probably should anyway.
+Nail holes and small dings under about half an inch barely count as repairs. A tiny amount of lightweight spackle, let it dry, sand flush, done. You don't technically need to prime separately if you're painting over it, though I'll explain in a minute why you probably should anyway.
 
-Holes from 1/2 inch to about 4 inches: this is the "California patch" or mesh patch territory. Most of what gets called drywall repair falls in this range. Door handle impacts, doorknobs punched through the wall, picture hooks that went wrong.
+Holes from 1/2 inch to about 4 inches fall into "California patch" or mesh patch territory. Most drywall repairs you'll actually encounter live here: door handle impacts, doorknobs punched through the wall, picture hooks that went catastrophically wrong.
 
-Holes larger than 4 to 6 inches: you're cutting out drywall and installing backing. There's no shortcut here that holds up. I've seen people try to fill a 6-inch hole with three layers of joint compound and it always fails, usually within a year.
+Holes larger than 4 to 6 inches require cutting out drywall and installing backing. There's no shortcut that holds up. I've seen people try to fill a 6-inch hole with three layers of joint compound. It always fails, usually within a year.
 
 ## Tools and Materials That Actually Matter
 
-I'll be honest: the home improvement aisle is full of drywall products that exist more for margin than for performance. Here's what you genuinely need, and what you can skip.
+The home improvement aisle is full of drywall products that exist more for margin than for performance. Here's what you genuinely need, and what you can skip.
 
-**Joint compound vs. spackle:** These are not interchangeable, even though they look similar. Lightweight spackle works great for small nail holes because it dries fast and sands easily. But it shrinks noticeably on anything bigger than about an inch. For real patches, use all-purpose joint compound (the pre-mixed stuff in a bucket). It takes longer to dry but it's more workable, it feathers beautifully, and it doesn't shrink nearly as much.
+**Joint compound vs. spackle:** These aren't interchangeable, even though they look similar. Lightweight spackle works great for small nail holes because it dries fast and sands easily. But it shrinks noticeably on anything bigger than about an inch. For real patches, use all-purpose joint compound (the pre-mixed stuff in a bucket). It takes longer to dry but it's more workable, it feathers beautifully, and it doesn't shrink nearly as much.
 
-Setting-type compound (like Durabond) is different again. It hardens through a chemical reaction rather than drying. This is what you want for the first coat on bigger repairs because it's stronger and doesn't shrink. It's also unforgiving once it sets, so don't mix more than you'll use in 20 minutes.
+Setting-type compound like Durabond is different again. It hardens through a chemical reaction rather than drying. This is what you want for the first coat on bigger repairs because it's stronger and doesn't shrink. It's also unforgiving once it sets, so don't mix more than you'll use in 20 minutes.
 
 **Mesh tape vs. paper tape:** Mesh tape is easier to apply because it's self-adhesive and you can stick it on before you mud. Paper tape is stronger because the compound bonds into it, and professional finishers almost always prefer it. For small repairs, mesh is totally fine. For anything where you're bridging a gap larger than about 2 inches, I'd use paper tape for the added strength.
 
@@ -72,7 +70,7 @@ Setting-type compound (like Durabond) is different again. It hardens through a c
 ### Small Holes (Under 1 Inch)
 
 1. If the edges are ragged, trim them clean with a utility knife.
-2. Apply a thin layer of lightweight spackle or joint compound with a 3-inch putty knife. You want to fill it flush, not proud of the surface.
+2. Apply a thin layer of lightweight spackle or joint compound with a 3-inch putty knife. Fill it flush, not proud of the surface.
 3. Let it dry completely. "Dry" means white all the way through, not just on the surface. This can take 2 to 4 hours depending on humidity.
 4. Sand lightly with 220-grit until it's flush with the wall.
 5. Prime the spot. Seriously, do this. Raw compound absorbs paint differently than the surrounding wall and you'll see the patch through even two coats of paint if you skip this step.
@@ -99,7 +97,7 @@ What surprised me when I first learned this technique was how clean it is. No ba
 3. Cut your patch piece to fit exactly.
 4. Screw the patch to the backing or studs. Use drywall screws every 6 to 8 inches. Drive them just below the surface without tearing the paper.
 5. Tape all seams with paper tape embedded in joint compound.
-6. Three coats of compound, feathering each coat wider. This isn't optional for large patches, it's just how drywall finishing works.
+6. Three coats of compound, feathering each coat wider. This isn't optional for large patches. It's just how drywall finishing works.
 7. Sand, prime, paint.
 
 ## The Part Most DIYers Get Wrong: Finishing and Texture
@@ -118,17 +116,12 @@ For smooth walls: this is actually harder than texture because any imperfection 
 
 ## When to Call a Pro (and What It Should Cost)
 
-I'll be honest about this too. Most drywall patches are solidly in DIY territory. The materials cost almost nothing and the skills are learnable. But there are situations where calling a drywall finisher makes sense.
+Most drywall patches are solidly in DIY territory. The materials cost almost nothing and the skills are learnable. But there are situations where calling a drywall finisher makes sense.
 
 If you have original plaster walls (pre-1950s construction), the repair process is completely different and significantly harder. Plaster is applied in layers over wood or metal lath, and patching it convincingly takes experience with the material. I'd call a pro for anything beyond a very small plaster repair.
 
 If the hole is large and you're not confident about matching existing texture, a professional finish makes a real difference. Badly matched texture can look worse than a visible patch.
 
 For a typical medium-sized hole, a handyman or drywall finisher will usually charge $75 to $150 for a simple patch including materials and paint. Larger repairs with significant texture matching can run $200 to $400. In high cost-of-living areas, add 25 to 40 percent to those numbers. If someone quotes you significantly less than that, ask whether they're including paint, texture matching, and primer, because those are where the time goes.
-
----
-
-
----
 
 The honest truth about drywall repair is that it's more forgiving than most people expect, and the main cost is patience rather than skill. Thin coats, full drying time, proper primer, and texture matching: get those four things right and your patch will genuinely disappear. Get them wrong and you'll be looking at that ghost on the wall every time the afternoon light comes through.

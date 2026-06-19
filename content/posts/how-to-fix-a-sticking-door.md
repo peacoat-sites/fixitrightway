@@ -25,7 +25,6 @@ author_title: "Electrical Writer"
 author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
 
 ---
-
 A door that sticks in summer and swings free in winter isn't broken. It's telling you something. Most homeowners sand it down, paint it, and then spend the next rainy season fighting it again because they fixed the symptom without understanding the cause. That cycle ends here.
 
 ## Why Your Door Is Actually Sticking
@@ -112,16 +111,7 @@ Exterior doors also carry more hardware weight and have weather stripping that a
 
 Interior doors are usually hollow-core and lighter, which means hinges last longer and swelling is typically more modest. The same diagnosis and fix sequence applies, but you'll generally deal with smaller adjustments and faster results.
 
----
-
-
----
-
-Most sticking doors are a two-hour Saturday fix that costs less than a takeout dinner. The homeowners who pay contractors to handle what should be a DIY job are almost always the ones who didn't spend ten minutes diagnosing first. Check the hinges, map the bind, identify whether it's seasonal or permanent, then pick the right tool. The door that's been annoying you for three years is usually simpler than you think.
-
----
-
----
+Most sticking doors are a two-hour Saturday fix that costs less than a takeout dinner. The homeowners who pay contractors to handle what should be a DIY job almost always skipped the first step: spending ten minutes figuring out what's actually wrong. Check the hinges. Map the bind. Identify whether it's seasonal or permanent. Then pick the right tool. The door that's been annoying you for three years is usually simpler than you think.
 
 ## Recommended Resources
 
@@ -129,4 +119,3 @@ Most sticking doors are a two-hour Saturday fix that costs less than a takeout d
 
 - **[PetArmor Plus Flea & Tick Prevention, Small Dogs (6 doses)](https://www.amazon.com/dp/B01N0BZUXO/?tag=contentportfo-20)** (~$32), Same active ingredient as Frontline Plus at a lower price, waterproof topical flea and tick prevention.
 - **[PetArmor Plus Flea & Tick Prevention, Medium Dogs (6 doses)](https://www.amazon.com/dp/B01N03Q8Q1/?tag=contentportfo-20)** (~$32), Vet-quality flea and tick prevention for dogs 23–44 lbs at a fraction of the prescription price, 6-month supply.
-

@@ -24,8 +24,7 @@ faqs:
   - q: "What size disposal should I buy?"
     a: "3/4 HP for most households. A 1/2 HP unit like the Badger 5 is tempting because it's cheap, but it jams more easily on fibrous vegetables, runs hotter, and tends to fail sooner under regular use. For a household of four that cooks regularly, spend the extra $60-$80 and get at least 3/4 HP. You won't regret it."
 ---
-
-Replacing a garbage disposal is one of the more satisfying DIY jobs in the house. Two hours, maybe three if you're slow. No special licenses, no permits, no reason to call a plumber unless you hit something unexpected. The problem with most instructions you'll find is that they're written by people who've replaced one disposal, once, and they spend half the article warning you about things that almost never happen while skipping the parts that actually get people stuck.
+Replacing a garbage disposal is one of the more satisfying DIY jobs you can do in your house. Two hours, maybe three if you're slow. No special licenses, no permits, no reason to call a plumber unless you hit something unexpected. The problem with most instructions out there is that they're written by people who've replaced one disposal, once, and they spend half the article warning you about things that almost never happen while skipping the parts that actually get people stuck.
 
 Let me fix that.
 
@@ -33,9 +32,9 @@ Let me fix that.
 
 Most disposals mount to the same 3-bolt sink flange system that Emerson (InSinkErator's parent company) standardized decades ago. If you're replacing an InSinkErator with another InSinkErator, you might not even need to change the mounting assembly. Badger, Badger 5, Badger 5 Plus, Evolution series -- they all use the same mount. That saves you 20 minutes and a lot of silicone caulk.
 
-If you're switching brands, say from an InSinkErator to a Moen or a Waste King, you'll swap the whole mounting assembly. Not a big deal, just more steps.
+If you're switching brands, say from an InSinkErator to a Moen or a Waste King, you'll swap the whole mounting assembly. It's not complicated, just more steps.
 
-One thing that matters more than people admit: motor size. A 1/2 HP disposal (like the Badger 5, currently around $90 at Home Depot) is fine for a single person or a couple who cooks occasionally. The moment you have a family that cooks real food, you want 3/4 HP minimum. The InSinkErator Evolution Compact runs about $170 and handles a lot more without jamming or running hot. I've seen homeowners replace a failed 1/2 HP unit with another 1/2 HP unit and have the exact same grinding problems six months later. Size up if you can.
+Motor size matters more than people admit. A 1/2 HP disposal (like the Badger 5, currently around $90 at Home Depot) works fine for a single person or a couple who cooks occasionally. The moment you have a family that cooks real food, you want 3/4 HP minimum. The InSinkErator Evolution Compact runs about $170 and handles a lot more without jamming or running hot. I've watched homeowners replace a failed 1/2 HP unit with another 1/2 HP unit and get the exact same grinding problems six months later. Size up if you can.
 
 ## Tools and Materials
 
@@ -45,13 +44,13 @@ Turn off the circuit at the breaker before you touch anything. Don't trust the w
 
 ## Removing the Old Unit
 
-This is where most first-timers get surprised by the weight. A full-size disposal runs 15-20 pounds and it's going to drop when you twist it off the mount. Put a bucket or a folded towel under it first. Have a second pair of hands if you can.
+This is where most first-timers get surprised. A full-size disposal weighs 15-20 pounds and it's going to drop when you twist it off the mount. Put a bucket or a folded towel under it first. Have a second pair of hands if you can get them.
 
 Disconnect the drain line from the disposal first -- that's the pipe running to your P-trap. There's usually a slip nut you can hand-loosen, maybe with channel-locks if it's stuck. If your dishwasher drains into the disposal (most do), disconnect that line too. It's a small rubber hose clamped to a port on the side of the disposal housing.
 
-Now unplug it, or if it's hardwired, go back to the breaker box, confirm the power is off with a non-contact voltage tester (a $15 Klein or Fluke at any hardware store), and then disconnect the wires.
+Now unplug it. If it's hardwired, go back to the breaker box, confirm the power is off with a non-contact voltage tester (a $15 Klein or Fluke at any hardware store), and disconnect the wires.
 
-To unmount the disposal from the sink flange, look at the bottom of the unit where it meets the mounting ring. You'll see three mounting tabs. Stick your flathead screwdriver into one of the notches and rotate counterclockwise. The whole unit drops. This is the moment it gets heavy fast, so have a grip on it.
+To unmount the disposal from the sink flange, look at the bottom of the unit where it meets the mounting ring. You'll see three mounting tabs. Stick your flathead screwdriver into one of the notches and rotate counterclockwise. The whole unit drops. This is when it gets heavy fast, so have a grip on it.
 
 If you're keeping the same brand mounting assembly, you're done with the demo. If you're swapping brands or the old flange is corroded, keep going.
 
@@ -59,9 +58,9 @@ If you're keeping the same brand mounting assembly, you're done with the demo. I
 
 A lot of people skip inspecting the sink flange and then wonder why their new disposal leaks. Pop the old flange out from under the sink by removing the snap ring (a circular clip that holds the flange assembly to the sink drain hole) and letting the whole assembly drop. Clean the drain hole in the sink basin with a putty knife and a rag. There's usually old putty sitting in there. Get it all out.
 
-Roll a rope of plumber's putty about the diameter of a pencil, press it around the drain hole from the top, and seat the new flange into it. Press it down firmly. From underneath, slide on the gaskets and mounting ring in the order the instructions show (they vary slightly by brand), then tighten the mounting screws evenly until the flange is snug and excess putty squeezes out around the top. Clean off the excess putty. That seal is what keeps water from migrating down around the flange over time.
+Roll a rope of plumber's putty about the diameter of a pencil, press it around the drain hole from the top, and seat the new flange into it. Press it down firmly. From underneath, slide on the gaskets and mounting ring in the order the instructions show (they vary slightly by brand), then tighten the mounting screws evenly until the flange is snug and excess putty squeezes out around the top. Clean off the excess. That seal is what keeps water from migrating down around the flange over time.
 
-If your dishwasher drain connects to the disposal, check whether your new unit has the dishwasher knockout plug installed. Most come with it in. You need to knock it out with a screwdriver and retrieve the plastic plug from inside the disposal before you mount it -- if you miss this step, your dishwasher will back up and you'll have to take the whole thing down again. This is the single most common installation mistake. I've gotten calls about it.
+If your dishwasher drain connects to the disposal, check whether your new unit has the dishwasher knockout plug installed. Most come with it in. You need to knock it out with a screwdriver and retrieve the plastic plug from inside before you mount the disposal. Miss this step and your dishwasher will back up, and you'll have to take the whole thing down again. This is the single most common installation mistake. I've gotten calls about it.
 
 ## Wiring
 
@@ -69,19 +68,16 @@ Hardwired or plug-in, disposals are 120V and straightforward. Most residential i
 
 For a plug-in unit, you just connect the cord (sometimes sold separately -- check the box). For hardwired, match black to black, white to white, green or bare copper to the ground screw. Wire nuts or push-in connectors both work fine. Wrap the wire nut connections with electrical tape, tuck them into the junction box on the bottom of the unit, and replace the cover plate.
 
-One opinion you might push back on: I actually prefer hardwired disposals to plug-in ones for permanent installations. The outlet under the sink takes up space, the cord gets in the way of everything else stored under there, and a hardwired connection is just cleaner. The switched outlet setup is convenient if you ever need to reset, but the reset button on the bottom of the disposal does the same job. If your kitchen is already wired for hardwire, stay with it.
+Here's an opinion you might push back on: I actually prefer hardwired disposals to plug-in ones for permanent installations. The outlet under the sink takes up space, the cord gets in the way of everything else stored under there, and a hardwired connection is just cleaner. The switched outlet setup is convenient if you ever need to reset, but the reset button on the bottom of the disposal does the same job. If your kitchen is already wired for hardwire, stay with it.
 
 ## Mounting and Final Connections
 
-Lift the disposal up to the mounting assembly (this is the heavy part -- get help or prop it on a bucket to stage it), align the mounting tabs with the mounting ring slots, and rotate clockwise until it locks. Some units have a set point, others twist until they tighten. Check the InSinkErator models -- they lock with a distinct click.
+Lift the disposal up to the mounting assembly (this is the heavy part -- get help or prop it on a bucket to stage it), align the mounting tabs with the mounting ring slots, and rotate clockwise until it locks. Some units have a set point, others twist until they tighten. InSinkErator models lock with a distinct click.
 
 Reconnect the drain elbow to the P-trap. Hand-tighten first, then snug it up with channel-locks. Don't gorilla-grip it; the slip nuts are plastic and they'll crack. Reconnect the dishwasher drain hose and tighten the clamp.
 
-Before you turn the water or power on: look at the disposal from below with a flashlight. Everything seated evenly? No pinched wires? Drain connections tight?
+Before you turn the water or power on, look at the disposal from below with a flashlight. Everything seated evenly? No pinched wires? Drain connections tight?
 
-Turn the water on at the shutoff valve. Run cold water into the sink for 30 seconds while looking under the cabinet. No drips. Now flip the breaker back on and test the disposal. Let it run for a minute. Check again for leaks. Done.
-
----
-
+Turn the water on at the shutoff valve. Run cold water into the sink for 30 seconds while looking under the cabinet. No drips. Now flip the breaker back on and test the disposal. Let it run for a minute and check again for leaks. Done.
 
 *Photo: [Jan van der Wolf](https://www.pexels.com/@jan-van-der-wolf-11680885) via Pexels*

@@ -20,14 +20,13 @@ author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
 
 ---
+Your refrigerator isn't keeping food cold. That moment when you open the door and realize everything inside is warming up? It's a specific kind of panic. The good news: most cooling problems are fixable without calling a repair technician at $150 an hour.
 
-Your refrigerator isn’t keeping food cold, and you can feel the panic setting in. A **refrigerator that won ’t cool** is more than an inconvenience,  it can mean spoiled groceries, wasted money, and a stressful afternoon. The good news is that many common cooling problems are surprisingly easy to diagnose and fix yourself, without calling an expensive repair technician right away.
+Many refrigerators stop cooling for embarrassingly simple reasons. This guide walks you through the diagnosis and fixes.
 
-Before you assume the worst, take a breath. Most refrigerators stop cooling for simple, fixable reasons. This step-by-step guide will walk you through everything you need to check, try, and repair to get your fridge running cold again.
+## Tools and Materials You'll Need
 
-## Tools and Materials You’ll Need
-
-Gather these items before you start. Having everything ready saves time and keeps the job moving smoothly.
+Grab these before you start:
 
   * Flashlight or headlamp
   * Screwdriver set (flathead and Phillips)
@@ -38,103 +37,100 @@ Gather these items before you start. Having everything ready saves time and keep
   * Replacement door gasket (if needed)
   * Multimeter (optional, for testing electrical components)
 
-Most of these items are already in your home. The others are inexpensive and available at any hardware store or online.
+You probably have most of this already. The rest costs under $20 at any hardware store.
 
 ## Step 1: Check the Basics First
 
-Before opening a single panel, start with the simplest possible explanations. You’d be surprised how often a cooling problem comes down to a setting or a power issue.
+Before you open anything, check the stupidly simple stuff first.
 
-First, check that the refrigerator is firmly plugged in and that the outlet is working. Try plugging in a lamp or small appliance to confirm the outlet has power.
-
-Next, look at the temperature settings inside both the refrigerator and freezer compartments. The refrigerator should be set between 35°F and 38°F, and the freezer should be at 0°F. Someone may have accidentally bumped the dial or digital control panel.
+Is it plugged in? Seriously. Test the outlet with a lamp. Next, check the temperature dials in both compartments. Someone might've bumped them or set them to off. The fridge should sit between 35°F and 38°F, and the freezer at 0°F.
 
   * Check that the power cord is fully seated in the outlet
   * Look for a tripped breaker in your electrical panel
-  * Confirm the temperature dials haven’t been turned to “Off” by accident
+  * Confirm the temperature dials haven't been turned to "Off" by accident
   * Make sure the interior light comes on when you open the door
 
-**Pro Tip:** Place a kitchen thermometer inside your fridge and check it after two hours. This gives you an accurate baseline reading rather than guessing by how things “feel” inside the compartment.
+**Pro Tip:** Put a kitchen thermometer inside and check it after two hours. This beats guessing whether things "feel" cold.
 
 ## Step 2: Clean the Condenser Coils
 
 Photo by [Florencia Potter](https://unsplash.com/@florenciapotter?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Dirty condenser coils are one of the most common reasons a refrigerator won’t cool properly. These coils release heat from the refrigerant, and when they’re coated in dust and pet hair, they can’t do their job.
+Dirty condenser coils are probably the most common culprit. These coils dump heat from the refrigerant, but when they're buried in dust and pet hair, they can't work.
 
-On most refrigerators, the condenser coils are located either underneath the fridge behind a kick plate or on the back of the unit. Pull the refrigerator away from the wall carefully,  ask a family member for help if needed.
+Find them either underneath behind the kick plate or on the back. Pull the fridge out carefully (ask someone to help). Unplug it first.
 
-Use a soft brush or vacuum with a narrow attachment to gently remove dust and debris from the coils. This simple cleaning can dramatically improve cooling performance and extend the life of your appliance.
+Use a soft brush or vacuum to gently clear the coils. Don't rush. This simple cleaning can transform cooling performance.
 
   * Unplug the refrigerator before cleaning the coils
   * Clean coils at least once or twice a year going forward
-  * Be gentle,  the coil fins bend easily
+  * Be gentle; the coil fins bend easily
   * Plug back in and wait several hours to see if cooling improves
 
-**⚠️ Safety:** Always unplug your refrigerator before cleaning condenser coils or working near any internal components. Even a brief accidental contact with electrical parts can cause injury. Never work on a plugged-in appliance.
+**⚠️ Safety:** Always unplug your refrigerator before cleaning condenser coils or working near any internal components. Even a brief accidental contact with electrical parts can cause injury.
 
 ## Step 3: Inspect the Door Seals (Gaskets)
 
-The rubber seal around your refrigerator door,  called a gasket,  keeps cold air in and warm air out. Over time, these seals can crack, warp, or pull away from the door, creating gaps that let cold air escape continuously.
+The rubber seal around your door, called a gasket, keeps cold air in and warm air out. Over time they crack, warp, or pull loose, creating gaps that bleed cold air continuously.
 
-Close the door on a piece of paper and try to pull it out. If the paper slides out easily, your seal isn’t tight enough and cold air is likely leaking. Repeat this test around several points of the door.
+Close the door on a piece of paper and try to pull it out. If it slides out easily, your seal is shot and cold air is escaping. Test multiple spots around the door.
 
-If you find a damaged or loose gasket, you can clean it first with warm soapy water,  sometimes a gasket just needs a good cleaning to regain its shape. If it’s cracked or torn, replacement gaskets are available online for most refrigerator models and snap in without special tools.
+If the gasket is just grimy, clean it with warm soapy water. Sometimes they bounce back. If it's cracked or torn, replacement gaskets snap in without tools and cost $20 to $60 for most models.
 
 ## Step 4: Check and Clear the Evaporator Fan and Vents
 
 Photo by [Franco Debartolo](https://unsplash.com/@francotheshooter?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Your refrigerator has an evaporator fan that circulates cold air throughout the compartments. If this fan is blocked, broken, or frozen over, cold air won’t reach your food,  even if the compressor is working perfectly.
+The evaporator fan circulates cold air through your compartments. Block it or break it, and cold air doesn't reach your food even if everything else works.
 
-Open the freezer and listen carefully. You should hear a fan running when the door is open and the fridge is cooling. If the fan is silent or making a grinding noise, it may need to be replaced.
+Open the freezer and listen. You should hear the fan running when the door opens. Silence or grinding noise means it needs replacing.
 
-Also check the air vents inside both compartments. These small slots or grilles circulate cold air between the fridge and freezer, and they’re easy to accidentally block with a box of leftovers or a large container.
+Also check those air vents inside both compartments. They're small slots that move cold air between sections, and they're easy to accidentally block with leftovers or a big container.
 
   * Remove items blocking any interior air vents
-  * Don’t overfill the refrigerator,  leave space for air to circulate
+  * Don't overfill the refrigerator; leave space for air to circulate
   * Listen for the evaporator fan running when you open the freezer
   * If the back wall of the freezer is covered in thick ice, you may have a defrost problem (see Step 5)
 
 ## Step 5: Check for Ice Buildup and Defrost Issues
 
-Many modern refrigerators have an automatic defrost system that melts frost buildup on a regular cycle. When this system fails, ice can build up on the evaporator coils and completely block airflow,  causing the refrigerator to stop cooling even though the freezer may still feel cold.
+Modern refrigerators have an automatic defrost system that melts frost regularly. When it fails, ice builds up on the evaporator coils and blocks everything, stopping cooling even when the freezer still feels cold.
 
-Remove everything from your freezer and look at the back wall panel. If there’s a thick sheet of ice covering it, your defrost system is likely the culprit. A manual defrost can temporarily fix the problem and confirm the diagnosis.
+Pull everything out of the freezer and look at the back wall panel. Thick ice covering it? Your defrost system failed.
 
-To manually defrost, unplug the refrigerator and leave both doors open for 24 to 48 hours with towels on the floor to catch water. Once defrosted, plug it back in. If it cools again, you’ll need a repair technician to replace the defrost heater, timer, or thermostat.
+Try a manual defrost to confirm and temporarily fix it. Unplug the fridge and leave both doors open for 24 to 48 hours with towels catching water. Plug it back in. If it cools again, a technician will need to replace the defrost heater, timer, or thermostat (usually $300 to $600 total).
 
-  * A fridge that’s cold in the freezer but warm in the fresh food section often points to a defrost issue
-  * Manual defrosting is safe and free to try
-  * Defrost components are inexpensive but may require a technician to replace
+  * A fridge cold in the freezer but warm in the fresh food section usually means a defrost issue
+  * Manual defrosting is safe and costs nothing to try
+  * Defrost components themselves are cheap; labor adds up
 
 ## Step 6: Listen to the Compressor
 
 Photo by [Richard Williams](https://unsplash.com/@richardjw?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-The compressor is the heart of your refrigerator’s cooling system. It’s the large, round, black unit usually found at the back bottom of the fridge. A healthy compressor hums steadily and cycles on and off throughout the day.
+The compressor is the heart of the whole system. It's the large, round, black unit usually at the back bottom. A working compressor hums steadily and cycles on and off.
 
-If you hear loud clicking, buzzing, or nothing at all from the compressor, it may be struggling or failing. Clicking that repeats every few minutes is a common sign the compressor is trying but failing to start.
+Loud clicking, buzzing, or complete silence is bad. Clicking every few minutes means it's struggling to start.
 
-Compressor replacement is a complex, expensive repair typically costing $200 to $500 or more. If your refrigerator is more than 10 to 12 years old, it may make more financial sense to replace the appliance rather than repair the compressor. A local appliance repair professional can advise you after a quick inspection.
+Compressor replacement costs $200 to $500 or more. If your fridge is over 10 or 12 years old, replacing the whole unit might make more sense financially. A local repair pro can advise after they see it.
 
 ## When to Call a Professional
 
-You’ve worked through the steps above, and your refrigerator still won’t cool. That’s okay,  you’ve done excellent troubleshooting, and now it’s time to bring in expert help. Some repairs genuinely require a trained technician.
+You've tried everything above and it's still not cooling. That's fine. You've done solid troubleshooting. Now bring in someone with the right tools.
 
-Call a professional appliance repair service if you suspect any of the following issues:
+Call a professional if you suspect:
 
   * A failed or failing compressor
-  * A refrigerant leak (you may notice an unusual chemical smell)
+  * A refrigerant leak (unusual chemical smell)
   * A faulty control board or sealed system issue
-  * Electrical components that require a multimeter and specialized knowledge
+  * Electrical components that need a multimeter and specialized knowledge
 
-Many appliance repair companies offer free or low-cost diagnostic visits. Always get an estimate before authorizing any repairs.
+Many appliance repair companies offer free or cheap diagnostic visits. Always get an estimate before saying yes to any repair.
 
+## You've Got This
 
-## You’ve Got This
+A warm refrigerator is stressful, but you've got a clear path forward. Most of these fixes take under an hour and cost almost nothing.
 
-A refrigerator that won’t cool can feel overwhelming, but now you have a clear, practical plan to tackle the problem step by step. Many of these fixes take less than an hour and cost very little.
-
-Start simple, work methodically, and don’t hesitate to call a professional when a repair is beyond your comfort level. Your food,  and your peace of mind,  is worth it. You’ve handled harder challenges than this, and you’re more capable than you think.
+Start simple, work methodically, call a pro when it's beyond you. You can handle this.
 
 Photo by [Zac Gudakov](https://unsplash.com/@zacgudakov?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)

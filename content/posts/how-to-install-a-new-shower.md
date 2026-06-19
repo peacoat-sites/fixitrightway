@@ -20,136 +20,134 @@ author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
 
 ---
+Your old shower is cracked, leaking, or just plain depressing. Every morning it reminds you there's a renovation you've been putting off for two years. Whether you're replacing a worn-out unit or upgrading for better accessibility, knowing how to install a shower can save you thousands and give you a space that actually works. The best part? With the right prep and some patience, most handy homeowners can finish this over a weekend.
 
-Your old shower is cracked, leaking, or simply outdated,  and every morning it reminds you of the renovation you keep putting off. Whether you are replacing a worn-out unit or upgrading your bathroom for better accessibility, knowing **how to install a shower** can save you significant money and give you a space that truly works for your needs. The good news? With the right preparation and a little patience, this is a project many handy homeowners can tackle over a weekend.
-
-This step-by-step guide walks you through everything from gathering your tools to turning the water back on for that first satisfying rinse. We will keep things clear, safe, and senior-friendly,  because your bathroom should work _for_ you, not against you.
+This guide takes you from gathering tools to turning the water back on for that first satisfying shower. We'll keep things clear, safe, and actually doable, because your bathroom should work for you, not against you.
 
 ## Why Installing a New Shower Is Worth the Effort
 
-A modern shower can dramatically improve your daily routine. Newer units often feature lower thresholds, built-in grab bar mounting points, and non-slip floors,  all of which are especially valuable for adults 60 and older.
+A modern shower changes your mornings. Newer units come with lower thresholds, built-in grab bar mounting points, and non-slip floors. This matters, especially if you're over 60 or anyone in your household has mobility concerns.
 
-Beyond safety, a fresh shower installation improves your home’s value and your overall comfort. If your current shower leaks or shows mold, replacing it now prevents costly structural damage down the road.
+Beyond safety, a fresh shower boosts your home's resale value and your comfort. If your current shower leaks or grows mold, replacing it now stops costly structural damage before it starts.
 
-  * Improved safety with accessible design features
-  * Lower water bills with modern, efficient fixtures
-  * Reduced mold and mildew risk
-  * Increased home resale value
-  * A cleaner, more enjoyable daily experience
+* Improved safety with accessible design features
+* Lower water bills with efficient fixtures
+* Reduced mold risk
+* Increased home resale value
+* A cleaner, more enjoyable daily routine
 
 ## Tools and Materials You Will Need
 
-Before you begin, gather everything in one place. Running back and forth to the hardware store mid-project is frustrating and can lead to mistakes. Here is what you will need for a standard shower installation.
+Gather everything before you start. Running back to the hardware store mid-project kills momentum and invites mistakes. Here's what you'll need for a standard installation.
 
 ### Tools
 
-  * Adjustable wrench and pipe wrench
-  * Screwdrivers (flathead and Phillips)
-  * Utility knife
-  * Level (24-inch is ideal)
-  * Drill with bits
-  * Hacksaw or reciprocating saw
-  * Caulking gun
-  * Measuring tape
-  * Safety glasses and work gloves
+* Adjustable wrench and pipe wrench
+* Screwdrivers (flathead and Phillips)
+* Utility knife
+* Level (24-inch is ideal)
+* Drill with bits
+* Hacksaw or reciprocating saw
+* Caulking gun
+* Measuring tape
+* Safety glasses and work gloves
 
 ### Materials
 
-  * Shower kit or individual components (pan, walls, door)
-  * Shower valve and trim kit
-  * Plumber’s putty and Teflon tape
-  * Silicone caulk (100% waterproof)
-  * Cement board or moisture-resistant backer board
-  * Drain assembly
-  * Screws, anchors, and wall clips included with your kit
+* Shower kit or individual components (pan, walls, door)
+* Shower valve and trim kit
+* Plumber's putty and Teflon tape
+* Silicone caulk (100% waterproof)
+* Cement board or moisture-resistant backer board
+* Drain assembly
+* Screws, anchors, and wall clips included with your kit
 
-**Pro Tip:** Purchase a prefabricated shower kit from your local home improvement store. These kits come with pre-matched panels and a shower base, which simplifies measurement, cuts installation time in half, and ensures a watertight fit,  especially helpful for first-time installers.
+**Pro Tip:** Buy a prefabricated shower kit from a home improvement store. The panels and base come pre-matched, which cuts installation time in half, simplifies measurements, and ensures a watertight fit. First-time installers especially benefit from this approach.
 
 ## Step 1: Remove the Old Shower and Prepare the Space
 
 Photo by [Point3D Commercial Imaging Ltd.](https://unsplash.com/@3dottawa?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Turn off the water supply to your bathroom before touching anything. Locate the shut-off valves under the sink or at the main supply line and close them completely. Turn on the shower to release any remaining pressure in the pipes.
+Turn off the water supply first. Locate the shut-off valves under the sink or at the main line and close them. Turn on the shower to release pressure in the pipes.
 
-Begin removing the old shower door or curtain rod, then the wall panels or tiles. Use your utility knife to score old caulk and a pry bar to gently remove panels without damaging the surrounding wall. Take your time,  rushing this step can damage the subfloor or studs.
+Remove the old door or curtain rod, then the wall panels or tiles. Score old caulk with your utility knife and pry panels off carefully without damaging surrounding walls. This takes time. Rushing damages the subfloor or studs.
 
-  * Remove fixtures: showerhead, faucet handles, and drain cover
-  * Unscrew or pry off existing wall panels or tiles
-  * Disconnect old plumbing connections at the valve
-  * Remove the old shower base by cutting any caulk seal around the edges
-  * Clean and inspect the subfloor for water damage, rot, or mold
+* Remove fixtures: showerhead, faucet handles, drain cover
+* Unscrew or pry off existing panels or tiles
+* Disconnect old plumbing at the valve
+* Remove the old shower base by cutting the caulk seal around the edges
+* Clean and inspect the subfloor for water damage, rot, or mold
 
-If you find soft spots in the subfloor, stop and repair them before continuing. Installing a new shower over damaged wood will cause the same problems to return within a year or two.
+Find soft spots in the subfloor? Stop and fix them. Installing over damaged wood just means the same problems return in a year or two.
 
-**⚠️ Safety:** If you discover black mold during demolition, do not continue without proper protection. Wear an N95 respirator mask, safety glasses, and gloves. For large areas of mold (larger than 10 square feet), consult a professional remediation service before proceeding with your installation.
+**⚠️ Safety:** Black mold during demolition means stop work immediately. Wear an N95 respirator mask, safety glasses, and gloves. If the mold covers more than 10 square feet, hire a professional remediation service before proceeding.
 
 ## Step 2: Install the Shower Base or Pan
 
-The shower base is your foundation, so getting this step right is critical. A poorly leveled or sealed base leads to leaks that can quietly destroy your subfloor over months.
+The shower base is everything. A poorly leveled or sealed base leads to leaks that quietly destroy your subfloor over months.
 
-Set the shower base dry into position first to confirm it fits the space. Check that your drain lines up with the existing drain hole in the subfloor. If it does not align, you may need a plumber to adjust the drain location,  this is a common situation in older homes.
+Dry-fit the base first to confirm it fits. Check that your drain lines up with the existing drain hole. If not, you may need a plumber to adjust the drain location. This is common in older homes.
 
-  * Apply a thin bed of mortar or use pre-mixed shower base mortar mix under the pan if required by your kit instructions
-  * Lower the base carefully into position
-  * Use your level to confirm the base is perfectly flat in all directions
-  * Connect the drain assembly and test for a snug, secure fit
-  * Allow mortar to cure for the time specified,  usually 24 hours
+* Apply a thin bed of mortar under the pan if your kit requires it
+* Lower the base carefully into position
+* Use your level to confirm the base is flat in all directions
+* Connect the drain assembly and test for a snug fit
+* Allow mortar to cure for the time specified, usually 24 hours
 
-Once the base is set, apply a bead of silicone caulk around the perimeter where the base meets the wall studs. This creates a waterproof seal before the wall panels go in.
+Once it's set, apply a silicone caulk bead around the perimeter where the base meets the wall studs. This waterproofs the seam before panels go up.
 
 ## Step 3: Install the Wall Panels and Backer Board
 
 Photo by [Point3D Commercial Imaging Ltd.](https://unsplash.com/@3dottawa?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-If your shower kit includes wall panels, this step is straightforward. If you are tiling the walls, you will need to install cement backer board first to provide a moisture-resistant surface for the tile adhesive.
+Prefab wall panels are simple. Tiled walls need cement backer board first as a moisture-resistant base for tile adhesive.
 
-Cut the backer board to size using a utility knife and straightedge. Score, snap, and smooth the edges. Attach it to the wall studs using moisture-resistant screws, leaving a small gap at the shower base to prevent wicking.
+Cut the backer board to size with a utility knife and straightedge. Score, snap, and smooth the edges. Attach it to wall studs with moisture-resistant screws, leaving a small gap at the shower base to prevent water wicking.
 
-For prefabricated wall panels:
+For prefabricated panels:
 
-  * Dry-fit all panels before applying any adhesive
-  * Apply the manufacturer-recommended adhesive to the wall studs or backer board
-  * Press panels firmly into place, starting with the back wall
-  * Use a level after each panel to ensure everything is plumb and straight
-  * Secure edges with the clips or screws provided in your kit
+* Dry-fit all panels before applying any adhesive
+* Apply manufacturer-recommended adhesive to wall studs or backer board
+* Press panels firmly into place, starting with the back wall
+* Level each panel as you go to ensure everything is plumb
+* Secure edges with the clips or screws included in your kit
 
-Work methodically from the center outward. Small adjustments are easy early on,  nearly impossible once the adhesive sets.
+Work methodically from center outward. Small adjustments are easy now. They're nearly impossible once adhesive sets.
 
 ## Step 4: Install the Shower Valve and Plumbing Fixtures
 
-The shower valve controls your water temperature and flow. Most modern valves are designed to be installed before the wall is closed, but during a renovation, you will be working with existing rough-in plumbing.
+The shower valve controls temperature and flow. Most modern valves install before the wall closes, but during renovation you're working with existing rough-in plumbing.
 
-Wrap all threaded pipe connections with two to three layers of Teflon tape to prevent leaks. Hand-tighten first, then use your wrench to snug the connections,  do not over-tighten, as this can crack fittings in older pipes.
+Wrap all threaded pipe connections with two to three layers of Teflon tape to stop leaks. Hand-tighten first, then use your wrench to snug connections. Don't over-tighten. Older pipes crack easily.
 
-  * Connect the hot and cold supply lines to the valve body
-  * Secure the valve to the wall according to the manufacturer’s depth specifications
-  * Attach the showerhead arm to the wall pipe using Teflon tape
-  * Install the showerhead onto the arm and hand-tighten, then gently snug with a wrench
-  * Attach faucet handles and trim plate according to your valve kit instructions
+* Connect hot and cold supply lines to the valve body
+* Secure the valve to the wall according to manufacturer's depth specs
+* Attach the showerhead arm to the wall pipe with Teflon tape
+* Install the showerhead onto the arm, hand-tighten, then gently snug with a wrench
+* Attach faucet handles and trim plate per your valve kit instructions
 
-Turn the water supply back on slowly and check every connection for drips. Even a tiny drip can cause significant damage behind your walls over time.
+Turn the water supply back on slowly. Check every connection for drips. Even a tiny drip causes serious damage behind walls over time.
 
 ## Step 5: Seal, Caulk, and Install the Door or Curtain
 
 Photo by [jordi pujadas](https://unsplash.com/@jordipbu?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-The final step protects all of your hard work by making the entire shower watertight. Caulking is not optional,  it is the difference between a shower that lasts 20 years and one that leaks within 12 months.
+This final step protects everything you've done. Caulking isn't optional. It's the difference between a shower lasting 20 years and one leaking within 12 months.
 
-Use 100% silicone caulk,  not acrylic latex,  for shower applications. Silicone remains flexible, resists mold, and holds up to daily water exposure far better than other types.
+Use 100% silicone caulk, not acrylic latex. Silicone stays flexible, resists mold, and handles daily water exposure far better.
 
-  * Apply caulk to all inside corners where walls meet
-  * Seal the joint between the wall panels and the shower base
-  * Caulk around the valve trim plate and showerhead escutcheon
-  * Smooth all caulk lines with a wet finger or caulk tool for a clean finish
-  * Allow caulk to cure fully,  typically 24 to 48 hours,  before using the shower
+* Apply caulk to all inside corners where walls meet
+* Seal the joint between wall panels and shower base
+* Caulk around the valve trim plate and showerhead escutcheon
+* Smooth all caulk lines with a wet finger or caulk tool for a clean finish
+* Let caulk cure fully, typically 24 to 48 hours, before using the shower
 
-Install your shower door according to the kit instructions, or hang your curtain rod. Step back, admire your work, and do a final visual inspection of every seal and connection before that first use.
+Install your door per kit instructions, or hang your curtain rod. Step back and inspect every seal and connection before that first use.
 
+## You Can Do This, One Step at a Time
 
-## You Can Do This,  One Step at a Time
+Installing a new shower is one of the most rewarding home projects you can tackle. It improves safety, comfort, and home value all in a single weekend.
 
-Installing a new shower is one of the most rewarding home improvement projects you can take on. It improves your safety, your comfort, and your home’s value,  all in a single weekend of focused work.
-
-Take each step slowly, do not skip the caulk, and ask for help when you need it. Whether you tackle this solo or alongside a family member, the result will be a shower you feel proud of every single morning. You have got this!
+Take each step slowly. Don't skip the caulk. Ask for help when you need it. Whether you work solo or with family, you'll end up with a shower you're proud of every morning. You've got this.
 
 Photo by [Alex Tyson](https://unsplash.com/@alextyson195?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)

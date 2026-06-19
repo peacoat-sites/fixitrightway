@@ -25,65 +25,59 @@ author_title: "Plumbing Writer"
 author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
 
 ---
+You're standing in your attic right now, or staring at an open wall cavity. Maybe you got a contractor quote that made you wince. Maybe you're just tired of high utility bills. Either way, I'm going to give you the version that actually works.
 
-You're probably standing in your attic right now, or staring at an open wall cavity, trying to figure out which of these two options is actually worth your money and your weekend. Maybe you got a contractor quote that felt like a gut punch. Maybe you're just tired of high utility bills and want to do something about it. Either way, I've had this exact conversation hundreds of times, and I want to give you the honest version.
-
-Here's what most comparison articles get wrong: they treat spray foam and fiberglass as if they're competing for the same job. They're not. Once you understand what each one is actually good at, the decision gets a lot easier.
+Here's what gets missed: spray foam and fiberglass aren't competing for the same job. Once you see what each does well, the choice gets simple.
 
 ## What You're Actually Choosing Between
 
-Fiberglass batt insulation (think the pink stuff, Owens Corning or Johns Manville brand rolls) is essentially spun glass fibers compressed into pre-cut panels that fit standard 16-inch or 24-inch on-center stud bays. It slows heat transfer through conduction and convection, and it does this job reasonably well when it's installed correctly. That last part is doing a lot of work in that sentence. More on it in a minute.
+Fiberglass batt insulation (the pink Owens Corning or Johns Manville rolls) is spun glass fibers compressed into pre-cut panels. They fit 16-inch or 24-inch stud bays. It slows heat transfer. That's the job. It does it reasonably well when installed correctly, and that last part matters more than most people realize.
 
-Spray foam comes in two forms. Open-cell spray foam expands dramatically and stays soft and spongy, with an R-value of around R-3.7 per inch. Closed-cell is denser, harder, and gives you R-6 to R-7 per inch. Closed-cell also acts as a vapor barrier, which open-cell does not. They are genuinely different products with different use cases, and anyone telling you to just "pick spray foam" without specifying which type doesn't know what they're talking about.
+Spray foam comes in two versions. Open-cell expands dramatically, stays spongy, R-3.7 per inch. Closed-cell is denser, harder, R-6 to R-7 per inch, and acts as a vapor barrier. They're genuinely different products. Anyone telling you to just "pick spray foam" without specifying which type is guessing.
 
-There's also a third player worth mentioning: spray foam in a can. Products like Great Stuff Pro or Froth-Pak kits are DIY-accessible and genuinely useful for air sealing around penetrations, gaps, and rim joists. This is different from the professional two-part spray foam systems that require expensive rented or purchased equipment.
+There's also spray foam in a can. Great Stuff Pro or Froth-Pak kits are DIY-accessible and useful for air sealing gaps, penetrations, rim joists. This is separate from professional two-part systems that need expensive rented equipment.
 
 ## The Case for Fiberglass: Where It Actually Wins
 
-R-38 worth of fiberglass batts for a 1,200-square-foot attic floor will run you roughly $600 to $900 in materials at your local Home Depot or Menards. That's the installed cost if you're doing it yourself. You need a respirator, safety glasses, gloves, and disposable coveralls. You can buy all of that for under $40.
+R-38 fiberglass batts for a 1,200-square-foot attic floor runs roughly $600 to $900 in materials at Home Depot or Menards. Add a respirator, safety glasses, gloves, and disposable coveralls. That's another $40. You're done.
 
-For attic floors specifically, fiberglass is genuinely hard to beat on cost. You're not air sealing the batts themselves (you'd do that separately with canned foam before laying the batts), you're just adding thermal resistance, and fiberglass handles that fine. Same goes for interior partition walls where moisture isn't a concern and you're mostly after sound control.
+For attic floors, fiberglass is hard to beat on cost. You're adding thermal resistance. It handles that fine. Same for interior partition walls where moisture isn't a concern and you want sound control.
 
-The problem people run into is installation quality. A fiberglass batt that's compressed, torn, or has gaps around it can lose 30 to 50 percent of its rated R-value. I've pulled batts out of walls that were stuffed in like old newspapers. The correct install is snug but not compressed, with no gaps, no voids, and the vapor retarder (the kraft paper facing) facing the warm side of the wall. If you're doing this in a cold climate, that means facing toward the inside of the house.
+The real problem: installation quality kills it. A compressed batt, a torn one, gaps around the edges, loses 30 to 50 percent of its rated R-value. I've pulled batts out of walls stuffed in like old newspapers. Correct install means snug but not compressed, no gaps, no voids, vapor retarder facing the warm side. In a cold climate, that's toward the inside of your house.
 
-One honest limitation: fiberglass doesn't air seal. It's porous. Air moves through it freely, which means if your house has leaks (and almost every house built before 2000 does), fiberglass alone isn't solving your comfort problem. You'll still feel drafts. You'll still have moisture issues in certain climates. This is the number one complaint I hear from homeowners who did a "full insulation job" with fiberglass and still feel cold in January.
+Fiberglass doesn't air seal. It's porous. Air moves through freely. If your house has leaks (and almost every house built before 2000 does), fiberglass alone won't fix it. You'll still feel drafts. Moisture issues will persist. This is the number one complaint from homeowners who did a full insulation job with fiberglass and still freeze in January.
 
 ## Where Spray Foam Earns Its Premium
 
-Closed-cell spray foam at 2 inches thick gives you around R-13, plus an air and vapor barrier, in the same space that fiberglass gives you R-13 with neither. That's the comparison that matters for crawl spaces, rim joists, and any wall cavity where moisture intrusion is a real concern.
+Closed-cell spray foam at 2 inches gives R-13 plus an air and vapor barrier. Fiberglass gives R-13 with neither. That's the comparison that matters for crawl spaces, rim joists, anywhere moisture intrusion is real.
 
-Rim joists are actually my top recommendation for homeowners who want to do a small spray foam project themselves. The rim joist is that band of framing that sits on top of your foundation wall and supports the floor system. It's typically freezing cold, often has gaps and cracks, and is directly responsible for a lot of the cold-floor complaints I hear from people with basements or crawl spaces. A Froth-Pak 620 kit (around $350 at most building supply stores) is enough to do a typical ranch-style house rim joist. You spray 2 to 3 inches of closed-cell, it cures in minutes, and you've created a genuine air and thermal barrier. It's one of the highest-impact DIY insulation projects a homeowner can do.
+Rim joists are my top call for a small DIY spray foam project. The rim joist is that band of framing on top of your foundation wall supporting the floor. It's freezing cold, full of gaps and cracks, directly responsible for cold floors in basements and crawl spaces. A Froth-Pak 620 kit (around $350 at building supply stores) covers a typical ranch rim joist. You spray 2 to 3 inches of closed-cell, it cures in minutes, and you've built a real air and thermal barrier. One of the highest-impact DIY insulation projects out there.
 
-Cathedral ceilings and unvented roof assemblies are where closed-cell spray foam has no real DIY alternative. You need specific R-values achieved in a specific ratio (often half the total R-value in spray foam closest to the roof deck), and the installation requires professional equipment and training. Don't attempt a full roof assembly with DIY kits. This is the one area where I tell people to get the contractor quote, get three of them, and budget accordingly. Expect $1.50 to $3.50 per board foot for professional closed-cell foam, installed.
+Cathedral ceilings and unvented roof assemblies are where closed-cell spray foam has no DIY alternative. You need specific R-values in specific ratios (often half the total R-value in foam closest to the roof deck), and it requires professional equipment and training. Don't try a full roof assembly with DIY kits. Get three contractor quotes. Budget $1.50 to $3.50 per board foot, installed.
 
-Open-cell foam has its place too, mostly interior walls, basement walls in some climates, and situations where you want vapor permeability. But be careful with open-cell in humid climates or anywhere with a moisture risk. It soaks up water and holds it. I've seen mold issues in crawl spaces where someone used open-cell because it was cheaper. Closed-cell in those locations. Full stop.
+Open-cell foam works for interior walls, basement walls in some climates, anywhere you want vapor permeability. But avoid it in humid climates or anywhere with moisture risk. It soaks up water and holds it. I've seen mold issues in crawl spaces where someone used open-cell to save money. Closed-cell in those locations. Full stop.
 
 ## The Real DIY Question
 
-Here's what I tell people who are trying to decide how much of this to tackle themselves: the projects with the best ROI for DIY are attic air sealing (canned foam around penetrations, light fixtures, top plates) followed by fiberglass batts on the attic floor, and rim joist insulation with a Froth-Pak kit. These three things together can cut your heating and cooling bills meaningfully, often 15 to 25 percent depending on your starting point, and you can do all of it for under $1,000 in most cases.
+The best ROI projects for DIY: attic air sealing with canned foam around penetrations and light fixtures, fiberglass batts on the attic floor, and rim joist insulation with a Froth-Pak kit. These three cut heating and cooling bills meaningfully, often 15 to 25 percent. You can do all of it for under $1,000 in most cases.
 
-What you should not DIY: full wall cavities in a finished home (the tear-out and replacement costs outweigh the DIY savings almost every time), spray foam on a vented roof deck, and anything touching your HVAC ductwork or return air system without understanding how it affects pressure balance.
+Skip: full wall cavities in finished homes (tear-out costs kill your savings), spray foam on vented roof decks, anything near HVAC ductwork or return air systems without understanding pressure balance.
 
-Rented spray foam equipment from companies like SprayEZ or GrecoSystem can handle larger projects if you're comfortable with the learning curve. The equipment itself runs $1,500 to $2,500 to rent for a weekend, and two-component foam chemical sets run roughly $80 to $120 per set with each set covering about 200 board feet at 1 inch. Do the math before you commit. For many mid-size projects, a pro bid is actually competitive.
+Rented spray foam equipment from SprayEZ or GrecoSystem handles larger projects if you're comfortable learning it. Equipment rental runs $1,500 to $2,500 for a weekend. Two-component foam sets cost $80 to $120 each, covering about 200 board feet at 1 inch. Do the math. For mid-size projects, a pro bid is often competitive.
 
 ## Vapor Barriers and Climate: The Part Nobody Explains Well
 
-This trips people up more than anything else. Whether you need a vapor barrier, where it goes, and what type depends almost entirely on your climate zone. If you're in Minnesota (Zone 6 or 7), vapor moves from inside to outside in winter, so your vapor retarder goes on the warm side (interior). If you're in Florida (Zone 2), it works the opposite way in summer. Some climates are mixed and the answer is genuinely complicated.
+This trips people up more than anything. Whether you need a vapor barrier, where it goes, what type, depends almost entirely on your climate zone. Minnesota (Zone 6 or 7) means vapor moves inside to outside in winter, so the retarder goes on the interior (warm side). Florida (Zone 2) works opposite in summer. Some climates are mixed. The answer gets genuinely complicated.
 
-Closed-cell spray foam solves a lot of this because it's its own vapor barrier at 2 inches or more. Fiberglass doesn't, which is why you see kraft-faced batts with the paper acting as a class II vapor retarder, and why you sometimes need to add a 6-mil poly sheet on top of unfaced batts.
+Closed-cell spray foam solves this because it's its own vapor barrier at 2 inches or more. Fiberglass doesn't. That's why kraft-faced batts have paper acting as a class II vapor retarder. That's why you sometimes need 6-mil poly over unfaced batts.
 
-The IRC (International Residential Code) has specific requirements by climate zone. Look up your zone on the Building America Solution Center website before you start any insulation project. It takes 10 minutes and could save you a genuinely expensive mistake.
-
----
-
+The IRC (International Residential Code) has specific requirements by climate zone. Look up your zone on the Building America Solution Center website before starting. Ten minutes. Could save you a genuinely expensive mistake.
 
 ---
 
-Pick the project you can actually do well, not the most ambitious one. A properly installed attic with air sealing and fiberglass batts will outperform a sloppy spray foam job every time. Know your limits, know your climate, and spend the money where it moves the needle.
+Pick the project you can actually do well, not the most ambitious one. A properly installed attic with air sealing and fiberglass batts will outperform a sloppy spray foam job every time. Know your limits. Know your climate. Spend the money where it moves the needle.
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
-
----
 
 ## Recommended Resources
 
@@ -91,4 +85,3 @@ Pick the project you can actually do well, not the most ambitious one. A properl
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)** (~$199), 200W panel kit with MPPT charge controller for maximum energy harvest.
-

@@ -20,10 +20,9 @@ author_title: "Plumbing Writer"
 author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
 
 ---
+Your door won't latch. It clicks but swings open. Or maybe it pops open on its own. Or you have to shoulder-shove it every single time. Whatever's happening, it's annoying, it's a security issue, and you're sick of it. The good news: this is one of the easiest household fixes. Most of the time you can solve it yourself in under an hour without calling anyone.
 
-Your door won’t latch, and it’s driving you absolutely crazy. Whether it refuses to click shut, pops open on its own, or requires a firm shoulder shove every single time, a door that won’t latch is more than just an annoyance,  it can be a real security and safety concern. The good news is that this is one of the most common household problems, and in most cases, you can fix it yourself in under an hour without calling a locksmith or carpenter.
-
-In this guide, we’ll walk you through exactly why doors stop latching and how to fix the problem step by step, no matter what’s causing it.
+This guide walks you through why doors stop latching and how to actually fix it, step by step.
 
 
 <div class="value-module">
@@ -37,126 +36,123 @@ In this guide, we’ll walk you through exactly why doors stop latching and how 
 
 ## Why Doors Stop Latching: Common Causes
 
-Before grabbing your tools, it helps to understand what’s actually going wrong. Doors stop latching for a handful of predictable reasons, and identifying the right one will save you time and frustration.
+Before you grab your tools, know this: doors fail to latch for pretty specific reasons. Figure out which one is yours and you'll skip the guesswork.
 
-Here are the most common culprits:
+The usual suspects:
 
-  * **Strike plate misalignment**,  The metal plate on the door frame has shifted and no longer lines up with the latch bolt.
-  * **Door hinge problems**,  Loose or sagging hinges cause the door to drop or tilt, throwing off the latch alignment.
-  * **Swollen wood**,  Humidity causes wood to expand, making the door fit too tightly in the frame.
-  * **Worn or sticky latch mechanism**,  The latch bolt itself may be dirty, bent, or worn out.
-  * **Shifting foundation or frame**,  Over time, homes settle and door frames can move slightly out of square.
+* **Strike plate misalignment.** The metal plate on the frame has drifted out of position. The latch bolt shoots past it.
+* **Loose or sagging hinges.** They settle over time. The door drops or tilts. Latch alignment goes with it.
+* **Swollen wood.** Humidity swells the wood frame or door. Everything binds. The door won't close smoothly.
+* **Worn or sticky latch mechanism.** The bolt itself is dirty, bent, or just tired. It won't spring back.
+* **Foundation or frame shift.** Houses settle. Door frames move. Everything goes slightly out of square.
 
-Most of these issues are simple fixes. Let’s get started.
+Most of these are fast fixes. Let's go.
 
-## Tools and Materials You’ll Need
+## Tools and Materials You'll Need
 
-Gather these items before you begin. Having everything within reach will make the job much smoother and prevent unnecessary trips back and forth.
+Grab these before starting. Having them on hand prevents the annoying back-and-forth trips:
 
-  * Phillips head screwdriver
-  * Flathead screwdriver
-  * Hammer
-  * Chisel (optional, for strike plate adjustment)
-  * Lipstick or colored chalk (for finding alignment)
-  * Metal file or sandpaper
-  * Wood glue and toothpicks (for stripped screw holes)
-  * Longer screws (3-inch wood screws work well)
-  * Lubricant spray (like WD-40 or dry Teflon lubricant)
-  * Strike plate (replacement, if needed)
+* Phillips head screwdriver
+* Flathead screwdriver
+* Hammer
+* Chisel (optional)
+* Lipstick or colored chalk
+* Metal file or sandpaper
+* Wood glue and toothpicks
+* 3-inch wood screws
+* Lubricant spray (WD-40 or dry Teflon)
+* Replacement strike plate (if needed)
 
-You likely have most of these already. This is a beginner-friendly repair that requires no power tools and no special skills.
+You probably own half of these already. No power tools required. No special skills either.
 
-**⚠️ Safety:** If your door leads to the outside and you need to remove hardware or prop it open, make sure someone else is home with you, or let a neighbor know. Never leave an exterior door unsecured overnight, especially if you live alone.
+**⚠️ Safety:** If this is an exterior door and you'll be removing hardware or propping it open, have someone else home with you or tell a neighbor what you're doing. Never leave an outside door unsecured overnight, especially alone.
 
 ## Step 1: Diagnose the Alignment Problem
 
 Photo by [John Cardamone](https://unsplash.com/@john_cardamone?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-The first step is to figure out exactly where the latch bolt is hitting,  or missing,  the strike plate. This is easier than it sounds.
+Figure out where the latch is actually hitting (or missing) the strike plate. This is simpler than you think.
 
-Rub a small amount of lipstick, lip balm, or colored chalk on the end of the latch bolt. Then gently close the door and open it again. The color will leave a mark on the strike plate showing exactly where the latch is making contact.
+Rub a little lipstick, balm, or colored chalk on the latch bolt tip. Close the door gently, then open it. The mark shows exactly where your latch contacted the plate.
 
-Check your results:
+Read the mark:
 
-  * If the mark is **too high or too low** on the strike plate, the door has shifted vertically.
-  * If the mark is **too far in or out**, the door is either swollen or the hinges are loose.
-  * If there’s **no mark at all** on the strike plate, the latch is missing entirely,  a bigger misalignment.
+* **Too high or too low?** The door shifted vertically.
+* **Too far in or out?** Swelling or loose hinges.
+* **No mark at all?** The latch is missing the strike plate entirely. Bigger problem.
 
-Once you know where the problem lies, you can move to the right fix.
+Once you know what you're looking at, the fix becomes obvious.
 
 ## Step 2: Tighten or Repair Loose Hinges
 
-Loose hinges are one of the top reasons a door won’t latch, especially in older homes. Over years of use, the screws that hold the hinges to the frame can work themselves loose, causing the door to sag or shift.
+Loose hinges top the list of reasons doors won't latch. Years of opening and closing work the screws loose. The door sags or tilts. Latch alignment suffers.
 
-Open the door fully and check every hinge. Try to wiggle each one,  even slight movement means the screws need attention.
+Open the door fully. Wiggle each hinge. Even tiny movement means those screws need work.
 
-**To tighten loose hinge screws:**
+**To tighten them:**
 
-  * First, try simply tightening the existing screws with your Phillips screwdriver.
-  * If a screw spins without tightening (stripped hole), remove the screw, dip a toothpick in wood glue, and push it into the hole. Let it dry for 30 minutes, snap off the excess, then reinsert the screw.
-  * For better long-term results, replace short hinge screws with 3-inch screws that reach the wall stud behind the door frame.
+* Try the obvious: just tighten the existing screws with your Phillips screwdriver.
+* If a screw spins uselessly (stripped hole), remove it, dip a toothpick in wood glue, jam it in the hole. Wait 30 minutes for it to dry, snap off the extra, then rescrew.
+* For real durability, replace the short factory screws with 3-inch ones that reach the wall stud behind the frame.
 
-This single fix solves the majority of latching problems. Try closing the door after tightening the hinges before moving on.
+This one fix handles most latching problems. Try closing the door after tightening before you move forward.
 
-**Pro Tip:** Using longer 3-inch screws in the top hinge is the single most effective fix for a sagging door. Standard hinge screws are only ¾-inch long and barely grip the wood,  longer screws anchor into the wall stud and make a huge difference.
+**Pro Tip:** Replace the top-hinge screws with 3-inchers. The factory ones are only ¾-inch and barely grip anything. Longer screws anchor into the stud. This alone solves a ton of sagging-door problems.
 
 ## Step 3: Adjust or Reposition the Strike Plate
 
 Photo by [Margarita Shtyfura](https://unsplash.com/@kvitka?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-If the door still won’t latch after tightening the hinges, the strike plate likely needs to be moved or enlarged. This is the metal plate recessed into the door frame where the latch bolt clicks in.
+Still not latching? The strike plate probably needs to move or get bigger. That's the metal piece recessed into the frame where the bolt clicks.
 
-**If the latch is only slightly off (less than ⅛ inch):**
+**For small misalignments (less than ⅛ inch):**
 
-  * Use a metal file to enlarge the strike plate opening in the direction needed (up, down, or sideways).
-  * File a little at a time and test the door frequently.
+* Use a metal file to enlarge the strike opening in whatever direction you need (up, down, sideways).
+* File a tiny bit, test, file more. Go slow.
 
-**If the latch is more than ⅛ inch off:**
+**For bigger misalignments (more than ⅛ inch):**
 
-  * Remove the strike plate screws and take the plate off entirely.
-  * Use a chisel to carefully deepen or shift the mortise (the recessed pocket) in the direction needed.
-  * Reposition the strike plate and screw it back in place.
-  * Fill any exposed wood gaps with wood filler and let it dry.
+* Unscrew the strike plate and remove it completely.
+* Use a chisel to carefully deepen or shift the mortise (the recessed pocket where it sits).
+* Reposition the plate and screw it back.
+* Fill any exposed wood with wood filler and let it dry.
 
-Take your time with this step. Small, careful adjustments are better than removing too much material at once.
+Patience matters here. Small adjustments beat removing too much material at once.
 
 ## Step 4: Fix a Swollen or Sticking Door
 
-If your door sticks and won’t latch primarily in summer or after rainy weather, swollen wood is likely the issue. Humidity causes wood to expand, and the door no longer fits its frame as easily as it did.
+Your door sticks worst in summer or after rain? Swollen wood. Humidity causes wood to expand. The door no longer fits its frame.
 
-Look for areas where the door is rubbing against the frame,  you may see worn paint or scuff marks. These are the spots you need to address.
+Look for rubbing marks on the frame. You'll see worn paint or scuffs where the door drags. That's what you fix.
 
-**Options for fixing a swollen door:**
+**Options:**
 
-  * **Let it dry out:** Run a dehumidifier or heater near the door for a few days. If the problem is seasonal, it may resolve on its own in drier weather.
-  * **Sand the sticky area:** Use medium-grit sandpaper on the edge of the door where it’s rubbing. Sand in the direction of the wood grain.
-  * **Plane the door edge:** For more significant swelling, a hand plane can shave down the edge more precisely. If you’re not comfortable with a hand plane, this is a good job for a handyman.
-  * **Seal the wood:** Once adjusted, paint or seal the raw wood edge to prevent moisture from re-entering and causing the problem again.
+* **Dry it out.** Run a dehumidifier or space heater near the door for a few days. Seasonal problems sometimes fix themselves.
+* **Sand the rubbing spot.** Use medium-grit sandpaper on the edge where it drags. Sand with the grain.
+* **Plane it down.** For serious swelling, a hand plane works better. Not comfortable with one? Hire it out.
+* **Seal the edge.** Once you trim it, paint or seal the raw wood so moisture can't swell it again.
 
 ## Step 5: Lubricate and Repair the Latch Mechanism
 
 Photo by [Possessed Photography](https://unsplash.com/@possessedphotography?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Sometimes the latch bolt itself is the problem. It may be sticky, corroded, or simply worn out from years of use. A latch that doesn’t spring back fully will never engage the strike plate properly.
+Sometimes the bolt itself is the culprit. It's sticky, corroded, worn out. A latch that won't spring back won't engage the strike plate.
 
-Remove the door handle and latch assembly by unscrewing the handle plates on both sides of the door. The latch bolt unit will slide out from the edge of the door.
+Remove the handle by unscrewing both side plates. The latch mechanism slides out from the door edge.
 
-**What to do next:**
+**Next:**
 
-  * Spray a small amount of lubricant into the latch mechanism and work it back and forth by hand.
-  * Check that the latch spring is intact and not bent or broken.
-  * If the latch bolt is bent or the spring is damaged, replace the entire latch mechanism,  they are inexpensive (usually $10–$20) and widely available at hardware stores.
-  * Reinstall the assembly and test the door.
+* Spray lubricant into the mechanism and work it back and forth by hand.
+* Check the spring. Is it bent or broken?
+* If the bolt is bent or the spring is damaged, swap the whole latch unit. They cost $10–$20 at any hardware store and replace in five minutes.
+* Reinstall and test.
 
-Replacing a latch mechanism is simpler than it looks. The new unit slides right into the existing hole in the door edge, and the handles reattach the same way the old ones came off.
+Replacing a latch is easier than it sounds. The new one slides right in, handles reattach the same way.
 
+## You've Got This
 
-## You’ve Got This
+A door that won't latch seems like a mystery until you know what to look for. Then it's actually manageable. Whether it's a loose screw or a strike plate shift, one of these fixes will get your door working again.
 
-A door that won’t latch is one of those household problems that seems mysterious until you know what to look for,  and then it’s actually quite manageable. Whether it’s a simple screw tightening job or a strike plate adjustment, the fixes in this guide will get your door closing smoothly and securely again.
-
-Take it one step at a time, be patient with yourself, and don’t hesitate to stop and ask for help if something doesn’t feel right. With a few basic tools and a little time, you’ll have that door working perfectly,  and you’ll feel great knowing you handled it yourself.
-
-  
+Take it one step. Be patient. Stop and ask for help if something feels wrong. With basic tools and some time, your door will latch smoothly. And you'll have done it yourself.
 
 Photo by [Suraj Tomer](https://unsplash.com/@meditative?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)

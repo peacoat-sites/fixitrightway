@@ -24,7 +24,6 @@ faqs:
   - q: "How long does a DIY repipe typically take?"
     a: "A full house repipe done by one person with solid preparation takes four to six days for a 1,500 square foot home. That includes planning, rough-in, pressure testing, and reconnection at fixtures. Budget extra time if you're opening finished walls rather than working in an unfinished space. The rough-in itself is often the fastest part; the demo and patching take longer than most people expect."
 ---
-
 Copper still wins in exactly one scenario: you're doing a small repair on an existing copper system and you don't want to deal with transition fittings. That's it. For anything bigger, for a partial repipe or a full house repipe, PEX has made copper look like a stubborn habit more than a smart choice.
 
 I say that after spending years running both. The arguments you'll still find online defending copper for DIY work are mostly recycled from before PEX-A tools dropped in price and before anyone had two decades of field data on PEX reliability. That data exists now, and the picture is pretty clear.
@@ -33,17 +32,17 @@ I say that after spending years running both. The arguments you'll still find on
 
 PEX is cross-linked polyethylene tubing. It comes in three types: PEX-A (made with the Engel method), PEX-B (silane method), and PEX-C (electron beam). Most DIYers should use PEX-A. It's the most flexible, it has the best freeze resistance, and it's the only type that works with expansion fittings, which are stronger than the pipe itself at the joint. Uponor (formerly Wirsbo) and Rehau make the best PEX-A on the market. PEX-B from brands like SharkBite or Watts is fine for repairs and short runs, but I wouldn't build a whole house on it when PEX-A exists.
 
-Copper is type M, L, or K. For residential work, you're almost always using Type M (thinnest walls, cheapest) or Type L (thicker, better for hot water lines under higher pressure). Type K is overkill for anything inside a house wall. Most plumbing supply houses and big-box stores stock Type M and L in half-inch and three-quarter-inch, which covers 90% of residential repipe work.
+Copper breaks down into type M, L, or K. For residential work, you're almost always using Type M (thinnest walls, cheapest) or Type L (thicker, better for hot water lines under higher pressure). Type K is overkill for anything inside a house wall. Most plumbing supply houses and big-box stores stock Type M and L in half-inch and three-quarter-inch, which covers 90% of residential repipe work.
 
-The honest comparison: copper is a known quantity. It's been in walls since the 1950s, code officials understand it, and a bad copper joint is usually visible because it drips or shows a green stain. PEX failures are rarer but when they happen, they're often slower and harder to catch.
+Here's the honest take: copper is a known quantity. It's been in walls since the 1950s, code officials understand it, and a bad copper joint is usually visible because it drips or shows a green stain. PEX failures are rarer but when they happen, they're often slower and harder to catch.
 
 ## Cost, And Why The Gap Is Bigger Than You Think
 
-Half-inch Type M copper runs around $1.10 to $1.40 per linear foot currently. Half-inch PEX-A runs $0.45 to $0.65 per foot. On a 1,500 square foot house, a full repipe might require 400 to 600 feet of half-inch pipe plus another 100 or so feet of three-quarter for mains. Do the math: you're looking at a $300 to $500 difference on pipe alone for an average house.
+Half-inch Type M copper runs around $1.10 to $1.40 per linear foot right now. Half-inch PEX-A runs $0.45 to $0.65 per foot. On a 1,500 square foot house, a full repipe might require 400 to 600 feet of half-inch pipe plus another 100 or so feet of three-quarter for mains. Do the math: you're looking at a $300 to $500 difference on pipe alone for an average house.
 
 Fittings push that gap wider. A half-inch copper sweat elbow costs around $1.50 to $2.50. A PEX-A expansion elbow from Uponor costs about $1.00 to $1.50. But here's where it really diverges: a PEX manifold system, where you run individual supply lines from a central manifold to each fixture, uses almost no fittings at all in the walls. One connection at the manifold, one at the fixture. That's the home-run method, and it's the way I'd do a full repipe every time.
 
-The tool cost is the catch. A PEX-A expansion tool from Uponor (the ProPEX expansion tool) runs $300 to $400 new. You can rent it at most tool rental places for around $40 to $60 a day. Copper tools, a decent pipe cutter and a propane setup with flux and solder, run about $80 to $120 and you own them forever. If you're doing one repipe and never touching plumbing again, rent the PEX-A tool. If you're a frequent DIYer, buy it. It pays back fast.
+The tool cost is the catch though. A PEX-A expansion tool from Uponor (the ProPEX expansion tool) runs $300 to $400 new. You can rent it at most tool rental places for around $40 to $60 a day. Copper tools, a decent pipe cutter and a propane setup with flux and solder, run about $80 to $120 and you own them forever. If you're doing one repipe and never touching plumbing again, rent the PEX-A tool. If you're a frequent DIYer, buy it. It pays back fast.
 
 ## The DIY Skill Gap Is Real
 
@@ -75,12 +74,7 @@ For copper, the approach is trunk-and-branch: a main three-quarter trunk from th
 
 Pressure test before you close up any walls. For PEX, cap all your open ends, pressurize the system to 80 to 100 PSI with an air compressor, and let it sit for two hours. Any drop tells you there's a problem. Find it before the drywall goes up.
 
----
-
-
 *Photo: [Marcelo Chagas](https://www.pexels.com/@marcelochagas) via Pexels*
-
----
 
 ## Recommended Resources
 
@@ -88,4 +82,3 @@ Pressure test before you close up any walls. For PEX, cap all your open ends, pr
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)** (~$199), 200W panel kit with MPPT charge controller for maximum energy harvest.
-

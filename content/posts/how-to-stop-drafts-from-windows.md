@@ -20,128 +20,128 @@ author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
 
 ---
+Your windows feel like open holes in the wall every winter. Cold air seeps in. Your heating bills climb. You crank the thermostat higher and higher, but you just can't get comfortable.
 
-Your windows feel like open holes in the wall every winter,  cold air seeping in, heating bills climbing, and no matter how high you turn up the thermostat, you just can’t seem to get comfortable. If this sounds familiar, you’re dealing with a very common and very fixable problem. A **drafty windows fix** doesn’t have to be expensive or complicated, and most seniors can tackle it safely at home with just a few simple tools and materials.
+If that's your life right now, here's the good news: drafty windows are fixable. You don't need to spend thousands replacing them or call an expensive contractor. Most people can seal those gaps in an afternoon with just a few basic tools from any hardware store, and the materials cost somewhere between $20 and $50.
 
-Window drafts are one of the leading causes of energy loss in older homes. The good news is that with the right approach, you can seal those gaps, stay warmer, and even lower your monthly energy costs,  all in a single afternoon.
+Window drafts are one of the biggest reasons older homes hemorrhage energy. But when you know what you're doing, you can stop that loss, feel warmer, and actually lower your heating bill all in the same project.
 
 ## Why Windows Become Drafty Over Time
 
-Windows don’t stay airtight forever. Over years of temperature changes, the frames expand and contract, and the sealing materials around them break down.
+Windows aren't designed to stay airtight forever. Years of temperature swings cause the frames to expand and contract. The weatherstripping and caulk around them eventually break down.
 
-Common causes of drafty windows include:
+The usual culprits:
 
-  * Worn or cracked weatherstripping around the frame
-  * Old or shrunken caulk that has pulled away from the wall
-  * Warped or poorly fitting window frames
-  * Single-pane glass with no insulating air gap
-  * Broken or missing window locks that prevent a tight seal
+* Weatherstripping that's worn flat, cracked, or gone missing entirely
+* Caulk that's shrunk and pulled away from the wall
+* Window frames that have warped or settled poorly
+* Single-pane glass with nothing insulating it
+* Broken window locks that won't let the sash close tight
 
-Even newer windows can develop drafts if they weren’t installed correctly or if the house has settled over time. The important thing is knowing how to find the problem and fix it step by step.
+Even new windows can draft if they were installed badly or if your house has shifted. The real question is whether you can find the problem and fix it.
 
 ## Tools and Materials You Will Need
 
-Before you begin, gather everything you need so you don’t have to stop midway through the project. Most of these items are available at any hardware store and cost very little.
+Get everything before you start. You don't want to be halfway done and realize you're missing something.
 
-  * Rope caulk or silicone caulk (with a caulk gun)
-  * Foam weatherstripping tape (self-adhesive)
-  * V-strip (tension seal) weatherstripping
-  * Window insulation film kit
-  * A putty knife or old butter knife
-  * Scissors and a utility knife
-  * A clean rag or damp cloth
-  * Rubbing alcohol (for cleaning surfaces)
-  * A candle, incense stick, or lighter (for finding drafts)
-  * A hair dryer (if using shrink-film insulation)
+* Rope caulk or silicone caulk (with a caulk gun)
+* Foam weatherstripping tape (self-adhesive)
+* V-strip (tension seal) weatherstripping
+* Window insulation film kit
+* A putty knife or old butter knife
+* Scissors and a utility knife
+* A clean rag or damp cloth
+* Rubbing alcohol
+* A candle, incense stick, or lighter (for finding drafts)
+* A hair dryer (if you use shrink-film insulation)
 
-You likely already have several of these items at home. Budget around $20–$50 to cover everything you need for most standard windows.
+You probably have half these at home already. Budget $20–$50 total for most standard windows.
 
-**Pro Tip:** On a cold or windy day, hold a lit stick of incense near your window edges. Watch for the smoke to waver,  that movement tells you exactly where the cold air is getting in. This simple test saves you time and helps you focus your repairs where they matter most.
+**Pro Tip:** On a cold or windy day, hold a lit incense stick near your window edges. Watch for the smoke to waver. That tells you exactly where the air's getting in and saves you guessing.
 
 ## Step 1: Find Where the Cold Air Is Coming In
 
 Photo by [Cole Ankney](https://unsplash.com/@rcankney?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Before you can fix a draft, you need to locate it precisely. Don’t assume you already know,  sometimes the biggest draft is hiding in a spot you wouldn’t expect.
+You can't fix what you can't find. And trust me, the biggest draft is often somewhere you wouldn't expect.
 
-Here’s how to do a quick draft inspection:
+Here's the inspection:
 
-  * On a cold, windy day, run your hand slowly around the entire window frame,  top, sides, and bottom sill.
-  * Use a candle or incense stick for a more reliable test. Hold it a few inches from each edge and watch for flickering or wavering smoke.
-  * Check the meeting rail (where the two sashes meet in the middle of a double-hung window),  this is often overlooked.
-  * Look for visible gaps or cracks in the caulk around the outside of the window frame.
+* On a cold, windy day, run your hand slowly around the entire frame. Top, sides, bottom sill. Feel for moving air.
+* Use a candle or incense stick for a more reliable test. Hold it a few inches from each edge and watch for flickering or smoke that drifts sideways.
+* Check the meeting rail, that's where the two sashes meet in the middle of a double-hung window. Everyone misses this.
+* Look for visible gaps or cracks in the caulk around the outside of the frame.
 
-Mark the problem areas with a small piece of painter’s tape so you remember exactly where to focus your repairs.
+Mark problem areas with painter's tape. You'll know exactly where to focus.
 
 ## Step 2: Replace or Add Weatherstripping
 
-Weatherstripping is the flexible seal that runs along the edges of your window sash. When it wears out, cold air slips right through. Replacing it is one of the most effective drafty windows fixes you can make.
+Weatherstripping is the flexible seal that runs along your window sash. When it flattens out or cracks, cold air walks right through. Replacing it is one of the most effective fixes you can make.
 
-Follow these simple steps:
+Here's how:
 
-  * Use your putty knife to peel away any old, flattened, or cracked weatherstripping from the frame.
-  * Clean the surface with rubbing alcohol on a rag and let it dry completely,  adhesive won’t stick to a dirty surface.
-  * Measure and cut your foam weatherstripping tape to fit each side of the sash.
-  * Press it firmly into place along the inside of the frame where the window closes against it.
-  * For sliding or double-hung windows, consider V-strip weatherstripping inside the channel where the sash slides,  it compresses as the window closes, creating a tight seal.
+* Use your putty knife to peel away old, flattened, or cracked weatherstripping from the frame.
+* Clean the surface with rubbing alcohol on a rag and let it dry. Adhesive won't stick to dirty surfaces.
+* Measure and cut foam weatherstripping tape to fit each side of the sash.
+* Press it firmly into place along the inside of the frame where the window closes against it.
+* For sliding or double-hung windows, consider V-strip weatherstripping inside the channel where the sash slides. It compresses as the window closes, creating a tight seal.
 
-Open and close your window a few times to make sure the new seal isn’t too thick and still allows smooth operation.
+Open and close the window a few times to make sure the seal isn't too thick and the sash still moves smoothly.
 
 ## Step 3: Recaulk Around the Window Frame
 
 Photo by [Julia Rodriguez](https://unsplash.com/@julesrodr?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Old caulk shrinks and cracks over time, leaving tiny gaps between the window frame and the wall. Recaulking is a simple fix that makes a big difference in stopping drafts and keeping moisture out.
+Old caulk shrinks and cracks, leaving tiny gaps between the frame and wall. Recaulking stops drafts and keeps moisture out.
 
-**⚠️ Safety:** If you need to reach the outside of an upper-floor window, do not lean out or use an unstable step stool. Ask a family member, neighbor, or handyman for help with exterior caulking that requires a ladder. Your safety is always more important than the repair.
+**⚠️ Safety:** If you need to reach the outside of an upper-floor window, don't lean out or use an unstable step stool. Ask a family member, neighbor, or handyman for help. Your safety matters more than any repair.
 
-Here’s how to recaulk your windows:
+The process:
 
-  * Use your putty knife or a caulk removal tool to scrape away all the old, cracked caulk,  both inside and outside the frame if accessible.
-  * Wipe the area clean with a damp cloth and allow it to dry fully.
-  * Load your silicone or latex caulk into the caulk gun. Silicone lasts longer outdoors; paintable latex works better indoors.
-  * Apply a smooth, continuous bead of caulk along the joint between the window frame and the wall.
-  * Wet your fingertip or use a caulk tool to smooth the bead into the gap.
-  * Let it dry according to the package instructions before opening the window.
+* Use your putty knife or a caulk removal tool to scrape away all the old, cracked caulk. Do both inside and outside the frame if you can reach it.
+* Wipe the area clean with a damp cloth and let it dry fully.
+* Load your silicone or latex caulk into the caulk gun. Silicone lasts longer outdoors; paintable latex works better inside.
+* Apply a smooth, continuous bead of caulk along the joint between the frame and wall.
+* Wet your fingertip or use a caulk tool to smooth the bead into the gap.
+* Let it dry according to package instructions before opening the window.
 
-Pay special attention to the corners,  these spots tend to crack first and let in the most air.
+Pay special attention to corners. They crack first and leak the most air.
 
 ## Step 4: Apply Window Insulation Film
 
-Window insulation film is a surprisingly effective solution, especially for older single-pane windows that lose a lot of heat through the glass itself. It creates an invisible layer of insulating air between the film and the window.
+Window insulation film works surprisingly well, especially on older single-pane windows that bleed heat through the glass itself. It creates an invisible air layer between the film and the pane.
 
-Applying window film is easy and takes about 15 minutes per window:
+This takes about 15 minutes per window:
 
-  * Clean the window frame with rubbing alcohol and let it dry completely.
-  * Apply the double-sided tape from the kit around the inside of the frame.
-  * Press the clear shrink film onto the tape, starting at the top and working your way down.
-  * Use a hair dryer on a medium setting to gently heat the film,  it will tighten and become almost invisible.
-  * Trim any excess film with scissors for a neat finish.
+* Clean the window frame with rubbing alcohol and let it dry completely.
+* Apply the double-sided tape from the kit around the inside of the frame.
+* Press the clear shrink film onto the tape, starting at the top and working down.
+* Use a hair dryer on medium setting to gently heat the film. It'll tighten and become almost invisible.
+* Trim excess film with scissors for a clean finish.
 
-The film can be removed in spring when the weather warms up, and most kits leave no residue behind. It’s a great temporary solution that delivers real warmth.
+The film comes off in spring when it warms up, and most kits leave zero residue. It's a solid temporary solution that actually works.
 
 ## Step 5: Use Draft Snakes or Window Insulator Panels for Extra Protection
 
 Photo by [Rob Wingate](https://unsplash.com/@robwingate?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Even after sealing gaps and recaulking, some windows,  especially older single-pane ones,  still let cold radiate through. A few extra comfort measures can make a noticeable difference.
+After sealing gaps and recaulking, some windows, especially older single-pane ones, still let cold radiate through. A few extra layers help.
 
-Consider these easy additions:
+Add these if you want more warmth:
 
-  * **Draft snakes:** Place a rolled-up towel or a commercial draft stopper along the bottom of the window sill to block cold air from coming under the lower sash.
-  * **Thermal curtains:** Heavy, insulated curtains help trap warm air near the window and block cold drafts. Close them at night for the biggest benefit.
-  * **Removable magnetic window inserts:** These rigid, clear panels attach magnetically to your window frame and add a layer of insulation you can remove whenever you like.
-  * **Rope caulk:** For a completely non-damaging, seasonal option, press rope caulk (a soft, putty-like material) into gaps around the sash. It peels off cleanly in spring with no damage.
+* **Draft snakes:** Place a rolled-up towel or commercial draft stopper along the window sill to block cold air coming under the lower sash.
+* **Thermal curtains:** Heavy, insulated curtains trap warm air near the window and block cold. Close them at night for the biggest effect.
+* **Removable magnetic window inserts:** Clear panels attach magnetically to your frame and add insulation you can remove anytime.
+* **Rope caulk:** For a completely temporary option, press rope caulk (soft, putty-like material) into gaps around the sash. It peels off cleanly in spring with zero damage.
 
-These comfort measures are especially helpful in bedrooms and living areas where you spend the most time during winter months.
+These work especially well in bedrooms and living areas where you spend the most time in winter.
 
+## You've Got This, Stay Warm and Comfortable This Winter
 
-## You’ve Got This,  Stay Warm and Comfortable This Winter
+Drafty windows don't have to mean a cold home or heating bills that make you wince. With these simple, affordable steps, you take real control of your comfort and your costs.
 
-Dealing with drafty windows doesn’t have to mean a cold, uncomfortable home or sky-high heating bills. With these simple, affordable steps, you can take real control of your comfort and energy costs this season.
+Start with the easiest fixes: weatherstripping and caulk. Add window film or thermal curtains for extra warmth. Every small repair compounds into a cozier, more efficient home. These improvements pay off for years.
 
-Start with the easiest fixes,  weatherstripping and caulk,  and add window film or thermal curtains for extra warmth. Every small repair you make adds up to a cozier, more energy-efficient home. You’re doing something wonderful for yourself and your household, and these improvements will keep paying off for years to come.
-
-Take it one window at a time, ask for help when you need it, and enjoy the warmth you deserve.
+Take it one window at a time. Ask for help when you need it. Enjoy the warmth you deserve.
 
 Photo by [Ed Wingate](https://unsplash.com/@ed_wingate?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)

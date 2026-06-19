@@ -25,8 +25,7 @@ author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
 
 ---
-
-Bad caulk jobs are one of the most common things I see on residential walkthroughs. Not because caulking is hard. Because most people skip two steps that matter enormously, and then wonder why their fresh bead is cracking or peeling within six months.
+Bad caulk jobs are everywhere on residential walkthroughs. Not because caulking is hard. Because most people skip two steps that matter enormously, and then wonder why their fresh bead is cracking or peeling within six months.
 
 Let me save you that frustration.
 
@@ -44,25 +43,25 @@ Let me save you that frustration.
 
 The prep work is where this goes wrong. Almost every time.
 
-If you're reading this because your tub caulk is already cracking, discolored, or pulling away from the wall, you might be wondering if you just used the wrong caulk. Possibly. But more likely, the old caulk wasn't fully removed, the surface wasn't clean enough, or the tub wasn't filled with water before the new caulk was applied. That last one trips up a lot of people, and I'll explain exactly why in a minute.
+If you're reading this because your tub caulk is already cracking, discolored, or pulling away from the wall, you might be wondering if you just used the wrong caulk. Maybe. But more likely, the old caulk wasn't fully removed, the surface wasn't clean enough, or the tub wasn't filled with water before the new caulk was applied. That last one trips up a lot of people, and I'll explain exactly why in a minute.
 
-First: you cannot caulk over existing caulk and expect it to hold. I know the tube sometimes says you can. Don't. Old caulk, even when it looks intact, has usually lost its bond at the edges, and new caulk laid on top of compromised caulk is just delaying the same failure by six months. Get it all out.
+You cannot caulk over existing caulk and expect it to hold. I know the tube sometimes says you can. Don't. Old caulk, even when it looks intact, has usually lost its bond at the edges, and new caulk laid on top of compromised caulk is just delaying the same failure by six months. Get it all out.
 
-Here's what I tell people who ask how thorough they need to be: if you can see any white or gray residue in the joint, you're not done. A plastic scraper or a utility knife with a fresh blade will handle most of it. For stubborn silicone, Goo Gone makes a product specifically called Caulk Remover (around $8 at Home Depot) and it actually works, though you'll need to let it sit 30-60 minutes. For latex-based caulk, a stiff nylon brush and some elbow grease usually does it.
+Here's what I tell people who ask how thorough they need to be: if you can see any white or gray residue in the joint, you're not done. A plastic scraper or a utility knife with a fresh blade will handle most of it. For stubborn silicone, Goo Gone makes Caulk Remover (around $8 at Home Depot) and it actually works, though you'll need to let it sit 30-60 minutes. For latex-based caulk, a stiff nylon brush and some elbow grease usually does the trick.
 
 After the old caulk is out, clean the joint with isopropyl alcohol, not a household spray cleaner. Spray cleaners leave a film. That film prevents adhesion. Wipe it down, let it dry completely, and I mean completely, at least an hour in a well-ventilated bathroom.
 
 ## Choosing the Right Caulk
 
-This is where a lot of people overspend or make the wrong call entirely.
+For a bathtub, you want a silicone or siliconized latex caulk rated for kitchens and baths with built-in mildewcide.
 
-For a bathtub, you want a silicone or siliconized latex caulk rated for kitchens and baths with built-in mildewcide. Pure 100% silicone holds up best in wet environments and resists mold longer, but it's harder to tool, doesn't take paint, and requires careful surface prep. GE Sealants makes a product called GE Advanced Silicone 2 Kitchen & Bath that runs about $9-$11 a tube and is genuinely excellent, with a lifetime guarantee. That's what I keep in my truck.
+Pure 100% silicone holds up best in wet environments and resists mold longer, but it's harder to tool, doesn't take paint, and requires careful surface prep. GE Advanced Silicone 2 Kitchen & Bath runs about $9-$11 a tube and is genuinely excellent, with a lifetime guarantee. That's what I keep in my truck.
 
-Siliconized latex (sometimes labeled "kitchen and bath" or "tub and tile" caulk) is easier to work with, cleans up with water, and is fine for most applications. DAP Kwik Seal Plus is a solid option at around $7. The tradeoff is that it won't outlast pure silicone in a heavily used shower/tub.
+Siliconized latex (sometimes labeled "kitchen and bath" or "tub and tile" caulk) is easier to work with, cleans up with water, and is fine for most applications. DAP Kwik Seal Plus is a solid option at around $7. The tradeoff is that it won't outlast pure silicone in a heavily used shower and tub combo.
 
-Don't use regular paintable latex caulk on a tub surround. It will fail fast. Same goes for grout, which isn't flexible enough to handle the constant expansion and contraction of a bathtub.
+Regular paintable latex caulk won't cut it on a tub surround. It'll fail fast. Same goes for grout, which isn't flexible enough to handle the constant expansion and contraction a bathtub creates.
 
-One more thing: color matters more than people think. Bright white looks clean day one, but if your tub is slightly off-white or your tile is warm-toned, that stark white bead will bother you every morning. Hold a strip of painter's tape against your tub before you commit.
+Color matters more than people think. Bright white looks clean day one, but if your tub is slightly off-white or your tile is warm-toned, that stark white bead will bother you every morning. Hold a strip of painter's tape against your tub before you commit.
 
 ## The Water Trick Everyone Should Know
 
@@ -76,11 +75,11 @@ I've been doing this for 20 years and I've re-caulked tubs done with this method
 
 ## How to Actually Apply the Caulk
 
-Gather what you need before you start: your caulk tube, a good caulk gun (the $12 dripless variety at Lowe's is genuinely better than the $4 one), painter's tape, a caulk finishing tool or a spoon, a small cup of water if you're using siliconized latex (or denatured alcohol for silicone), and a few rags.
+Gather what you need before you start: your caulk tube, a good caulk gun (the $12 dripless variety at Lowe's is genuinely better than the $4 one), painter's tape, a caulk finishing tool or a spoon, a small cup of water if you're using siliconized latex or denatured alcohol for silicone, and a few rags.
 
-Run two strips of painter's tape: one on the tub surface about 1/8 inch from the joint, and one on the tile or surround about 1/8 inch from the joint. This gives you a clean channel to fill and crisp edges when you peel the tape. It's not strictly necessary, but if you're new to this it makes the difference between a professional-looking result and one that looks like it was done in the dark.
+Run two strips of painter's tape: one on the tub surface about 1/8 inch from the joint, and one on the tile or surround about 1/8 inch from the joint. This gives you a clean channel to fill and crisp edges when you peel the tape off. It's not strictly necessary, but if you're new to this it makes the difference between a professional-looking result and one that looks like it was done in the dark.
 
-Cut the nozzle at a 45-degree angle. Cut it closer to the tip than you think, a smaller hole gives you more control. I'd rather make a second pass than fight a bead that's too thick.
+Cut the nozzle at a 45-degree angle. Cut it closer to the tip than you think; a smaller hole gives you more control. I'd rather make a second pass than fight a bead that's too thick.
 
 Hold the gun at roughly 45 degrees and pull it toward you in a smooth, steady motion. Don't push. Pulling gives you a more consistent bead and better adhesion because you're packing the caulk into the joint rather than riding on top of it. Keep your speed consistent. Where you slow down, caulk piles up. Practice on a piece of cardboard if you've never done this.
 
@@ -98,12 +97,7 @@ If the caulk joint keeps failing in the same spot every few months, that's often
 
 If you're pulling out caulk and finding soft drywall, black fuzz, or a musty smell, stop. That's water damage, possibly mold, behind the wall. Caulking over it seals the problem in. Costs to remediate water damage behind a tub surround run anywhere from $500 to several thousand dollars depending on how far it's spread, but catching it early is dramatically cheaper than letting it go.
 
-Also: if you have a tile surround with cracked grout throughout, fix the grout first. Caulk doesn't belong inside a tile field, only at change-of-plane joints (where the tile meets the tub, where walls meet corners). If grout is cracked everywhere, there's movement in the substrate that needs to be addressed.
-
----
-
-
----
+Also, if you have a tile surround with cracked grout throughout, fix the grout first. Caulk doesn't belong inside a tile field, only at change-of-plane joints (where the tile meets the tub, where walls meet corners). If grout is cracked everywhere, there's movement in the substrate that needs to be addressed.
 
 The whole job, done right, takes maybe two hours including prep. Most of that is waiting for cleaner to dry. The materials will run you $20-$30 total. It's one of the highest-value repairs you can do yourself, and when you see that clean, tight bead holding up three years later, you'll understand why the prep matters so much.
 

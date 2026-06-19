@@ -25,76 +25,72 @@ author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
 
 ---
+You can paint over a water stain with regular latex ceiling paint. Most people do. And within six months, the stain's back, slightly darker, slightly more humiliating, plus you've got a weird texture spot from all those extra coats.
 
-You can paint over a water stain with regular latex ceiling paint. That's what most people do. And within six months, the stain is back, slightly darker, slightly more humiliating, and now you've also got a weird texture spot from the extra coats.
-
-The fix isn't complicated. But skipping one specific step is what turns a two-hour job into a recurring nightmare.
+The fix isn't complicated. But skip one specific step and you've turned a two-hour job into a recurring nightmare.
 
 ## The Thing Everyone Skips
 
-Primer. Not just any primer. Shellac-based or oil-based stain-blocking primer. This is the only part of this process that actually matters, and most DIY advice either buries it or gets it wrong by recommending a cheap latex "stain blocker" that won't hold.
+Primer. Not just any primer. Shellac-based or oil-based stain-blocking primer. This is literally the only part that matters, and most DIY advice either buries it or recommends a cheap latex "stain blocker" that won't actually work.
 
-Water stains bleed. The minerals, tannins, and organic material left behind after a leak can push right through water-based coatings no matter how many coats you apply. Shellac-based primer creates a true barrier. Latex doesn't.
+Water stains bleed. The minerals, tannins, and organic material left behind after a leak push right through water-based coatings no matter how many coats you slap on. Shellac-based primer creates a true barrier. Latex doesn't.
 
-The two products I've used reliably for years: Zinsser BIN (shellac-based, white, dries in 45 minutes) and Kilz Original (oil-based, slightly slower dry time, stronger odor). BIN is my default for ceilings because it dries fast, sands beautifully, and sticks to literally everything. A quart runs about $20-25 and covers far more ceiling than any single stain you're dealing with.
+I've used two products reliably for years: Zinsser BIN (shellac-based, white, dries in 45 minutes) and Kilz Original (oil-based, slower dry, stronger smell). BIN's my default for ceilings. It dries fast, sands beautifully, and sticks to everything. A quart costs about $20-25 and covers way more ceiling than any single stain you're dealing with.
 
-Kilz Max is their water-based formula and I want to be direct: it works for light surface stains but I've seen it fail on anything with real tannin content, like stains from a roof leak that sat for weeks. Don't gamble on it for a serious stain.
+Kilz Max is their water-based formula. I want to be direct: it handles light surface stains fine, but I've watched it fail on anything with real tannin content, like stains from a roof leak that sat for weeks. Don't gamble on it for a serious stain.
 
 ## But First: Is the Leak Actually Fixed?
 
-Before you open a single can of primer, answer this question honestly. If the leak is still active, or if you're not sure, painting is a waste of your Sunday. You'll be doing it again in two months, and the ceiling may soften or sag in the meantime.
+Before you open a single can of primer, answer this honestly. If the leak's still active, or you're not sure, painting wastes your Sunday. You'll be doing it again in two months, and the ceiling might soften or sag.
 
-Press on the stained area with your palm. Does it feel soft? Is there any give? If yes, you've got moisture still trapped in the drywall or, worse, the paper face has separated from the gypsum core. That drywall needs to dry completely before you touch it with paint, and in bad cases it needs to be replaced.
+Press on the stained area with your palm. Does it feel soft? Any give? If yes, moisture's still trapped in the drywall or the paper face has separated from the gypsum core. That drywall needs to dry completely before paint touches it, in bad cases it needs replacement entirely.
 
-Roof leak? Get on the roof or get someone up there before you do anything cosmetic. Upstairs bathroom overflow? Check the subfloor above and make sure the source is caulking, a failed wax ring, or a supply line that's already been fixed. Plumbing leak from a pipe in the ceiling? That pipe better be repaired and pressure-tested.
+Roof leak? Get on the roof or hire someone before you do anything cosmetic. Upstairs bathroom overflow? Check the subfloor above. Make sure the problem was caulking, a failed wax ring, or a supply line that's already fixed. Plumbing leak from a pipe in the ceiling? That pipe better be repaired and pressure-tested.
 
-I've seen homeowners spend $400 on a painter to do a beautiful ceiling repair, only to watch the stain reappear because a slow drip from a toilet supply line was still losing a few ounces of water per day. The painter wasn't wrong. The homeowner just didn't check.
+I've seen homeowners pay $400 for a beautiful ceiling repair, then watch the stain reappear because a slow drip from a toilet supply line was losing a few ounces of water per day. The painter wasn't wrong. The homeowner just didn't check.
 
-Dry time matters too. A drywall ceiling that got soaked needs at least 48-72 hours with decent airflow before you prime it. If you're in a humid climate or it's winter with the house closed up, give it a week. A moisture meter (Ryobi makes a decent one for around $25) removes the guesswork entirely.
+Dry time matters. A soaked drywall ceiling needs at least 48-72 hours with decent airflow before you prime. Humid climate or winter with the house sealed up? Give it a week. A moisture meter (Ryobi makes a decent one for around $25) removes the guesswork.
 
 ## The Actual Process, Step by Step
 
-Once you're certain the leak is fixed and the ceiling is dry, this is straightforward work.
+Once you're certain the leak is fixed and the ceiling is dry, this is straightforward.
 
-**Assess the surface.** If the drywall is soft, bubbled, or the paper is peeling, you need to stabilize it first. Cut out damaged sections and patch with new drywall or use a setting-type joint compound (Durabond 45 is my go-to) to skim over delaminated paper. Let it cure completely.
+**Assess the surface.** If the drywall is soft, bubbled, or the paper's peeling, stabilize it first. Cut out damaged sections and patch with new drywall or use a setting-type joint compound (Durabond 45 is my go-to) to skim over delaminated paper. Let it cure completely.
 
-**Clean the stain lightly.** I don't obsess over this step, but a quick wipe with a diluted TSP substitute (follow label dilution, usually an ounce per gallon of water) removes any loose residue. Let it dry.
+**Clean the stain lightly.** I don't obsess here, but a quick wipe with diluted TSP substitute (follow label dilution, usually an ounce per gallon of water) removes loose residue. Let it dry.
 
-**Apply shellac-based primer.** Shake or stir BIN well. Apply with a brush for smaller stains, a short-nap roller (3/8" is fine) for larger areas. One coat is usually enough. The key is full, even coverage over the entire stain with about an inch of margin around it. BIN flashes off fast, so don't overwork it. If you can still see discoloration through the first coat after it dries, hit it again. Two coats of BIN over a bad stain is still a rock-solid fix.
+**Apply shellac-based primer.** Shake or stir BIN well. Brush it on for smaller stains, a short-nap roller (3/8" works) for larger areas. One coat usually does it. The key is full, even coverage over the entire stain with about an inch of margin. BIN flashes off fast, so don't overwork it. If you still see discoloration after it dries, go again. Two coats of BIN over a bad stain is still rock-solid.
 
-**Ventilate.** Shellac fumes are serious. Open windows, run a fan, don't let kids in the room while it's drying. This isn't a disclaimer, it's just reality.
+**Ventilate.** Shellac fumes are serious. Open windows, run a fan, keep kids out while it dries. This isn't a disclaimer, it's just reality.
 
-**Skim coat if needed.** If the original stain left a tide mark with any texture difference, or if your drywall surface is slightly rough from the water damage, a thin skim of all-purpose joint compound smoothed with a 6" or 10" knife and lightly sanded after drying will make the repair invisible. Optional but worth doing for any visible area.
+**Skim coat if needed.** If the original stain left a tide mark with texture difference, or if the drywall surface is rough from water damage, a thin skim of all-purpose joint compound smoothed with a 6" or 10" knife and lightly sanded after drying makes the repair invisible. Optional but worth doing for any visible area.
 
-**Apply ceiling paint.** Flat finish only. Eggshell or satin on a ceiling catches every imperfection. Match your existing ceiling color. If you can't match it, you're painting the whole ceiling, which honestly looks better anyway. One good coat over the primed area, feathered out, is usually enough. Two if the sheen isn't matching.
+**Apply ceiling paint.** Flat finish only. Eggshell or satin on a ceiling catches every imperfection. Match your existing color. If you can't match it, paint the whole ceiling, honestly it looks better anyway. One good coat over the primed area, feathered out. Two if the sheen isn't matching.
 
-The whole job, not counting dry time, takes maybe 2-3 hours for a typical stain. Materials will cost you $30-45.
+The whole job, minus dry time, takes maybe 2-3 hours for a typical stain. Materials run $30-45.
 
 ## When the Stain Keeps Coming Back
 
 A stain that returns after you've done everything right is trying to tell you something. Usually one of three things: the leak isn't fixed, the drywall has irreversible mineralization that keeps wicking to the surface, or there's a mold situation starting.
 
-That third one gets missed more than it should. If the stain has any gray, green, or black discoloration, or if you notice a musty smell when you're up close, stop and investigate before priming over it. Zinsser makes a mold-killing primer (Mold Killing Primer, predictably named) that's worth using if there's any surface mold present. But if mold has gotten into the drywall core, primer won't help. You're cutting that section out.
+That third one gets missed all the time. If the stain has gray, green, or black discoloration, or if you smell something musty up close, stop and investigate before priming. Zinsser makes a mold-killing primer (Mold Killing Primer, predictably named) that's worth using if there's surface mold. But if mold's in the drywall core, primer won't help. You're cutting that section out.
 
-On the mineralization issue: heavy deposits of calcium or rust from a long-standing leak can sometimes bleed through even shellac-based primer. It's rare, but it happens. The fix is two coats of BIN and accepting that the second coat is insurance, not overkill.
+On the mineralization issue: heavy calcium or rust deposits from a long-standing leak can sometimes bleed through even shellac-based primer. It's rare, but it happens. The fix is two coats of BIN and accepting that the second coat is insurance, not overkill.
 
 ## Matching the Ceiling Color (The Part Nobody Warns You About)
 
-White ceilings are not all the same white. Builders use dozens of different formulations and they all age differently. A patch painted with fresh bright white will glow against a slightly yellowed ceiling like a spotlight. This drives people insane.
+White ceilings aren't all the same white. Builders use dozens of formulations and they all age differently. A patch of fresh bright white will glow against a slightly yellowed ceiling like a spotlight. This drives people insane.
 
 Your options, in order of preference:
 
-Take a photo of your ceiling to a paint counter (Sherwin-Williams or Benjamin Moore stores both do this well) and ask them to color-match. They can pull a chip from the ceiling itself if you bring one, or use a spectrophotometer scan from a painted chip. This works remarkably well.
+Take a photo of your ceiling to a paint counter (Sherwin-Williams or Benjamin Moore both do this well) and ask for a color match. They can pull a chip from the ceiling itself if you bring one, or scan one with a spectrophotometer. This works remarkably well.
 
-If the ceiling is white and was painted more than 5 years ago, consider just rolling the entire ceiling. A gallon of flat ceiling paint runs $25-35 and a consistent ceiling almost always looks better than a pristine patch in a dingy field.
+If the ceiling is white and was painted more than five years ago, consider rolling the entire ceiling. A gallon of flat ceiling paint runs $25-35 and a consistent ceiling almost always looks better than a pristine patch in a dingy field.
 
-The worst option: buying a can of off-the-shelf "ceiling white" and hoping it matches. It won't. There are at least a dozen different ceiling whites at any hardware store and none of them are the same.
-
----
-
+The worst option: buying off-the-shelf "ceiling white" and hoping it matches. It won't. There are at least a dozen different ceiling whites at any hardware store and none of them are the same.
 
 ---
 
-One last thing. The ceiling won't look perfect the day you do it. Give it 24 hours for the paint to fully cure and the sheen to settle. Most repairs that look slightly off right after painting look fine the next morning once the lighting normalizes. If it still looks wrong after a day, it's the color match, not the repair.
+The ceiling won't look perfect the day you do it. Give it 24 hours for the paint to cure and the sheen to settle. Most repairs that look slightly off right after painting look fine the next morning once the lighting normalizes. If it still looks wrong after a day, it's the color match, not the repair.
 
 *Photo: [Snapwire](https://www.pexels.com/@snapwire) via Pexels*

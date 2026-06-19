@@ -25,10 +25,9 @@ author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
 
 ---
+Your shower drain is slow. Not standing-in-water slow, but that creeping ankle-deep puddle that collects every time you wash your hair. You've been ignoring it for two weeks. I know, because I've seen this exact situation in probably a third of the homes I've walked into for unrelated work over the years.
 
-Your shower drain is slow. Not clogged-completely-standing-in-water slow, but that creeping, ankle-deep puddle that collects every time you wash your hair. You've been ignoring it for two weeks. I know, because I've seen this exact situation in probably a third of the homes I've walked into for unrelated work over the years.
-
-The good news: you can almost certainly fix this yourself in under an hour, with tools you already own, for free. No Drano. No plumber. Here's how to actually do it.
+The good news: you can almost certainly fix this yourself in under an hour, with tools you already own, for free. No Drano. No plumber. Here's how.
 
 ## Why I Don't Recommend Chemical Drain Cleaners Here
 
@@ -36,23 +35,23 @@ Most people reach for liquid drain cleaner first. I get it, the bottle's right t
 
 Chemical cleaners like Drano Max Gel or Liquid-Plumr work by creating a caustic reaction that generates heat. They're reasonably effective on grease clogs in kitchen drains. On a shower drain packed with a dense, wet mat of hair and conditioner residue? They hit the outside of the clog, struggle to penetrate, and often just sit there in your pipe. Meanwhile that caustic heat is working on your drain hardware and, in older homes with PVC or older ABS plastic pipe, softening it over time. I've replaced sections of pipe that a homeowner had been repeatedly treating with liquid drain cleaner for years. The pipe looked almost melted at the joints.
 
-More practically: chemical cleaners require a wait period, don't always work, and now you've got a pipe full of caustic liquid you need to flush. The physical method I'm about to walk you through is faster, more effective on hair clogs, and doesn't come with any of those downsides.
+Here's the practical downside: chemical cleaners require a wait period, don't always work, and now you've got a pipe full of caustic liquid you need to flush. The physical method I'm about to walk you through is faster, more effective on hair clogs, and doesn't come with any of those downsides.
 
 ## Start With the Obvious: Pull the Drain Cover
 
-Before you do anything else, look at your drain cover and figure out how it's attached. There are three common types:
+Before you do anything else, look at your drain cover and figure out how it's attached. Three common types exist:
 
-A **snap-in cover** just pops out with a flathead screwdriver inserted at the edge. A **screw-in cover** has one screw, usually a Phillips, in the center. A **twist-off cover** lifts and rotates counterclockwise. Most modern tub-shower combos have a stopper on a trip lever mechanism, which is a different situation I'll come back to.
+A **snap-in cover** pops out with a flathead screwdriver inserted at the edge. A **screw-in cover** has one screw, usually Phillips, in the center. A **twist-off cover** lifts and rotates counterclockwise. Most modern tub-shower combos have a stopper on a trip lever mechanism, which I'll come back to.
 
-Get the cover off. Then look down with a flashlight.
+Get the cover off and look down with a flashlight.
 
 I cannot tell you how many times the entire problem was sitting right there, two inches below the surface: a dense, soapy, slightly disgusting clump of hair wrapped around the drain crossbars. It's not hidden deep in the pipe. It's just past the point where you couldn't see it without removing the cover.
 
-If you can see it, grab it. I use a bent wire coat hanger with a small hook bent at the end. You can also buy a Zip-It drain cleaning tool for about $3 at any hardware store. The Zip-It is a flexible plastic strip with barbs that grabs hair on the way out. It's one of the most satisfying three-dollar purchases in home repair. Insert it, twist it a little, pull slowly.
+If you can see it, grab it. I use a bent wire coat hanger with a small hook at the end. You can also buy a Zip-It drain cleaning tool for about $3 at any hardware store. It's a flexible plastic strip with barbs that grabs hair on the way out. One of the most satisfying three-dollar purchases in home repair, honestly. Insert it, twist it a little, pull slowly.
 
 Expect something deeply unpleasant to come out. That's normal.
 
-Run the water and test your drain. If it's draining fast again, you're done. This is the solution probably 60% of the time.
+Run the water and test your drain. If it's draining fast again, you're done. This solves the problem probably 60% of the time.
 
 ## If That Didn't Fix It: The Plunger Method
 
@@ -60,30 +59,23 @@ Still slow? The clog is deeper, or there's a partial blockage you didn't fully c
 
 Get a cup plunger, not a flange plunger (that's the one with the rubber fold at the bottom, designed for toilets). A cup plunger is the flat-bottomed one. Fill the shower floor with about an inch of water so the plunger can form a seal. Place it directly over the drain, press down firmly to create suction, then pump up and down hard 10 to 15 times without breaking the seal, then pull up sharply.
 
-Do this two or three times. The pressure changes can dislodge hair and soap buildup that's sitting in the drain 6 to 12 inches down, where a Zip-It won't reach.
+Do this two or three times. The pressure changes can dislodge hair and soap buildup that's sitting 6 to 12 inches down, where a Zip-It won't reach.
 
-After plunging, run the hot water for two full minutes and watch how it drains. If it's draining clearly at the same rate the water is falling, you got it.
+After plunging, run the hot water for two full minutes and watch how it drains. If it's clearing at the same rate the water is falling, you're good.
 
 ## The Deeper Fix: Removing and Cleaning the P-Trap
 
 If your drain is still slow after the first two steps, or if it gets slow again within a week or two, the problem is likely soap scum and residue coating the inside of the P-trap and drain arm below the floor. This is the curved pipe section just below your drain. It holds a water seal to block sewer gases, but it also catches debris that makes it past the initial drain opening.
 
-This is where things get slightly more involved, but still firmly in DIY territory.
+You'll need a pipe wrench or channel-lock pliers, a bucket, old towels or rags, a wire brush (a bottle brush works fine), and possibly plumber's tape for reassembly.
 
-You'll need:
-- A pipe wrench or channel-lock pliers
-- A bucket
-- Old towels or rags
-- A wire brush (a bottle brush works fine)
-- Possibly plumber's tape (Teflon tape) for reassembly
+First, confirm there's no in-floor access panel in your bathroom or an access panel on the other side of the wall. In some homes, particularly when the shower is on an exterior wall or above a finished basement, there's a cleanout access. Use it if you've got it.
 
-First, confirm there's no in-floor access panel in your bathroom or an access panel on the other side of the wall. In some homes, particularly when the shower is on an exterior wall or above a finished basement, there's a cleanout access. If there is, use it.
+If you have a shower stall (not a tub-shower combo), the drain and P-trap sit directly under the floor and you can't easily access them from above without cutting drywall. I'd recommend trying a drain snake first before assuming it's the P-trap.
 
-If you have a shower stall (not a tub-shower combo), the drain and P-trap are directly under the floor and you can't easily access them from above without cutting drywall in a ceiling below. In this case, I'd recommend trying a drain snake first (more on that in a moment) before assuming it's the P-trap.
+For a standard tub-shower combo, you can usually access the P-trap from the overflow plate on the front of the tub. Remove that oval or rectangular cover (two screws), and you'll see the trip lever or stopper mechanism. Pull the whole assembly out. This is also a good moment to clean that mechanism, because the stopper itself accumulates an extraordinary amount of hair. I've pulled out stopper assemblies with more hair wrapped around them than a drain clog would have, and the homeowner had no idea the restriction was there.
 
-For a standard tub-shower combo, you can usually access the P-trap from the overflow plate on the front of the tub. Remove that oval or rectangular cover (two screws), and you'll see the trip lever or stopper mechanism. Pull the whole assembly out. This is also a good moment to clean that mechanism, because the stopper itself accumulates an extraordinary amount of hair. I've pulled out stopper assemblies with more hair wrapped around them than a drain clog would have, and the homeowner had no idea that's where the restriction was.
-
-With the overflow assembly out, you can insert a drain auger (also called a drain snake) down through the overflow opening. A basic hand-crank snake like the Ridgid 25-ft Drain Auger, which runs about $30 at Home Depot, works well here. Feed it in slowly, rotating as you go, until you feel resistance. Work through it. Pull back slowly. Repeat until it moves freely.
+With the overflow assembly out, you can insert a drain auger (also called a drain snake) down through the overflow opening. A basic hand-crank snake like the Ridgid 25-ft Drain Auger, which runs about $30 at Home Depot, works well. Feed it in slowly, rotating as you go, until you feel resistance. Work through it. Pull back slowly. Repeat until it moves freely.
 
 Reassemble in reverse. Wrap any threaded connections you disturbed with two wraps of Teflon tape before reconnecting.
 
@@ -95,11 +87,9 @@ While you're at it, check that the cover is seating properly and not sitting sli
 
 ## Preventing It From Coming Back
 
-The single most effective thing: a hair catcher. The OXO Good Grips Shower Drain Protector (about $10) sits in the drain opening and catches hair before it enters the pipe. You pull it out and clean it after every few showers. That's it. It's not glamorous, but it reduces shower drain calls to near zero in homes that use one consistently.
+The single most effective thing is a hair catcher. The OXO Good Grips Shower Drain Protector (about $10) sits in the drain opening and catches hair before it enters the pipe. You pull it out and clean it after every few showers. Not glamorous, but it reduces shower drain calls to near zero in homes that use one consistently.
 
 For soap scum buildup, a monthly flush of boiling water helps. Pour a full kettle's worth slowly down the drain. The heat melts and flushes the soap residue that accumulates on pipe walls. Skip this if you have PVC pipe that's less than 1.5 inches in diameter or joints you're unsure about, since boiling water can soften some plastic fittings. Very hot tap water (not boiling) is fine for PVC.
-
----
 
 
 *Photo: [Zulfugar Karimov](https://www.pexels.com/@zulfugarkarimov) via Pexels*

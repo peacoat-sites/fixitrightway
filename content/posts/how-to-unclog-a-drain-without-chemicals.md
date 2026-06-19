@@ -25,8 +25,7 @@ author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
 
 ---
-
-You're standing there watching water pool around your ankles in the shower, or staring at a kitchen sink that's draining so slowly you can still see yesterday's dishwater sitting in it. Maybe you've already poured half a bottle of Drano down there with mixed results. Here's something most people don't realize: chemical drain cleaners are often the least effective solution for a real clog, and they can actually damage older pipes, corrode metal P-traps, and create a hazardous situation if you then need to snake the drain manually. The good news is that most household drain clogs can be cleared with tools you already own or can buy for under $30, and once you know the method, you'll never go back to the chemical stuff.
+You're standing there watching water pool around your ankles in the shower, or staring at a kitchen sink that's draining so slowly you can still see yesterday's dishwater sitting in it. Maybe you've already poured half a bottle of Drano down there with mixed results. Here's the thing most people don't realize: chemical drain cleaners are often the least effective solution for a real clog, and they can actually damage older pipes, corrode metal P-traps, and create a hazardous situation if you then need to snake the drain manually. The good news is that most household drain clogs can be cleared with tools you already own or can buy for under $30, and once you know the method, you'll never go back to the chemical stuff.
 
 ## Why Chemicals Often Fail (And What That Tells You About the Clog)
 
@@ -121,7 +120,4 @@ A professional drain cleaning runs $150 to $300 for a standard snake job. Hydroj
 
 ---
 
-
----
-
-The truth is that most drain clogs are completely manageable with about $30 in tools and a willingness to get a little hands-on. The methods here aren't complicated, but they're the same ones a plumber would use before escalating to bigger equipment. Start simple, work through the steps systematically, and you'll clear most clogs before you ever need to pick up the phone. And when you do need to call someone, you'll know exactly why, which makes you a much better-informed customer.
+Most drain clogs are completely manageable with about $30 in tools and a willingness to get a little hands-on. The methods here aren't complicated, but they're the same ones a plumber would use before escalating to bigger equipment. Start simple, work through the steps systematically, and you'll clear most clogs before you ever need to pick up the phone. And when you do need to call someone, you'll know exactly why, which makes you a much better-informed customer.

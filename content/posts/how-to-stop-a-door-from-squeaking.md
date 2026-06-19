@@ -25,7 +25,6 @@ author_title: "Plumbing Writer"
 author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
 
 ---
-
 Most people grab a can of WD-40, spray the hinges, and call it done. The squeak comes back in two weeks. I've seen this cycle repeat dozens of times on job sites and in client homes, and the frustrating part is that WD-40 is one of the worst things you can use on a squeaky door hinge. It's a solvent and water displacer, not a lubricant. It cleans out the existing grease, gives you a brief quiet period, and then leaves metal grinding on metal again. If your door squeak has come back multiple times after treatment, this is probably why.
 
 ## Why Doors Actually Squeak (It's Not Always the Hinges)
@@ -44,53 +43,53 @@ Spend 60 seconds diagnosing before you reach for anything. Swing the door slowly
 
 ## The Right Lubricants (and What to Actually Buy)
 
-I'll be honest, the number of lubricant options is genuinely confusing, and the internet gives you contradictory advice. Here's what I've found actually works, ranked by how long the fix lasts.
+Here's the honest part: the lubricant aisle is confusing, and online advice contradicts itself constantly. What actually works, ranked by durability.
 
-**Petroleum jelly (Vaseline).** Cheap, available everywhere, and it works well on hinge pins. Not the longest-lasting option, but it's thick enough to stay put. Good for interior doors.
+**Petroleum jelly (Vaseline).** Cheap, everywhere, works well on hinge pins. Interior doors especially. Not the longest-lasting, but thick enough to stay put.
 
-**White lithium grease.** This is my go-to for most residential hinges. It comes in a spray can or a tube, it stays put under pressure, and it doesn't attract as much dust as some heavier greases. A can of CRC White Lithium Grease runs about $7 to $10 at any hardware store.
+**White lithium grease.** This is what I reach for on most residential hinges. Comes in a spray can or tube, stays under pressure, doesn't attract as much dust as heavier greases. A can of CRC White Lithium Grease costs $7 to $10 at any hardware store and outlasts petroleum jelly by years.
 
-**Silicone spray lubricant.** Excellent for surfaces where you don't want residue, like a door rubbing against a painted frame. It's also good for sliding doors and tracks. The downside is it doesn't cling as well to vertical metal surfaces, so it needs more frequent reapplication.
+**Silicone spray lubricant.** Excellent if you don't want residue, like when a door rubs against painted wood. Great for sliding doors and tracks too. The trade-off is it won't cling to vertical metal surfaces as well, so you'll reapply more often.
 
-**Grease sticks or paraffin wax.** Old-school but effective. Bar soap, a candle stub, or an actual grease stick from the hardware store can be rubbed directly onto a hinge pin or a squeaking surface. Works better than people expect.
+**Grease sticks or paraffin wax.** Old-school. Bar soap, a candle stub, or an actual grease stick rubbed directly onto the hinge pin works better than people expect.
 
-**3-in-1 Oil.** Better than WD-40 for hinges because it actually contains lubricating oil, but it's still relatively thin and won't last as long as lithium grease on a heavily used door.
+**3-in-1 Oil.** Better than WD-40 since it actually contains lubricating oil, but it's thinner and won't last as long as lithium grease on a heavily used door.
 
-Skip: WD-40 as a lubricant (fine for loosening corroded pins before the real fix), cooking spray (attracts bugs and goes rancid), and any aerosol product you can't identify the base of.
+Skip WD-40 as a lubricant (fine for loosening corroded pins first), cooking spray (attracts bugs, goes rancid), and any aerosol you can't identify.
 
 ## Step-by-Step: Fixing a Squeaky Hinge Pin
 
-This is the fix that works on probably 80% of squeaky interior doors. Takes about 15 minutes per door, costs almost nothing.
+This fix works on about 80% of squeaky interior doors. Fifteen minutes per door, almost no cost.
 
-**What you need:** White lithium grease or petroleum jelly, a flathead screwdriver, a hammer, a rag, and optionally a nail punch.
+**What you need:** White lithium grease or petroleum jelly, a flathead screwdriver, a hammer, a rag, optionally a nail punch.
 
 1. **Open the door to 90 degrees and prop it open.** Use a doorstop, a book, or wedge a folded rag under the corner. The door needs to stay still while you work.
 
 2. **Remove the bottom hinge pin first.** Place the tip of a flathead screwdriver under the hinge cap (the decorative top of the pin) and tap upward with a hammer. The pin should slide up and out. If it's corroded in place, a few drops of WD-40 and five minutes of waiting will break it loose.
 
-3. **Inspect the pin.** Look for rust, scoring (scratches from metal contact), or flat spots. Light surface rust can be cleaned with steel wool. Heavy corrosion or significant scoring means the pin should be replaced. A pack of replacement hinge pins at the hardware store runs $3 to $8.
+3. **Inspect the pin.** Look for rust, scoring (scratches from metal contact), or flat spots. Light surface rust cleans off with steel wool. Heavy corrosion or significant scoring means the pin should be replaced. Replacement hinge pins at the hardware store run $3 to $8 per pack.
 
-4. **Apply your lubricant.** Coat the entire shaft of the pin. If you're using petroleum jelly, rub it in with your fingers. If you're using lithium grease, apply a thin even coat. You want coverage, not gobs of grease that will drip onto your floor.
+4. **Apply your lubricant.** Coat the entire shaft of the pin. If you're using petroleum jelly, rub it in with your fingers. If you're using lithium grease, apply a thin even coat. You want coverage, not gobs that'll drip onto your floor.
 
 5. **Reinsert the pin and tap it back down** with the hammer until the cap sits flush.
 
-6. **Repeat for each hinge, one at a time.** Don't pull all the hinge pins at once. The door can shift and make reinstallation genuinely difficult. Bottom first, then top, then middle if there are three hinges.
+6. **Repeat for each hinge, one at a time.** Don't pull all the hinge pins at once. The door can shift and make reinstallation difficult. Bottom first, then top, then middle if there are three hinges.
 
 7. **Swing the door.** The squeak should be gone immediately. Wipe any grease that squeezed out with the rag.
 
-If the squeak comes back within a few days, you're dealing with worn hinge barrels or a different source entirely. Move to the next section.
+If the squeak comes back within a few days, you're dealing with worn hinge barrels or something else entirely. Keep reading.
 
 ## When Lubrication Won't Fix It
 
-What surprised me when I started paying closer attention to recurring squeak complaints was how often the real problem was structural, not lubrication. Here are the scenarios where you need a different approach.
+What surprised me when I started paying attention to recurring squeak complaints was how often the real problem was structural, not lubrication. Here's when you need a different approach.
 
-**Loose hinge screws.** This is extremely common in older homes. The screws have been turned in and out over decades, or the original screws were too short, and the hole is now stripped. The hinge wiggles, the door sags slightly, and you get a rubbing squeak that lubricant won't touch.
+**Loose hinge screws.** Extremely common in older homes. The screws have been turned in and out over decades, or the original ones were too short, and the hole is stripped. The hinge wiggles, the door sags slightly, and you get a rubbing squeak that lubricant won't touch.
 
-The fix: Remove the screw, pack the hole with wooden toothpicks and wood glue (let it cure for an hour), then trim flush and reinstall the screw. For a longer-term solution, use a longer screw, specifically a 3-inch screw that reaches into the door frame stud rather than just the jamb. This is the fix I use on almost every door rehang. It costs nothing and takes 10 minutes.
+The fix: Remove the screw, pack the hole with wooden toothpicks and wood glue (let it cure for an hour), then trim flush and reinstall the screw. For something longer-lasting, use a 3-inch screw that reaches into the door frame stud rather than just the jamb. I use this on almost every door rehang. It's free and takes 10 minutes.
 
-**Door swelling.** If your squeak is accompanied by the door sticking, dragging on the floor, or being hard to latch, the wood has expanded. You can try monitoring it through a dry season to see if it resolves. If it doesn't, the door needs to be planed or sanded. I'll be direct: planing is easy to mess up if you take too much material. For a first-timer, I'd recommend a belt sander with 60-grit paper on the sticking edge, going slowly and checking fit frequently. If you're not confident, a carpenter can do this for $75 to $150 depending on your market.
+**Door swelling.** If your squeak comes with the door sticking, dragging on the floor, or being hard to latch, the wood has expanded. You can wait through a dry season to see if it resolves. If it doesn't, the door needs planing or sanding. I'll be direct: planing is easy to mess up if you take too much material. For a first attempt, use a belt sander with 60-grit paper on the sticking edge, go slowly, and check fit frequently. If you're not confident, a carpenter can handle it for $75 to $150 depending on your area.
 
-**Hinge bound door.** If someone installed hinges with mortises that are cut too deep, the hinge leaf sits below the surface and pulls the door out of plane. The door binds on the latch side and squeaks from the stress. The fix is shimming the hinge with a piece of thin cardboard cut to fit. This is a legitimate professional technique, not a hack.
+**Hinge bound door.** If hinges were installed with mortises cut too deep, the hinge leaf sits below the surface and pulls the door out of plane. The door binds on the latch side and squeaks from the stress. Shimming the hinge with thin cardboard cut to fit solves this. It's a legitimate professional technique.
 
 ## Comparing Common Squeak Fixes at a Glance
 
@@ -108,13 +107,8 @@ The fix: Remove the screw, pack the hole with wooden toothpicks and wood glue (l
 
 Most door squeak fixes are genuinely DIY-friendly. I wouldn't call a contractor for a hinge pin or a stripped screw.
 
-But call someone if: the door has sagged significantly and you can see a visible gap at the top corner near the latch, if there are diagonal cracks in the drywall above the door frame (this suggests foundation movement, which is a different conversation entirely), or if the door is a heavy solid-core exterior door and you're not confident working on something that affects your home's security.
+But call someone if the door has sagged significantly and you can see a visible gap at the top corner near the latch. Same if there are diagonal cracks in the drywall above the door frame (that suggests foundation movement, which is a different conversation). Also if the door is a heavy solid-core exterior door and you're not confident working on something that affects your home's security.
 
-Expect to pay $50 to $150 for a carpenter to adjust a sticking or squeaking door, depending on how much work is involved. If someone quotes you significantly more than that for a single interior door squeak, get a second opinion.
-
----
-
-
----
+Expect to pay $50 to $150 for a carpenter to adjust a sticking or squeaking door, depending on how much work it needs. If someone quotes significantly more than that for a single interior door squeak, get a second opinion.
 
 The actual fix for most squeaky doors takes less than 20 minutes and costs under $10. The reason people stay stuck in the WD-40 cycle is that nobody explains what's actually happening inside the hinge. Now you know. Start with the right lubricant, check your screws, and if the squeak comes back quickly, look at whether the door is rubbing rather than assuming the hinge is the problem. Nine times out of ten, you don't need a contractor for this one.

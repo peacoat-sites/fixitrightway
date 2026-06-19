@@ -24,7 +24,6 @@ faqs:
   - q: "Do I need to caulk around the base of the toilet after installation?"
     a: "This is genuinely debated. Some codes require it; some plumbers hate it. My position: leave the back half of the base uncaulked so water from a future leak weeps out where you can see it rather than rotting the subfloor silently for months before you notice. A fully caulked base looks clean but hides problems."
 ---
-
 Most plumbers charge $150 to $300 to replace a wax ring. The ring itself costs $8. That gap tells you almost everything you need to know about this repair.
 
 I'll be honest: the first time I replaced a wax ring myself, I expected it to be messy and complicated. It was a little messy. It was not complicated. Two hours, including a 20-minute trip to the hardware store because I stripped a bolt and needed replacements. If you're reasonably handy and not squeamish about handling a toilet, this is one of the best value DIY repairs in your house.
@@ -35,7 +34,7 @@ That said, there are a few ways to turn a $25 repair into a $600 one. Most of th
 
 Before you pull the toilet, make sure you've diagnosed this correctly. Wax ring failures show up in a handful of ways: water pooling at the base of the toilet (especially after flushing), a sewer gas smell in the bathroom, or a toilet that rocks when you sit on it. Staining on the floor around the base is also common after a long-term slow leak.
 
-What surprises a lot of homeowners is that a toilet rocking on the floor doesn't always mean the wax ring is gone. Sometimes it just means the flange bolts (the two bolts sticking up from the floor) have worked loose or the plastic stabilizer caps at the base have deteriorated. Check those first. Tighten the nuts on the flange bolts gently, a quarter turn at a time, and see if the rocking stops. Don't overtighten. Cracking the porcelain base is a real thing and it will ruin your afternoon.
+What surprises a lot of homeowners is that a toilet rocking on the floor doesn't always mean the wax ring is gone. Sometimes it just means the flange bolts (the two bolts sticking up from the floor) have worked loose or the plastic stabilizer caps at the base have deteriorated. Check those first. Tighten the nuts on the flange bolts gently, a quarter turn at a time, and see if the rocking stops. Don't overtighten, because cracking the porcelain base is a real thing and it will ruin your afternoon.
 
 If water is actually weeping out from under the toilet after a flush, that's a compromised wax ring. Replace it.
 
@@ -45,7 +44,7 @@ If water is actually weeping out from under the toilet after a flush, that's a c
 
 **Parts:** wax ring ($6-12 at any hardware store), new flange bolts (about $4 for a set, always replace these), and a toilet bolt cap set if yours are cracked or missing.
 
-Here's my honest opinion on the wax ring choice: buy the standard wax ring for most situations, not the "extra thick" or "double wax" versions. The jumbo rings are designed for floors where the flange sits below the finished floor level. If your flange is at or above the floor surface, a thick ring can actually prevent you from getting a proper seal because you're compressing the wax unevenly. I've seen this cause more callbacks than standard rings. Measure your flange depth and match accordingly.
+Here's my honest take on the wax ring choice: buy the standard wax ring for most situations, not the "extra thick" or "double wax" versions. The jumbo rings are designed for floors where the flange sits below the finished floor level. If your flange is at or above the floor surface, a thick ring can actually prevent you from getting a proper seal because you're compressing the wax unevenly. I've seen this cause more callbacks than standard rings. Measure your flange depth and match accordingly.
 
 One exception: if you have a significantly recessed flange (more than a half-inch below the finished floor), look at the Fluidmaster 7500 waxless toilet seal or the Fernco toilet seal instead. Waxless rings are more forgiving on depth, easier to reposition if you don't set the toilet perfectly straight the first time, and they've gotten genuinely reliable over the last decade. They run $10-15.
 
@@ -53,19 +52,19 @@ One exception: if you have a significantly recessed flange (more than a half-inc
 
 **Turn off the water.** The shutoff valve is behind the toilet, at the wall. Turn it clockwise until it stops. Flush the toilet to drain the tank, then hold the handle down to clear as much water as possible from the bowl. Use a sponge to get the remaining water out of both the tank and the bowl. This part people skip. Don't skip it. A full toilet tank weighs 30+ pounds and you're about to move this thing.
 
-**Disconnect the supply line.** The braided hose connecting the wall shutoff to the bottom of the tank. Unscrew it by hand or with pliers, and have a bucket underneath. There's always a little residual water.
+**Disconnect the supply line.** The braided hose connecting the wall shutoff to the bottom of the tank unscrew it by hand or with pliers, and have a bucket underneath because there's always residual water.
 
-**Remove the bolt caps and nuts.** Pop off the plastic caps at the base (a flathead screwdriver or putty knife works). You'll see the flange bolts. Unscrew the nuts with your wrench. If they spin without tightening or loosening, the bolt is just spinning in the flange slot, which is common. Hold the bolt with pliers while you turn the nut.
+**Remove the bolt caps and nuts.** Pop off the plastic caps at the base with a flathead screwdriver or putty knife, and you'll see the flange bolts. Unscrew the nuts with your wrench. If they spin without tightening or loosening, the bolt is just spinning in the flange slot, which is common. Hold the bolt with pliers while you turn the nut.
 
 **Lift the toilet.** This is the part people dread. A standard toilet weighs 60 to 100 pounds, most of that in the tank. You can separate the tank from the bowl first if you want (three bolts underneath the tank, visible when you look inside), which makes each piece lighter and easier to manage. If you're working alone, separating them is worth the extra five minutes. Lift straight up, not at an angle, and set the toilet on old towels or a drop cloth.
 
-**Look at the flange before you do anything else.** This is the part I wish someone had told me. Once the toilet is off, scrape away the old wax and inspect the closet flange (the ring mounted to the floor that the toilet sits on). If it's cracked, broken, or sitting so low it can't support the toilet bolts, you have a bigger problem than a wax ring and no amount of new wax will fix it. A cracked plastic flange can be repaired with a flange repair ring ($10-15) without replacing the entire drain pipe. A broken cast iron flange is a call-a-plumber situation, especially if it's below the floor surface.
+**Look at the flange before you do anything else.** Once the toilet is off, scrape away the old wax and inspect the closet flange (the ring mounted to the floor that the toilet sits on). If it's cracked, broken, or sitting so low it can't support the toilet bolts, you have a bigger problem than a wax ring and no amount of new wax will fix it. A cracked plastic flange can be repaired with a flange repair ring ($10-15) without replacing the entire drain pipe. A broken cast iron flange is a call-a-plumber situation, especially if it's below the floor surface.
 
-If the flange looks solid, scrape off all the old wax from the flange and from the toilet horn (the outlet at the bottom of the toilet). Get it clean. Old wax on the seating surfaces will prevent a good seal.
+If the flange looks solid, scrape off all the old wax from the flange and from the toilet horn (the outlet at the bottom of the toilet). Get it clean, because old wax on the seating surfaces will prevent a good seal.
 
 **Install the new flange bolts.** Slide them into the slots on the flange. Most flanges have two slots oriented front-to-back. Position the bolts so they're centered and parallel. The little plastic keepers that come with new bolt sets hold them upright while you position the toilet, which is more helpful than it sounds.
 
-**Set the new wax ring.** Here's where people differ: you can stick the wax ring to the flange or to the toilet horn, wax-side up or wax-side down. Both work. I prefer pressing it onto the toilet horn with the wax facing down, because then I can see exactly where the ring is as I lower the toilet. If there's a plastic horn or funnel attached to the ring, that goes toward the drain, not toward the toilet.
+**Set the new wax ring.** You can stick the wax ring to the flange or to the toilet horn, wax-side up or wax-side down. Both work. I prefer pressing it onto the toilet horn with the wax facing down, because then I can see exactly where the ring is as I lower the toilet. If there's a plastic horn or funnel attached to the ring, that goes toward the drain, not toward the toilet.
 
 **Lower the toilet carefully.** This is the step that rewards patience. Line up the bolt holes in the toilet base with the two flange bolts, and lower the toilet straight down. Don't drop it. Don't set it down and wiggle it around to align the holes. Lower it slowly, get the bolts through the holes, and then press down with your full body weight, rocking gently from front to back, to compress the wax and seat it properly. Sit on it. Seriously. You need that wax to compress fully and create the seal.
 
@@ -78,8 +77,5 @@ If the flange looks solid, scrape off all the old wax from the flange and from t
 The repair itself? You can do it. What can tip this job toward professional territory is what you find underneath. A rotted subfloor (soft, spongy, or dark around the flange area) means you're now doing carpentry, not just plumbing. A flange that's completely corroded or broken away from the drain pipe is beyond DIY for most people. And if your toilet has been leaking slowly for a long time and the smell is coming not from under the toilet but from the surrounding floor, you may have a water damage situation that needs a full assessment.
 
 Subfloor rot repair runs $200 to $800 depending on how far it extends. A full flange replacement by a plumber typically runs $200 to $400 in parts and labor. Both situations are worth getting a real diagnosis before you start swinging a hammer.
-
----
-
 
 *Photo: [Pasi Mämmelä](https://www.pexels.com/@pasi-mammela-2159326540) via Pexels*

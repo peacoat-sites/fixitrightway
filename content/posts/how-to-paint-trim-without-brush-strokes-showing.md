@@ -25,26 +25,25 @@ author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
 
 ---
-
 You spent the weekend painting your baseboards, stood back to admire the work, and the whole room looks like it was finished with a broom. Brush marks running in every direction, ridges of dried paint catching the light, and that telltale drip you didn't catch in time. I've been there, and I've watched hundreds of homeowners go through the same deflating moment. The good news is that brush strokes on trim aren't a skill problem. They're almost always a product, prep, or technique problem, and every one of those is fixable.
 
 ## Why Trim Paint Shows Brush Strokes More Than Wall Paint
 
-Trim is unforgiving in a way that walls simply aren't. Walls have texture. They absorb light. A little variation in your finish disappears into the overall surface. Trim, especially smooth factory-primed or previously painted woodwork, reflects light directly at you. Every ridge, every lap mark, every place you went back over paint that had started to tack up becomes visible the moment a window hits it.
+Trim is unforgiving in a way that walls simply aren't. Walls have texture. They absorb light. A little variation in your finish disappears into the overall surface. Trim, especially smooth factory-primed or previously painted woodwork, reflects light directly at you. Every ridge, every lap mark, every place you went back over paint that had started to tack up becomes visible the moment sunlight hits it.
 
-The other thing working against you is the paint itself. Most homeowners reach for whatever latex paint is on sale, and standard latex dries fast. That sounds like a feature, but on trim it's a liability. You lay down a brushstroke, and by the time you come back to level it out, the paint has already started to skin over. Now you're dragging a brush across a surface that's 40 percent dry, and you're leaving tracks. This is the single most common reason trim looks terrible, and nobody puts it on the label.
+The bigger culprit? The paint itself. Most homeowners grab whatever latex is on sale, and standard latex dries fast. Sounds great until you're actually painting. You lay down a brushstroke, and by the time you come back to level it out, the paint has already started to skin over. Now you're dragging a brush across a surface that's 40 percent dry, and you're leaving tracks. This is the single most common reason trim looks terrible, and nobody puts it on the label.
 
-Alkyd (oil-based) paint used to be the pro standard for trim because it levels beautifully. It stays wet long enough for the paint to literally flow out and self-smooth. The downside is the cleanup, the fumes, and the longer dry time. What most people don't realize is that there's now a middle path: waterborne alkyd, sometimes called alkyd hybrid or latex alkyd. Products like Benjamin Moore Advance, Sherwin-Williams Emerald Urethane Trim Enamel, and Behr Alkyd Semi-Gloss give you the leveling behavior of oil with water cleanup. For trim work, these are genuinely transformative, and they're available at any paint store for roughly $55 to $75 per gallon.
+Oil-based paint used to be the only answer because it levels beautifully. It stays wet long enough for the paint to literally flow out and self-smooth. The problem is cleanup, fumes, and drying time. Here's what most people don't realize: there's now a middle path. Waterborne alkyd (sometimes called alkyd hybrid or latex alkyd) gives you the leveling behavior of oil with water cleanup. Benjamin Moore Advance, Sherwin-Williams Emerald Urethane Trim Enamel, and Behr Alkyd Semi-Gloss cost roughly $55 to $75 per gallon and are genuinely transformative for trim work. Any paint store stocks them.
 
 ## The Prep Work That Actually Determines Your Result
 
-Here's what frustrates me about most painting tutorials: they spend two paragraphs on prep and ten on technique. It's backwards. Prep is where your finish is won or lost.
+Most painting tutorials spend two paragraphs on prep and ten on technique. It's backwards. Prep is where you win or lose.
 
-If your existing trim is glossy, you have to dull it. Paint doesn't bond well to gloss, and even if it sticks, you'll see imperfections amplified through the new coat. A light scuff with 120-grit sandpaper or a liquid deglosser like Wilbond does the job in minutes. Don't skip this.
+If your existing trim is glossy, you have to dull it. Paint doesn't bond well to gloss, and even if it sticks, you'll see imperfections amplified through the new coat. A light scuff with 120-grit sandpaper or liquid deglosser like Wilbond takes minutes. Don't skip this.
 
-Fill any nail holes, dents, or gouges with a lightweight spackling compound or painter's putty. Let it dry completely, sand it flush with 150-grit, and prime just those spots. If you prime spot repairs with a shellac-based primer like Zinsser BIN, you'll prevent the repair from flashing (showing through as a dull patch in your final coat). It's a small step that matters more on semi-gloss and gloss finishes.
+Fill nail holes, dents, and gouges with lightweight spackling compound or painter's putty. Let it dry completely, sand it flush with 150-grit, and prime just those spots. If you use shellac-based primer like Zinsser BIN, you'll prevent the repair from flashing (showing through as a dull patch in your final coat). It's a small step that matters more on semi-gloss and gloss finishes.
 
-Clean the trim. This sounds obvious, but grease, dust, and cleaning product residue will cause your paint to crawl or bead. A wipe-down with TSP substitute or even plain dish soap and water, rinsed and dried, is all you need.
+Clean the trim. Grease, dust, and cleaning product residue will cause your paint to crawl or bead. A wipe-down with TSP substitute or even plain dish soap and water, rinsed and dried, is all you need.
 
 Finally, sand between coats. Once your first coat is fully dry, hit it lightly with 220-grit sandpaper, wipe off the dust with a tack cloth, and then apply your second coat. This knocks down any nibs or dried bristle marks from the first pass and gives you a genuinely smooth foundation.
 
@@ -52,11 +51,11 @@ Finally, sand between coats. Once your first coat is fully dry, hit it lightly w
 
 A $4 chip brush will leave brush strokes in latex paint no matter how good you are. The bristles are too stiff and they don't hold enough paint to lay down a smooth, consistent film.
 
-For water-based paint, use a high-quality synthetic brush with nylon/polyester bristles. The Purdy XL Glide, Purdy Nylox, or Wooster Pro/Doo-Z are the brands I keep in my truck. A 2.5-inch angled sash brush is the right size for most baseboards and door casings. For wider flat surfaces like door rails or stair treders, a 3-inch flat brush gives you more coverage without overloading.
+For water-based paint, get a high-quality synthetic brush with nylon/polyester bristles. Purdy XL Glide, Purdy Nylox, and Wooster Pro/Doo-Z are the brands I keep in my truck. A 2.5-inch angled sash brush works for most baseboards and door casings. For wider flat surfaces like door rails or stair treads, a 3-inch flat brush gives you more coverage without overloading.
 
-The angle on an angled sash brush isn't just for cutting into corners. It lets you apply more even pressure across the width of the bristles, which distributes paint more uniformly and reduces ridging on the edges of your stroke.
+The angle on an angled sash brush does more than let you cut into corners. It lets you apply more even pressure across the width of the bristles, which distributes paint more uniformly and reduces ridging on the edges of your stroke.
 
-One more thing: condition your brush before you start. Dip the bristles in water (for latex paint), shake off the excess, and give it a quick wipe on a rag. This keeps paint from drying deep in the heel of the brush and makes cleanup much easier. It also slightly slows the drying at the tip of the bristles, which helps with leveling.
+One more thing: condition your brush before you start. Dip the bristles in water, shake off the excess, and give it a quick wipe on a rag. This keeps paint from drying deep in the heel of the brush and makes cleanup much easier. It also slightly slows drying at the tip of the bristles, which helps with leveling.
 
 ## Step-by-Step Technique for a Smooth Finish
 
@@ -96,11 +95,6 @@ Don't use a foam roller on curved or detailed trim like fluted casings, chair ra
 
 **Using the wrong sheen.** Semi-gloss is the standard for trim because it's durable and easy to clean. High-gloss looks stunning in photos but shows every surface imperfection and every brush mark with brutal clarity. If your trim surface isn't perfectly smooth, high-gloss will actually look worse than semi-gloss even with good technique.
 
----
-
-
----
-
-Getting smooth trim comes down to three things more than anything else: the right paint with enough open time to level itself, a quality brush that you load and use correctly, and enough patience to sand between coats and not go back over tacking paint. None of it is complicated once you know what's actually causing the problem. Do those things, and your trim will look like it was sprayed.
+Smooth trim comes down to three things: the right paint with enough open time to level itself, a quality brush that you load and use correctly, and enough patience to sand between coats and not go back over tacking paint. None of it is complicated once you know what's actually causing the problem. Do those things, and your trim will look like it was sprayed.
 
 *Photo: [Ikke mist deg selv Goshawk](https://www.pexels.com/@ikke-mist-deg-selv-goshawk-66352007) via Pexels*

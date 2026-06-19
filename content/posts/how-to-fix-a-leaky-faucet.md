@@ -25,28 +25,17 @@ author_title: "Plumbing Writer"
 author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
 
 ---
-
 You wake up at 2 a.m. to the sound of dripping water. Not a flood, not a burst pipe, just that maddening, metronomic drip coming from your bathroom faucet. You jam a pillow over your head and tell yourself you'll deal with it tomorrow. Three weeks later, you're still "dealing with it tomorrow," and your water bill just jumped $40. That drip you're ignoring is wasting somewhere between 3,000 and 5,000 gallons of water a year, depending on the drip rate. I've seen homeowners convince themselves a leaky faucet is a plumber's problem when, nine times out of ten, it's a Saturday morning fix that costs under $20 in parts.
 
 ## What Kind of Faucet Do You Have? (This Changes Everything)
 
 Before you buy a single part or pick up a wrench, you need to know what you're working with. This is the step most people skip, and it's why they end up at the hardware store three times in one afternoon.
 
+There are four main faucet types in residential homes:
 
-## How Much Does Fixing a Leaky Faucet Cost?
+**Ball faucets** are single-handle faucets where the handle rotates around a ball-shaped cap. Extremely common in kitchens. When they leak, it's usually because the springs or seats inside have worn out.
 
-| | DIY (parts only) | Professional |
-|---|---|---|
-| **Fix dripping faucet** | $5–$25 | $100–$250 |
-| **Replace outdoor faucet** | $15–$40 | $100–$250 |
-
-Most faucet repairs cost under $25 in parts. A plumber typically charges $100–$250 for the same job. See the [full home repair cost guide](/home-repair-cost-guide/) to compare costs across 30+ repairs.
-
-There are four main faucet types you'll encounter in residential homes:
-
-**Ball faucets** are single-handle faucets where the handle rotates around a ball-shaped cap. These are extremely common in kitchens. When they leak, it's usually because the springs or seats inside have worn out.
-
-**Cartridge faucets** can be single or double handle. The cartridge is a self-contained unit that controls water flow. When it goes bad, you replace the whole cartridge, which is actually great news because it makes the repair simple.
+**Cartridge faucets** can be single or double handle. The cartridge is a self-contained unit that controls water flow. When it fails, you replace the whole cartridge, which is actually great news because it makes the repair simple.
 
 **Ceramic disc faucets** use a wide cylindrical body with a single lever. They're durable and relatively rare to find leaking, but when they do, you're usually cleaning or replacing the ceramic disc.
 
@@ -58,15 +47,24 @@ To figure out which you have: look at the handle configuration and movement. Two
 
 The location of the leak tells you almost everything. I've had clients spend an hour fixing the wrong part because they didn't stop to look carefully.
 
-**Drip from the spout when the faucet is off:** The internal valve or seal is worn. This is the classic scenario, the 2 a.m. drip.
+**Drip from the spout when the faucet is off.** The internal valve or seal is worn. This is the classic scenario, the 2 a.m. drip.
 
-**Leak at the base of the spout:** The O-rings around the spout body are shot. This usually shows up as water pooling around the base when the water is running.
+**Leak at the base of the spout.** The O-rings around the spout body are shot. Water pools around the base when the water is running.
 
-**Leak around the handle:** The packing nut or stem O-ring is worn. You'll see water seeping out from under or around the handle.
+**Leak around the handle.** The packing nut or stem O-ring is worn. You'll see water seeping out from under or around the handle.
 
-**Leak under the sink at the supply line connections:** This is less about the faucet itself and more about the connection fittings. Sometimes it's as simple as hand-tightening a nut a little more.
+**Leak under the sink at the supply line connections.** This is less about the faucet itself and more about the connection fittings. Sometimes it's as simple as hand-tightening a nut a little more.
 
 Knowing exactly where the water is coming from will tell you which parts to buy before you ever disassemble anything.
+
+## How Much Does Fixing a Leaky Faucet Cost?
+
+| | DIY (parts only) | Professional |
+|---|---|---|
+| **Fix dripping faucet** | $5–$25 | $100–$250 |
+| **Replace outdoor faucet** | $15–$40 | $100–$250 |
+
+Most faucet repairs cost under $25 in parts. A plumber typically charges $100–$250 for the same job. See the [full home repair cost guide](/home-repair-cost-guide/) to compare costs across 30+ repairs.
 
 ## How to Fix the Most Common Types (Step by Step)
 
@@ -126,10 +124,5 @@ Here's what you're actually looking at financially:
 The plumber costs above assume a standard single-visit repair in a typical market. In major metro areas, add 30-50% to those numbers.
 
 What most people don't realize is that plumbers often charge a minimum service call fee of $75-150 just to show up, before they've touched anything. For a $6 washer replacement, that math doesn't work in your favor.
-
----
-
-
----
 
 Fixing a leaky faucet is one of those home repairs that genuinely rewards you for doing it yourself. Not just because you save money, though you will, but because you learn something about how your house actually works. Once you've done it once, it stops being intimidating. You'll hear that drip at 2 a.m. and think "cartridge, probably" instead of lying there calculating how much a plumber costs. That shift is worth something.

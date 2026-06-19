@@ -25,7 +25,6 @@ author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
 
 ---
-
 Most homeowners who get zapped replacing an outlet don't get zapped by the outlet. They get zapped because they turned off the wrong breaker, assumed the power was dead, and grabbed a wire. That single mistake sends a few thousand people to the ER every year. The good news: replacing an outlet is legitimately a beginner DIY job. The bad news: the margin for error is exactly zero, and most online tutorials skip straight to the screws without covering the part that actually matters.
 
 Let's fix that.
@@ -42,11 +41,11 @@ Tools first. You don't need much, but what you need, you actually need.
 - Wire stripper (if your wires need fresh ends)
 - Outlet tester (a $6 plug-in device that tells you if the outlet is wired correctly afterward)
 
-The voltage tester is the one item where "I'll skip it this time" is genuinely not an option. It's not a formality. Breakers are mislabeled in probably 30% of the homes I've walked into. Panel labels get written in pencil by guys who retired fifteen years ago. You verify with the tester, not the label.
+The voltage tester is the one item where "I'll skip it this time" isn't an option. It's not a formality. Breakers are mislabeled in probably 30% of the homes I've walked into. Panel labels get written in pencil by guys who retired fifteen years ago. You verify with the tester, not the label.
 
 On materials: a standard 15-amp duplex outlet costs about $1.50. A 20-amp outlet runs $3 to $6. GFCI outlets (more on those shortly) range from $15 to $25. Grab a wall plate while you're at it, roughly $1, because the old one is probably cracked or painted over anyway.
 
-Before you buy anything, check the amperage of the circuit. If the breaker is labeled 20 amps, you need a 20-amp outlet. A 20-amp outlet has a T-shaped slot on the left side. A 15-amp outlet has two vertical slots. Mixing these up isn't immediately dangerous, but it's wrong and it will fail an inspection.
+Before you buy anything, check the amperage of the circuit. If the breaker is labeled 20 amps, you need a 20-amp outlet. A 20-amp outlet has a T-shaped slot on the left side. A 15-amp outlet has two vertical slots. Mixing these up isn't immediately dangerous, but it's wrong and it will fail inspection.
 
 ---
 
@@ -90,24 +89,21 @@ GFCI outlets have LINE and LOAD terminals, not just the standard two-screw setup
 
 Wiring a GFCI is identical to a standard outlet except you're connecting to terminals labeled LINE rather than screws labeled by color. The outlets come with clear diagrams in the package. Read them. They're actually good.
 
-After installation, press the TEST button. The outlet should go dead. Press RESET. Power should return. If it doesn't reset or immediately trips again, you've either wired it backward or there's already a ground fault on the circuit.
+After installation, press the TEST button. The outlet should go dead. Press RESET. Power should return. If it doesn't reset or immediately trips again, you've wired it backward or there's already a ground fault on the circuit.
 
 ---
 
 ## The Situations That Aren't DIY
 
-Replacing a like-for-like outlet in a modern, grounded system is squarely in DIY territory. Several scenarios are not.
+Replacing a like-for-like outlet in a modern, grounded system is squarely DIY territory. Several scenarios are not.
 
-**Two-wire systems with no ground.** Homes built before the mid-1960s often have two-wire wiring with no ground. You can legally replace an ungrounded outlet with a GFCI outlet and label it "No Equipment Ground," which provides shock protection without a ground wire. You can also replace it with another two-prong outlet. What you cannot do is install a three-prong grounded outlet on an ungrounded circuit. That creates a false sense of safety and code violation.
+**Two-wire systems with no ground.** Homes built before the mid-1960s often have two-wire wiring with no ground. You can legally replace an ungrounded outlet with a GFCI outlet and label it "No Equipment Ground," which provides shock protection without a ground wire. You can also replace it with another two-prong outlet. What you cannot do is install a three-prong grounded outlet on an ungrounded circuit. That creates a false sense of safety and a code violation.
 
-**Aluminum wiring.** Homes from roughly 1965 to 1973 sometimes have aluminum branch circuit wiring. It's silver-colored rather than copper-colored. Aluminum and standard outlets are a fire hazard combination. If you have aluminum wiring, you need outlets specifically rated AL/CU, or you need a licensed electrician to install proper aluminum-compatible pigtail connections. This is not negotiable.
+**Aluminum wiring.** Homes from roughly 1965 to 1973 sometimes have aluminum branch circuit wiring. It's silver-colored rather than copper-colored. Aluminum and standard outlets are a fire hazard combination. If you have aluminum wiring, you need outlets specifically rated AL/CU, or you need a licensed electrician to install proper aluminum-compatible pigtail connections. This isn't negotiable.
 
 **Outlets that keep failing, tripping, or showing scorch marks.** A single failed outlet is usually a bad device. Repeated failures, discoloration, or burning smells point to loose connections, overloaded circuits, or arcing, all of which can start fires inside walls. Call an electrician.
 
-**Anything involving the panel itself.** The panel is not a DIY project. The moment this job requires you to add a breaker, move wires in the panel, or work near the main lugs, you're in licensed electrician territory. The cost for an electrician to replace an outlet runs $75 to $200 depending on your market. For any of the above complications, that's cheap insurance.
-
----
-
+**Anything involving the panel itself.** The panel is not DIY. The moment this job requires you to add a breaker, move wires in the panel, or work near the main lugs, you're in licensed electrician territory. The cost for an electrician to replace an outlet runs $75 to $200 depending on your market. For any of the above complications, that's cheap insurance.
 
 ---
 
