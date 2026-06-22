@@ -71,3 +71,13 @@ The summer of 2026 isn't a great time to stretch your budget to the edge on a bi
 - [Lumber Prices in 2026: What Builders and Homeowners Need to Know Now](https://www.lumbercapital.com/post/lumber-prices-in-2026-what-builders-and-homeowners-need-to-know-now) (December 15, 2025)
 
 *Photo: [Nishant Aneja](https://www.pexels.com/@nishantaneja) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)** (~$199) — 200W panel kit with MPPT charge controller for maximum energy harvest.
+
