@@ -1,0 +1,12 @@
+<div class="diy-project-guide">
+{{- $data := site.Data.diy_projects -}}
+<h3>Common Project Costs & Timelines</h3>
+<table style="width:100%; border-collapse:collapse; font-size:0.9em;">
+<thead><tr style="background:#f5f5f5;"><th style="padding:8px; border:1px solid #ddd;">Project</th><th style="padding:8px; border:1px solid #ddd;">Tools Cost</th><th style="padding:8px; border:1px solid #ddd;">Timeline</th><th style="padding:8px; border:1px solid #ddd;">Labor Hours</th><th style="padding:8px; border:1px solid #ddd;">Difficulty</th></tr></thead>
+<tbody>
+{{- range $project, $data := $data.projects }}
+<tr><td style="padding:8px; border:1px solid #ddd;"><strong>{{ $project }}</strong></td><td style="padding:8px; border:1px solid #ddd; text-align:center;">{{ $data.tools_cost }}</td><td style="padding:8px; border:1px solid #ddd; text-align:center;">{{ $data.timeline_days }} days</td><td style="padding:8px; border:1px solid #ddd; text-align:center;">{{ $data.labor_hours }}h</td><td style="padding:8px; border:1px solid #ddd;">{{ $data.difficulty }}</td></tr>
+{{- end }}
+</tbody>
+</table>
+</div>

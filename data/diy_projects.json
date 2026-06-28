@@ -1,0 +1,76 @@
+{
+  "projects": {
+    "Bathroom Renovation": {
+      "tools_cost": 800,
+      "timeline_days": 14,
+      "labor_hours": 40,
+      "difficulty": "High"
+    },
+    "Kitchen Cabinet Refacing": {
+      "tools_cost": 400,
+      "timeline_days": 7,
+      "labor_hours": 20,
+      "difficulty": "Medium"
+    },
+    "Deck Repair": {
+      "tools_cost": 600,
+      "timeline_days": 5,
+      "labor_hours": 24,
+      "difficulty": "Medium"
+    },
+    "Drywall Repair": {
+      "tools_cost": 150,
+      "timeline_days": 3,
+      "labor_hours": 8,
+      "difficulty": "Low"
+    },
+    "Tile Backsplash": {
+      "tools_cost": 500,
+      "timeline_days": 4,
+      "labor_hours": 12,
+      "difficulty": "Medium"
+    },
+    "Door Replacement": {
+      "tools_cost": 250,
+      "timeline_days": 2,
+      "labor_hours": 6,
+      "difficulty": "Low"
+    },
+    "Deck Staining": {
+      "tools_cost": 350,
+      "timeline_days": 3,
+      "labor_hours": 10,
+      "difficulty": "Low"
+    },
+    "Fence Installation": {
+      "tools_cost": 1200,
+      "timeline_days": 10,
+      "labor_hours": 32,
+      "difficulty": "High"
+    },
+    "Shed Building": {
+      "tools_cost": 2000,
+      "timeline_days": 21,
+      "labor_hours": 56,
+      "difficulty": "High"
+    }
+  },
+  "tool_categories": {
+    "Power Tools": {
+      "avg_cost": 400,
+      "reusable": true
+    },
+    "Hand Tools": {
+      "avg_cost": 150,
+      "reusable": true
+    },
+    "Specialty Tools": {
+      "avg_cost": 300,
+      "reusable": false
+    },
+    "Safety Gear": {
+      "avg_cost": 100,
+      "reusable": true
+    }
+  }
+}
