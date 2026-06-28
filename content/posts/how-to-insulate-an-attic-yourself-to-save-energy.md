@@ -83,6 +83,11 @@ Total cost for a 1,200 square foot attic going from R-7 to R-38 with blown cellu
 
 ## Should You Ever Call a Pro?
 
+## Sources
+
+- [Raymond Petrik](https://www.pexels.com/@raymond-petrik-1448389535)
+
+
 Yes, actually. A few situations where I'd hire it out or at minimum get professional advice:
 
 If you have vermiculite or any suspect material in the existing insulation. If the attic has evidence of a moisture problem, staining on the roof sheathing, soft spots, any black mold. If you have spray foam already in the attic and you're not sure what type it is. If the space is genuinely inaccessible or a very tight scissor-truss situation with almost no room to work. And if you have buried knob-and-tube wiring (common in homes built before 1940), you'll want an electrician to evaluate it before you cover it with insulation. The old wiring needs to breathe and can overheat when covered.

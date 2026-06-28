@@ -88,6 +88,11 @@ The product is only part of the equation. Application matters more than most DIY
 
 ## What It Actually Costs to Do This Right
 
+## Sources
+
+- [Faruk Tokluoğlu](https://www.pexels.com/@faruktokluoglu)
+
+
 Let me give you real numbers rather than vague ranges.
 
 A 1,500 square foot home with dark walls in four rooms, roughly 800 square feet of wall space to repaint, will use approximately 2 gallons of primer at proper coverage rates. Shellac covers about 300 to 400 square feet per gallon on porous or problem surfaces; water-based high-hide gets you closer to 400 to 450 square feet.

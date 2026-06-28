@@ -71,6 +71,11 @@ For flat paint, you're in luck. Flat hides sheen variation better than any other
 
 ## When to Repaint the Whole Wall
 
+## Sources
+
+- [Blue Bird](https://www.pexels.com/@blue-bird)
+
+
 Sometimes the honest answer is that a touch-up won't work. If the wall paint is more than eight years old, has been repainted over several different products, or the original color is significantly faded from sun exposure, no amount of careful technique will make a small patch disappear. You're better off repainting the entire wall, floor to ceiling, corner to corner.
 
 A full wall repaint on an average 10x12 room runs $200 to $400 in materials if you're DIYing it, or $600 to $900 for a professional painter in most Midwest and Southeast markets. On the coasts, add 30 to 50 percent. That sounds like a lot compared to dabbing on a little touch-up paint, but it's the right answer when the wall has aged past the point where spot repairs are invisible.

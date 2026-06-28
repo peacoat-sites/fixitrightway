@@ -112,6 +112,15 @@ Different projects need different cuts. Here's what you'll run into most often.
 
 ## You've Got This!
 
+## Sources
+
+- [Feelfarbig Magazine](https://unsplash.com/@feelfarbig?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [James Kovin](https://unsplash.com/@james2k?utm_source=seniorstrength&utm_medium=referral)
+- [Rob Dean](https://unsplash.com/@robhdean?utm_source=seniorstrength&utm_medium=referral)
+- [Graciela Martin](https://unsplash.com/@gmart?utm_source=seniorstrength&utm_medium=referral)
+
+
 Learning how to use a tile saw feels awkward the first time and completely natural by the third or fourth cut. Take your time, follow the safety guidelines, and practice on cheap tiles before you touch your good ones.
 
 With some preparation and patience, you'll be making precise, professional-looking cuts and watching your project come together. Every expert tiler started exactly where you are right now. One cut at a time. That's all it takes.

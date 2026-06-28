@@ -71,6 +71,11 @@ Stay off it for 24 hours. Full cure is about 28 days, but you'll have enough str
 
 ## When to Paint or Seal the Patch
 
+## Sources
+
+- [chickenbunny](https://www.pexels.com/@chickenbunny-102941452)
+
+
 A patched floor has a color difference between old and new concrete. The repair didn't fail. Fresh concrete is lighter and darkens over time, but never fully matches.
 
 If you've been thinking about sealing or painting anyway, now's good. A penetrating concrete sealer like Armor SX5000 WB (around $80-$100 per gallon, covers 200-400 sq ft) protects the whole floor from moisture, oil, and the salt damage that causes spalling. Wait at least 28 days after patching before sealing so the concrete fully cures.

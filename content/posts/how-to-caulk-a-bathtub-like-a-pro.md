@@ -91,6 +91,11 @@ Don't touch it for 24 hours. Don't run the water, don't let steam build up. Just
 
 ## When to Call Someone Instead
 
+## Sources
+
+- [Curtis Adams](https://www.pexels.com/@curtis-adams-1694007)
+
+
 Caulking is DIY-friendly. But there are situations where you're patching over a bigger problem.
 
 If the caulk joint keeps failing in the same spot every few months, that's often a sign of excessive tub flex, which can mean the tub isn't properly supported underneath. Cast iron and acrylic tubs flex differently; acrylic especially can develop soft spots if the mortar bed underneath has deteriorated. That's a conversation with a tile contractor or plumber, not a caulk job.

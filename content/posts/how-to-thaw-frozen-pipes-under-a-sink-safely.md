@@ -81,6 +81,11 @@ Plug-in pipe heating cables are a legitimate solution for chronic problem spots.
 
 ## A Contrarian Take Worth Hearing
 
+## Sources
+
+- [Magda Ehlers](https://www.pexels.com/@magda-ehlers-pexels)
+
+
 Most freeze-prevention advice focuses on insulation, and insulation is good, but I'd argue that the more important variable is air movement. A pipe surrounded by still, cold air in a sealed cabinet will freeze faster than a pipe with the same amount of insulation but a crack of warm air getting to it. This is why opening cabinet doors works so well and why closing up every gap in your cabinet's exterior wall backing can sometimes make things worse, not better.
 
 The traditional advice to "seal drafts" under kitchen sinks to keep cold air out is correct when the cold air is coming from outside (around pipe penetrations through the exterior wall, for example). But sometimes homeowners go further and fully seal the cabinet interior from the room, which cuts off the warm indoor air that was keeping the pipe from freezing. The goal is to block outside cold air while allowing indoor warm air to circulate. It's a subtle distinction but it matters.

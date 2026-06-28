@@ -77,6 +77,11 @@ Older homes sometimes have the GFCI in a completely non-obvious location. I work
 
 ## The One Situation Where You Should Not DIY This
 
+## Sources
+
+- [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki)
+
+
 If your GFCI outlet trips repeatedly with nothing plugged in, call an electrician. Not because the work is complicated, but because that pattern tells you there's a fault in the wiring itself, not in an appliance, and tracing a wiring fault requires opening walls, testing with a multimeter, and knowing how to read the circuit. That's not about skill level, it's about having the right tools and training.
 
 Also, if you reset the outlet and you see burn marks on the face, smell anything strange, or the outlet feels warm, stop using it. That's past GFCI territory. That's a fire hazard conversation.

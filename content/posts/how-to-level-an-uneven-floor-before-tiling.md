@@ -120,6 +120,15 @@ Once you confirm the floor is level, you're ready to start laying your tile. The
 
 ## You Are Ready to Tile With Confidence
 
+## Sources
+
+- [Kari Shea](https://unsplash.com/@karishea?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Scott Jacobsen](https://unsplash.com/@scottdouglasjacobsen?utm_source=seniorstrength&utm_medium=referral)
+- [Possessed Photography](https://unsplash.com/@possessedphotography?utm_source=seniorstrength&utm_medium=referral)
+- [Ronnie George](https://unsplash.com/@realestateron?utm_source=seniorstrength&utm_medium=referral)
+
+
 Uneven floor leveling might feel intimidating, but it's truly the foundation of a tile job you'll be proud of for years to come. By taking the time to assess, prepare, prime, pour, and cure properly, you eliminate the number one cause of tile failures before they ever happen.
 
 Take your time, follow each step carefully, and don't rush the drying process. Your tiles, and your future self, will thank you. Now go ahead and create that beautiful, lasting floor you've been dreaming about.

@@ -129,6 +129,15 @@ Many appliance repair companies offer free or cheap diagnostic visits. Always ge
 
 ## You've Got This
 
+## Sources
+
+- [Florencia Potter](https://unsplash.com/@florenciapotter?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Franco Debartolo](https://unsplash.com/@francotheshooter?utm_source=seniorstrength&utm_medium=referral)
+- [Richard Williams](https://unsplash.com/@richardjw?utm_source=seniorstrength&utm_medium=referral)
+- [Zac Gudakov](https://unsplash.com/@zacgudakov?utm_source=seniorstrength&utm_medium=referral)
+
+
 A warm refrigerator is stressful, but you've got a clear path forward. Most of these fixes take under an hour and cost almost nothing.
 
 Start simple, work methodically, call a pro when it's beyond you. You can handle this.

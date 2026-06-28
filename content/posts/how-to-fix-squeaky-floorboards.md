@@ -78,6 +78,11 @@ This job takes a few hours in a weekend if you have reasonable basement access a
 
 ## When to Call a Pro and What It'll Cost
 
+## Sources
+
+- [Mike van Schoonderwalt](https://www.pexels.com/@mike-van-schoonderwalt-1884800)
+
+
 Most squeak repairs, done from below or through carpet, are DIY-friendly. I'd say confidently: if you have basement access and basic tools, try it yourself before spending any money on a contractor.
 
 Where I'd call someone: if the subfloor itself is soft or spongy (which can indicate moisture damage or rot), if you suspect a joist is compromised, or if you're dealing with a second-story floor over a finished ceiling and you want the fix to be clean and permanent without opening up drywall.

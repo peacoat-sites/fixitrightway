@@ -87,6 +87,11 @@ If you genuinely can't find a match and the plank is in a visible area, steal a 
 
 ## When to Call a Pro
 
+## Sources
+
+- [Pixabay](https://www.pexels.com/@pixabay)
+
+
 Most single-plank repairs don't require a pro. But a few situations warrant it.
 
 If the damage came from water and you're not sure how far it spread, you need to know before you close that floor back up. Water under laminate is a mold situation waiting to happen. A moisture meter (you can rent one from Home Depot for about $30 a day, or buy a decent one like the General Tools MMD7NP for around $25) will tell you whether the subfloor is actually dry.

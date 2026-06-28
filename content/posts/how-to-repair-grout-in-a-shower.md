@@ -71,6 +71,11 @@ A common objection: "but the silicone never matches the grout perfectly." True. 
 
 ## When to Stop and Call Someone
 
+## Sources
+
+- [Max Vakhtbovych](https://www.pexels.com/@artbovich)
+
+
 There's a version of this repair that goes beyond DIY territory. If you remove grout and find tiles that move when you press them, the tile has debonded from the substrate. That means water has already been underneath. Removing those tiles will likely reveal damaged drywall or cement board, and at that point you're doing a full wet area repair, not a grout touchup.
 
 Mushy drywall, black staining on the substrate, or any give in the floor tiles near the drain all mean water intrusion that has to be addressed structurally before new grout or caulk goes in. Covering that with new grout is like putting a fresh bandage on an infected wound. You're buying yourself maybe a year before the tile falls off the wall on its own.

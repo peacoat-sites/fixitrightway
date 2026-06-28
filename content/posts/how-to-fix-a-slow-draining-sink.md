@@ -77,6 +77,11 @@ One opinion I'll stand behind even though I know some people disagree: skip Dran
 
 ## When to Actually Call a Plumber
 
+## Sources
+
+- [www.kaboompics.com](https://www.pexels.com/@karola-g)
+
+
 If every single drain in your house is slow, or if clearing your bathroom sink makes your toilet gurgle, you're dealing with a main drain or venting issue. That's a pro call. Main line snaking runs around $150 to $300, and if the line has a bellied section or root intrusion you might be looking at a camera inspection (typically $100 to $200) before any work starts.
 
 A single slow sink that you cannot clear after cleaning the stopper, plunging, removing the trap, and snaking 6 to 8 feet into the drain: that could mean a partial blockage deep in the line, a venting problem on that branch, or on older homes, a pipe that's partially collapsed or filled with scale. Call a plumber at that point. You've done everything a homeowner reasonably should.

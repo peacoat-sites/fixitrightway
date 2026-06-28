@@ -107,6 +107,11 @@ Third: mixing up which switch configuration you actually have. If your light has
 
 ## Should You DIY This or Hire Someone?
 
+## Sources
+
+- [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki)
+
+
 I'll be honest here. If you're in a newer home (post-1985), have metal or plastic junction boxes with proper grounding, and can confirm which cable configuration you have, this is a reasonable beginner project. The actual wiring takes about 45 minutes once you understand the logic.
 
 If you have aluminum wiring (common in homes built between 1965 and 1973, identifiable by the silver-colored wire and the "AL" marking on the cable jacket), stop. Aluminum wiring requires special devices rated for aluminum and antioxidant compound. This is a hire-a-pro situation without question.

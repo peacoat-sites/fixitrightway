@@ -71,6 +71,12 @@ One more thing about doors that's almost never discussed: the door to your attac
 
 ## When to Call Someone
 
+## Sources
+
+- [Ron Lach](https://www.pexels.com/@ron-lach)
+- how much leakage
+
+
 Air sealing is one of the more genuinely DIY-friendly things in home performance work. The materials are cheap, the skills required are basic, and the risk of making things worse is low, with one important exception.
 
 Houses with older combustion appliances (gas furnaces, water heaters, boilers) need combustion air. Seal a house too tight without understanding the mechanical ventilation picture and you can create back-drafting, where flue gases including carbon monoxide are drawn back into the living space. This is a real danger. If your house has any atmospheric-draft combustion appliances and you're planning serious air sealing beyond weatherstripping, get that blower door test first and have an HVAC tech assess your combustion safety afterward.

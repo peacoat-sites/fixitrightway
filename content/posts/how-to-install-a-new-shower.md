@@ -146,6 +146,15 @@ Install your door per kit instructions, or hang your curtain rod. Step back and 
 
 ## You Can Do This, One Step at a Time
 
+## Sources
+
+- [Point3D Commercial Imaging Ltd.](https://unsplash.com/@3dottawa?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [jordi pujadas](https://unsplash.com/@jordipbu?utm_source=seniorstrength&utm_medium=referral)
+- [Alex Tyson](https://unsplash.com/@alextyson195?utm_source=seniorstrength&utm_medium=referral)
+- manufacturer's depth specs
+
+
 Installing a new shower is one of the most rewarding home projects you can tackle. It improves safety, comfort, and home value all in a single weekend.
 
 Take each step slowly. Don't skip the caulk. Ask for help when you need it. Whether you work solo or with family, you'll end up with a shower you're proud of every morning. You've got this.

@@ -122,6 +122,11 @@ These usually mean something deeper is wrong. A licensed tile contractor diagnos
 
 ## You've Got This
 
+## Sources
+
+- package directions
+
+
 A loose tile looks like a daunting problem, but it's genuinely manageable with the right approach. Take your time on each step, use quality materials, and your floor will feel solid and look sharp again quickly.
 
 Every successful repair builds confidence for the next one. Give yourself credit for doing this yourself, your home, your safety, and your wallet all win. Now go fix that tile.

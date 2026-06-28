@@ -105,6 +105,15 @@ Finish with two coats of ceiling paint in a flat or matte finish to match your e
 
 ## You Can Do This
 
+## Sources
+
+- [Brina Blum](https://unsplash.com/@brina_blum?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Chandan Siddaramaia](https://unsplash.com/@chandan_siddu?utm_source=seniorstrength&utm_medium=referral)
+- [Jose Manuel Esp](https://unsplash.com/@jmespiga?utm_source=seniorstrength&utm_medium=referral)
+- [Brett Jordan](https://unsplash.com/@brett_jordan?utm_source=seniorstrength&utm_medium=referral)
+
+
 A water damaged ceiling looks intimidating until you break it into clear steps. It's a very achievable repair for most DIYers.
 
 The key is patience. Fix the leak first. Let everything dry thoroughly. Don't rush the taping and finishing. Take your time with each step, use the right primer, and you'll end up with a ceiling that looks like the damage never existed. Your home will look great, and you'll have the satisfaction of handling it yourself.

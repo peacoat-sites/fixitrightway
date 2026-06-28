@@ -67,6 +67,11 @@ If there's no catch and the door won't stay shut, the hinge spring tension is pr
 
 ## How to Know If You Need to Call Someone
 
+## Sources
+
+- [Max Vakhtbovych](https://www.pexels.com/@artbovich)
+
+
 Honestly? Almost never for hinge adjustment alone. This is true DIY territory.
 
 The exceptions are if the hinge cup pulled out of the door, meaning the wood around the cup hole is blown out and there's nothing for the screw to grip. That needs wood repair before anything else, either a plug-and-redrill approach or a larger cup. It's doable yourself but fiddly. The other exception is if the cabinet box itself is racked or out of square, which no amount of hinge adjustment will overcome. You'd need to pull the cabinet and re-set it, and if that's what's happening, a pro is worth the call.

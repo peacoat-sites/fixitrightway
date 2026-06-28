@@ -87,6 +87,11 @@ While you're at it, check that the cover is seating properly and not sitting sli
 
 ## Preventing It From Coming Back
 
+## Sources
+
+- [Zulfugar Karimov](https://www.pexels.com/@zulfugarkarimov)
+
+
 The single most effective thing is a hair catcher. The OXO Good Grips Shower Drain Protector (about $10) sits in the drain opening and catches hair before it enters the pipe. You pull it out and clean it after every few showers. Not glamorous, but it reduces shower drain calls to near zero in homes that use one consistently.
 
 For soap scum buildup, a monthly flush of boiling water helps. Pour a full kettle's worth slowly down the drain. The heat melts and flushes the soap residue that accumulates on pipe walls. Skip this if you have PVC pipe that's less than 1.5 inches in diameter or joints you're unsure about, since boiling water can soften some plastic fittings. Very hot tap water (not boiling) is fine for PVC.

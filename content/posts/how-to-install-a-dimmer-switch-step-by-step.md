@@ -77,6 +77,11 @@ If there's a faint hum from the fixture: try a different dimmer brand or a diffe
 
 ## When to Call an Electrician
 
+## Sources
+
+- [Steve A Johnson](https://www.pexels.com/@steve)
+
+
 Do it yourself if you have a straightforward single-pole switch, two or three wires (plus ground), and a standard residential box that isn't crammed full of junction wires or unfamiliar configurations.
 
 Call a licensed electrician if you open the box and find aluminum wiring (silver-colored, often with AL marked on the cable jacket), or if there are four or more wires and you genuinely don't know which is which, or if you find any signs of prior overheating like melted insulation or scorch marks. Aluminum wiring especially requires specific dimmers rated for aluminum, and the connections need anti-oxidant compound. This isn't the place to guess.

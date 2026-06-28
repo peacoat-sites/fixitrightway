@@ -101,6 +101,11 @@ You've snaked it, it cleared, and it came back within a week. This pattern usual
 
 ## What This Costs vs. Calling a Plumber
 
+## Sources
+
+- [Thomas Shockey](https://www.pexels.com/@thomas-shockey-14125561)
+
+
 A plumber will charge $150 to $300 to snake a bathroom sink drain, depending on your market and whether it's a weekend call. In major metro areas, that low end is often $200 now. The Husky hand snake is $25, handles bathroom sinks, laundry standpipes, and tub drains, and lasts ten-plus years with basic care. Even if you only use it twice, the math is obvious.
 
 The one situation where I'd skip the DIY and call immediately: if you have PVC drainpipes under a bathroom added as an addition or in an older renovation, and the P-trap connections look questionable or someone taped over a joint at some point, don't snake it. That's a drain ripe for leaking the moment you introduce cable tension. Have someone who can also replace fittings on hand.

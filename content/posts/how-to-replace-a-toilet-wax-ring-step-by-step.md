@@ -74,6 +74,11 @@ If the flange looks solid, scrape off all the old wax from the flange and from t
 
 ## When to Call a Plumber Anyway
 
+## Sources
+
+- [Pasi Mämmelä](https://www.pexels.com/@pasi-mammela-2159326540)
+
+
 The repair itself? You can do it. What can tip this job toward professional territory is what you find underneath. A rotted subfloor (soft, spongy, or dark around the flange area) means you're now doing carpentry, not just plumbing. A flange that's completely corroded or broken away from the drain pipe is beyond DIY for most people. And if your toilet has been leaking slowly for a long time and the smell is coming not from under the toilet but from the surrounding floor, you may have a water damage situation that needs a full assessment.
 
 Subfloor rot repair runs $200 to $800 depending on how far it extends. A full flange replacement by a plumber typically runs $200 to $400 in parts and labor. Both situations are worth getting a real diagnosis before you start swinging a hammer.

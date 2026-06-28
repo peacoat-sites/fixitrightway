@@ -116,6 +116,13 @@ Once fully cured, usually after several days, apply a penetrating concrete seale
 
 ## You've Got This!
 
+## Sources
+
+- [Steve Lieman](https://unsplash.com/@stevelieman?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral)
+
+
 Repairing your concrete walkway is a genuinely satisfying project that improves the safety, appearance, and value of your home. With the right tools, quality materials, and some patience, you can achieve professional-looking results on your own schedule.
 
 Take it one step at a time. Don't rush preparation or curing. Be proud of the work. A smooth, safe, beautiful walkway is waiting, and now you have everything you need to make it happen.

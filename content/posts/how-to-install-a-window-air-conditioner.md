@@ -120,6 +120,15 @@ When fall comes, pull the unit out, wipe it down, and store it in a dry spot ind
 
 ## You've Got This!
 
+## Sources
+
+- [Turquo Cabbit](https://unsplash.com/@turquocabbit?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Yuri Krupenin](https://unsplash.com/@cubeofwood?utm_source=seniorstrength&utm_medium=referral)
+- [Chastagner Thierry](https://unsplash.com/@chasta03?utm_source=seniorstrength&utm_medium=referral)
+- [Vaibhav Surana](https://unsplash.com/@vaibhav_surana?utm_source=seniorstrength&utm_medium=referral)
+
+
 This is a simple project. Not difficult. Just deliberate. Get someone to help, follow the steps, and seal the gaps properly. You'll have a cool room all summer without paying a service technician.
 
 Your comfort matters. You're not being lazy or wasteful by wanting to sleep at a decent temperature. Install it right the first time, and you're done.

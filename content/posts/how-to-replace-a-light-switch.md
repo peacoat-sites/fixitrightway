@@ -104,6 +104,11 @@ The research here is mixed on wire color coding for 3-way switches. In a perfect
 
 ## When to Call an Electrician
 
+## Sources
+
+- here is mixed on wire color coding for 3-way switches
+
+
 I'm not someone who defaults to "hire a pro" for everything. But there are specific situations where you should put the tools down.
 
 **You find aluminum wiring.** It's silver-colored, not copper-orange. Aluminum wiring requires special switches and special handling. Common in homes built from the mid-1960s through the 1970s. If you see it, call a licensed electrician.

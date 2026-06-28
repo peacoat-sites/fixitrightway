@@ -116,6 +116,15 @@ Wipe down the entire wall with a barely damp cloth to remove all dust. Let it dr
 
 ## You've Got This, One Coat at a Time
 
+## Sources
+
+- [Krakograff Textures](https://unsplash.com/@krakograff?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Erik Mclean](https://unsplash.com/@introspectivedsgn?utm_source=seniorstrength&utm_medium=referral)
+- [fauve othon](https://unsplash.com/@fauve_othon?utm_source=seniorstrength&utm_medium=referral)
+- [Tim Hüfner](https://unsplash.com/@huefnerdesign?utm_source=seniorstrength&utm_medium=referral)
+
+
 Learning how to tape and mud drywall takes practice, but every coat makes you better. The most important lessons are simple: let each coat dry completely, feather your edges wide, and don't rush the sanding. These three habits separate a lumpy, cracked result from a wall that looks professional.
 
 Take pride in the process. Every smooth, paint-ready wall you create is a skill you'll have forever, and a project you can point to with genuine satisfaction. Grab your mud pan, load up your knife, and get started. Your walls are going to look great.

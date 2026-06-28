@@ -87,6 +87,12 @@ If you go with heavier insulation, have your springs adjusted after the install.
 
 ## Finishing Touches That Actually Matter
 
+## Sources
+
+- [Jan van der Wolf](https://www.pexels.com/@jan-van-der-wolf-11680885)
+- on foil bubble products is not kind
+
+
 Insulating the panels is the big move, but the door frame is leaking too. Check the weatherstripping around all four sides. The bottom seal takes a beating. A new vinyl bottom seal for a 16-foot door runs about $20-$30 and takes 20 minutes to replace. The side seals (called stop molding) should compress against the door face when closed. If you see daylight through a gap, replace them. A full weatherstrip kit from Frost King runs $15-$25.
 
 The top of the door frame, where it meets the header, often gets missed. Heat loss there gets fixed with a piece of adhesive foam weatherstrip tape for a couple of dollars.

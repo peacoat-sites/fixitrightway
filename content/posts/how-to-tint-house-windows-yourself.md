@@ -106,6 +106,15 @@ If you're tinting a very large window, ask a family member or neighbor to help y
 
 ## You Can Do This
 
+## Sources
+
+- [Sevda Celik](https://unsplash.com/@sevdacelik?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Griffin Taylor](https://unsplash.com/@thejollyllama?utm_source=seniorstrength&utm_medium=referral)
+- [Anna Stampfli](https://unsplash.com/@annastampfli?utm_source=seniorstrength&utm_medium=referral)
+- [HYEWON HWANG](https://unsplash.com/@hyewonphotography?utm_source=seniorstrength&utm_medium=referral)
+
+
 Tinting your own house windows is a genuinely satisfying project that pays off every single day in comfort, energy savings, and protected furnishings. Take it one window at a time, follow the steps carefully, and don't rush the cleaning or curing stages.
 
 With a little patience and the right materials, you'll have beautifully tinted windows that look professional and perform beautifully for years to come. Start with one window this weekend and enjoy the difference it makes right away.

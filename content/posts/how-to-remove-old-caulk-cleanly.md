@@ -115,6 +115,15 @@ There's absolutely no rush with this project. Taking it in stages over a day or 
 
 ## You've Got This
 
+## Sources
+
+- [immo RENOVATION](https://unsplash.com/@immorenovation?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Edgar Chaparro](https://unsplash.com/@echaparro?utm_source=seniorstrength&utm_medium=referral)
+- [Raze Solar](https://razesolar.com/?utm_source=seniorstrength&utm_medium=referral)
+- [N1CE](https://unsplash.com/@n1ce?utm_source=seniorstrength&utm_medium=referral)
+
+
 Knowing how to remove old caulk properly is a genuinely useful skill that protects your home from water damage and saves you from costly repairs down the road. By taking it one step at a time, softening, scoring, pulling, cleaning, and drying, you'll achieve a result that any professional would be proud of.
 
 Remember, the most important thing is not to rush. Give the softener time to work. Let the surface dry completely. Take care of your body while you work. A fresh bead of caulk applied to a properly prepared surface lasts for ten years or more. You've done the hard part. Now enjoy that clean, bright finish every time you walk into the bathroom.

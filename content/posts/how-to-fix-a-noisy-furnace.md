@@ -93,6 +93,12 @@ An HVAC pro can do a full tune-up to prevent future noise and boost efficiency.
 
 ## You've Got This
 
+## Sources
+
+- [Khanh Do](https://unsplash.com/@donguyenkhanhs?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+
+
 A noisy furnace doesn't require a $1,500 repair or a miserable cold night. Most of these fixes take an hour or two.
 
 Start with the easy stuff first. New filter, tightened panels, a little oil. Work your way through the steps and you'll find the source before things get complicated.

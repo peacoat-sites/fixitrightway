@@ -69,6 +69,11 @@ Interior wall outlets add maybe 10 to 15 minutes of work per outlet and cost not
 
 ## What This Actually Saves You
 
+## Sources
+
+- [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk)
+
+
 I'll give you real numbers rather than vague promises. A typical 2,000 square foot house in a climate like Chicago or Minneapolis, where the heating season is long and cold, might spend $1,800 to $2,400 a year on gas heat. Air sealing across the whole house (outlets, attic bypasses, rim joists, the works) can realistically cut that by 15 to 25 percent. Outlets alone won't get you there, but they're one of the cheapest interventions in the whole toolkit.
 
 If you're spending $25 on foam gaskets and two hours of your time, and you reduce your infiltration meaningfully, payback is essentially immediate. You're not looking at a 7-year payback period like you might with new windows. This stuff pays back in the first winter.

@@ -85,6 +85,11 @@ Don't use a foam roller on curved or detailed trim like fluted casings, chair ra
 
 ## Common Mistakes That Undo Good Technique
 
+## Sources
+
+- [Ikke mist deg selv Goshawk](https://www.pexels.com/@ikke-mist-deg-selv-goshawk-66352007)
+
+
 **Painting in direct sunlight or a warm room.** Heat accelerates drying time dramatically. If the room is above 75 degrees or direct sun is hitting the trim, your working time shortens to almost nothing. Paint in the morning, work in cooler temperatures when possible.
 
 **Using paint straight from a cold garage.** Cold paint is thick paint. It won't level properly and will show every stroke. Let your paint sit at room temperature for at least an hour before opening the can.

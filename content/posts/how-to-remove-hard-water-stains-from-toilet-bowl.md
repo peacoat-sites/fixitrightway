@@ -77,6 +77,11 @@ If you've got severe rust staining throughout your house, not just the toilet, t
 
 ## What to Do After (So You're Not Back Here in Three Months)
 
+## Sources
+
+- [Markus Spiske](https://www.pexels.com/@markusspiske)
+
+
 Prevention is boring to write about and I know you probably want to skip this section. Don't.
 
 After you've cleaned the bowl thoroughly, a few habits dramatically slow deposit re-accumulation. Drop-in tank tablets containing citric acid (not bleach-based ones, which can damage rubber flapper valves over time) help keep minerals from bonding to the porcelain. Weekly brushing instead of monthly makes a real difference because you're disrupting deposits before they bond hard.

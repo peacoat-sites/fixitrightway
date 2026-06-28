@@ -83,6 +83,11 @@ Probe a half inch to either side of your target if you miss on the first try. On
 
 ## When the Wall Is Fighting You
 
+## Sources
+
+- [La Miko](https://www.pexels.com/@lamiko)
+
+
 Old houses complicate everything. Plaster walls, which you'll find in most construction predating the 1950s, don't respond the same way to the knock test because the plaster itself is dense and relatively uniform. The magnet trick also fails here, because original plaster was applied over wood lath strips, meaning there are nails every few inches that will pull at your magnet constantly.
 
 In plaster construction, I lean almost entirely on the measurement method. Find a corner, find a door, measure 16 inches and multiples thereof, and then do small exploratory holes with a finish nail. You can also look for visual clues: the slight ridges or nail pops in old plaster often correspond to framing locations, though this is more art than science.

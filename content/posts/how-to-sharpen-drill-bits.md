@@ -112,6 +112,15 @@ A quick touch-up on the grinder every few months of regular use will keep most b
 
 ## You've Got This, Keep Your Tools Sharp and Your Projects Moving
 
+## Sources
+
+- [Sneaky Elbow](https://unsplash.com/@sneakyelbow?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Edo](https://unsplash.com/@photosbyedoardo?utm_source=seniorstrength&utm_medium=referral)
+- [Erik Mclean](https://unsplash.com/@introspectivedsgn?utm_source=seniorstrength&utm_medium=referral)
+- [Ozkan Guner](https://unsplash.com/@dentistozkanguner?utm_source=seniorstrength&utm_medium=referral)
+
+
 Learning how to sharpen drill bits is one of those satisfying workshop skills that pays you back every single time you use it. With a little practice, the process becomes quick and almost automatic. Your projects will run smoother, your bits will last longer, and you'll feel the quiet confidence that comes from knowing how to care for your tools.
 
 Start with one old, dull bit and practice the steps in this guide. Before long, sharpening your drill bits will feel as natural as any other part of your workshop routine. Happy drilling!

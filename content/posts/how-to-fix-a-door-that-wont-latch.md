@@ -151,6 +151,15 @@ Replacing a latch is easier than it sounds. The new one slides right in, handles
 
 ## You've Got This
 
+## Sources
+
+- [John Cardamone](https://unsplash.com/@john_cardamone?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Margarita Shtyfura](https://unsplash.com/@kvitka?utm_source=seniorstrength&utm_medium=referral)
+- [Possessed Photography](https://unsplash.com/@possessedphotography?utm_source=seniorstrength&utm_medium=referral)
+- [Suraj Tomer](https://unsplash.com/@meditative?utm_source=seniorstrength&utm_medium=referral)
+
+
 A door that won't latch seems like a mystery until you know what to look for. Then it's actually manageable. Whether it's a loose screw or a strike plate shift, one of these fixes will get your door working again.
 
 Take it one step. Be patient. Stop and ask for help if something feels wrong. With basic tools and some time, your door will latch smoothly. And you'll have done it yourself.

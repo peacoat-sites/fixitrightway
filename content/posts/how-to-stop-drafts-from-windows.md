@@ -138,6 +138,15 @@ These work especially well in bedrooms and living areas where you spend the most
 
 ## You've Got This, Stay Warm and Comfortable This Winter
 
+## Sources
+
+- [Cole Ankney](https://unsplash.com/@rcankney?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Julia Rodriguez](https://unsplash.com/@julesrodr?utm_source=seniorstrength&utm_medium=referral)
+- [Rob Wingate](https://unsplash.com/@robwingate?utm_source=seniorstrength&utm_medium=referral)
+- [Ed Wingate](https://unsplash.com/@ed_wingate?utm_source=seniorstrength&utm_medium=referral)
+
+
 Drafty windows don't have to mean a cold home or heating bills that make you wince. With these simple, affordable steps, you take real control of your comfort and your costs.
 
 Start with the easiest fixes: weatherstripping and caulk. Add window film or thermal curtains for extra warmth. Every small repair compounds into a cozier, more efficient home. These improvements pay off for years.

@@ -79,6 +79,11 @@ Heavy chandeliers over 35 lbs, or any ceiling fan (even the lightweight ones): y
 
 ## What to Spend and Where Not to Spend It
 
+## Sources
+
+- [Thirdman](https://www.pexels.com/@thirdman)
+
+
 The fixture itself is where cost varies wildly, from $25 Home Depot flush-mounts to $400 semi-flush fixtures from Rejuvenation or Visual Comfort. That's a style and budget call, not a difficulty call. The harder-to-find stuff often has better mounting hardware and clearer instructions, which does make the install slightly less annoying.
 
 The tools and hardware to do it right: under $50 total if you don't own a voltage tester. The voltage tester alone is worth buying even if you only ever do this one job.

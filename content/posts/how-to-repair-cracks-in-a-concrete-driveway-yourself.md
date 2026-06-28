@@ -89,6 +89,11 @@ Also: concrete resurfacer is not beginner-friendly. It sets fast, it requires co
 
 ## When to Call Someone
 
+## Sources
+
+- [Roman Biernacki](https://www.pexels.com/@szafran)
+
+
 Honestly, most residential driveway cracks don't require a professional. But here are the situations where I'd tell a homeowner to put the trowel down:
 
 One or more slabs have settled more than an inch below adjacent slabs. You might want to get a mudjacking or polyurethane foam lifting estimate before you do any surface work. Mudjacking (pumping a grout slurry under the slab to lift it) runs $500-1,200 depending on how many slabs and your region. Poly foam lifting is typically a bit more. Either way, it's pointless to repair the surface before you fix the grade.

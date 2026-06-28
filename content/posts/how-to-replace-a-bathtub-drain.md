@@ -112,6 +112,14 @@ Same goes for a cracked or corroded drain pipe below floor level. That's beyond 
 
 ## You Have Got This!
 
+## Sources
+
+- [Zac Gudakov](https://unsplash.com/@zacgudakov?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Masiyah](https://unsplash.com/@masiyah?utm_source=seniorstrength&utm_medium=referral)
+- [Kelli McClintock](https://unsplash.com/@kelli_mcclintock?utm_source=seniorstrength&utm_medium=referral)
+
+
 You just saved yourself $150 to $300 in plumber fees and got the satisfaction of fixing something yourself. Take your time, stay safe, and don't hesitate to ask for a hand if you need one.
 
 Your shower's going to drain like it's supposed to now. That's worth celebrating.

@@ -95,6 +95,11 @@ Installing a new disposal yourself is doable if your old one uses a standard thr
 
 ## The Junction Box Thing Most Guides Skip
 
+## Sources
+
+- [Dmax Tran](https://www.pexels.com/@dmax-tran-1398585)
+
+
 If your disposal's hardwired (no plug, just wires in a junction box or into the unit directly) and you've already ruled out the breaker, GFCI, and reset button, open that junction box and check the wire connections. Power the circuit OFF at the breaker first. Remove the plate and look for a loose wire nut. This happens more than it should, especially in older homes where insulation gets brittle. A wire that's not fully seated in the nut kills power partially or completely.
 
 Do not open that box while it's live. This is one of those rules where you actually listen.

@@ -67,6 +67,11 @@ Let it cure. Silicone needs 24 hours before light water exposure and a full 72 h
 
 ## What Goes Wrong (And How to Avoid It)
 
+## Sources
+
+- [Castorly Stock](https://www.pexels.com/@castorlystock)
+
+
 Mold behind the new bead, within weeks. Almost always means moisture was trapped during application, either the surface wasn't dry, or the caulk was applied over residue that held moisture. Start over, prep better.
 
 Caulk that peels away cleanly in one strip after a few months. That's an adhesion failure, and it usually comes from a dirty or contaminated surface. Soap film, body oils, even residue from cleaning products can prevent silicone from bonding. Alcohol wipe before you caulk, every time.

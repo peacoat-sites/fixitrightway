@@ -117,6 +117,15 @@ Stand back and look at your finished work. A straight, handsome mailbox post add
 
 ## You've Got This!
 
+## Sources
+
+- [Muhammad Qayyum Abdul Rahman](https://unsplash.com/@qayyum_03?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Age Cymru](https://unsplash.com/@agecymru?utm_source=seniorstrength&utm_medium=referral)
+- [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral)
+- the package directions
+
+
 Installing a mailbox post is one of those satisfying home improvement projects that looks impressive but is completely achievable for anyone willing to take it one step at a time. You've got everything you need now: the right tools, the right technique, and the confidence to get it done safely.
 
 Take breaks when you need to. Don't hesitate to ask a friend to help with the heavy lifting. Your mail carrier will thank you, and your neighbors will definitely notice the upgrade. Happy installing!

@@ -143,6 +143,15 @@ Most people find that replacing slides is actually easier than trying to repair 
 
 ## You've Got This
 
+## Sources
+
+- [Alex Tyson](https://unsplash.com/@alextyson195?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Puscas Adryan](https://unsplash.com/@adryan_studio?utm_source=seniorstrength&utm_medium=referral)
+- [Aleksandar Andreev](https://unsplash.com/@andreevaleksandar?utm_source=seniorstrength&utm_medium=referral)
+- [Point3D Commercial Imaging Ltd.](https://unsplash.com/@3dottawa?utm_source=seniorstrength&utm_medium=referral)
+
+
 A kitchen drawer off track can feel like a bigger problem than it really is. With a little patience, the right tools, and this guide, you'll have your drawer gliding smoothly again in under an hour.
 
 Home repairs like this build confidence and save real money. Every fix you complete yourself is proof that staying independent and capable is absolutely within reach. Give yourself credit for tackling it, and enjoy that smoothly sliding drawer every single day.

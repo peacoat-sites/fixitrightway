@@ -126,6 +126,15 @@ After any repairs, clean and lubricate the track again before testing the door.
 
 ## You Can Do This!
 
+## Sources
+
+- [Alessandro Chitarrini](https://unsplash.com/@chitvs?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Sven Eisenschmidt](https://unsplash.com/@sveneisenschmidt?utm_source=seniorstrength&utm_medium=referral)
+- [Sergio Aguirre](https://unsplash.com/@zeryozero?utm_source=seniorstrength&utm_medium=referral)
+- [Pix Tresa](https://unsplash.com/@pixtresa?utm_source=seniorstrength&utm_medium=referral)
+
+
 A stuck sliding door feels like a big problem. Usually it's simple, cheap, and totally fixable yourself. Start with thorough cleaning, work through each step, and you'll solve it in almost every case.
 
 Take your time. Get a helper for the heavy lifting. Don't hesitate to replace a roller or two if you need to. Your door will slide like new, and you'll know you did it yourself.

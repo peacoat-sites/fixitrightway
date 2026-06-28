@@ -130,6 +130,15 @@ If you find areas that aren't sealing properly, try adding an additional layer o
 
 ## You've Got This. Start This Weekend
 
+## Sources
+
+- [Gary Meulemans](https://unsplash.com/@anakin1814?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Denny Müller](https://unsplash.com/@redaquamedia?utm_source=seniorstrength&utm_medium=referral)
+- [Carl Tronders](https://unsplash.com/@allvar?utm_source=seniorstrength&utm_medium=referral)
+- [Priscilla Du Preez 🇨🇦](https://unsplash.com/@priscilladupreez?utm_source=seniorstrength&utm_medium=referral)
+
+
 Replacing worn weatherstripping is one of those home improvement tasks that delivers an immediate, noticeable payoff. Your home feels more comfortable, your energy bills go down, and you get the satisfaction of knowing you did it yourself.
 
 The whole project for a standard window typically takes less than an hour from start to finish. With the right materials in hand and this guide by your side, you'll wonder why you waited so long to tackle it.

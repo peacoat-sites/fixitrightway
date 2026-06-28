@@ -72,6 +72,11 @@ Here's an opinion you might push back on: I actually prefer hardwired disposals 
 
 ## Mounting and Final Connections
 
+## Sources
+
+- [Jan van der Wolf](https://www.pexels.com/@jan-van-der-wolf-11680885)
+
+
 Lift the disposal up to the mounting assembly (this is the heavy part -- get help or prop it on a bucket to stage it), align the mounting tabs with the mounting ring slots, and rotate clockwise until it locks. Some units have a set point, others twist until they tighten. InSinkErator models lock with a distinct click.
 
 Reconnect the drain elbow to the P-trap. Hand-tighten first, then snug it up with channel-locks. Don't gorilla-grip it; the slip nuts are plastic and they'll crack. Reconnect the dishwasher drain hose and tighten the clamp.

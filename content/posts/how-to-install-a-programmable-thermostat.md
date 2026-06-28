@@ -115,6 +115,14 @@ Follow your thermostat's specific instructions, each one works differently. Once
 
 ## You've Got This!
 
+## Sources
+
+- [Nikita Fursenko](https://unsplash.com/@fursenko?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Dusan Ristic](https://unsplash.com/@maximus23?utm_source=seniorstrength&utm_medium=referral)
+- [Siebe Warmoeskerken](https://unsplash.com/@devetpan?utm_source=seniorstrength&utm_medium=referral)
+
+
 Installing a programmable thermostat is genuinely rewarding. With careful prep, attention to the wiring labels, and the steps outlined here, you'll finish in an hour or less and enjoy lower bills for years.
 
 Take your time. Don't rush the wiring. Your phone photo of the original setup is there if you second-guess yourself. You've handled harder things than this. Enjoy a more comfortable, efficient home, you've earned it.

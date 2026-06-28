@@ -79,6 +79,11 @@ On the mineralization issue: heavy calcium or rust deposits from a long-standing
 
 ## Matching the Ceiling Color (The Part Nobody Warns You About)
 
+## Sources
+
+- [Snapwire](https://www.pexels.com/@snapwire)
+
+
 White ceilings aren't all the same white. Builders use dozens of formulations and they all age differently. A patch of fresh bright white will glow against a slightly yellowed ceiling like a spotlight. This drives people insane.
 
 Your options, in order of preference:

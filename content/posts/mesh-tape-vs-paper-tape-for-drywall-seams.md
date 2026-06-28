@@ -78,6 +78,11 @@ The biggest mistake in both cases: coats that are too thick. Thick coats shrink,
 
 ## Pricing Reality Check
 
+## Sources
+
+- [AI25.Studio Studio](https://www.pexels.com/@ai25studioai)
+
+
 Neither tape is expensive. Paper tape runs about $4-6 for a 500-foot roll. FibaFuse (Saint-Gobain's fiberglass mat marketed as a paper alternative) runs $15-20 for 150 feet. Standard mesh tape is $3-7 for 300 feet. You're making a technique choice, not a budget choice.
 
 Compound is where the cost adds up. A 4.5-gallon bucket of all-purpose pre-mixed handles a small room. A standard bedroom hang probably needs one bucket for taping and another for finish coats, so $30-40 just for compound. Adding Durabond costs another $15-20 for a 25-pound bag.

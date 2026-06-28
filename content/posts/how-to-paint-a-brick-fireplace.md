@@ -136,6 +136,15 @@ Photo by [Point3D Commercial Imaging Ltd.](https://unsplash.com/@3dottawa?utm_so
 
 ## Recommended Resources
 
+## Sources
+
+- [Lotus Design N Print](https://unsplash.com/@lotusdnp?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Zac Gudakov](https://unsplash.com/@zacgudakov?utm_source=seniorstrength&utm_medium=referral)
+- [PAN XIAOZHEN](https://unsplash.com/@zhenhappy?utm_source=seniorstrength&utm_medium=referral)
+- [Point3D Commercial Imaging Ltd.](https://unsplash.com/@3dottawa?utm_source=seniorstrength&utm_medium=referral)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.

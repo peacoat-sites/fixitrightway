@@ -95,6 +95,12 @@ Cut your drywall patch to fit, screw it to the studs, tape and mud the seams. If
 
 ## The Real Cost Breakdown
 
+## Sources
+
+- [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk)
+- Do I have to open up my wall for this? Sometimes
+
+
 Cartridge replacement, DIY: $20 to $60 in parts.
 
 Cartridge replacement, plumber: $150 to $300 total.

@@ -109,6 +109,15 @@ Adjustable flappers let you fine-tune water usage per flush, which can drop your
 
 ## You've Got This!
 
+## Sources
+
+- [Centre for Ageing Better](https://unsplash.com/@ageing_better?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Joshua Bartell](https://unsplash.com/@jjbart7?utm_source=seniorstrength&utm_medium=referral)
+- [Huy Phan](https://unsplash.com/@huyphan2602?utm_source=seniorstrength&utm_medium=referral)
+- [Steven Ungermann](https://unsplash.com/@steveungermann?utm_source=seniorstrength&utm_medium=referral)
+
+
 Replacing a toilet flapper is one of the most satisfying fixes you can do yourself. It costs a few dollars, takes less than 30 minutes, and immediately stops the water waste and that annoying sound.
 
 No special tools. No strength required. No plumbing license needed. If you can follow steps and stay patient, you can do this. Thousands of people complete this repair every day.

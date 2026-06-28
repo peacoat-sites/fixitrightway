@@ -85,6 +85,12 @@ One more thing: if your drywall feels soft or spongy around where you're drillin
 
 ## What about those specialty mirror-hanging systems?
 
+## Sources
+
+- [Nic Wood](https://www.pexels.com/@nic-scrollstoppingphotos)
+- TOGGLER's own testing
+
+
 OOK and Hillman both make mirror-specific hanging hardware, usually a J-hook or D-ring system with multiple anchor points built into a plate. These work fine for mirrors with a dedicated wire or French cleat back, and they spread the load better than a single anchor point. I'd use them for mid-weight mirrors (20-50 pounds) where I can't hit studs and want a clean look. They're not magic, though. They're still relying on the same drywall anchor principles.
 
 The other product worth knowing about is the Monkey Hook. Cheap, fast, no drill needed. Rated for up to 35 pounds. I've used them for lightweight framed prints and small mirrors (under 15 pounds) and they're genuinely clever. For a 40-pound mirror? No.

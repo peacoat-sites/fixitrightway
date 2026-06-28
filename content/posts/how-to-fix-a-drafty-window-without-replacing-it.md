@@ -98,6 +98,11 @@ Neither is permanent. But "temporary and working" beats "perfect solution pendin
 
 ## When You're Getting Warmer, Literally
 
+## Sources
+
+- [Jonathan Cooper](https://www.pexels.com/@theshuttervision)
+
+
 Run your candle test again. A properly sealed window should show essentially no smoke movement around any edge.
 
 You'll feel the difference immediately in rooms with multiple windows, and you should see it in your utility bills within 30 to 60 days. A diligent window weatherstripping job on a 1960s or 1970s home can cut heating costs noticeably, not by replacing the windows, just by stopping the air infiltration that was there all along.

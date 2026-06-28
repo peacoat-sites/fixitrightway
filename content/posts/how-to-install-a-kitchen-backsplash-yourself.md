@@ -113,6 +113,15 @@ Apply grout sealer once the grout has fully cured (usually 48–72 hours). This 
 
 ## You Are Ready to Transform Your Kitchen
 
+## Sources
+
+- [Tran Nguyen](https://unsplash.com/@bestraan0712?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Zac Gudakov](https://unsplash.com/@zacgudakov?utm_source=seniorstrength&utm_medium=referral)
+- [Richard Sagredo](https://unsplash.com/@sagredophotography?utm_source=seniorstrength&utm_medium=referral)
+- [Lotus Design N Print](https://unsplash.com/@lotusdnp?utm_source=seniorstrength&utm_medium=referral)
+
+
 Installing a backsplash yourself looks far harder than it actually is. With careful prep, a clear layout plan, and patience during grouting, you'll achieve professional-looking results.
 
 Take your time. Check your work frequently. A beautiful kitchen backsplash is within reach, and the pride you'll feel when it's done makes every minute worthwhile.

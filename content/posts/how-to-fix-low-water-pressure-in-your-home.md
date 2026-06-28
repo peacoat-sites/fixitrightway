@@ -159,6 +159,14 @@ Galvanized pipes are gray, magnetic, and often look dull or corroded. Copper pip
 
 ### Is low water pressure a plumbing emergency?
 
+## Sources
+
+- [Point3D Commercial Imaging Ltd.](https://unsplash.com/@3dottawa?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Zac Gudakov](https://unsplash.com/@zacgudakov?utm_source=seniorstrength&utm_medium=referral)
+- [Babak Eshaghian](https://unsplash.com/@babak22ir?utm_source=seniorstrength&utm_medium=referral)
+
+
 Not usually. But if you see water stains on ceilings or walls, or if pressure drops suddenly after the shutoff valves are fully open, call a plumber the same day. These could signal a serious leak.
 
 *Photo: Point3D Commercial Imaging Ltd. on Unsplash*

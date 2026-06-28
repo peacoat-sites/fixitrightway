@@ -120,6 +120,15 @@ See cracks in the faucet body or heavy corrosion? Full replacement is your move.
 
 ## You Can Do This
 
+## Sources
+
+- [Vitaly Gariev](https://unsplash.com/@silverkblack?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Chris Bair](https://unsplash.com/@chrisbair?utm_source=seniorstrength&utm_medium=referral)
+- [Zac Gudakov](https://unsplash.com/@zacgudakov?utm_source=seniorstrength&utm_medium=referral)
+- snug plus a quarter turn. Reattach
+
+
 A leaky outdoor faucet isn't complicated. You've got the tools, the steps, and now the knowledge. Take your time, follow along, and ask your hardware store staff if anything's unclear. Every repair you nail builds confidence for the next one. You'll save money, learn something, and beat that annoying drip.
 
 Photo by [Zac Gudakov](https://unsplash.com/@zacgudakov?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)

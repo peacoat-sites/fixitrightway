@@ -73,6 +73,11 @@ Apply with a caulk gun, smooth it with a wet finger or a caulk finishing tool, a
 
 ## Why It Keeps Coming Back
 
+## Sources
+
+- [Curtis Adams](https://www.pexels.com/@curtis-adams-1694007)
+
+
 Even if you nail the remediation or replacement, mold will return if you don't address the underlying conditions. Silicone in a shower is constantly wet. That's fine and expected. The problem is when it stays wet.
 
 Squeegee the shower walls after every use. It sounds obsessive until you realize it takes 20 seconds and cuts surface moisture dramatically. A cheap $6 squeegee hung on a hook inside the shower is one of the highest-ROI mold-prevention tools available. Run the exhaust fan during your shower and for 20 minutes afterward. Most people run it only during the shower, which is roughly half as effective. A timer switch (around $20 installed) handles this automatically.

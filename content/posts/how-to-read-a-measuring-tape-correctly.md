@@ -114,6 +114,15 @@ Another option is using a pencil mark or painter's tape to hold the beginning of
 
 ## You've Got This!
 
+## Sources
+
+- [Brett Jordan](https://unsplash.com/@brett_jordan?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Stephen Hui](https://unsplash.com/@stephenhui?utm_source=seniorstrength&utm_medium=referral)
+- [Samuel Lopez Cruz](https://unsplash.com/@fotogugu?utm_source=seniorstrength&utm_medium=referral)
+- [CDC](https://unsplash.com/@cdc?utm_source=seniorstrength&utm_medium=referral)
+
+
 Reading a measuring tape feels complicated at first but becomes completely natural with a little practice. The marks and lines follow a logical pattern, and once your eye learns where to look, measurements take only seconds.
 
 Start simple. Measure a book, a table, or a doorway just for practice. Give yourself permission to go slowly and double-check your work. Before long, you'll pull out that tape with confidence and accuracy every single time.

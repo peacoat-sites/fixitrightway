@@ -82,6 +82,11 @@ If the drywall has gone soft, bubbled, or shows mold, paint and primer won't fix
 
 ## Knowing When to Call Someone In
 
+## Sources
+
+- [Saifee Art](https://www.pexels.com/@saifee-art-1727821618)
+
+
 The vast majority of peeling paint repairs are genuinely DIY-able. But some situations warrant a professional.
 
 If you find mold behind the peeling paint, stop. Don't keep scraping and spreading it. Mold remediation in a contained area isn't necessarily expensive ($500 to $1,500 for a small bathroom depending on your market), but doing it wrong creates a much bigger and more expensive problem.

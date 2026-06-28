@@ -91,6 +91,11 @@ Once the faucet comes up, you'll see the old gasket stuck to the sink deck. Scra
 
 ## The One Case Where You Should Call a Plumber
 
+## Sources
+
+- [Max Vakhtbovych](https://www.pexels.com/@artbovich)
+
+
 The repair I've described above is legitimately DIY-able for most homeowners. Where I'd say hire it out: if your shutoff valves won't close fully and you have no main house shutoff that actually works. Turning off a leaking faucet repair while water is flowing freely is a recipe for a much more expensive day. A plumber can replace those valves (usually $150 to $300 per valve including labor, depending on your market) while they're there. That's money well spent.
 
 Also, if you've done the O-ring replacement correctly and the base is still leaking after 48 hours, don't keep replacing O-rings. Have a plumber look at it. Sometimes the faucet body itself is cracked, and at that point you're better off budgeting $200 to $600 for a new faucet and installation rather than chasing a crack around a $100 faucet.

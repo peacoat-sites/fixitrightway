@@ -119,6 +119,15 @@ Put outlet covers and switch plates back on. Move furniture back. Touch up any t
 
 ## You Have Got This
 
+## Sources
+
+- [Steven Ungermann](https://unsplash.com/@steveungermann?utm_source=seniorstrength&utm_medium=referral)
+- [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
+- [Wes Fischer](https://unsplash.com/@ntwrk_img?utm_source=seniorstrength&utm_medium=referral)
+- [Annie Spratt](https://unsplash.com/@anniespratt?utm_source=seniorstrength&utm_medium=referral)
+- [Magic Fan](https://unsplash.com/@magicunsplash?utm_source=seniorstrength&utm_medium=referral)
+
+
 Learning how to paint a room is one of the most rewarding home skills you can pick up. It takes patience and some elbow grease, but the payoff is real: fresh, bright walls that feel entirely new.
 
 Do the work one step at a time. Don't skip prep. Remember that every professional painter started exactly where you are. Your beautiful room is just a few coats away.

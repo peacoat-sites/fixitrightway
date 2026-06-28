@@ -79,6 +79,11 @@ If a double-hung window has a real gap at the bottom rail, a door-style draft st
 
 ## What's Worth Spending Money On (And What Isn't)
 
+## Sources
+
+- [Alexas Fotos](https://www.pexels.com/@alexasfotos)
+
+
 Secondary glazing, either storm windows or interior acrylic panel systems like Indow inserts, is legitimately worth it if you have original wood windows you want to preserve but need real performance. Indow inserts run $150 to $500 per window depending on size, and they're fantastic. Real improvement, no permanent modification, they pop out in summer.
 
 Replacement windows are usually oversold on payback. The average double-hung vinyl replacement runs $400 to $800 installed, and the actual energy savings rarely pay for itself faster than 15 to 20 years. If your windows are rotted, broken, or you're renovating anyway, yes, replace them. If they're functional single-pane wood windows and you want tighter performance, air sealing and a storm window will get you 80% of the way there for a quarter of the cost.

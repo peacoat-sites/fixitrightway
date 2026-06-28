@@ -73,6 +73,11 @@ Skylights are a separate conversation entirely. The access, angle, and waterproo
 
 ## What It Won't Fix
 
+## Sources
+
+- [Rino Adamo](https://www.pexels.com/@rinoadamo)
+
+
 If the fogging only appears on the outside surface of the glass on cold mornings, that's not a failed seal. That's exterior condensation, which means your windows are actually performing well, keeping the glass surface cold relative to the outdoor dew point. It'll burn off when the sun hits it. Nothing to repair.
 
 Interior condensation on the room-side surface, same thing, usually means your indoor humidity is high, not that the window is failing. A failed seal fogs the inside face of the inner pane or the inside face of the outer pane, the surfaces you physically cannot touch. If you can wipe the moisture off, the seal is fine.
