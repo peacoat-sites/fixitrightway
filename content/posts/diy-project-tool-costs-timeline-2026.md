@@ -1,5 +1,6 @@
 ---
 title: "DIY Project Tool Costs & Timeline Estimates (2026)"
+image: "https://images.pexels.com/photos/5973976/pexels-photo-5973976.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 description: "Home improvement tool costs and project timelines. Bathroom renovation 800 budget, 14 days. Deck repair 600, 5 days. Real cost data from HomeDepot + Lowe's."
 author: "Marcus Chen"
 author_slug: "marcus-chen"
