@@ -64,3 +64,13 @@ The bottom line is this: summer 2026 is genuinely a moment where the DIY math on
 - [HomeGuide: 2026 Cost To Stain A Deck](https://homeguide.com/costs/cost-to-stain-a-deck) (2026)
 
 *Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)** (~$199) — 200W panel kit with MPPT charge controller for maximum energy harvest.
+
