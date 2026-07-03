@@ -11,7 +11,9 @@ author_slug: "paul-zhang"
 author_title: "Electrical Writer"
 author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
 slug: "deck-staining-in-2026-is-diy-worth-it-with-tariff-hit-lumber-prices"
-affiliate_disclosure: true, If you've been putting off your deck this summer, you're not alone. A lot of homeowners right now are sitting with a contractor quote in one hand and a can of Defy or Armstrong Clark in the other, trying to figure out if the math still makes sense to hire it out. With lumber and material costs climbing steadily through 2025 and into 2026, that calculation has genuinely shifted. This isn't a normal year for deck work, and the decision deserves a real look.
+affiliate_disclosure: true
+---
+If you've been putting off your deck this summer, you're not alone. A lot of homeowners right now are sitting with a contractor quote in one hand and a can of Defy or Armstrong Clark in the other, trying to figure out if the math still makes sense to hire it out. With lumber and material costs climbing steadily through 2025 and into 2026, that calculation has genuinely shifted. This isn't a normal year for deck work, and the decision deserves a real look.
 
 ## What Tariffs Actually Did to Deck Material Costs
 

@@ -11,7 +11,9 @@ author_slug: "kim-reeves"
 author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
 slug: "should-you-replace-deck-boards-with-wood-or-composite-this-summer"
-affiliate_disclosure: true, Most deck board comparisons treat price-per-square-foot like it's a fixed number. Right now, it isn't. Tariffs on Canadian softwood lumber, which supplies roughly 25–30% of the U.S. market, hit a combined duty rate of 45% in 2026. According to [Gordian's May 2026 lumber cost report](https://www.gordian.com/resources/lumber-price-updates/), framing lumber costs spiked 5.11% in Q2 alone, the ninth consecutive quarter of year-over-year growth. In some regional markets, the tariff pressure has pushed lumber costs up 8–12% this year. That's not a rounding error. That's a material choice getting re-priced in real time, during peak deck season, while you're standing in the lumber aisle trying to decide.
+affiliate_disclosure: true
+---
+Most deck board comparisons treat price-per-square-foot like it's a fixed number. Right now, it isn't. Tariffs on Canadian softwood lumber, which supplies roughly 25–30% of the U.S. market, hit a combined duty rate of 45% in 2026. According to [Gordian's May 2026 lumber cost report](https://www.gordian.com/resources/lumber-price-updates/), framing lumber costs spiked 5.11% in Q2 alone, the ninth consecutive quarter of year-over-year growth. In some regional markets, the tariff pressure has pushed lumber costs up 8–12% this year. That's not a rounding error. That's a material choice getting re-priced in real time, during peak deck season, while you're standing in the lumber aisle trying to decide.
 
 The gap between pressure-treated wood and composite decking is narrowing faster than most homeowners realize. If you're replacing boards this summer, here's what that actually means for your decision.
 

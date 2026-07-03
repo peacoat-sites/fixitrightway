@@ -11,13 +11,13 @@ categories: ["Home Repair", "DIY", "Cost Guides"]
 keywords: ["diy project costs", "home improvement timeline", "tool costs for home projects", "budget for home repair"]
 faqs:
  - question: "What tools should I buy vs rent?"
- answer: "Buy if you will use it 3+ times. Power tools: buy if frequent, rent if one-time. Hand tools: always buy (cheap). Specialty tools: usually rent (expensive, single-purpose)."
+   answer: "Buy if you will use it 3+ times. Power tools: buy if frequent, rent if one-time. Hand tools: always buy (cheap). Specialty tools: usually rent (expensive, single-purpose)."
  - question: "How accurate are these timelines?"
- answer: "These are estimates for an average DIYer. Professionals do it 2-3x faster. Add 50% if you are learning. Variables: skill level, material quality, unforeseen damage."
+   answer: "These are estimates for an average DIYer. Professionals do it 2-3x faster. Add 50% if you are learning. Variables: skill level, material quality, unforeseen damage."
  - question: "Should I hire a professional instead?"
- answer: "Projects marked High difficulty often need pros (electrical, plumbing, structural). Medium is DIY-friendly if you have tools. Low is definitely DIY."
+   answer: "Projects marked High difficulty often need pros (electrical, plumbing, structural). Medium is DIY-friendly if you have tools. Low is definitely DIY."
  - question: "Are these costs complete?"
- answer: "These include materials and tools. Not included: disposal/hauling, permits, rental of heavy equipment, inspection fees. Budget +20% for contingencies."
+   answer: "These include materials and tools. Not included: disposal/hauling, permits, rental of heavy equipment, inspection fees. Budget +20% for contingencies."
 ---
 
 Most DIY projects fail because people underestimate either **tool costs** or **timeline**.
