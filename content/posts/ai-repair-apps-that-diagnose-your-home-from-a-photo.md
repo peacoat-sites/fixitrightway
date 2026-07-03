@@ -11,20 +11,18 @@ author_slug: "paul-zhang"
 author_title: "Electrical Writer"
 author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
 slug: "ai-repair-apps-that-diagnose-your-home-from-a-photo"
-affiliate_disclosure: true
----
-Most homeowners don't think a photo can diagnose anything. A crack, a stain, a sagging gutter, you take a picture and what have you actually learned? Turns out, way more than I expected. AI-powered diagnosis apps hit the market in early 2026, and they're genuinely changing whether you grab a caulk gun or grab your phone.
+affiliate_disclosure: true, Most homeowners don't think a photo can diagnose anything. A crack, a stain, a sagging gutter, you take a picture and what have you actually learned? Turns out, way more than I expected. AI-powered diagnosis apps hit the market in early 2026, and they're genuinely changing whether you grab a caulk gun or grab your phone.
 
 The timing is everything. Framing lumber costs jumped another 5.11% in Q2 2026 alone, according to Gordian's lumber price tracker, marking the ninth consecutive quarter of year-over-year growth. Cabinet and vanity tariffs landed at 30 to 50% on January 1, 2026. When materials cost this much, getting the diagnosis wrong is genuinely expensive. Patching what actually needs replacing, or replacing what only needed a patch, these mistakes matter. That's the context these apps are arriving into, and why I actually spent time testing them.
 
 
 <div class="value-module">
-  <div class="vm-head">Photo Quality Checklist for Accurate Diagnosis</div>
-  <div class="vm-body">
-    <p class="vm-intro">AI vision models fail predictably when photos lack key details-use this checklist before submitting to avoid misdiagnosis and wasted repair costs.</p>
-    <table><thead><tr><th>Requirement</th><th>Why It Matters</th><th>Minimum Threshold</th><th>Common Mistake</th></tr></thead><tbody><tr><td>Lighting</td><td>Shadows hide crack depth, stain edges, moisture patterns</td><td>Even diffused light; no harsh shadows crossing the damage</td><td>Flash creates glare that obscures surface texture</td></tr><tr><td>Distance</td><td>Too far loses detail; too close loses context</td><td>Damage fills 40–60% of frame with visible surrounding area</td><td>Zooming digitally instead of moving closer (reduces resolution)</td></tr><tr><td>Angle</td><td>Perpendicular shots show true dimensions; oblique angles distort size</td><td>Camera parallel to damaged surface, ±15°</td><td>Shooting upward at ceiling damage (foreshortens cracks)</td></tr><tr><td>Reference object</td><td>AI can't gauge scale without known-size reference</td><td>Include ruler, coin, or credit card touching or adjacent to damage</td><td>Holding reference 6+ inches away (parallax error)</td></tr><tr><td>Multiple angles</td><td>Single photo misses depth, hidden spread, structural context</td><td>Minimum 3 photos: close-up, mid-range, wide context</td><td>Submitting only the close-up, missing water trail or load path</td></tr><tr><td>Focus</td><td>Blur prevents edge detection critical for crack vs. stain distinction</td><td>Tap-to-focus on damage area; confirm sharpness before submitting</td><td>Relying on autofocus, which locks on background</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Photo Quality Checklist for Accurate Diagnosis</div>
+ <div class="vm-body">
+ <p class="vm-intro">AI vision models fail predictably when photos lack key details-use this checklist before submitting to avoid misdiagnosis and wasted repair costs.</p>
+ <table><thead><tr><th>Requirement</th><th>Why It Matters</th><th>Minimum Threshold</th><th>Common Mistake</th></tr></thead><tbody><tr><td>Lighting</td><td>Shadows hide crack depth, stain edges, moisture patterns</td><td>Even diffused light; no harsh shadows crossing the damage</td><td>Flash creates glare that obscures surface texture</td></tr><tr><td>Distance</td><td>Too far loses detail; too close loses context</td><td>Damage fills 40–60% of frame with visible surrounding area</td><td>Zooming digitally instead of moving closer (reduces resolution)</td></tr><tr><td>Angle</td><td>Perpendicular shots show true dimensions; oblique angles distort size</td><td>Camera parallel to damaged surface, ±15°</td><td>Shooting upward at ceiling damage (foreshortens cracks)</td></tr><tr><td>Reference object</td><td>AI can't gauge scale without known-size reference</td><td>Include ruler, coin, or credit card touching or adjacent to damage</td><td>Holding reference 6+ inches away (parallax error)</td></tr><tr><td>Multiple angles</td><td>Single photo misses depth, hidden spread, structural context</td><td>Minimum 3 photos: close-up, mid-range, wide context</td><td>Submitting only the close-up, missing water trail or load path</td></tr><tr><td>Focus</td><td>Blur prevents edge detection critical for crack vs. stain distinction</td><td>Tap-to-focus on damage area; confirm sharpness before submitting</td><td>Relying on autofocus, which locks on background</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What These Apps Are and How They Work
@@ -67,11 +65,11 @@ This category keeps improving. The version available right now, June 2026, is al
 
 ## Sources
 
-- [Best AI Home Repair Tools in 2026: A Comparison ,  HomeMD.ai](https://homemd.ai/guides/best-ai-home-repair-tools-2026-comparison) (April 17, 2026)
-- [Phones Diagnose Home Repairs: Photos Win The Call ,  Marketing Code](https://www.marketingcode.com/visual-intelligence-mobile-ai-contractors-photo-funnel-may-2026/) (May 4, 2026)
-- [SnapFix – AI Home Repair Help App ,  App Store](https://apps.apple.com/us/app/snapfix-ai-home-repair-help/id6758781226) (March 3, 2026)
-- [FixMynd: DIY Home Repair AI App ,  App Store](https://apps.apple.com/us/app/fixmynd-diy-home-repair-ai/id6766394491) (June 2026)
-- [What the Data Says: Lumber Price Updates ,  Gordian](https://www.gordian.com/resources/lumber-price-updates/) (May 5, 2026)
-- [Recent Tariffs Threaten Residential Construction ,  Brookings](https://www.brookings.edu/articles/recent-tariffs-threaten-residential-construction/) (October 9, 2025)
+- [Best AI Home Repair Tools in 2026: A Comparison , HomeMD.ai](https://homemd.ai/guides/best-ai-home-repair-tools-2026-comparison) (April 17, 2026)
+- [Phones Diagnose Home Repairs: Photos Win The Call , Marketing Code](https://www.marketingcode.com/visual-intelligence-mobile-ai-contractors-photo-funnel-may-2026/) (May 4, 2026)
+- [SnapFix, AI Home Repair Help App , App Store](https://apps.apple.com/us/app/snapfix-ai-home-repair-help/id6758781226) (March 3, 2026)
+- [FixMynd: DIY Home Repair AI App , App Store](https://apps.apple.com/us/app/fixmynd-diy-home-repair-ai/id6766394491) (June 2026)
+- [What the Data Says: Lumber Price Updates , Gordian](https://www.gordian.com/resources/lumber-price-updates/) (May 5, 2026)
+- [Recent Tariffs Threaten Residential Construction , Brookings](https://www.brookings.edu/articles/recent-tariffs-threaten-residential-construction/) (October 9, 2025)
 
-*Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
+*Photo: [MART PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*

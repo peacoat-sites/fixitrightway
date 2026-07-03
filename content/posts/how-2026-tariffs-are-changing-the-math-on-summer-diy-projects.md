@@ -11,10 +11,7 @@ author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
 slug: "how-2026-tariffs-are-changing-the-math-on-summer-diy-projects"
-affiliate_disclosure: true
----
-
-Most DIYers heading into summer 2026 are still working off mental price lists from two or three years ago. That's the problem. The guy who budgeted a deck build based on what lumber cost in 2023 is going to get a very unpleasant phone call from the lumberyard. Between Canadian softwood tariffs, new duties on imported cabinets, and nine straight quarters of year-over-year lumber price growth, the math on summer projects has shifted in ways most homeowners haven't fully absorbed yet.
+affiliate_disclosure: true, Most DIYers heading into summer 2026 are still working off mental price lists from two or three years ago. That's the problem. The guy who budgeted a deck build based on what lumber cost in 2023 is going to get a very unpleasant phone call from the lumberyard. Between Canadian softwood tariffs, new duties on imported cabinets, and nine straight quarters of year-over-year lumber price growth, the math on summer projects has shifted in ways most homeowners haven't fully absorbed yet.
 
 I'll be honest: even I was surprised by how quickly some of these cost increases compounded once the January 2026 tariff changes hit.
 

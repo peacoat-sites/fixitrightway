@@ -13,16 +13,16 @@ author_bio: "Dana Morrison spent 20 years as a licensed general contractor befor
 slug: "how-to-repair-grout-in-a-shower"
 affiliate_disclosure: true
 faqs:
-  - q: "How long does shower grout last before it needs repair?"
-    a: "Well-installed grout in a properly waterproofed shower, sealed annually, can last 10 to 20 years without major repairs. Poorly installed grout, or grout that's never been sealed, can start failing in two to three years. The corners (which should be caulk, not grout) need inspection every three to five years regardless."
-  - q: "Can I grout over existing grout without removing it?"
-    a: "Not if you want it to hold. New grout needs to bond to the substrate, not to old grout. You can add a thin layer over slightly recessed old grout in a pinch, but it'll be weaker and more prone to cracking. For anything you want to last, remove at least 1/8 inch of the old material first."
-  - q: "What's the best grout color to use for a shower repair?"
-    a: "Match your existing grout as closely as possible, but buy the match from the same brand that did the original installation if you can identify it. Grout colors shift as they cure and as they age, so a fresh patch will look slightly different for several weeks regardless. Wet both the old and new grout before comparing colors, since grout always looks different dry vs. wet."
-  - q: "Why does my shower grout keep cracking in the same spot?"
-    a: "Recurring cracks in the same location almost always mean movement in that area. Check whether it's at a change-of-plane joint (if so, use silicone caulk instead). If it's in the field tile, look for a loose tile nearby, a soft spot in the substrate, or a structural issue like a joist running beneath that section. Regrout a spot that keeps cracking without finding the cause and you'll be back doing it again."
-  - q: "Do I need to seal grout in a shower?"
-    a: "Yes, every time you regrout, and then again once a year or so depending on use. Unsealed grout in a shower absorbs water, grows mold, and deteriorates faster. Penetrating sealers (not surface film sealers) are the right type for floor and wall grout. The test: drop a few beads of water on your existing grout. If they soak in immediately, it needs sealer. If they bead up, you're fine for now."
+ - q: "How long does shower grout last before it needs repair?"
+ a: "Well-installed grout in a properly waterproofed shower, sealed annually, can last 10 to 20 years without major repairs. Poorly installed grout, or grout that's never been sealed, can start failing in two to three years. The corners (which should be caulk, not grout) need inspection every three to five years regardless."
+ - q: "Can I grout over existing grout without removing it?"
+ a: "Not if you want it to hold. New grout needs to bond to the substrate, not to old grout. You can add a thin layer over slightly recessed old grout in a pinch, but it'll be weaker and more prone to cracking. For anything you want to last, remove at least 1/8 inch of the old material first."
+ - q: "What's the best grout color to use for a shower repair?"
+ a: "Match your existing grout as closely as possible, but buy the match from the same brand that did the original installation if you can identify it. Grout colors shift as they cure and as they age, so a fresh patch will look slightly different for several weeks regardless. Wet both the old and new grout before comparing colors, since grout always looks different dry vs. wet."
+ - q: "Why does my shower grout keep cracking in the same spot?"
+ a: "Recurring cracks in the same location almost always mean movement in that area. Check whether it's at a change-of-plane joint (if so, use silicone caulk instead). If it's in the field tile, look for a loose tile nearby, a soft spot in the substrate, or a structural issue like a joist running beneath that section. Regrout a spot that keeps cracking without finding the cause and you'll be back doing it again."
+ - q: "Do I need to seal grout in a shower?"
+ a: "Yes, every time you regrout, and then again once a year or so depending on use. Unsealed grout in a shower absorbs water, grows mold, and deteriorates faster. Penetrating sealers (not surface film sealers) are the right type for floor and wall grout. The test: drop a few beads of water on your existing grout. If they soak in immediately, it needs sealer. If they bead up, you're fine for now."
 ---
 
 Shower grout fails in two ways, and most repair guides treat them identically. That's the first mistake.

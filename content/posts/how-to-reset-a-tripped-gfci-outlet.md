@@ -13,16 +13,16 @@ author_bio: "Dana Morrison spent 20 years as a licensed general contractor befor
 slug: "how-to-reset-a-tripped-gfci-outlet"
 affiliate_disclosure: true
 faqs:
-  - q: "Why does my GFCI outlet keep tripping even with nothing plugged in?"
-    a: "This usually means there's a wiring fault, moisture inside the electrical box, or the GFCI unit itself is failing. If the outlet is old or the box has been exposed to water, that's your most likely cause. An electrician can diagnose it quickly with a multimeter."
-  - q: "Can a GFCI outlet go bad?"
-    a: "Yes, and it happens more often than people expect. The internal mechanism wears out over time, especially in outlets that trip frequently. If your GFCI is more than 15 years old and won't reset or keeps nuisance-tripping, replacing the outlet is the right move. Budget $12 to $25 for a quality unit and about 20 minutes of work."
-  - q: "Why does my GFCI trip when it rains?"
-    a: "Water is getting into the circuit somehow. Outdoor outlets can develop cracked covers, and water infiltrates the box. Underground conduit can also fill with water that travels to the outlet. Check the cover plate, make sure it's rated for wet locations, and reseal it with appropriate weatherproof caulk. If it keeps happening, the conduit may need to be inspected."
-  - q: "Is it safe to push the reset button multiple times?"
-    a: "Once or twice, yes. More than that, stop. Repeatedly pressing the button doesn't fix the underlying fault, and in rare cases with a seriously compromised outlet, it can cause arcing. If it won't reset after two attempts with appliances unplugged, you need to diagnose the cause, not keep pushing the button."
-  - q: "How do I know if my GFCI outlet is protecting other outlets on the circuit?"
-    a: "Press the TEST button on your GFCI and then use a plug-in outlet tester (about $8 at any hardware store) on the other outlets in the room and adjacent areas. Any that lose power when you hit TEST are being protected by that GFCI. Write it down somewhere useful, like inside the panel door."
+ - q: "Why does my GFCI outlet keep tripping even with nothing plugged in?"
+ a: "This usually means there's a wiring fault, moisture inside the electrical box, or the GFCI unit itself is failing. If the outlet is old or the box has been exposed to water, that's your most likely cause. An electrician can diagnose it quickly with a multimeter."
+ - q: "Can a GFCI outlet go bad?"
+ a: "Yes, and it happens more often than people expect. The internal mechanism wears out over time, especially in outlets that trip frequently. If your GFCI is more than 15 years old and won't reset or keeps nuisance-tripping, replacing the outlet is the right move. Budget $12 to $25 for a quality unit and about 20 minutes of work."
+ - q: "Why does my GFCI trip when it rains?"
+ a: "Water is getting into the circuit somehow. Outdoor outlets can develop cracked covers, and water infiltrates the box. Underground conduit can also fill with water that travels to the outlet. Check the cover plate, make sure it's rated for wet locations, and reseal it with appropriate weatherproof caulk. If it keeps happening, the conduit may need to be inspected."
+ - q: "Is it safe to push the reset button multiple times?"
+ a: "Once or twice, yes. More than that, stop. Repeatedly pressing the button doesn't fix the underlying fault, and in rare cases with a seriously compromised outlet, it can cause arcing. If it won't reset after two attempts with appliances unplugged, you need to diagnose the cause, not keep pushing the button."
+ - q: "How do I know if my GFCI outlet is protecting other outlets on the circuit?"
+ a: "Press the TEST button on your GFCI and then use a plug-in outlet tester (about $8 at any hardware store) on the other outlets in the room and adjacent areas. Any that lose power when you hit TEST are being protected by that GFCI. Write it down somewhere useful, like inside the panel door."
 ---
 
 Most people hit the reset button, nothing happens, and they assume the outlet is dead. That's usually wrong. The outlet is probably fine, it's just not ready to reset yet, and there's a specific sequence you have to follow or it won't work. I've watched homeowners replace perfectly good GFCI outlets because they didn't know about that sequence. Expensive mistake.

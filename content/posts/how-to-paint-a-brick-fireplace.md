@@ -8,12 +8,12 @@ categories: ["painting"]
 slug: "how-to-paint-a-brick-fireplace"
 affiliate_disclosure: true
 faqs:
-  - q: "Can you paint a brick fireplace that has never been painted before?"
-    a: "Yes, you absolutely can paint unpainted brick. In fact, raw brick that has never been treated is often easier to work with because there is no old paint to deal with. The key is thorough cleaning and a quality masonry primer before applying your topcoat."
-  - q: "Is it safe to paint a fireplace that is still in use?"
-    a: "It is safe as long as you use the right products. Always choose heat-resistant masonry paint for areas close to the firebox opening, and allow paint to fully cure before lighting a fire. The outer portions of the fireplace surround that do not directly face the heat can use standard latex masonry paint safely."
-  - q: "Can you remove paint from a brick fireplace if you change your mind?"
-    a: "Removing paint from brick is possible but quite difficult and labor-intensive. It typically involves chemical paint strippers and a lot of scrubbing. Because of this, many experts suggest that painting brick should be considered a semi-permanent change. Make sure you love your color choice before you commit."
+ - q: "Can you paint a brick fireplace that has never been painted before?"
+ a: "Yes, you absolutely can paint unpainted brick. In fact, raw brick that has never been treated is often easier to work with because there is no old paint to deal with. The key is thorough cleaning and a quality masonry primer before applying your topcoat."
+ - q: "Is it safe to paint a fireplace that is still in use?"
+ a: "It is safe as long as you use the right products. Always choose heat-resistant masonry paint for areas close to the firebox opening, and allow paint to fully cure before lighting a fire. The outer portions of the fireplace surround that do not directly face the heat can use standard latex masonry paint safely."
+ - q: "Can you remove paint from a brick fireplace if you change your mind?"
+ a: "Removing paint from brick is possible but quite difficult and labor-intensive. It typically involves chemical paint strippers and a lot of scrubbing. Because of this, many experts suggest that painting brick should be considered a semi-permanent change. Make sure you love your color choice before you commit."
 author: "Paul Zhang"
 author_slug: "paul-zhang"
 author_title: "Electrical Writer"
@@ -32,17 +32,17 @@ There's also a practical side. Paint seals aging mortar and protects brick that'
 
 Gather everything before you start. It's the only way to avoid the mid-project hardware store run.
 
-  * Wire brush or stiff-bristle brush
-  * Vacuum with brush attachment
-  * Bucket, warm water, and trisodium phosphate (TSP) cleaner
-  * Painter's tape and plastic sheeting
-  * Latex masonry primer (specifically for brick)
-  * Latex masonry paint or chalk paint in your chosen color
-  * 2-inch angled paintbrush
-  * 4-inch wide paintbrush or thick-nap roller (3/4-inch nap)
-  * Drop cloth to protect your floors
-  * Safety goggles and a dust mask
-  * Old clothes or a painting apron
+ * Wire brush or stiff-bristle brush
+ * Vacuum with brush attachment
+ * Bucket, warm water, and trisodium phosphate (TSP) cleaner
+ * Painter's tape and plastic sheeting
+ * Latex masonry primer (specifically for brick)
+ * Latex masonry paint or chalk paint in your chosen color
+ * 2-inch angled paintbrush
+ * 4-inch wide paintbrush or thick-nap roller (3/4-inch nap)
+ * Drop cloth to protect your floors
+ * Safety goggles and a dust mask
+ * Old clothes or a painting apron
 
 You can find masonry primer and paint at any major home improvement store. Look for products specifically labeled for brick, concrete, or masonry surfaces to ensure good adhesion.
 
@@ -58,10 +58,10 @@ Grab your wire brush and scrub away loose mortar, flaking material, anything loo
 
 Mix TSP cleaner with warm water (follow package directions) and scrub the entire surface. This stuff cuts through soot and grime like nothing else. Rinse thoroughly with clean water. Let it dry completely. This takes 24 to 48 hours.
 
-  * Brush out mortar joints carefully to remove trapped dust
-  * Use your vacuum to remove all loosened debris
-  * Check for cracked mortar that needs repointing before painting
-  * Make sure the brick is bone dry before moving on
+ * Brush out mortar joints carefully to remove trapped dust
+ * Use your vacuum to remove all loosened debris
+ * Check for cracked mortar that needs repointing before painting
+ * Make sure the brick is bone dry before moving on
 
 **⚠️ Safety:** Wear safety goggles and a dust mask when scrubbing. Brick dust and soot particles irritate your eyes and lungs. Open a window. Work in a well-ventilated area. If your fireplace is older, get it checked for asbestos in the mortar before you start disturbing anything.
 
@@ -83,10 +83,10 @@ Use your 2-inch angled brush for mortar joints and edges first. Then use the 4-i
 
 Apply primer with a stippling motion, not long brush strokes. That means firm, tapping, dabbing movements. This pushes primer into all the tiny pores and crevices.
 
-  * Work from top to bottom
-  * Make sure mortar joints are fully coated
-  * Let primer dry for the full time on the label
-  * A second coat of primer is worth it if brick still shows through
+ * Work from top to bottom
+ * Make sure mortar joints are fully coated
+ * Let primer dry for the full time on the label
+ * A second coat of primer is worth it if brick still shows through
 
 ## Step 4: Paint the Brick Fireplace
 
@@ -98,10 +98,10 @@ Apply your first coat of masonry paint in smooth, even strokes. Don't chase full
 
 Let the first coat dry completely (typically two to four hours for latex), then look at what you've got. Most brick fireplaces need two full coats.
 
-  * Keep a wet edge to prevent lap marks
-  * Work in sections and blend them while paint is still wet
-  * Use good lighting to spot missed areas before it dries
-  * Let coat two dry for a full 24 hours before removing tape
+ * Keep a wet edge to prevent lap marks
+ * Work in sections and blend them while paint is still wet
+ * Use good lighting to spot missed areas before it dries
+ * Let coat two dry for a full 24 hours before removing tape
 
 ## Step 5: Finishing Touches and Cleanup
 
@@ -119,10 +119,10 @@ The color and finish you choose matter more than you'd think. White and off-whit
 
 A flat or matte sheen is most forgiving on textured brick and hides imperfections. Satin is slightly more durable and easier to clean, which is helpful around a working fireplace.
 
-  * White and cream make small rooms feel larger and brighter
-  * Warm grays are elegant and work with traditional and modern decor
-  * Black or charcoal creates a dramatic, contemporary focal point
-  * A limewash technique gives a softer look if you want something different
+ * White and cream make small rooms feel larger and brighter
+ * Warm grays are elegant and work with traditional and modern decor
+ * Black or charcoal creates a dramatic, contemporary focal point
+ * A limewash technique gives a softer look if you want something different
 
 ## You Have Got This
 

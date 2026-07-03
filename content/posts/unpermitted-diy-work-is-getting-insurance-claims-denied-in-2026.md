@@ -11,10 +11,7 @@ author_slug: "maria-gonzalez"
 author_title: "Plumbing Writer"
 author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
 slug: "unpermitted-diy-work-is-getting-insurance-claims-denied-in-2026"
-affiliate_disclosure: true
----
-
-Labor costs are up, YouTube tutorials are better than ever, and 55% of homeowners now plan to handle their own repairs rather than hire out. The DIY boom makes complete sense. What's getting glossed over is the trap waiting on the other side: unpermitted work is now one of the most common reasons insurance claims get denied, and the consequences go well beyond a slap on the wrist.
+affiliate_disclosure: true, Labor costs are up, YouTube tutorials are better than ever, and 55% of homeowners now plan to handle their own repairs rather than hire out. The DIY boom makes complete sense. What's getting glossed over is the trap waiting on the other side: unpermitted work is now one of the most common reasons insurance claims get denied, and the consequences go well beyond a slap on the wrist.
 
 This isn't a niche problem. Estimates suggest up to 50% of U.S. homes have some form of unpermitted work sitting inside them right now. Most of those homeowners have no idea they're exposed.
 

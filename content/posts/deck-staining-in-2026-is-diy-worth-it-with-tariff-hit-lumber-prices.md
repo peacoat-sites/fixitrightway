@@ -11,10 +11,7 @@ author_slug: "paul-zhang"
 author_title: "Electrical Writer"
 author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
 slug: "deck-staining-in-2026-is-diy-worth-it-with-tariff-hit-lumber-prices"
-affiliate_disclosure: true
----
-
-If you've been putting off your deck this summer, you're not alone. A lot of homeowners right now are sitting with a contractor quote in one hand and a can of Defy or Armstrong Clark in the other, trying to figure out if the math still makes sense to hire it out. With lumber and material costs climbing steadily through 2025 and into 2026, that calculation has genuinely shifted. This isn't a normal year for deck work, and the decision deserves a real look.
+affiliate_disclosure: true, If you've been putting off your deck this summer, you're not alone. A lot of homeowners right now are sitting with a contractor quote in one hand and a can of Defy or Armstrong Clark in the other, trying to figure out if the math still makes sense to hire it out. With lumber and material costs climbing steadily through 2025 and into 2026, that calculation has genuinely shifted. This isn't a normal year for deck work, and the decision deserves a real look.
 
 ## What Tariffs Actually Did to Deck Material Costs
 
@@ -58,7 +55,7 @@ The bottom line is this: summer 2026 is genuinely a moment where the DIY math on
 
 - [Gordian RSMeans: Lumber Price Updates Q2 2026](https://www.gordian.com/resources/lumber-price-updates/) (May 2026)
 - [NAHB: New Tariffs on Lumber and Wood Product Imports](https://www.nahb.org/advocacy/top-priorities/building-materials-trade-policy/how-tariffs-impact-home-building) (April 2026)
-- [CostFlow AI: 2026 Tariffs ,  Your Budget Impact](https://costflowai.com/blog/2026-construction-tariffs-what-they-actually-mean-for-your-project-budget/) (March 2026)
+- [CostFlow AI: 2026 Tariffs , Your Budget Impact](https://costflowai.com/blog/2026-construction-tariffs-what-they-actually-mean-for-your-project-budget/) (March 2026)
 - [Angi: How Much Does It Cost to Stain a Deck? 2026 Data](https://www.angi.com/articles/how-much-does-it-cost-stain-deck.htm) (May 2026)
 - [FacadeColorizer: Deck Restoration vs Replacement Cost 2026](https://facadecolorizer.com/us/blog/deck-restoration-vs-replacement-cost-2026) (June 2026)
 - [HomeGuide: 2026 Cost To Stain A Deck](https://homeguide.com/costs/cost-to-stain-a-deck) (2026)
@@ -71,6 +68,6 @@ The bottom line is this: summer 2026 is genuinely a moment where the DIY math on
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)** (~$199) — 200W panel kit with MPPT charge controller for maximum energy harvest.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)** (~$199), 200W panel kit with MPPT charge controller for maximum energy harvest.
 

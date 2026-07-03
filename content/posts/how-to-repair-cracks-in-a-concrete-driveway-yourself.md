@@ -13,16 +13,16 @@ author_bio: "Kim Reeves renovated three houses herself before deciding to share 
 slug: "how-to-repair-cracks-in-a-concrete-driveway-yourself"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I use regular caulk to fill driveway cracks?"
-    a: "Standard silicone or latex caulk isn't designed for the load and temperature swings a driveway sees. Use a polyurethane concrete crack sealant or a product specifically rated for concrete driveways. The difference in longevity is significant."
-  - q: "How long will a DIY concrete crack repair last?"
-    a: "A properly prepped and filled crack in stable concrete, sealed afterward, can last 5-10 years or longer. If the crack was caused by an ongoing issue like tree root pressure or a failing subbase, it'll come back. The repair itself isn't the failure point, the underlying cause is."
-  - q: "Does weather matter for when I do this repair?"
-    a: "Yes. Don't repair cracks when temperatures are below 50°F or above 90°F. In cold temps, the concrete contracts and the crack opens up, which sounds like it would help but actually means the filler won't bond as well once the crack closes back up. In extreme heat, some products cure too fast to work properly."
-  - q: "Should I seal my entire driveway after repairing cracks?"
-    a: "If you're in a climate that freezes in winter, yes. A penetrating sealer applied every 3-5 years is the single best preventive maintenance you can do. It dramatically slows the freeze-thaw damage cycle that causes most residential concrete cracks in the first place."
-  - q: "Why does my driveway crack near the street or sidewalk connection?"
-    a: "This is almost always a control joint issue, or rather the absence of one. Where your driveway meets a public sidewalk or street, there's usually no expansion joint, and the two concrete sections move independently with temperature. These cracks are common, repairable, and worth filling with a flexible polyurethane sealant rather than a rigid filler, since the movement will continue."
+ - q: "Can I use regular caulk to fill driveway cracks?"
+ a: "Standard silicone or latex caulk isn't designed for the load and temperature swings a driveway sees. Use a polyurethane concrete crack sealant or a product specifically rated for concrete driveways. The difference in longevity is significant."
+ - q: "How long will a DIY concrete crack repair last?"
+ a: "A properly prepped and filled crack in stable concrete, sealed afterward, can last 5-10 years or longer. If the crack was caused by an ongoing issue like tree root pressure or a failing subbase, it'll come back. The repair itself isn't the failure point, the underlying cause is."
+ - q: "Does weather matter for when I do this repair?"
+ a: "Yes. Don't repair cracks when temperatures are below 50°F or above 90°F. In cold temps, the concrete contracts and the crack opens up, which sounds like it would help but actually means the filler won't bond as well once the crack closes back up. In extreme heat, some products cure too fast to work properly."
+ - q: "Should I seal my entire driveway after repairing cracks?"
+ a: "If you're in a climate that freezes in winter, yes. A penetrating sealer applied every 3-5 years is the single best preventive maintenance you can do. It dramatically slows the freeze-thaw damage cycle that causes most residential concrete cracks in the first place."
+ - q: "Why does my driveway crack near the street or sidewalk connection?"
+ a: "This is almost always a control joint issue, or rather the absence of one. Where your driveway meets a public sidewalk or street, there's usually no expansion joint, and the two concrete sections move independently with temperature. These cracks are common, repairable, and worth filling with a flexible polyurethane sealant rather than a rigid filler, since the movement will continue."
 ---
 
 Cracks in a concrete driveway feel more urgent than they are. You see a line running across your slab, maybe a few inches, maybe a few feet, and your brain immediately jumps to "the whole thing needs to be replaced." I've watched homeowners quote themselves into $8,000 driveway replacements when a $40 repair and two hours on a Saturday would have been the right answer. Most residential concrete cracks are cosmetic or minor structural issues you can fix yourself. You just need to know which kind you're dealing with.

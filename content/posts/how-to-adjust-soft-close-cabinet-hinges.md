@@ -13,16 +13,16 @@ author_bio: "Steve Adams is a certified home inspector who has walked through mo
 slug: "how-to-adjust-soft-close-cabinet-hinges"
 affiliate_disclosure: true
 faqs:
-  - q: "Why does my soft-close hinge slam sometimes but not other times?"
-    a: "Temperature and humidity change how the door sits relative to the cabinet, which changes the resistance the damper has to work against. If it's worse in summer or winter, that's usually the culprit. Try adjusting the damper resistance wheel if your hinge has one, and make sure all three adjustments are set correctly so the door isn't binding anywhere during its arc."
-  - q: "How do I know which Blum hinge I have?"
-    a: "Look for a small alphanumeric code stamped into the hinge arm, usually something like '71B3550.' You can enter that number directly on Blum's website (blum.com) or do a quick search and it'll tell you exactly which product it is and what accessories are compatible. This matters a lot if you're ordering replacement dampers."
-  - q: "Can I add soft-close to hinges that don't have it?"
-    a: "Yes, if you have Blum Clip top hinges, you can clip on a Blumotion damper without replacing the hinge. For other brands, it depends. Some Grass and Salice hinges have their own retrofit dampers. Generic imported hinges usually don't, so you'd need to replace the whole hinge."
-  - q: "My door is aligned perfectly but there's still a gap at the top corner when it's closed. What's wrong?"
-    a: "That's almost always a door warp, not a hinge problem. Hold a straightedge along the door face and check. A small warp (under 3mm or so) can sometimes be corrected by adjusting the in-and-out depth at the top and bottom hinge differently, essentially using the hinges to tension the door into a flatter position. More than that and you're fighting a losing battle without addressing the warp itself."
-  - q: "How often should I adjust or maintain cabinet hinges?"
-    a: "Give them a look every couple of years. Wipe down the hinge mechanism with a dry cloth (avoid WD-40, it attracts dust and gums up the damper over time), and check that all mounting screws are snug. That's it. Well-made hinges like Blum should last the life of the cabinet without ever needing more than the occasional alignment tweak."
+ - q: "Why does my soft-close hinge slam sometimes but not other times?"
+ a: "Temperature and humidity change how the door sits relative to the cabinet, which changes the resistance the damper has to work against. If it's worse in summer or winter, that's usually the culprit. Try adjusting the damper resistance wheel if your hinge has one, and make sure all three adjustments are set correctly so the door isn't binding anywhere during its arc."
+ - q: "How do I know which Blum hinge I have?"
+ a: "Look for a small alphanumeric code stamped into the hinge arm, usually something like '71B3550.' You can enter that number directly on Blum's website (blum.com) or do a quick search and it'll tell you exactly which product it is and what accessories are compatible. This matters a lot if you're ordering replacement dampers."
+ - q: "Can I add soft-close to hinges that don't have it?"
+ a: "Yes, if you have Blum Clip top hinges, you can clip on a Blumotion damper without replacing the hinge. For other brands, it depends. Some Grass and Salice hinges have their own retrofit dampers. Generic imported hinges usually don't, so you'd need to replace the whole hinge."
+ - q: "My door is aligned perfectly but there's still a gap at the top corner when it's closed. What's wrong?"
+ a: "That's almost always a door warp, not a hinge problem. Hold a straightedge along the door face and check. A small warp (under 3mm or so) can sometimes be corrected by adjusting the in-and-out depth at the top and bottom hinge differently, essentially using the hinges to tension the door into a flatter position. More than that and you're fighting a losing battle without addressing the warp itself."
+ - q: "How often should I adjust or maintain cabinet hinges?"
+ a: "Give them a look every couple of years. Wipe down the hinge mechanism with a dry cloth (avoid WD-40, it attracts dust and gums up the damper over time), and check that all mounting screws are snug. That's it. Well-made hinges like Blum should last the life of the cabinet without ever needing more than the occasional alignment tweak."
 ---
 
 Your cabinet door is sitting crooked, won't stay shut, or swings open and slams against the wall every single time. You've lived with it for six months because it felt like a bigger fix than it probably is. I get it. But here's the thing: adjusting soft-close hinges is genuinely one of the fastest wins in home repair. We're talking five minutes, a single Phillips head screwdriver, and no trips to the hardware store.

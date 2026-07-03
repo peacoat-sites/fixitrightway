@@ -13,16 +13,16 @@ author_bio: "Dana Morrison spent 20 years as a licensed general contractor befor
 slug: "how-to-cut-crown-molding-inside-corners"
 affiliate_disclosure: true
 faqs:
-  - q: "Do I need a compound miter saw to cut crown molding?"
-    a: "No. A standard single-bevel miter saw works fine if you nest the crown against the fence at its spring angle. The compound saw is helpful if you prefer to work with the molding flat on the table, but it's not required. Many experienced finish carpenters prefer the nested method on a basic miter saw."
-  - q: "What's the easiest inside corner method for a beginner?"
-    a: "Coping is actually more forgiving in the long run, even though it looks harder. A mitered inside corner seems simpler but requires a nearly perfect corner angle to close cleanly. Coped joints tolerate imperfect walls, wood movement, and minor fitting errors in a way that miter joints don't."
-  - q: "How do I fix a gap in an inside corner after installation?"
-    a: "For a small gap (under 1/8 inch), paintable latex caulk does the job on painted molding. Color-matched putty works for stained wood. For larger gaps, it's usually better to pull the coped piece, refine the cope with a file, and reinstall rather than packing it with filler, which tends to crack."
-  - q: "What does 'spring angle' mean and why does it matter?"
-    a: "Spring angle is the angle at which the crown tilts between the wall and ceiling. Most standard crown is 38 degrees; some is 45 degrees. It affects every miter and bevel angle you'll cut. If you set up your saw for a 38-degree spring profile and your molding is actually 45 degrees, none of your angles will be right."
-  - q: "Can I cope polyurethane or MDF crown molding the same way as wood?"
-    a: "MDF copes very well, often better than wood because it doesn't have grain to fight. Polyurethane foam crown is trickier: it's soft enough that a coping saw will tear it. For urethane crown, a fine-tooth handsaw works better for the cope cut, followed by careful cleanup with a utility knife and sandpaper."
+ - q: "Do I need a compound miter saw to cut crown molding?"
+ a: "No. A standard single-bevel miter saw works fine if you nest the crown against the fence at its spring angle. The compound saw is helpful if you prefer to work with the molding flat on the table, but it's not required. Many experienced finish carpenters prefer the nested method on a basic miter saw."
+ - q: "What's the easiest inside corner method for a beginner?"
+ a: "Coping is actually more forgiving in the long run, even though it looks harder. A mitered inside corner seems simpler but requires a nearly perfect corner angle to close cleanly. Coped joints tolerate imperfect walls, wood movement, and minor fitting errors in a way that miter joints don't."
+ - q: "How do I fix a gap in an inside corner after installation?"
+ a: "For a small gap (under 1/8 inch), paintable latex caulk does the job on painted molding. Color-matched putty works for stained wood. For larger gaps, it's usually better to pull the coped piece, refine the cope with a file, and reinstall rather than packing it with filler, which tends to crack."
+ - q: "What does 'spring angle' mean and why does it matter?"
+ a: "Spring angle is the angle at which the crown tilts between the wall and ceiling. Most standard crown is 38 degrees; some is 45 degrees. It affects every miter and bevel angle you'll cut. If you set up your saw for a 38-degree spring profile and your molding is actually 45 degrees, none of your angles will be right."
+ - q: "Can I cope polyurethane or MDF crown molding the same way as wood?"
+ a: "MDF copes very well, often better than wood because it doesn't have grain to fight. Polyurethane foam crown is trickier: it's soft enough that a coping saw will tear it. For urethane crown, a fine-tooth handsaw works better for the cope cut, followed by careful cleanup with a utility knife and sandpaper."
 ---
 
 Most people assume the coped joint is some ancient dark art that only finish carpenters can pull off. I've taught it to complete beginners in a single afternoon. The compound miter cut, though? That one trips up experienced DIYers every single time, and there's a specific reason why.

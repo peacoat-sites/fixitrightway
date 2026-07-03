@@ -13,16 +13,16 @@ author_bio: "Steve Adams is a certified home inspector who has walked through mo
 slug: "how-to-fix-a-foggy-double-pane-window"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I just leave a fogged window alone?"
-    a: "Yes, with some trade-offs. You'll lose a modest amount of insulating performance, and the haze may worsen over time as mineral deposits build up. It's not a safety issue, and the window will still function. If it's a low-traffic room and you're not bothered by the look, doing nothing is a legitimate choice."
-  - q: "How do I know if my window seal has failed versus just having condensation?"
-    a: "Failed seal condensation sits between the panes on surfaces you can't reach. Try wiping the glass. If the haze or moisture doesn't wipe away from either side, it's between the panes and the seal is gone. Exterior condensation (outside surface) evaporates with sunlight. Interior condensation (room-side surface) wipes clean immediately."
-  - q: "How long does a replacement IGU last?"
-    a: "A quality IGU with a dual-seal edge construction will typically last 15-25 years before seal failure. Cheap units or those with only a single sealant layer fail faster. Exposure to direct UV, wide temperature swings, and poor original installation all shorten that timeline. There's no way to make them last forever; they're consumable parts."
-  - q: "Is the defogging drill-and-inject method worth it?"
-    a: "For clarity, yes, it often works well. For insulation restoration, no. The vent plugs left after the procedure deliberately allow air exchange to prevent re-fogging, which means you've permanently lost the sealed gas fill. If you're in a mild climate and mainly care that the window looks clear again, it's a reasonable fix at a lower cost than full IGU replacement."
-  - q: "Can I add my own argon gas when replacing the IGU myself?"
-    a: "Realistically, no. Filling an IGU with argon requires injecting the gas during manufacturing while the unit is being sealed, using equipment glass shops use daily. Some shops will fill custom IGUs with argon on request for a modest upcharge, typically $20-$40 extra per unit. Ask when you order. Don't bother trying to inject argon after the fact through any kind of DIY rig."
+ - q: "Can I just leave a fogged window alone?"
+ a: "Yes, with some trade-offs. You'll lose a modest amount of insulating performance, and the haze may worsen over time as mineral deposits build up. It's not a safety issue, and the window will still function. If it's a low-traffic room and you're not bothered by the look, doing nothing is a legitimate choice."
+ - q: "How do I know if my window seal has failed versus just having condensation?"
+ a: "Failed seal condensation sits between the panes on surfaces you can't reach. Try wiping the glass. If the haze or moisture doesn't wipe away from either side, it's between the panes and the seal is gone. Exterior condensation (outside surface) evaporates with sunlight. Interior condensation (room-side surface) wipes clean immediately."
+ - q: "How long does a replacement IGU last?"
+ a: "A quality IGU with a dual-seal edge construction will typically last 15-25 years before seal failure. Cheap units or those with only a single sealant layer fail faster. Exposure to direct UV, wide temperature swings, and poor original installation all shorten that timeline. There's no way to make them last forever; they're consumable parts."
+ - q: "Is the defogging drill-and-inject method worth it?"
+ a: "For clarity, yes, it often works well. For insulation restoration, no. The vent plugs left after the procedure deliberately allow air exchange to prevent re-fogging, which means you've permanently lost the sealed gas fill. If you're in a mild climate and mainly care that the window looks clear again, it's a reasonable fix at a lower cost than full IGU replacement."
+ - q: "Can I add my own argon gas when replacing the IGU myself?"
+ a: "Realistically, no. Filling an IGU with argon requires injecting the gas during manufacturing while the unit is being sealed, using equipment glass shops use daily. Some shops will fill custom IGUs with argon on request for a modest upcharge, typically $20-$40 extra per unit. Ask when you order. Don't bother trying to inject argon after the fact through any kind of DIY rig."
 ---
 
 Fogged double pane windows are one of those repairs where nearly every article you'll find online steers you toward the wrong fix. They'll tell you to replace the whole window, quote you $400-$800 per unit, and send you off to find a contractor. Some of those articles are written by window companies. Funny how that works.

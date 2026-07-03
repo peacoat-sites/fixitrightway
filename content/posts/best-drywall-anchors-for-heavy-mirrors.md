@@ -9,16 +9,16 @@ tags: ["best", "drywall", "anchors", "heavy", "mirrors"]
 slug: "best-drywall-anchors-for-heavy-mirrors"
 affiliate_disclosure: true
 faqs:
-  - q: "How much weight can drywall anchors actually hold for a mirror?"
-    a: "In properly installed conditions, a quality toggle-style anchor like a SnapToggle is rated to well over 100 pounds in shear, but I'd plan for no more than 50-60 pounds per anchor in real-world conditions to give yourself a safety margin. For anything over 80 pounds total, try to hit at least one stud or use a French cleat system across multiple studs."
-  - q: "Can I use drywall anchors on a plaster wall instead?"
-    a: "Plaster walls need a different approach. Plaster is harder and more brittle than drywall, and it often has a metal or wood lath behind it that changes how anchors seat. Toggle bolts still work in plaster if you can get through the lath, but you risk cracking the plaster surface during installation. Go slowly, use a pilot hole, and don't overtighten anything."
-  - q: "Do I need two anchors or will one be enough?"
-    a: "For any mirror over about 20 pounds, use two anchors. Beyond the weight capacity issue, a single anchor point lets the mirror rotate and tilt over time, and the leverage that creates will work that anchor loose faster than you'd expect. Two points also keep the mirror level."
-  - q: "What size hole do I drill for a SnapToggle anchor?"
-    a: "The standard 1/4-20 SnapToggle requires a 1/2-inch diameter hole. The smaller 8-32 size uses a 3/8-inch hole. Check the packaging of the specific size you're using and do not guess on this one."
-  - q: "My anchor feels loose after I installed it. Can I fix it or do I need to start over?"
-    a: "If a toggle-style anchor is loose, it almost always means the hole was too large or the drywall is damaged around the hole. You'll need to move to a new location at least 3-4 inches away from the failed spot. Trying to re-anchor in a damaged hole rarely ends well, and patching it with spackle and re-drilling in the same spot definitely won't hold weight."
+ - q: "How much weight can drywall anchors actually hold for a mirror?"
+ a: "In properly installed conditions, a quality toggle-style anchor like a SnapToggle is rated to well over 100 pounds in shear, but I'd plan for no more than 50-60 pounds per anchor in real-world conditions to give yourself a safety margin. For anything over 80 pounds total, try to hit at least one stud or use a French cleat system across multiple studs."
+ - q: "Can I use drywall anchors on a plaster wall instead?"
+ a: "Plaster walls need a different approach. Plaster is harder and more brittle than drywall, and it often has a metal or wood lath behind it that changes how anchors seat. Toggle bolts still work in plaster if you can get through the lath, but you risk cracking the plaster surface during installation. Go slowly, use a pilot hole, and don't overtighten anything."
+ - q: "Do I need two anchors or will one be enough?"
+ a: "For any mirror over about 20 pounds, use two anchors. Beyond the weight capacity issue, a single anchor point lets the mirror rotate and tilt over time, and the leverage that creates will work that anchor loose faster than you'd expect. Two points also keep the mirror level."
+ - q: "What size hole do I drill for a SnapToggle anchor?"
+ a: "The standard 1/4-20 SnapToggle requires a 1/2-inch diameter hole. The smaller 8-32 size uses a 3/8-inch hole. Check the packaging of the specific size you're using and do not guess on this one."
+ - q: "My anchor feels loose after I installed it. Can I fix it or do I need to start over?"
+ a: "If a toggle-style anchor is loose, it almost always means the hole was too large or the drywall is damaged around the hole. You'll need to move to a new location at least 3-4 inches away from the failed spot. Trying to re-anchor in a damaged hole rarely ends well, and patching it with spackle and re-drilling in the same spot definitely won't hold weight."
 author: "Kim Reeves"
 author_slug: "kim-reeves"
 author_title: "Interior Renovator"
@@ -31,12 +31,12 @@ So let's talk about doing this right, because most of the advice floating around
 
 
 <div class="value-module">
-  <div class="vm-head">Mirror Weight to Anchor Selection Guide</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this decision matrix to match your mirror's actual weight to the right anchor type, accounting for the real-world derating that occurs with typical DIY installations.</p>
-    <table><thead><tr><th>Mirror Weight</th><th>Recommended Anchor</th><th>Min. Anchors Needed</th><th>Hole Size Required</th><th>Real-World Capacity (each)</th><th>Key Installation Note</th></tr></thead><tbody><tr><td>15–25 lbs</td><td>Self-drilling zinc anchors</td><td>2</td><td>No pre-drill</td><td>25–35 lbs</td><td>Drive flush; don't overtighten or gypsum crumbles</td></tr><tr><td>26–40 lbs</td><td>Snap toggles (e.g., Toggler Snaptoggle)</td><td>2</td><td>1/2 inch</td><td>40–50 lbs</td><td>Straps must sit flat against back of drywall</td></tr><tr><td>41–65 lbs</td><td>Traditional toggle bolts (1/4-inch)</td><td>2–3</td><td>7/8 inch</td><td>50–70 lbs</td><td>Wings must fully deploy; test by tugging before hanging</td></tr><tr><td>66–100 lbs</td><td>Toggle bolts (1/4-inch) OR wall studs</td><td>3–4 toggles or 2 stud screws</td><td>7/8 inch (toggles)</td><td>50–70 lbs (toggles)</td><td>At this weight, hitting at least one stud is strongly preferred</td></tr><tr><td>Over 100 lbs</td><td>Stud mounting required</td><td>2+ stud screws (3-inch #10 minimum)</td><td>1/8-inch pilot</td><td>80–100+ lbs per screw in stud</td><td>Do not rely on drywall anchors alone at this weight</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Mirror Weight to Anchor Selection Guide</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this decision matrix to match your mirror's actual weight to the right anchor type, accounting for the real-world derating that occurs with typical DIY installations.</p>
+ <table><thead><tr><th>Mirror Weight</th><th>Recommended Anchor</th><th>Min. Anchors Needed</th><th>Hole Size Required</th><th>Real-World Capacity (each)</th><th>Key Installation Note</th></tr></thead><tbody><tr><td>15–25 lbs</td><td>Self-drilling zinc anchors</td><td>2</td><td>No pre-drill</td><td>25–35 lbs</td><td>Drive flush; don't overtighten or gypsum crumbles</td></tr><tr><td>26–40 lbs</td><td>Snap toggles (e.g., Toggler Snaptoggle)</td><td>2</td><td>1/2 inch</td><td>40–50 lbs</td><td>Straps must sit flat against back of drywall</td></tr><tr><td>41–65 lbs</td><td>Traditional toggle bolts (1/4-inch)</td><td>2–3</td><td>7/8 inch</td><td>50–70 lbs</td><td>Wings must fully deploy; test by tugging before hanging</td></tr><tr><td>66–100 lbs</td><td>Toggle bolts (1/4-inch) OR wall studs</td><td>3–4 toggles or 2 stud screws</td><td>7/8 inch (toggles)</td><td>50–70 lbs (toggles)</td><td>At this weight, hitting at least one stud is strongly preferred</td></tr><tr><td>Over 100 lbs</td><td>Stud mounting required</td><td>2+ stud screws (3-inch #10 minimum)</td><td>1/8-inch pilot</td><td>80–100+ lbs per screw in stud</td><td>Do not rely on drywall anchors alone at this weight</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The problem with drywall is the drywall itself

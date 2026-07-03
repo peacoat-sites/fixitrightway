@@ -10,14 +10,14 @@ featured_depth: true
 categories: ["Home Repair", "DIY", "Cost Guides"]
 keywords: ["diy project costs", "home improvement timeline", "tool costs for home projects", "budget for home repair"]
 faqs:
-  - question: "What tools should I buy vs rent?"
-    answer: "Buy if you will use it 3+ times. Power tools: buy if frequent, rent if one-time. Hand tools: always buy (cheap). Specialty tools: usually rent (expensive, single-purpose)."
-  - question: "How accurate are these timelines?"
-    answer: "These are estimates for an average DIYer. Professionals do it 2-3x faster. Add 50% if you are learning. Variables: skill level, material quality, unforeseen damage."
-  - question: "Should I hire a professional instead?"
-    answer: "Projects marked High difficulty often need pros (electrical, plumbing, structural). Medium is DIY-friendly if you have tools. Low is definitely DIY."
-  - question: "Are these costs complete?"
-    answer: "These include materials and tools. Not included: disposal/hauling, permits, rental of heavy equipment, inspection fees. Budget +20% for contingencies."
+ - question: "What tools should I buy vs rent?"
+ answer: "Buy if you will use it 3+ times. Power tools: buy if frequent, rent if one-time. Hand tools: always buy (cheap). Specialty tools: usually rent (expensive, single-purpose)."
+ - question: "How accurate are these timelines?"
+ answer: "These are estimates for an average DIYer. Professionals do it 2-3x faster. Add 50% if you are learning. Variables: skill level, material quality, unforeseen damage."
+ - question: "Should I hire a professional instead?"
+ answer: "Projects marked High difficulty often need pros (electrical, plumbing, structural). Medium is DIY-friendly if you have tools. Low is definitely DIY."
+ - question: "Are these costs complete?"
+ answer: "These include materials and tools. Not included: disposal/hauling, permits, rental of heavy equipment, inspection fees. Budget +20% for contingencies."
 ---
 
 Most DIY projects fail because people underestimate either **tool costs** or **timeline**.
@@ -55,7 +55,7 @@ A basic power drill ($100) pays for itself after 2-3 projects. A circular saw? R
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
-- **[Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)** (~$199) — 200W panel kit with MPPT charge controller for maximum energy harvest.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)** (~$199), 200W panel kit with MPPT charge controller for maximum energy harvest.
 

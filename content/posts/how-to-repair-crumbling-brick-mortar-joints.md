@@ -9,16 +9,16 @@ tags: ["repair", "crumbling", "brick", "mortar", "joints"]
 slug: "how-to-repair-crumbling-brick-mortar-joints"
 affiliate_disclosure: true
 faqs:
-  - q: "How long does repointed mortar last?"
-    a: "Done correctly with the right mortar type, tuck-pointing should last 25-50 years. The two biggest killers of early failure are insufficient removal depth (under 3/4 inch) and using mortar that's too hard for the brick. If you're seeing new repointing crack or debond within a few years, one of those two things is almost always the culprit."
-  - q: "Can I repoint brick in cold weather?"
-    a: "Mortar needs temperatures above 40°F to cure properly, and ideally above 50°F for at least 48 hours after application. Below that, the water in the mix freezes before it cures and you'll get weak, crumbly results. If you're doing fall work and temperatures are borderline, keep the freshly pointed sections covered with burlap or a tarp overnight."
-  - q: "What's the difference between tuck-pointing and repointing?"
-    a: "Technically, repointing is the general process of removing old mortar and replacing it. Traditional tuck-pointing (more common in British masonry) involves using two colors of mortar to create a fine, decorative line appearance. In American usage, most people use the terms interchangeably, and contractors will understand what you mean either way."
-  - q: "Do I need to seal the brick after repointing?"
-    a: "Usually no, and I'd actually caution against it. Most clear brick sealers trap moisture inside the wall rather than letting it breathe, which can accelerate spalling and freeze-thaw damage in cold climates. If you're in a very wet climate and considering a sealer, use a silane/siloxane-based penetrating sealer (like Techniseal or SiloXane from RadonSeal) rather than a film-forming product. Avoid anything that promises to 'waterproof' brick -- that's marketing, not masonry."
-  - q: "Why does the new mortar look so different from the old?"
-    a: "Fresh mortar is almost always lighter in color than weathered mortar, and it'll typically blend in more over 6-12 months of weathering. If the color difference bothers you right away, you can try adding small amounts of masonry pigment to the mix to approximate the existing color -- it's not an exact science but it can get you closer. On historically significant homes, color-matching is a whole specialty service that some masonry contractors offer specifically."
+ - q: "How long does repointed mortar last?"
+ a: "Done correctly with the right mortar type, tuck-pointing should last 25-50 years. The two biggest killers of early failure are insufficient removal depth (under 3/4 inch) and using mortar that's too hard for the brick. If you're seeing new repointing crack or debond within a few years, one of those two things is almost always the culprit."
+ - q: "Can I repoint brick in cold weather?"
+ a: "Mortar needs temperatures above 40°F to cure properly, and ideally above 50°F for at least 48 hours after application. Below that, the water in the mix freezes before it cures and you'll get weak, crumbly results. If you're doing fall work and temperatures are borderline, keep the freshly pointed sections covered with burlap or a tarp overnight."
+ - q: "What's the difference between tuck-pointing and repointing?"
+ a: "Technically, repointing is the general process of removing old mortar and replacing it. Traditional tuck-pointing (more common in British masonry) involves using two colors of mortar to create a fine, decorative line appearance. In American usage, most people use the terms interchangeably, and contractors will understand what you mean either way."
+ - q: "Do I need to seal the brick after repointing?"
+ a: "Usually no, and I'd actually caution against it. Most clear brick sealers trap moisture inside the wall rather than letting it breathe, which can accelerate spalling and freeze-thaw damage in cold climates. If you're in a very wet climate and considering a sealer, use a silane/siloxane-based penetrating sealer (like Techniseal or SiloXane from RadonSeal) rather than a film-forming product. Avoid anything that promises to 'waterproof' brick, that's marketing, not masonry."
+ - q: "Why does the new mortar look so different from the old?"
+ a: "Fresh mortar is almost always lighter in color than weathered mortar, and it'll typically blend in more over 6-12 months of weathering. If the color difference bothers you right away, you can try adding small amounts of masonry pigment to the mix to approximate the existing color, it's not an exact science but it can get you closer. On historically significant homes, color-matching is a whole specialty service that some masonry contractors offer specifically."
 author: "Kim Reeves"
 author_slug: "kim-reeves"
 author_title: "Interior Renovator"
@@ -107,6 +107,6 @@ If you're looking at more than about 50-60 square feet of deteriorated joints, e
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
 

@@ -13,16 +13,16 @@ author_bio: "Dana Morrison spent 20 years as a licensed general contractor befor
 slug: "how-to-fix-a-crack-in-plaster-wall-before-painting"
 affiliate_disclosure: true
 faqs:
-  - q: "Why does my crack keep coming back after I paint over it?"
-    a: "The most common reasons are skipping the V-groove step (so the filler has no mechanical grip), using shrinking materials like lightweight spackling as a standalone fill, or not using mesh tape to bridge the crack. If the wall itself is moving seasonally, even a good repair may show slight movement, but tape and flexible compound dramatically reduce this."
-  - q: "Can I use regular drywall mud on plaster?"
-    a: "Yes, all-purpose joint compound works fine for finish coats and feathering on plaster, but it shrinks too much to use as your base fill in wider cracks. Use a setting-type compound (like Durabond) for the initial fill, then switch to all-purpose for the finishing coats."
-  - q: "How long do I need to wait before painting a plaster repair?"
-    a: "Setting compound (Durabond) cures hard in 90 minutes to a few hours, but all-purpose compound needs to dry thoroughly, which usually means overnight in a climate-controlled space. Painting over compound that isn't fully dry traps moisture and leads to cracking or bubbling. When in doubt, wait another day."
-  - q: "Do I need special paint for plaster walls?"
-    a: "Not necessarily, but flat or matte finishes hide repair work better than eggshell or semi-gloss. The sheen of higher-gloss paints highlights even slight texture differences between the repair and the original plaster. If you're set on eggshell or higher, apply two full coats and expect to do more careful sanding on the transition zones."
-  - q: "Is it worth skim coating the whole wall instead of patching individual cracks?"
-    a: "If you have more than 5-6 cracks across a single wall, skim coating the entire surface is often faster, cleaner, and more durable than chasing individual cracks. It also gives you a uniform base for paint that eliminates flashing issues. It's not a beginner skill, but it's learnable with practice and a YouTube session or two. The Gardz plus all-purpose compound approach works well for this."
+ - q: "Why does my crack keep coming back after I paint over it?"
+ a: "The most common reasons are skipping the V-groove step (so the filler has no mechanical grip), using shrinking materials like lightweight spackling as a standalone fill, or not using mesh tape to bridge the crack. If the wall itself is moving seasonally, even a good repair may show slight movement, but tape and flexible compound dramatically reduce this."
+ - q: "Can I use regular drywall mud on plaster?"
+ a: "Yes, all-purpose joint compound works fine for finish coats and feathering on plaster, but it shrinks too much to use as your base fill in wider cracks. Use a setting-type compound (like Durabond) for the initial fill, then switch to all-purpose for the finishing coats."
+ - q: "How long do I need to wait before painting a plaster repair?"
+ a: "Setting compound (Durabond) cures hard in 90 minutes to a few hours, but all-purpose compound needs to dry thoroughly, which usually means overnight in a climate-controlled space. Painting over compound that isn't fully dry traps moisture and leads to cracking or bubbling. When in doubt, wait another day."
+ - q: "Do I need special paint for plaster walls?"
+ a: "Not necessarily, but flat or matte finishes hide repair work better than eggshell or semi-gloss. The sheen of higher-gloss paints highlights even slight texture differences between the repair and the original plaster. If you're set on eggshell or higher, apply two full coats and expect to do more careful sanding on the transition zones."
+ - q: "Is it worth skim coating the whole wall instead of patching individual cracks?"
+ a: "If you have more than 5-6 cracks across a single wall, skim coating the entire surface is often faster, cleaner, and more durable than chasing individual cracks. It also gives you a uniform base for paint that eliminates flashing issues. It's not a beginner skill, but it's learnable with practice and a YouTube session or two. The Gardz plus all-purpose compound approach works well for this."
 ---
 
 Hairline cracks are lying to you.

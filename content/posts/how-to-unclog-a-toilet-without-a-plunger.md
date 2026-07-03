@@ -8,12 +8,12 @@ categories: ["plumbing"]
 slug: "how-to-unclog-a-toilet-without-a-plunger"
 affiliate_disclosure: true
 faqs:
-  - q: "How long should I let dish soap sit in the toilet before flushing?"
-    a: "Give the dish soap at least 15 to 20 minutes to work its way down to the clog. For more stubborn blockages, letting it sit for 30 to 45 minutes before adding hot water gives even better results. Patience really does pay off with this method."
-  - q: "Is it safe to use chemical drain cleaners in a toilet?"
-    a: "Most plumbers actually advise against using harsh chemical drain cleaners like Drano in toilets. These products are designed for sink and shower drains and can damage the rubber seals and components inside your toilet tank over time. The natural methods in this guide are safer and surprisingly just as effective."
-  - q: "What if the water level is very high, should I still add more water?"
-    a: "If the bowl is nearly full, do not add more water until the level drops. Adding water to an already-full bowl risks overflow and a very unpleasant cleanup. Instead, start with the baking soda and vinegar method, which doesn’t require adding significant liquid volume. Wait for the water to drain partially before using the hot water technique."
+ - q: "How long should I let dish soap sit in the toilet before flushing?"
+ a: "Give the dish soap at least 15 to 20 minutes to work its way down to the clog. For more stubborn blockages, letting it sit for 30 to 45 minutes before adding hot water gives even better results. Patience really does pay off with this method."
+ - q: "Is it safe to use chemical drain cleaners in a toilet?"
+ a: "Most plumbers actually advise against using harsh chemical drain cleaners like Drano in toilets. These products are designed for sink and shower drains and can damage the rubber seals and components inside your toilet tank over time. The natural methods in this guide are safer and surprisingly just as effective."
+ - q: "What if the water level is very high, should I still add more water?"
+ a: "If the bowl is nearly full, do not add more water until the level drops. Adding water to an already-full bowl risks overflow and a very unpleasant cleanup. Instead, start with the baking soda and vinegar method, which doesn’t require adding significant liquid volume. Wait for the water to drain partially before using the hot water technique."
 author: "Dana Morrison"
 author_slug: "dana-morrison"
 author_title: "Lead Contractor"

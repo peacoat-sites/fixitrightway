@@ -13,16 +13,16 @@ author_bio: "Paul Zhang is a licensed electrician who decided to start writing a
 slug: "how-to-patch-a-large-hole-in-drywall-yourself"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I use spackle instead of joint compound?"
-    a: "Not for holes this size. Spackle is for small nail holes and minor imperfections; it shrinks significantly and is harder to sand smooth. Joint compound is designed for larger repairs and feathers better. They're different products for different jobs."
-  - q: "How long until I can paint over the patch?"
-    a: "After your final sanded coat, apply primer (one coat minimum). Let that dry per the primer instructions, usually two to three hours. Then paint. Don't skip primer; it seals the compound and ensures paint adheres evenly. Total elapsed time from final compound coat to finished painted wall is roughly six to eight hours if you're not slowing down for drying."
-  - q: "What if my patch cracks after I painted it?"
-    a: "This usually means the compound underneath wasn't fully cured or you applied paint too thick. Let the crack dry completely (if it's still new), sand it lightly, apply a thin coat of compound, sand again, prime, and paint. Likely a one-hour fix. To avoid it the first time: let full cure time pass, use thin coats, and don't paint until you're absolutely sure everything is set."
-  - q: "Do I need to tape holes smaller than six inches?"
-    a: "You don't technically need to, but I'd recommend it anyway. Even a small four-inch hole benefits from a tape base because it reinforces the compound and prevents cracking as the patch settles. It's one extra step that saves rework."
-  - q: "What happens if I sand through to the drywall underneath?"
-    a: "You'll see the dull paper. Stop sanding, apply another thin coat of compound to cover the exposed paper, let it dry, and sand that. It's a minor setback, not a catastrophe. This is why thin coats matter; you're building a buffer against oversanding."
+ - q: "Can I use spackle instead of joint compound?"
+ a: "Not for holes this size. Spackle is for small nail holes and minor imperfections; it shrinks significantly and is harder to sand smooth. Joint compound is designed for larger repairs and feathers better. They're different products for different jobs."
+ - q: "How long until I can paint over the patch?"
+ a: "After your final sanded coat, apply primer (one coat minimum). Let that dry per the primer instructions, usually two to three hours. Then paint. Don't skip primer; it seals the compound and ensures paint adheres evenly. Total elapsed time from final compound coat to finished painted wall is roughly six to eight hours if you're not slowing down for drying."
+ - q: "What if my patch cracks after I painted it?"
+ a: "This usually means the compound underneath wasn't fully cured or you applied paint too thick. Let the crack dry completely (if it's still new), sand it lightly, apply a thin coat of compound, sand again, prime, and paint. Likely a one-hour fix. To avoid it the first time: let full cure time pass, use thin coats, and don't paint until you're absolutely sure everything is set."
+ - q: "Do I need to tape holes smaller than six inches?"
+ a: "You don't technically need to, but I'd recommend it anyway. Even a small four-inch hole benefits from a tape base because it reinforces the compound and prevents cracking as the patch settles. It's one extra step that saves rework."
+ - q: "What happens if I sand through to the drywall underneath?"
+ a: "You'll see the dull paper. Stop sanding, apply another thin coat of compound to cover the exposed paper, let it dry, and sand that. It's a minor setback, not a catastrophe. This is why thin coats matter; you're building a buffer against oversanding."
 ---
 
 # Article Body

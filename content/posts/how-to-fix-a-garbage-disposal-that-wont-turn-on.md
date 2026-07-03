@@ -9,16 +9,16 @@ tags: ["garbage", "disposal", "that", "wont", "turn"]
 slug: "how-to-fix-a-garbage-disposal-that-wont-turn-on"
 affiliate_disclosure: true
 faqs:
-  - q: "Why does my garbage disposal have power but still won't turn on?"
-    a: "If your lights or other appliances on the same circuit are working but the disposal is dead, the internal overload protector has almost certainly tripped. Find the reset button on the bottom of the unit and press it firmly. If it keeps tripping, clear the jam with a 1/4-inch Allen wrench before resetting."
-  - q: "Is it safe to reset a garbage disposal myself?"
-    a: "Yes, as long as the wall switch is off before you do anything mechanical under the sink. The reset button itself carries no risk. The only real hazard is reaching into the disposal opening with your hand, which you should never do regardless of whether the power is on."
-  - q: "How do I know if my garbage disposal motor is burned out?"
-    a: "A burned-out motor usually smells like hot electrical components or burnt plastic. The disposal may hum briefly and then go silent, or it may be completely dead even after a successful reset and jam-clearing. If the unit is silent, reset, jam-cleared, and getting confirmed power from the outlet, the motor is likely gone."
-  - q: "Can a bad garbage disposal trip my circuit breaker?"
-    a: "Yes. A seized or failing motor draws excess current and will trip a breaker, sometimes repeatedly. If your disposal breaker trips immediately on startup, the motor is either mechanically seized or electrically failing. Clear any jam first. If the breaker still trips, the motor is done."
-  - q: "How long should a garbage disposal last?"
-    a: "A decent disposal, used reasonably, lasts 10 to 15 years. InSinkErator's upper-tier models (the Evolution series) tend to outlast the budget units significantly. The biggest life-reducers are grinding fibrous foods like celery and artichoke leaves, running without water, and putting grease down the drain regularly."
+ - q: "Why does my garbage disposal have power but still won't turn on?"
+ a: "If your lights or other appliances on the same circuit are working but the disposal is dead, the internal overload protector has almost certainly tripped. Find the reset button on the bottom of the unit and press it firmly. If it keeps tripping, clear the jam with a 1/4-inch Allen wrench before resetting."
+ - q: "Is it safe to reset a garbage disposal myself?"
+ a: "Yes, as long as the wall switch is off before you do anything mechanical under the sink. The reset button itself carries no risk. The only real hazard is reaching into the disposal opening with your hand, which you should never do regardless of whether the power is on."
+ - q: "How do I know if my garbage disposal motor is burned out?"
+ a: "A burned-out motor usually smells like hot electrical components or burnt plastic. The disposal may hum briefly and then go silent, or it may be completely dead even after a successful reset and jam-clearing. If the unit is silent, reset, jam-cleared, and getting confirmed power from the outlet, the motor is likely gone."
+ - q: "Can a bad garbage disposal trip my circuit breaker?"
+ a: "Yes. A seized or failing motor draws excess current and will trip a breaker, sometimes repeatedly. If your disposal breaker trips immediately on startup, the motor is either mechanically seized or electrically failing. Clear any jam first. If the breaker still trips, the motor is done."
+ - q: "How long should a garbage disposal last?"
+ a: "A decent disposal, used reasonably, lasts 10 to 15 years. InSinkErator's upper-tier models (the Evolution series) tend to outlast the budget units significantly. The biggest life-reducers are grinding fibrous foods like celery and artichoke leaves, running without water, and putting grease down the drain regularly."
 author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
@@ -31,12 +31,12 @@ Let me walk you through this the right way.
 
 
 <div class="value-module">
-  <div class="vm-head">Disposal Won't Start: Diagnostic Checklist</div>
-  <div class="vm-body">
-    <p class="vm-intro">Work through these checks in order, most failures resolve at steps 1–3.</p>
-    <table><thead><tr><th>Step</th><th>Check</th><th>Pass Threshold</th><th>If Fails</th></tr></thead><tbody><tr><td>1</td><td>Wall switch or outlet has power</td><td>Other appliances work on same circuit; GFCI not tripped</td><td>Reset GFCI or flip breaker; test outlet with lamp or phone charger</td></tr><tr><td>2</td><td>Reset button on disposal bottom</td><td>Button flush with housing, clicks when pressed</td><td>Press firmly until click; if it pops back out, proceed to step 3</td></tr><tr><td>3</td><td>Flywheel rotates freely</td><td>¼" Allen wrench turns full 360° without binding</td><td>Crank wrench back and forth until obstruction clears, then re-try step 2</td></tr><tr><td>4</td><td>Reset button stays engaged after clearing jam</td><td>Holds flush for 10+ seconds</td><td>Motor may be burned out, replacement typically more economical than repair</td></tr><tr><td>5</td><td>Disposal runs when switch flipped</td><td>Motor spins, grinding sound normal</td><td>If hums but won't spin: jam remains (repeat step 3). If silent: wiring or switch fault, test with multimeter or call electrician</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Disposal Won't Start: Diagnostic Checklist</div>
+ <div class="vm-body">
+ <p class="vm-intro">Work through these checks in order, most failures resolve at steps 1–3.</p>
+ <table><thead><tr><th>Step</th><th>Check</th><th>Pass Threshold</th><th>If Fails</th></tr></thead><tbody><tr><td>1</td><td>Wall switch or outlet has power</td><td>Other appliances work on same circuit; GFCI not tripped</td><td>Reset GFCI or flip breaker; test outlet with lamp or phone charger</td></tr><tr><td>2</td><td>Reset button on disposal bottom</td><td>Button flush with housing, clicks when pressed</td><td>Press firmly until click; if it pops back out, proceed to step 3</td></tr><tr><td>3</td><td>Flywheel rotates freely</td><td>¼" Allen wrench turns full 360° without binding</td><td>Crank wrench back and forth until obstruction clears, then re-try step 2</td></tr><tr><td>4</td><td>Reset button stays engaged after clearing jam</td><td>Holds flush for 10+ seconds</td><td>Motor may be burned out, replacement typically more economical than repair</td></tr><tr><td>5</td><td>Disposal runs when switch flipped</td><td>Motor spins, grinding sound normal</td><td>If hums but won't spin: jam remains (repeat step 3). If silent: wiring or switch fault, test with multimeter or call electrician</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Start Here: The Reset Button Does Most of the Heavy Lifting
