@@ -11,10 +11,7 @@ author_slug: "paul-zhang"
 author_title: "Electrical Writer"
 author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
 slug: "when-diy-voids-your-insurance-the-permit-trap-homeowners-miss"
-affiliate_disclosure: true
----
-
-You finished the bathroom yourself last summer. Swapped out the vanity light, added a GFCI outlet near the sink, maybe ran a new circuit for a space heater. Saved yourself $800 in electrician fees and felt pretty good about it. What you probably didn't think about: if that bathroom catches fire this summer and the insurance adjuster finds that outlet, you might be writing a very large check with no help from your insurer.
+affiliate_disclosure: true, You finished the bathroom yourself last summer. Swapped out the vanity light, added a GFCI outlet near the sink, maybe ran a new circuit for a space heater. Saved yourself $800 in electrician fees and felt pretty good about it. What you probably didn't think about: if that bathroom catches fire this summer and the insurance adjuster finds that outlet, you might be writing a very large check with no help from your insurer.
 
 This isn't a hypothetical edge case. Home inspectors flagged this as a growing pattern in spring 2026, specifically because so many homeowners have been going the DIY route to dodge labor costs that have stayed stubbornly high since the pandemic years. [According to Homedit (April 2026)](https://www.homedit.com/home-inspectors-say-this-diy-fix-is-behind-many-denied-insurance-claims/), unpermitted electrical work, things like adding outlets, upgrading panels, or extending circuits, is the single most common DIY fix behind denied homeowners insurance claims. And summer is when the problem explodes. People have time off, Home Depot is packed, and project season is in full swing. This year especially, if you're planning to work on your house, you need to understand what's at stake before you pull out the wire strippers.
 
@@ -59,10 +56,10 @@ The money you save doing it yourself disappears fast if one denied claim leaves 
 ## Sources
 
 - [Home Inspectors Say This DIY Fix Is Behind Many Denied Insurance Claims](https://www.homedit.com/home-inspectors-say-this-diy-fix-is-behind-many-denied-insurance-claims/) (April 10, 2026)
-- [Does Homeowners Insurance Cover Unpermitted Work? – LegalClarity](https://legalclarity.org/does-homeowners-insurance-cover-unpermitted-work/) (April 8, 2026)
-- [Does Homeowners Insurance Cover Unpermitted Work? – Econosurance](https://econosurance.com/property-insurance/does-homeowners-insurance-cover-unpermitted-work/) (April 4, 2026)
-- [Unpermitted Additions in 2026: Should You Walk Away? – PLHH](https://www.plhh.com/unpermitted-home-additions-2026-buyer-guide.html) (March 22, 2026)
-- [Can Unpermitted Work Void Homeowners Insurance in CA? – LA Construction Compliance](https://www.laconstructioncompliance.com/the-risk-of-losing-homeowners-insurance-due-to-illegal-construction-in-california/) (2024, updated 2026)
+- [Does Homeowners Insurance Cover Unpermitted Work?, LegalClarity](https://legalclarity.org/does-homeowners-insurance-cover-unpermitted-work/) (April 8, 2026)
+- [Does Homeowners Insurance Cover Unpermitted Work?, Econosurance](https://econosurance.com/property-insurance/does-homeowners-insurance-cover-unpermitted-work/) (April 4, 2026)
+- [Unpermitted Additions in 2026: Should You Walk Away?, PLHH](https://www.plhh.com/unpermitted-home-additions-2026-buyer-guide.html) (March 22, 2026)
+- [Can Unpermitted Work Void Homeowners Insurance in CA?, LA Construction Compliance](https://www.laconstructioncompliance.com/the-risk-of-losing-homeowners-insurance-due-to-illegal-construction-in-california/) (2024, updated 2026)
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
