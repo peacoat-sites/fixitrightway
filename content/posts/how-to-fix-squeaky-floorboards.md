@@ -14,15 +14,15 @@ slug: "how-to-fix-squeaky-floorboards"
 affiliate_disclosure: true
 faqs:
  - q: "Why does my floor only squeak in winter?"
- a: "Dry winter air causes wood to shrink, which opens up gaps between flooring boards and between the subfloor and framing. That movement creates friction. If the squeak mostly disappears in summer when humidity comes back up, a dry lubricant or humidifier can help more than any mechanical fix."
+   a: "Dry winter air causes wood to shrink, which opens up gaps between flooring boards and between the subfloor and framing. That movement creates friction. If the squeak mostly disappears in summer when humidity comes back up, a dry lubricant or humidifier can help more than any mechanical fix."
  - q: "Can I fix squeaky floors without pulling up the flooring?"
- a: "Yes, in most cases. From below with screws and adhesive, through carpet with break-away screw kits, or through hardwood with finish nails and filler. Pulling up flooring is rarely necessary unless the subfloor itself has water damage."
+   a: "Yes, in most cases. From below with screws and adhesive, through carpet with break-away screw kits, or through hardwood with finish nails and filler. Pulling up flooring is rarely necessary unless the subfloor itself has water damage."
  - q: "How do I find the joist under my floor?"
- a: "Use an electronic stud finder, or tap across the floor with a knuckle and listen for the sound to go from hollow to solid. You can also probe with a thin finish nail in an inconspicuous spot (inside a closet, for example) to confirm joist location before you commit to a screw."
+   a: "Use an electronic stud finder, or tap across the floor with a knuckle and listen for the sound to go from hollow to solid. You can also probe with a thin finish nail in an inconspicuous spot (inside a closet, for example) to confirm joist location before you commit to a screw."
  - q: "Will the squeak come back after I fix it?"
- a: "If you've addressed the structural cause (loose fasteners, subfloor gap, joist contact), the fix should be permanent. If you only applied a lubricant, it'll likely return within a year or two. Screws and adhesive outlast lubricants every time."
+   a: "If you've addressed the structural cause (loose fasteners, subfloor gap, joist contact), the fix should be permanent. If you only applied a lubricant, it'll likely return within a year or two. Screws and adhesive outlast lubricants every time."
  - q: "Is a squeaky floor a structural problem?"
- a: "Usually no. Most squeaks are cosmetic nuisances caused by normal wood movement. That said, if the floor feels soft or spongy when you walk on it, or if you notice the squeak getting significantly worse over a short time, get someone under the floor to check for moisture damage or joist issues. A squeak alone isn't alarming; softness underfoot is."
+   a: "Usually no. Most squeaks are cosmetic nuisances caused by normal wood movement. That said, if the floor feels soft or spongy when you walk on it, or if you notice the squeak getting significantly worse over a short time, get someone under the floor to check for moisture damage or joist issues. A squeak alone isn't alarming; softness underfoot is."
 ---
 
 Squeaky floors are one of those things that start as a minor annoyance and somehow end up being the loudest thing in your house at 2 a.m. You step over the same spot every night on your way to the bathroom. Your dog figures out the creak pattern and uses it against you. Sound familiar?

@@ -14,15 +14,15 @@ slug: "how-to-match-orange-peel-texture-on-patched-drywall"
 affiliate_disclosure: true
 faqs:
  - q: "Can I match orange peel texture if I don't know what product was originally used?"
- a: "If you can find a match by bringing a sample to a drywall supplier or paint store, great. If not, test different spray pressures and products on scrap drywall until you get close, then go with that. Perfect matches are rare anyway; close is almost always good enough."
+   a: "If you can find a match by bringing a sample to a drywall supplier or paint store, great. If not, test different spray pressures and products on scrap drywall until you get close, then go with that. Perfect matches are rare anyway; close is almost always good enough."
  - q: "What if my orange peel texture is really old and damaged around the patch?"
- a: "You might need to scrape off the old texture around the patch and respray a larger area. If the existing texture is in good shape, though, you can usually just patch without scraping the whole wall."
+   a: "You might need to scrape off the old texture around the patch and respray a larger area. If the existing texture is in good shape, though, you can usually just patch without scraping the whole wall."
  - q: "Can I use roll-on texture instead of a spray?"
- a: "It's possible but difficult for orange peel specifically. Roll-on texture is usually better for popcorn or knockdown. For orange peel, spray is your best bet."
+   a: "It's possible but difficult for orange peel specifically. Roll-on texture is usually better for popcorn or knockdown. For orange peel, spray is your best bet."
  - q: "How long does sprayed texture take to cure before I can paint?"
- a: "Usually 24 hours, but check the specific product. Most drywall texture dries faster than joint compound, but don't rush it. Paint too soon and you can pull the texture off."
+   a: "Usually 24 hours, but check the specific product. Most drywall texture dries faster than joint compound, but don't rush it. Paint too soon and you can pull the texture off."
  - q: "Will sanding the edges of the texture seam make it more visible or less?"
- a: "Less, because you're breaking the sharp line that light bounces off. Sand lightly with 150 or 180-grit until the edge is smooth and gradual, not sharp."
+   a: "Less, because you're breaking the sharp line that light bounces off. Sand lightly with 150 or 180-grit until the edge is smooth and gradual, not sharp."
 ---
 
 # Article: Matching Orange Peel Texture on Patched Drywall

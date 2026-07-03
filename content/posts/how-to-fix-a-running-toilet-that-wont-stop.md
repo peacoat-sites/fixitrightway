@@ -14,15 +14,15 @@ slug: "how-to-fix-a-running-toilet-that-wont-stop"
 affiliate_disclosure: true
 faqs:
  - q: "Why does my toilet run for a few seconds randomly even when nobody flushed it?"
- a: "This is called 'phantom flushing' and it's almost always a slow flapper leak. Water drains from the tank into the bowl so gradually you don't notice, until the level drops enough to trigger the fill valve. Food coloring test will confirm it. Replace the flapper."
+   a: "This is called 'phantom flushing' and it's almost always a slow flapper leak. Water drains from the tank into the bowl so gradually you don't notice, until the level drops enough to trigger the fill valve. Food coloring test will confirm it. Replace the flapper."
  - q: "I replaced the flapper and it still runs. What did I miss?"
- a: "Three possibilities: the chain has too little slack and is holding the flapper slightly open, the new flapper is the wrong model and isn't seating flat, or the fill valve is the actual problem (not the flapper) and the new flapper just didn't fix the symptom. Listen carefully: if you hear hissing from inside the valve itself rather than water trickling into the bowl, it's the valve."
+   a: "Three possibilities: the chain has too little slack and is holding the flapper slightly open, the new flapper is the wrong model and isn't seating flat, or the fill valve is the actual problem (not the flapper) and the new flapper just didn't fix the symptom. Listen carefully: if you hear hissing from inside the valve itself rather than water trickling into the bowl, it's the valve."
  - q: "How do I know what size flapper to buy without taking the old one to the store?"
- a: "Look up your toilet's model number, which is stamped inside the tank (usually on the back wall above the water line) or on the underside of the lid. Most manufacturers publish replacement part numbers. Korky and Fluidmaster both have model lookup tools on their websites."
+   a: "Look up your toilet's model number, which is stamped inside the tank (usually on the back wall above the water line) or on the underside of the lid. Most manufacturers publish replacement part numbers. Korky and Fluidmaster both have model lookup tools on their websites."
  - q: "Is a running toilet actually wasting that much water?"
- a: "A continuously running toilet loses 200 to 400 gallons per day in a worst-case scenario (EPA WaterSense data). Even a slow phantom flusher cycling a few times per hour can waste 30 to 50 gallons daily. At current average U.S. water rates, that's real money over a full billing cycle."
+   a: "A continuously running toilet loses 200 to 400 gallons per day in a worst-case scenario (EPA WaterSense data). Even a slow phantom flusher cycling a few times per hour can waste 30 to 50 gallons daily. At current average U.S. water rates, that's real money over a full billing cycle."
  - q: "Can I just turn off the toilet's supply valve and leave it until I get to the repair?"
- a: "Yes, totally fine as a short-term fix. The toilet won't run if there's no water supply. Just remember to turn it back on before guests arrive."
+   a: "Yes, totally fine as a short-term fix. The toilet won't run if there's no water supply. Just remember to turn it back on before guests arrive."
 ---
 
 A running toilet costs you roughly $70 to $200 extra per year on your water bill, depending on how bad the leak is. That's not catastrophic, but it's also not nothing, and the fix almost always takes under an hour and less than $20 in parts. Most articles about this bury you in generic "check the flapper" advice and then stop. Let's actually solve it.

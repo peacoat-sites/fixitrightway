@@ -14,15 +14,15 @@ slug: "how-to-seal-air-leaks-around-electrical-outlets"
 affiliate_disclosure: true
 faqs:
  - q: "Do I need to turn off the power just to install foam gaskets?"
- a: "Yes, turn it off. You're removing the cover plate, which puts you close to the outlet terminals and wiring. The risk is low with gaskets since you're not actually touching anything electrical, but the habit of confirming dead circuits before working near them is worth building. It takes 30 seconds."
+   a: "Yes, turn it off. You're removing the cover plate, which puts you close to the outlet terminals and wiring. The risk is low with gaskets since you're not actually touching anything electrical, but the habit of confirming dead circuits before working near them is worth building. It takes 30 seconds."
  - q: "Will foam gaskets make my outlets and switches look different?"
- a: "No. The gasket sits behind the cover plate and is completely hidden once the plate is reinstalled. From the front, nothing looks different at all."
+   a: "No. The gasket sits behind the cover plate and is completely hidden once the plate is reinstalled. From the front, nothing looks different at all."
  - q: "Can I use regular spray foam inside an electrical box?"
- a: "Avoid standard expanding spray foam directly around wires inside a box. It can swell against wiring and make future electrical work a hassle. Low-expansion foam (specifically labeled for that) is fine used carefully around cable penetrations, and acoustical sealant is the best option when you need flexibility."
+   a: "Avoid standard expanding spray foam directly around wires inside a box. It can swell against wiring and make future electrical work a hassle. Low-expansion foam (specifically labeled for that) is fine used carefully around cable penetrations, and acoustical sealant is the best option when you need flexibility."
  - q: "Should I seal outlets in bathrooms and kitchens the same way?"
- a: "Yes, but use a bit of judgment about moisture. In high-humidity areas, the foam gaskets are still fine, but if you're noticing any moisture issues around outlets in those rooms, have an electrician look at it. Sealing those boxes too tightly in a moisture-problem area can occasionally mask a bigger issue."
+   a: "Yes, but use a bit of judgment about moisture. In high-humidity areas, the foam gaskets are still fine, but if you're noticing any moisture issues around outlets in those rooms, have an electrician look at it. Sealing those boxes too tightly in a moisture-problem area can occasionally mask a bigger issue."
  - q: "My house has those old two-prong outlets. Is this project still safe?"
- a: "Two-prong outlets aren't a safety hazard for this particular project, but they're worth upgrading eventually. You can install the foam gaskets the same way. Just use your non-contact voltage tester before removing anything, same as you would with any outlet."
+   a: "Two-prong outlets aren't a safety hazard for this particular project, but they're worth upgrading eventually. You can install the foam gaskets the same way. Just use your non-contact voltage tester before removing anything, same as you would with any outlet."
 ---
 
 Your heating bill goes up every winter and you've already checked the obvious stuff: weatherstripping around the doors, caulk around the windows, maybe even added attic insulation. But there's a category of air leak that almost everyone misses, and it's responsible for more draft infiltration than most people expect. Electrical outlets and switches on exterior walls are essentially holes punched straight through your wall cavity, and in most homes built before 2010 or so, they're sealed with nothing but the cover plate and a thin plastic box.

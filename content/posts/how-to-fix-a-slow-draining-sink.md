@@ -14,15 +14,15 @@ slug: "how-to-fix-a-slow-draining-sink"
 affiliate_disclosure: true
 faqs:
  - q: "Why does my sink drain slowly only when it's full?"
- a: "That's usually a partial clog or buildup that restricts flow rate but doesn't block completely. A full sink creates higher water pressure, which makes the restriction more obvious. Clean the stopper and run a plunger or snake before assuming it's something serious."
+   a: "That's usually a partial clog or buildup that restricts flow rate but doesn't block completely. A full sink creates higher water pressure, which makes the restriction more obvious. Clean the stopper and run a plunger or snake before assuming it's something serious."
  - q: "Can I use baking soda and vinegar to clear a slow drain?"
- a: "You can, and it won't hurt anything. But let's be honest: baking soda and vinegar mostly produce a satisfying fizz and clear very light soap scum. For actual hair clogs or grease, the mechanical approach (Zip-It, plunger, snake) works reliably. The baking soda method is more maintenance than repair."
+   a: "You can, and it won't hurt anything. But let's be honest: baking soda and vinegar mostly produce a satisfying fizz and clear very light soap scum. For actual hair clogs or grease, the mechanical approach (Zip-It, plunger, snake) works reliably. The baking soda method is more maintenance than repair."
  - q: "My sink drains fine but smells bad. Is that the same problem?"
- a: "Not necessarily. A foul smell with normal drainage is often a dirty stopper or soap buildup in the drain just below the opening. Clean both. If the smell is sulfur-like (rotten egg), it could be a dry P-trap (rare in an active sink) or a venting issue. Run the water for 30 seconds and see if the smell clears."
+   a: "Not necessarily. A foul smell with normal drainage is often a dirty stopper or soap buildup in the drain just below the opening. Clean both. If the smell is sulfur-like (rotten egg), it could be a dry P-trap (rare in an active sink) or a venting issue. Run the water for 30 seconds and see if the smell clears."
  - q: "How do I know if the problem is in the P-trap vs. further down the line?"
- a: "Remove the P-trap and pour a cup of water directly into the drain pipe opening in the wall. If it flows freely, the trap was the culprit. If it backs up or drains slowly even without the trap in place, the blockage is further down the branch drain, and you need a snake."
+   a: "Remove the P-trap and pour a cup of water directly into the drain pipe opening in the wall. If it flows freely, the trap was the culprit. If it backs up or drains slowly even without the trap in place, the blockage is further down the branch drain, and you need a snake."
  - q: "Is a slow drain in only one sink ever a sign of a bigger plumbing problem?"
- a: "Almost never. One slow sink is almost always a localized clog, a dirty stopper, or grease buildup specific to that fixture. The red flag is multiple fixtures draining slowly, or draining one causes gurgling in another. That's when you start thinking about main line issues."
+   a: "Almost never. One slow sink is almost always a localized clog, a dirty stopper, or grease buildup specific to that fixture. The red flag is multiple fixtures draining slowly, or draining one causes gurgling in another. That's when you start thinking about main line issues."
 ---
 
 Your sink drains fine for six months, then one morning you're standing in two inches of soapy water while you brush your teeth. You know it's not a full clog yet. It's just... slow. And it's been slow for a while, and you've been ignoring it, and now here we are.

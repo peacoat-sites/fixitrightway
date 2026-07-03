@@ -14,15 +14,15 @@ slug: "semi-gloss-vs-satin-paint-for-bathroom-walls"
 affiliate_disclosure: true
 faqs:
  - q: "Is semi-gloss or satin better for a small bathroom?"
- a: "Satin typically works better in small bathrooms because it hides wall imperfections more effectively and doesn't create the harsh reflectivity that can make a tight space feel clinical. Semi-gloss can work in a small bath if your walls are smooth and you want to maximize light bounce."
+   a: "Satin typically works better in small bathrooms because it hides wall imperfections more effectively and doesn't create the harsh reflectivity that can make a tight space feel clinical. Semi-gloss can work in a small bath if your walls are smooth and you want to maximize light bounce."
  - q: "Can I use regular interior paint in a bathroom or do I need a special bathroom formula?"
- a: "You can technically use any interior paint, but bathroom-specific formulas with built-in mildewcide are worth the extra cost. Standard interior paint, even in semi-gloss, will show mildew growth along ceilings and corners within a couple of years in a poorly ventilated bathroom."
+   a: "You can technically use any interior paint, but bathroom-specific formulas with built-in mildewcide are worth the extra cost. Standard interior paint, even in semi-gloss, will show mildew growth along ceilings and corners within a couple of years in a poorly ventilated bathroom."
  - q: "How long should bathroom paint last before I need to repaint?"
- a: "A quality bathroom paint properly applied over primed, clean walls should last 5-7 years before showing significant wear or moisture-related issues. Cheap paint in a high-humidity bathroom can start failing in 2-3 years, particularly at the ceiling line and around the shower."
+   a: "A quality bathroom paint properly applied over primed, clean walls should last 5-7 years before showing significant wear or moisture-related issues. Cheap paint in a high-humidity bathroom can start failing in 2-3 years, particularly at the ceiling line and around the shower."
  - q: "Do I need to prime before painting a bathroom?"
- a: "If you're painting over new drywall, fresh patches, or a drastically different color, yes, prime first. Use a moisture-resistant primer, not just whatever's leftover from another room. Zinsser Mold Killing Primer is a solid choice for bathrooms with any history of moisture issues."
+   a: "If you're painting over new drywall, fresh patches, or a drastically different color, yes, prime first. Use a moisture-resistant primer, not just whatever's leftover from another room. Zinsser Mold Killing Primer is a solid choice for bathrooms with any history of moisture issues."
  - q: "Does the finish choice affect how much the paint job costs if I hire someone?"
- a: "Labor cost is the same regardless of finish. The only cost difference comes from the paint itself, which typically adds $20-50 to the total project cost if you step up from a standard finish to a premium bathroom formula. It's not a factor worth skimping on given the overall cost of a professional paint job."
+   a: "Labor cost is the same regardless of finish. The only cost difference comes from the paint itself, which typically adds $20-50 to the total project cost if you step up from a standard finish to a premium bathroom formula. It's not a factor worth skimping on given the overall cost of a professional paint job."
 ---
 
 Most people treat this like a coin flip. Satin or semi-gloss, whatever's on sale, grab a gallon and roll it on. I made that mistake early in my career, and I've watched homeowners make it ever since. The truth is, the finish you pick for your bathroom walls will affect how that room looks and feels every single day, and more practically, how often you're repainting it.
