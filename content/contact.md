@@ -1,14 +1,22 @@
 ---
 title: "Contact"
-date: 2026-01-01
-draft: false
-description: "Get in touch with Dave Pruitt at fixitrightway.com."
+description: "Get in touch with the Fix It Right Way editorial team. We read every message."
 ---
 
 # Contact Us
 
-Have a question, correction, or feedback about something you read on fixitrightway.com? We'd love to hear from you.
+Have a question, spotted an error, or want to suggest a topic? We read every message personally and aim to reply within 2-3 business days.
 
-You can reach us at: **contact@fixitrightway.com**
+{{< contact-form >}}
 
-We aim to respond to all messages within 2-3 business days.
+## What we can help with
+
+- **Corrections** — spotted something out of date or factually wrong? Please tell us. We take accuracy seriously and will review and update promptly.
+- **Topic suggestions** — if there's something we haven't covered that you'd find useful, we're listening.
+- **General questions** — anything about the site, our research process, or our content.
+
+## What we can't help with
+
+We're a content publication, not a professional service. We can't provide personalized contractor or permit advice specific to your situation. For that, please consult a qualified professional.
+
+*[Mike Callahan](/{editor_slug}/) personally reviews all messages sent through this form.*
