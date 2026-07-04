@@ -99,7 +99,5 @@
 {{- end }}
 
 {{/* title-font */}}
-{{- if eq .Section "posts" }}
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald:wght@600;700&display=swap">
-<style>.post-title{font-family:'Oswald', system-ui, sans-serif;letter-spacing:-.01em;text-transform:none}</style>
-{{- end }}
+<style>:root{--serif:'Oswald', system-ui, sans-serif}.post-title{letter-spacing:-.01em}</style>
