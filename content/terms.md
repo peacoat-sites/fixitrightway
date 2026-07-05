@@ -1,5 +1,6 @@
 ---
 title: "Terms of Use"
+hide_title: true
 description: "Terms of Use for Fix It Right Way."
 layout: "page"
 ---
