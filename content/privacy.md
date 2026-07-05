@@ -1,5 +1,6 @@
 ---
 title: "Privacy Policy"
+hide_title: true
 description: "Privacy Policy for Fix It Right Way,  how we collect, use, and protect your information."
 layout: "page"
 ---
