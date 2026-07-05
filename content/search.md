@@ -1,5 +1,6 @@
 ---
 title: "Search"
+hide_title: true
 date: 2026-01-01
 draft: false
 layout: "search"
