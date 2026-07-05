@@ -1,5 +1,6 @@
 ---
 title: "About Dave Pruitt"
+hide_title: true
 date: 2026-01-01
 draft: false
 description: "Learn about Dave Pruitt, the DIY Home Repair Editor behind fixitrightway.com."
