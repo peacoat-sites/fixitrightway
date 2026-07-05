@@ -1,5 +1,6 @@
 ---
 title: "DIY vs. Pro Cost Calculator: Is It Worth Doing Yourself?"
+hide_title: true
 slug: "diy-vs-pro-calculator"
 date: 2026-06-10
 author: "Dave Pruitt"
