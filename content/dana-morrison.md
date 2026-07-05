@@ -2,6 +2,7 @@
 title: "Dana Morrison"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Dana Morrison"
 author_slug: "dana-morrison"
 author_title: "Lead Contractor"
