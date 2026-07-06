@@ -12,7 +12,7 @@ author_name: "Dave Pruitt"---
 
 I bought my first house at 29 and immediately discovered how much I didn't know. The first winter, the kitchen faucet started dripping. By spring, I'd replaced it myself after watching fifteen videos and reading twice as many forum threads. That small win started something ,  I wanted to understand how things worked, not just call someone every time something broke.
 
-Over the next twenty years I've tackled hundreds of projects: plumbing repairs, drywall patching, electrical fixture swaps, tile work, floor installation, deck rebuilding, painting, weatherproofing, and more. Not everything went right the first time. I've made mistakes ,  some of them expensive ,  and learned from every one of them. That accumulated experience is the foundation of every article on this site.
+Over the next twenty years I've tackled hundreds of projects: plumbing repairs, drywall patching, electrical fixture swaps, tile work, floor installation, deck rebuilding, painting, weatherproofing, and more. Not everything went right the first time. I've made mistakes ,  some of them expensive. And learned from every one of them. That accumulated experience is the foundation of every article on this site.
 
 I started Fix It Right Way because the information I needed when I was learning wasn't always easy to find. Too many guides skip the context that tells you *why* you're doing each step, or assume you have tools and knowledge that a first-timer doesn't have. I write for the homeowner who wants to do it themselves, wants to do it correctly, and wants to understand what they're doing.
 
