@@ -5,7 +5,7 @@ date: 2026-01-01
 draft: false
 description: "Learn about Dave Pruitt, the DIY Home Repair Editor behind fixitrightway.com."
 layout: "about-page"
-author_slug: "dave-pruitt"
+author_slug: "dana-morrison"
 author_name: "Dave Pruitt"---
 
 # About Dave Pruitt
