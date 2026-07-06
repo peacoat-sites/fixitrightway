@@ -7,6 +7,7 @@ description: "Learn about Dave Pruitt, the DIY Home Repair Editor behind fixitri
 layout: "about-page"
 author_slug: "dana-morrison"
 author_name: "Dave Pruitt"
+person_name: "Dave Pruitt"
 ---
 
 # About Dave Pruitt
