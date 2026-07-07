@@ -1,16 +1,16 @@
 ---
-title: "About Dave Pruitt"
+title: "About Dana Morrison"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "Learn about Dave Pruitt, the DIY Home Repair Editor behind fixitrightway.com."
+description: "Learn about Dana Morrison, the DIY Home Repair Editor behind fixitrightway.com."
 layout: "about-page"
 author_slug: "dana-morrison"
-author_name: "Dave Pruitt"
-person_name: "Dave Pruitt"
+author_name: "Dana Morrison"
+person_name: "Dana Morrison"
 ---
 
-# About Dave Pruitt
+# About Dana Morrison
 
 I bought my first house at 29 and immediately discovered how much I didn't know. The first winter, the kitchen faucet started dripping. By spring, I'd replaced it myself after watching fifteen videos and reading twice as many forum threads. That small win started something ,  I wanted to understand how things worked, not just call someone every time something broke.
 
