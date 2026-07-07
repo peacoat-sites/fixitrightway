@@ -16,8 +16,8 @@ faqs:
    a: "Removing paint from brick is possible but quite difficult and labor-intensive. It typically involves chemical paint strippers and a lot of scrubbing. Because of this, many experts suggest that painting brick should be considered a semi-permanent change. Make sure you love your color choice before you commit."
 author: "Paul Zhang"
 author_slug: "paul-zhang"
-author_title: "Electrical Writer"
-author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+author_title: "Licensed Electrician"
+author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
 
 ---
 Your brick fireplace used to look great. Now it just looks tired, dirty, maybe out of sync with everything else you've done to the living room. Here's the thing: painting it is doable over a weekend, and it can completely change how that room feels. No contractor needed, no special skills required.

@@ -21,8 +21,8 @@ faqs:
     a: "Yes, but you need a dimmer specifically rated for three-way use, like the Lutron Diva DVCL-153P (~$30). You can replace one or both switches with compatible three-way dimmers, but both dimmers must be from the same compatible line. Mixing brands usually doesn't work. Also check your bulbs: three-way dimmers require dimmable LED or incandescent bulbs and won't play nicely with non-dimmable LEDs."
 author: "Paul Zhang"
 author_slug: "paul-zhang"
-author_title: "Electrical Writer"
-author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+author_title: "Licensed Electrician"
+author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
 
 ---
 Three-way switches broke my brain the first time I encountered them. I'd been doing basic electrical work for a couple of years, felt reasonably confident, and then stared at a box with two black wires, a red wire, and a ground, completely baffled about why my hallway light kept staying on no matter which switch I flipped. That was 1998. I've wired probably a few hundred three-way circuits since then, and I still think the instructions that come with most switches are genuinely terrible.

@@ -21,8 +21,8 @@ faqs:
     a: "It does, and it matters. Aluminum wiring (common in homes built roughly 1965-1973) requires CO/ALR-rated wire nuts and devices specifically approved for aluminum connections. Using standard copper wire nuts on aluminum wiring is a fire hazard. If you've got aluminum, the fixture swap itself isn't impossible, but use the correct connectors and consider having an electrician verify the connections if you're uncertain. This is one of the few cases where the extra phone call is genuinely worth it."
 author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
-author_title: "Plumbing Writer"
-author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+author_title: "Licensed Plumber"
+author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
 
 ---
 Most electrical guides open with three paragraphs about turning off the breaker. You already know to turn off the breaker. Let's skip to the parts that actually trip people up.

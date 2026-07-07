@@ -21,8 +21,8 @@ faqs:
    a: "I'll be honest: yes. Zinsser BIN is potent. It's not 'open a window' territory, it's 'open every window, run a fan, and seriously consider a respirator' territory. The denatured alcohol vapors are significant in an enclosed space. That said, it dries fast and the smell dissipates once cured. Do it on a day when you can air the house out for several hours and you'll be fine. If you have respiratory sensitivities or are working in a tight space with no ventilation, go with oil-based instead and accept slightly less blocking performance."
 author: "Paul Zhang"
 author_slug: "paul-zhang"
-author_title: "Electrical Writer"
-author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+author_title: "Licensed Electrician"
+author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
 
 ---
 Most people buying primer for dark walls just grab whatever the paint store employee suggests, slap it on, and then stand there staring at a wall that still looks vaguely purple underneath the white. I've watched this happen dozens of times. The assumption is that primer is primer, and any decent coat will do the job. What surprised me when I started really digging into this specific problem is how much the *type* of primer matters, not just the quality of it. There's a significant difference between a primer that "helps" with coverage and one that was genuinely engineered to block dark pigments. Getting that wrong costs you time, paint, and real money.

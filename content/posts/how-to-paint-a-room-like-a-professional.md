@@ -16,8 +16,8 @@ faqs:
    a: "Measure your room’s perimeter, multiply by the ceiling height, then subtract about 20 square feet for each door and window. One gallon of paint covers approximately 350 to 400 square feet. Always buy slightly more than you calculate, having leftover paint for future touch-ups is invaluable."
 author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
-author_title: "Plumbing Writer"
-author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+author_title: "Licensed Plumber"
+author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
 
 ---
 You stare at the scuffed, faded walls of your living room. A professional painter would charge you $2,000 to $5,000 to fix this. Here's what I'm about to tell you: you can do it yourself, and it's not actually that hard.

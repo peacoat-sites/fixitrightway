@@ -21,8 +21,8 @@ faqs:
    a: "If your toilet is newer than 15 years old, repair it every time. Parts are cheap, the fix is fast, and modern toilets are better than whatever you'd buy at the entry-level price point. If your toilet is a pre-1994 water-guzzling 3.5-gallon model, a running toilet might be the excuse to upgrade to a 1.28-gallon high-efficiency unit. You'll save $30 to $50 a year on water just from the efficiency improvement. The math on replacement makes sense in that scenario."
 author: "Paul Zhang"
 author_slug: "paul-zhang"
-author_title: "Electrical Writer"
-author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+author_title: "Licensed Electrician"
+author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
 
 ---
 A running toilet wastes between 20 and 200 gallons of water per day. That's not a typo. A slow, lazy run adds $10–$30 to your monthly water bill. A full-bore phantom flush can cost you $70 or more. The maddening part: most running toilets take under 30 minutes to fix, cost less than $15 in parts, and require zero plumbing experience. The reason people don't fix them isn't difficulty. It's that most guides skip straight to "replace the flapper" without explaining how to figure out which of three completely different problems you're actually dealing with.

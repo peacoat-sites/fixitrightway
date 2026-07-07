@@ -21,8 +21,8 @@ faqs:
     a: "No. Even if the surface is clean, applying new caulk over old creates a bond to old silicone rather than to the substrate. That bond is weaker, traps moisture between layers, and typically fails within a year or two. Remove all the old caulk, clean the joint properly, and start fresh."
 author: "Paul Zhang"
 author_slug: "paul-zhang"
-author_title: "Electrical Writer"
-author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+author_title: "Licensed Electrician"
+author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
 
 ---
 Black mold on bathroom caulk is one of those problems where 90% of the advice online is either dangerously wrong or just sells you something. "Spray bleach on it and you're done" is the most common instruction, and it's also the one that guarantees you'll be back in the same spot six months from now.

@@ -21,8 +21,8 @@ faqs:
    a: "Check three things: the breaker actually reset (some breakers need to go fully to the OFF position before flipping back to ON), the wires are fully tightened under the screws with good metal-to-metal contact, and you haven't accidentally swapped the hot wire to the wrong terminal. If the breaker immediately trips when you restore power, turn it off and call an electrician. That means something is shorted, and diagnosing a short requires more than a switch swap."
 author: "Paul Zhang"
 author_slug: "paul-zhang"
-author_title: "Electrical Writer"
-author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+author_title: "Licensed Electrician"
+author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
 
 ---
 Most homeowners figure a dead light switch means the switch itself has failed. Sometimes that's true. But I've seen plenty of cases where the switch was fine and the real problem was a loose wire connection that had been arcing for months. Replacing the switch fixed it, sure, but only because the electrician happened to catch the real issue while the cover plate was off. The point is: opening up a switch box is more diagnostic than most people realize. And with basic precautions, it's one of the most accessible electrical repairs a homeowner can do.

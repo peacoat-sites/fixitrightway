@@ -16,8 +16,8 @@ faqs:
     a: "Ideally, yes, especially if the existing tiles are loose, cracked, or uneven. Tiling over old tile can work if the surface is completely solid and flat, but it does add thickness, which may affect how your outlets sit flush with the wall. If you are unsure, removing the old tile gives you the cleanest possible result."
 author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
-author_title: "Plumbing Writer"
-author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+author_title: "Licensed Plumber"
+author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
 
 ---
 Your kitchen backsplash is cracked, stained, or stuck in 1987. Every time you cook, you stare at it. Here's the thing: installing a kitchen backsplash yourself is one of the most rewarding DIY projects you can tackle on a weekend, and it transforms your entire kitchen without the $15,000 full-renovation price tag.

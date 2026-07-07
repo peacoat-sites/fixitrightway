@@ -21,8 +21,8 @@ faqs:
     a: "Yes, though probably less than you're hoping. Dimming an incandescent bulb to 75% does reduce energy use noticeably. With LED bulbs, the savings are smaller in absolute terms because LEDs already draw so little power, but the bigger benefit is bulb lifespan. LEDs that run dimmed tend to last longer than ones running at full brightness all the time."
 author: "Paul Zhang"
 author_slug: "paul-zhang"
-author_title: "Electrical Writer"
-author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+author_title: "Licensed Electrician"
+author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
 
 ---
 Most people are way more scared of this project than they need to be. I'll be honest: the first dimmer switch I ever installed took me about 45 minutes because I kept second-guessing myself, checking and rechecking the wiring. These days I can swap one out in under ten minutes. The work itself isn't hard. What trips people up is not understanding what they're looking at when they open the wall box.

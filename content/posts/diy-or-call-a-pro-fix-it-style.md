@@ -7,8 +7,8 @@ date: 2026-05-27T10:00:00+00:00
 tags: ["diy", "home repair", "quiz", "fix-it", "homeowner tips"]
 author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
-author_title: "Plumbing Writer"
-author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+author_title: "Licensed Plumber"
+author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
 
 ---
 Every homeowner knows the moment: water dripping from under the sink, a shelf pulling away from the wall, a light switch that suddenly won't click. Do you dig out the toolbox and spend your Saturday troubleshooting, or do you call someone and pay them to sweat instead?

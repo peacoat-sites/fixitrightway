@@ -21,8 +21,8 @@ faqs:
     a: "If you're covering raw joint compound or fresh drywall repair, yes, always prime first. On an intact painted surface that just needs color matched, priming isn't necessary and can actually make the sheen mismatch worse. The exception is if the damaged area has any staining from water, smoke, or marker, in which case a shellac-based primer like Zinsser BIN before your top coat is worth it."
 author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
-author_title: "Plumbing Writer"
-author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+author_title: "Licensed Plumber"
+author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
 
 ---
 Most touch-up paint jobs look worse than the original damage. I spent years telling homeowners "just dab it on and feather the edges" before I finally understood why that advice produces ghostly patches and mismatched sheen on practically every wall it gets tried on. The problem isn't technique, at least not entirely. The problem is that most people don't know what they're actually fighting against.

@@ -16,8 +16,8 @@ faqs:
     a: "The best defense is thorough sealing with foam weatherstripping around all edges of the unit and side panels. You can also apply a thin bead of removable caulk around the accordion panels where they meet the window frame. Check the seal at the beginning of each season and replace any worn weatherstripping promptly."
 author: "Paul Zhang"
 author_slug: "paul-zhang"
-author_title: "Electrical Writer"
-author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+author_title: "Licensed Electrician"
+author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
 
 ---
 Your bedroom hits 89 degrees at 11 PM. You're drenched. A window AC unit costs $200 to $400 and takes maybe two hours to install yourself, or you can pay someone $150 to $300 to do it. If you've got a helper and basic tools, you can skip the service call. The trick? Installation done wrong leaks water into your walls, lets bugs in, or worse, drops a 60-pound box onto someone's head.

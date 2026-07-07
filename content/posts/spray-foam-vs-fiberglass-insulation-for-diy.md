@@ -21,8 +21,8 @@ faqs:
    a: "Neither is primarily a soundproofing product, but if that's a secondary goal, open-cell spray foam outperforms fiberglass at reducing airborne sound transmission, and it significantly beats closed-cell. For a wall you genuinely want to quiet down, dense-pack cellulose (a whole other conversation) is often the best DIY option. Fiberglass helps some; closed-cell spray foam barely at all."
 author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
-author_title: "Plumbing Writer"
-author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+author_title: "Licensed Plumber"
+author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
 
 ---
 You're standing in your attic right now, or staring at an open wall cavity. Maybe you got a contractor quote that made you wince. Maybe you're just tired of high utility bills. Either way, I'm going to give you the version that actually works.

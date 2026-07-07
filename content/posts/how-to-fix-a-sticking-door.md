@@ -21,8 +21,8 @@ faqs:
     a: "A simple hinge adjustment or minor planing runs $75 to $150 for a service call with an experienced handyman. Full door removal, planing, rehanging, and refinishing can run $200 to $400 depending on your area. If the frame needs adjustment or the door needs replacement, add $300 to $800. Foundation issues are a separate budget line entirely."
 author: "Paul Zhang"
 author_slug: "paul-zhang"
-author_title: "Electrical Writer"
-author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+author_title: "Licensed Electrician"
+author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
 
 ---
 A door that sticks in summer and swings free in winter isn't broken. It's telling you something. Most homeowners sand it down, paint it, and then spend the next rainy season fighting it again because they fixed the symptom without understanding the cause. That cycle ends here.

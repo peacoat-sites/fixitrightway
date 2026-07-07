@@ -21,8 +21,8 @@ faqs:
     a: "A cartridge replacement usually runs 1 to 3 hours for someone doing it for the first time, including shutting off water, disassembling, sourcing the part if you don't have it, and reassembling. A full valve replacement with wall access and patch work is realistically a full day, sometimes two if the drywall mud needs to dry between coats."
 author: "Paul Zhang"
 author_slug: "paul-zhang"
-author_title: "Electrical Writer"
-author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+author_title: "Licensed Electrician"
+author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
 
 ---
 You found the leak on a Tuesday morning. Maybe it was a soft stain spreading across the drywall behind your shower, or water dripping into the cabinet below, or a puddle on the subfloor that you kept hoping was condensation. Whatever tipped you off, here you are, and you're probably asking yourself some version of the same question I hear all the time: "Do I have to open up my wall for this?"

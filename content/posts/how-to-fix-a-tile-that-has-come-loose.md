@@ -16,8 +16,8 @@ faqs:
     a: "A broken tile during removal is not unusual, especially with older, more brittle tiles. Take a small piece of the broken tile to a tile store to try to find a match. If an exact match is unavailable, consider replacing two or three tiles in a small pattern to make any color difference look intentional rather than accidental. Keeping a few spare tiles from your original installation is always a smart practice for exactly this reason."
 author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
-author_title: "Plumbing Writer"
-author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+author_title: "Licensed Plumber"
+author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
 
 ---
 You hear it before you see it, that hollow clunk underfoot as you walk across your kitchen or bathroom floor. A loose tile is annoying enough in the moment, but ignore it and you're looking at cracking, shifting, and eventually a tripping hazard. The good news? **Loose floor tile repair** is genuinely satisfying to tackle yourself, even if you've never held a grout saw. With the right tools, some patience, and a clear process, you can have your floor solid again in a weekend.

@@ -16,8 +16,8 @@ faqs:
     a: "Use a long straightedge or level along the door frame to check for bowing or twisting. If the frame is visibly warped or the door gap is uneven from top to bottom, the frame may need repair or replacement. This is a less common issue but does occur in older homes with significant settling, at that point, consulting a carpenter is a smart move."
 author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
-author_title: "Plumbing Writer"
-author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+author_title: "Licensed Plumber"
+author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
 
 ---
 Your door won't latch. It clicks but swings open. Or maybe it pops open on its own. Or you have to shoulder-shove it every single time. Whatever's happening, it's annoying, it's a security issue, and you're sick of it. The good news: this is one of the easiest household fixes. Most of the time you can solve it yourself in under an hour without calling anyone.

@@ -16,8 +16,8 @@ faqs:
     a: "Most general-purpose twist drill bits are sharpened to a 118-degree included angle at the tip, which works well for wood, plastic, and soft metals. For harder materials like stainless steel, a slightly steeper 135-degree angle distributes cutting force more effectively. If you are unsure of the original angle, you can buy inexpensive drill bit angle gauges at most hardware stores. These small tools take the guesswork out of matching the correct geometry when sharpening."
 author: "Paul Zhang"
 author_slug: "paul-zhang"
-author_title: "Electrical Writer"
-author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+author_title: "Licensed Electrician"
+author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
 
 ---
 Your drill bit keeps slipping, skipping, or burning through wood instead of cutting cleanly. Sound familiar? A dull drill bit is one of the most frustrating tool problems in any workshop, and most people just toss it and buy a new one. But learning how to sharpen drill bits can save you money, cut down on waste, and keep your projects moving. The good news: sharpening drill bits is way easier than you'd think, even if you've never done it before.

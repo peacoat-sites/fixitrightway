@@ -21,8 +21,8 @@ faqs:
    a: "With Quikrete Vinyl Concrete Patcher under normal conditions (above 50°F, moderate humidity), plan on a minimum of 72 hours before driving over it. Five to seven days is safer and what I personally recommend. Cold weather slows curing significantly. Below 50°F, you shouldn't be doing this repair at all without heating the space, or using a cold-weather concrete additive."
 author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
-author_title: "Plumbing Writer"
-author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+author_title: "Licensed Plumber"
+author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
 
 ---
 You've got a hole in your garage floor. Maybe it's been there for months and you've just been stepping around it, or maybe something heavy dropped last week and now there's concrete missing. Either way, you're wondering if this is a Saturday morning fix or if you're calling someone.

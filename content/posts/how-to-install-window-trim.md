@@ -16,8 +16,8 @@ faqs:
     a: "Absolutely. A hammer and finish nails work perfectly well for installing window trim. Many experienced carpenters still prefer hand nailing because it gives them more control. Just pre-drill small pilot holes near the ends of your trim pieces to prevent the wood from splitting when you drive the nails in."
 author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
-author_title: "Plumbing Writer"
-author_bio: "Maria Gonzalez is a licensed plumber who spent years on residential service calls before becoming convinced that a knowledgeable homeowner could handle the majority of common plumbing issues without calling anyone. At Fixit Guide, she covers plumbing repairs, fixture installation, and diagnosing what that noise in the pipes actually means."
+author_title: "Licensed Plumber"
+author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
 
 ---
 Your windows look drafty, unfinished, or just plain bare. Something's missing. Learning **how to install window trim** is one of the most rewarding home improvement projects you can tackle because the results show up immediately and look professional. Whether you're updating an older home or finishing a new window installation, adding trim transforms a plain opening into something polished and intentional.

@@ -16,8 +16,8 @@ faqs:
    a: "Yes, a paint sprayer can make the job significantly faster, especially on large homes or complex surfaces with multiple ridges and grooves. Use an airless sprayer and back-roll the paint immediately with a roller for best penetration and adhesion. Always shield surrounding areas carefully, as overspray from a sprayer can travel 10 feet or more."
 author: "Paul Zhang"
 author_slug: "paul-zhang"
-author_title: "Electrical Writer"
-author_bio: "Paul Zhang is a licensed electrician who decided to start writing about home electrical work after watching too many homeowners attempt unsafe DIY fixes from bad tutorials. He is deeply committed to electrical safety and writes with a clarity that distinguishes what a careful homeowner can do legally and safely from work that genuinely requires a licensed professional. At Fixit Guide, he covers outlets, switches, circuit breakers, lighting, and electrical safety."
+author_title: "Licensed Electrician"
+author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
 
 ---
 Your vinyl siding is looking faded, chalky, or just plain outdated. The good news? Painting it actually works. With proper prep, the right tools, and vinyl-specific paint, you can transform your home's exterior without dropping thousands on replacement siding.
