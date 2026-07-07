@@ -1,0 +1,22 @@
+[
+ {
+  "name": "Consumer Product Safety Commission",
+  "url": "https://www.cpsc.gov/",
+  "note": "Product and home safety"
+ },
+ {
+  "name": "ENERGY STAR",
+  "url": "https://www.energystar.gov/",
+  "note": "Appliance and efficiency guidance"
+ },
+ {
+  "name": "U.S. Department of Energy",
+  "url": "https://www.energy.gov/",
+  "note": "Home energy and repair"
+ },
+ {
+  "name": "Penn State Extension",
+  "url": "https://extension.psu.edu/",
+  "note": "Practical home and property"
+ }
+]
