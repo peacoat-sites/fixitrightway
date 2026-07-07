@@ -25,8 +25,6 @@ faqs:
    a: "You'll see the dull paper. Stop sanding, apply another thin coat of compound to cover the exposed paper, let it dry, and sand that. It's a minor setback, not a catastrophe. This is why thin coats matter; you're building a buffer against oversanding."
 ---
 
-# Article Body
-
 I watched a homeowner spend three hours on YouTube videos last Tuesday before texting me a photo of a hole in her daughter's bedroom wall. Not a tiny nail hole. A proper gouge, maybe eight inches across, surrounded by drywall dust and the kind of damage that happens when someone's moved furniture too aggressively or a stray baseball found its way indoors. She was convinced she needed to call a drywall guy. She didn't. Neither do you, unless the hole's the size of a grapefruit or you're genuinely out of patience.
 
 Here's the thing most people don't realize: patching a large hole in drywall isn't actually the precision surgery they imagine. It's carpentry's equivalent of a forgiving task. You sand, you fill, you sand again. The process takes longer than you think but costs less and requires way fewer special tools than the internet suggests. And honestly, the results from a DIY patch usually look fine once it's painted, which is all that matters.

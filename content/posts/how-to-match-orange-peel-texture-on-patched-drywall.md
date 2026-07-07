@@ -25,8 +25,6 @@ faqs:
    a: "Less, because you're breaking the sharp line that light bounces off. Sand lightly with 150 or 180-grit until the edge is smooth and gradual, not sharp."
 ---
 
-# Article: Matching Orange Peel Texture on Patched Drywall
-
 The first time I tried to blend a patch into existing orange peel, I thought I could just spray it on and walk away. Five minutes later I was staring at something that looked like it had been attacked by a very small, very angry wasp. It was smooth. The wall was bumpy. They did not match.
 
 That was fifteen years ago. Since then I've learned that matching texture is less about having a magic touch and more about understanding what's actually happening on that wall, what tools you're using, and accepting one uncomfortable truth: perfect matches are rarer than we'd like to admit. But getting close enough that nobody's going to spend ten minutes squinting at the seam? That's absolutely doable, and I'm going to show you exactly how.
