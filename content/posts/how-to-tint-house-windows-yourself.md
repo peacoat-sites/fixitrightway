@@ -1,5 +1,5 @@
 ---
-title: "How to tint house windows yourself"
+title: "DIY Window Tinting: A Homeowner's Guide to Savings"
 date: 2026-05-23T00:45:05.892277+00:00
 draft: false
 description: "Learn how to tint house windows yourself with this complete step-by-step guide. Save money on energy bills, reduce glare, and protect your furniture with eas"
@@ -18,7 +18,7 @@ author: "Paul Zhang"
 author_slug: "paul-zhang"
 author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your home feels like a greenhouse every summer afternoon, and your furniture is slowly fading from constant sun exposure. If you're tired of paying high energy bills and squinting through glare-filled windows, learning **how to tint house windows** yourself is a smart, affordable solution. Window tinting is a weekend project that seniors and homeowners of any skill level can tackle with the right guidance and a little patience.
 

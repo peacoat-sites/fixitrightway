@@ -1,5 +1,5 @@
 ---
-title: "How to install window trim"
+title: "Install Window Trim Like a Pro in 5 Easy Steps"
 date: 2026-05-26T15:38:23.914459+00:00
 draft: false
 description: "Learn how to install window trim with this easy step-by-step guide. Includes tools needed, cutting tips, and finishing advice perfect for DIY beginners."
@@ -18,7 +18,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your windows look drafty, unfinished, or just plain bare. Something's missing. Learning **how to install window trim** is one of the most rewarding home improvement projects you can tackle because the results show up immediately and look professional. Whether you're updating an older home or finishing a new window installation, adding trim transforms a plain opening into something polished and intentional.
 

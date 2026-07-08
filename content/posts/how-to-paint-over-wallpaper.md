@@ -1,5 +1,5 @@
 ---
-title: "How to paint over wallpaper"
+title: "Paint Over Wallpaper Without Damage or Peeling"
 date: 2026-05-29T16:38:13.670502+00:00
 draft: false
 description: "Learn exactly how to paint over wallpaper with this complete step-by-step guide. Discover the right primer, tools, and techniques to get a smooth, profession"
@@ -18,7 +18,7 @@ author: "Dana Morrison"
 author_slug: "dana-morrison"
 author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your walls are buried under wallpaper that's either ancient, peeling, or just ugly. The nightmare of ripping it all off sounds like a two-week project. Good news: you can paint right over it. Better news: it actually works, if you don't skip the prep.
 

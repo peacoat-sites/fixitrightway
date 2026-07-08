@@ -1,5 +1,5 @@
 ---
-title: "How to install a new shower"
+title: "Install a New Shower: A Step-by-Step Guide"
 date: 2026-05-19T10:50:58.139635+00:00
 draft: false
 description: "Learn how to install a shower with this complete step-by-step guide for homeowners. Covers tools, removal, base installation, plumbing, sealing, and accessib"
@@ -18,7 +18,7 @@ author: "Dana Morrison"
 author_slug: "dana-morrison"
 author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
-
+lastmod: 2026-07-08
 ---
 Your old shower is cracked, leaking, or just plain depressing. Every morning it reminds you there's a renovation you've been putting off for two years. Whether you're replacing a worn-out unit or upgrading for better accessibility, knowing how to install a shower can save you thousands and give you a space that actually works. The best part? With the right prep and some patience, most handy homeowners can finish this over a weekend.
 

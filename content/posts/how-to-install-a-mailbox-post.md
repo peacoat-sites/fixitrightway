@@ -1,5 +1,5 @@
 ---
-title: "How to install a mailbox post"
+title: "Install a Mailbox Post Like a Pro in 30 Minutes"
 date: 2026-05-27T20:06:38.895643+00:00
 draft: false
 description: "Learn how to install a mailbox post step by step with this beginner-friendly guide. Includes tools needed, digging depth tips, concrete setting instructions,"
@@ -18,7 +18,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your old mailbox post has finally given up the ghost. It's leaning sideways, rotting at the base, or just falling apart. Whether you're replacing a worn-out post or installing a brand-new one, knowing **how to install a mailbox post** correctly saves you time, money, and a second trip to the hardware store. The good news? This is a manageable weekend project most homeowners can tackle with basic tools and a little guidance.
 

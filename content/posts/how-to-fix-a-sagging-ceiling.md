@@ -1,5 +1,5 @@
 ---
-title: "How to fix a sagging ceiling"
+title: "Sagging Ceiling? Here's How to Fix It Right"
 date: 2026-05-24T10:44:38.144101+00:00
 draft: false
 description: "Learn how to fix a sagging ceiling with this step-by-step guide covering diagnosis, drywall replacement, taping, and finishing for a smooth, professional res"
@@ -18,7 +18,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your ceiling is drooping, and you can't stop staring at it. That sagging section overhead, whether it's a small bulge near the bathroom or a wavy mess in the living room, gets worse the longer you ignore it. A ceiling that sags today can collapse tomorrow, so catching it early matters. The good news: most homeowners can fix this themselves with some basic tools and a weekend of work.
 

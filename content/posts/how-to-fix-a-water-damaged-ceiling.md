@@ -1,5 +1,5 @@
 ---
-title: "How to fix a water damaged ceiling"
+title: "Water Damaged Ceiling? Here's How to Fix It"
 date: 2026-05-24T14:05:46.590722+00:00
 draft: false
 description: "Learn how to complete a water damaged ceiling repair yourself with this step-by-step guide covering leak fixes, drywall replacement, taping, priming, and pai"
@@ -18,7 +18,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're staring up at a brownish stain spreading across your ceiling, or maybe paint's bubbling up, or worse, there's a [soft, sagging spot](/how-to-fix-a-sagging-ceiling/) that tells you water's been sitting there way too long. Water damaged ceilings are one of those home repairs that feels like a disaster until you actually start fixing it. The thing is, it's totally DIY-friendly if you follow the steps and don't cut corners. This guide walks you through the whole process, from figuring out how bad it really is to painting the final coat.
 

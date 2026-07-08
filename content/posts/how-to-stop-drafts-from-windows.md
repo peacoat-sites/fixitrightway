@@ -1,5 +1,5 @@
 ---
-title: "How to stop drafts from windows"
+title: "Stop Window Drafts and Lower Your Heating Bills"
 date: 2026-05-21T16:56:11.322520+00:00
 draft: false
 description: "Discover the easiest drafty windows fix with this step-by-step guide for seniors. Learn how to seal gaps with weatherstripping, caulk, and window film to sta"

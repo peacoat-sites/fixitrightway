@@ -1,5 +1,5 @@
 ---
-title: "How to sharpen drill bits"
+title: "Keep Your Drill Bits Sharp and Save Money on Replacements"
 date: 2026-05-26T12:16:05.491450+00:00
 draft: false
 description: "Learn how to sharpen drill bits at home with simple tools and step-by-step instructions. Save money, improve safety, and keep your projects running smoothly."
@@ -18,7 +18,7 @@ author: "Paul Zhang"
 author_slug: "paul-zhang"
 author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
-
+lastmod: 2026-07-08
 ---
 Your drill bit keeps slipping, skipping, or burning through wood instead of cutting cleanly. Sound familiar? A dull drill bit is one of the most frustrating tool problems in any workshop, and most people just toss it and buy a new one. But learning how to sharpen drill bits can save you money, cut down on waste, and keep your projects moving. The good news: sharpening drill bits is way easier than you'd think, even if you've never done it before.
 

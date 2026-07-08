@@ -1,5 +1,5 @@
 ---
-title: "How to fix a noisy furnace"
+title: "Stop Your Furnace From Making Noise"
 date: 2026-05-22T23:00:59.993679+00:00
 draft: false
 description: "Discover how to fix a noisy furnace with this step-by-step guide. Learn to identify banging, rattling, and squealing sounds and make simple DIY repairs to re"
@@ -18,7 +18,7 @@ author: "Dana Morrison"
 author_slug: "dana-morrison"
 author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
-
+lastmod: 2026-07-08
 ---
 Your furnace is banging, rattling, or squealing at 2 a.m., and you're wondering if this means a $1,500 repair bill. The truth is simpler. Most furnace noise has an easy fix, and you can probably handle it yourself without calling anyone.
 

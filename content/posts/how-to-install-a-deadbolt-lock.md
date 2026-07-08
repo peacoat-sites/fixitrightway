@@ -1,5 +1,5 @@
 ---
-title: "How to install a deadbolt lock"
+title: "Install a Deadbolt Lock in 30 Minutes or Less"
 date: 2026-05-20T21:42:56.098210+00:00
 draft: false
 description: "Learn how to install a deadbolt step by step with this beginner-friendly guide. Includes tools list, drilling tips, strike plate installation, and a helpful"
@@ -18,7 +18,7 @@ author: "Kim Reeves"
 author_slug: "kim-reeves"
 author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your front door feels a little less secure than it used to. Time to upgrade that old lock. Installing a deadbolt is one of the smartest home security improvements you can make, and learning **how to install a deadbolt** yourself can save you money while giving you real peace of mind. The good news: this is a manageable DIY project, even if you're not especially handy around the house.
 

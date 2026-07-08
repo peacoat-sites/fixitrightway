@@ -1,5 +1,5 @@
 ---
-title: "How to replace a bathtub drain"
+title: "Replace a Bathtub Drain in 30 Minutes"
 date: 2026-05-27T22:41:33.569151+00:00
 draft: false
 description: "Learn how to replace a bathtub drain with this easy step-by-step guide designed for seniors. Includes tools list, safety tips, and a helpful FAQ to get the j"
@@ -18,7 +18,7 @@ author: "Paul Zhang"
 author_slug: "paul-zhang"
 author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your bathtub's draining slower every week. Maybe water pools around your feet in the shower now, or you've noticed a faint smell coming from under the tub. A corroded drain doesn't just annoy you, it quietly damages the wood and drywall beneath, and by the time you notice soft spots or staining, you're looking at thousands in water damage repair. The good news? You can replace it yourself. Even if you've never done this before, the process takes maybe an hour and costs $10 to $40 for the parts. This guide walks you through it step by step.
 

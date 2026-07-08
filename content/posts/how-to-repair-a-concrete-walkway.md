@@ -1,5 +1,5 @@
 ---
-title: "How to repair a concrete walkway"
+title: "Concrete Walkway Repair: Fix Cracks Before They Spread"
 date: 2026-05-18T02:09:20.283207+00:00
 draft: false
 description: "Learn how to tackle concrete walkway repair with this complete step-by-step guide. Covers tools, crack filling, patching, curing, and sealing for long-lastin"
@@ -18,7 +18,7 @@ author: "Dana Morrison"
 author_slug: "dana-morrison"
 author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
-
+lastmod: 2026-07-08
 ---
 Your concrete walkway has seen better days. Cracks are spreading, edges are crumbling, and uneven sections have become a genuine tripping hazard every time you step outside. Whether it's winter freeze-thaw cycles, tree roots, or just years of foot traffic, **concrete walkway repair** is something most homeowners eventually deal with. The good news? You can fix many of these problems yourself without calling a contractor, which saves hundreds of dollars and gives you the satisfaction of actually doing it right.
 
