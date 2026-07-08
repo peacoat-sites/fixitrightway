@@ -23,7 +23,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-
+lastmod: 2026-07-07
 ---
 You wake up at 2 a.m. to the sound of dripping water. Not a flood, not a burst pipe, just that maddening, metronomic drip coming from your bathroom faucet. You jam a pillow over your head and tell yourself you'll deal with it tomorrow. Three weeks later, you're still "dealing with it tomorrow," and your water bill just jumped $40. That drip you're ignoring is wasting somewhere between 3,000 and 5,000 gallons of water a year, depending on the drip rate. I've seen homeowners convince themselves a leaky faucet is a plumber's problem when, nine times out of ten, it's a Saturday morning fix that costs under $20 in parts.
 
@@ -53,11 +53,16 @@ The location of the leak tells you almost everything. I've had clients spend an 
 
 **Leak around the handle.** The packing nut or stem O-ring is worn. You'll see water seeping out from under or around the handle.
 
-**Leak under the sink at the supply line connections.** This is less about the faucet itself and more about the connection fittings. Sometimes it's as simple as hand-tightening a nut a little more.
+**Leak [under the sink](/how-to-fix-a-slow-draining-sink/) at the supply line connections.** This is less about the faucet itself and more about the connection fittings. Sometimes it's as simple as hand-tightening a nut a little more.
 
 Knowing exactly where the water is coming from will tell you which parts to buy before you ever disassemble anything.
 
 ## How Much Does Fixing a Leaky Faucet Cost?
+
+| | DIY (parts only) | Professional |
+|---|---|---|
+| **Fix dripping faucet** | $5-$25 | $100-$250 |
+| **Replace outdoor faucet** | $15-$40 | $100-$250 |
 
 | | DIY (parts only) | Professional |
 |---|---|---|

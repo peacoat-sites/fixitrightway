@@ -12,6 +12,7 @@ author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
 slug: "deck-staining-in-2026-is-diy-worth-it-with-tariff-hit-lumber-prices"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you've been putting off your deck this summer, you're not alone. A lot of homeowners right now are sitting with a contractor quote in one hand and a can of Defy or Armstrong Clark in the other, trying to figure out if the math still makes sense to hire it out. With lumber and material costs climbing steadily through 2025 and into 2026, that calculation has genuinely shifted. This isn't a normal year for deck work, and the decision deserves a real look.
 
@@ -21,11 +22,17 @@ The short version: tariffs stacked on top of tariffs, and the lumber market noti
 
 A 10% Section 232 tariff on all softwood timber and lumber imports took effect October 14, 2025, layered on top of existing Canadian duties that now exceed 35%. The NAHB reported that combined, these policies pushed Canadian lumber prices up roughly 45%. That's not a rounding error. That's a structural price shift that rolled downhill from sawmills to lumberyards to the guy at Home Depot asking why a bundle of cedar decking costs what it costs.
 
-Gordian RSMeans data put framing lumber at $916.62 per thousand board feet in Q2 2026, a 5.11% spike in a single quarter and the ninth straight quarter of year-over-year growth. For a deck staining project, you're not buying framing lumber, but that number matters because it reflects the broader pressure on pressure-treated decking, cedar boards, and the structural components underneath. If a contractor is also quoting you on any board replacement alongside your stain job, those line items have moved.
+Gordian RSMeans data put framing lumber at $916.62 per thousand board feet in Q2 2026, a 5.11% spike in a single quarter and the ninth straight quarter of year-over-year growth. For a deck staining project, you're not buying framing lumber, but that number matters because it reflects the broader pressure on pressure-treated decking, cedar boards, and the structural components underneath. If a contractor is also quoting you on any [board replacement](/should-you-replace-deck-boards-with-wood-or-composite-this-summer/) alongside your stain job, those line items have moved.
 
 CostFlow AI's analysis of 2026 tariff impacts found that deck and fence projects are running 8 to 15% higher in material costs compared to early 2025 quotes. That's the window your contractor is working inside, and it's part of why quotes that seemed reasonable eighteen months ago look different today.
 
 ## The Actual Cost Gap Between DIY and Hiring Out
+
+| Scenario | DIY Cost (Materials) | Professional Cost (Labor + Materials) | Labor Savings |
+| --- | --- | --- | --- |
+| 300 sq ft deck, maintenance stain | $150-$250 | $550-$1,250 | $300-$900 |
+| Framing lumber (Q2 2026) | $916.62 per 1,000 board feet | - | - |
+| Deck/fence projects (material cost increase, early 2025 vs. 2026) | +8-15% | +8-15% | - |
 
 Here's what I tell people when they're wrestling with this: the labor savings on a deck stain job are real and they're not trivial.
 

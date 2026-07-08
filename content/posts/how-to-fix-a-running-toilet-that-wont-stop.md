@@ -23,11 +23,18 @@ faqs:
    a: "A continuously running toilet loses 200 to 400 gallons per day in a worst-case scenario (EPA WaterSense data). Even a slow phantom flusher cycling a few times per hour can waste 30 to 50 gallons daily. At current average U.S. water rates, that's real money over a full billing cycle."
  - q: "Can I just turn off the toilet's supply valve and leave it until I get to the repair?"
    a: "Yes, totally fine as a short-term fix. The toilet won't run if there's no water supply. Just remember to turn it back on before guests arrive."
+lastmod: 2026-07-07
 ---
 
 A running toilet costs you roughly $70 to $200 extra per year on your water bill, depending on how bad the leak is. That's not catastrophic, but it's also not nothing, and the fix almost always takes under an hour and less than $20 in parts. Most articles about this bury you in generic "check the flapper" advice and then stop. Let's actually solve it.
 
 ## What's Making the Noise (and the Water Loss)
+
+| Component | Failure Symptom | Most Common Cause | Typical Fix Cost | DIY Time |
+| --- | --- | --- | --- | --- |
+| Flapper | Water runs into bowl after tank fills | Wear, warping, mineral buildup | $5-$8 | Under 30 min |
+| Float | Water spills into overflow tube | Set too high or stuck | $0 (adjustment) or $12-$15 (valve replacement) | 10-20 min |
+| Fill Valve | Tank overfills or valve chatters/hisses | Faulty valve or misadjustment | $12-$15 | 20 min |
 
 There are exactly three things that cause a toilet to run continuously, and they map to three components inside the tank. You need to know which one you're dealing with before you touch anything.
 

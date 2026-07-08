@@ -18,7 +18,7 @@ author: "Paul Zhang"
 author_slug: "paul-zhang"
 author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
-
+lastmod: 2026-07-07
 ---
 Your vinyl siding is looking faded, chalky, or just plain outdated. The good news? Painting it actually works. With proper prep, the right tools, and vinyl-specific paint, you can transform your home's exterior without dropping thousands on replacement siding.
 
@@ -64,6 +64,14 @@ Rinse hard with a pressure washer on low-to-medium setting, or a garden hose wit
 **⚠️ Safety reality:** Never spray upward into the seams between panels. Water gets forced behind them and into your walls. Use mold and rot inside. Spray downward at a slight angle. Wear glasses and grip-soled shoes on wet ladders.
 
 ## Step 2: Inspect, Repair, and Prime
+
+| Condition | When Primer Is Recommended |
+| --- | --- |
+| Major fading or staining | Yes |
+| Jumping to a very different color | Yes |
+| Manufacturer instructions call for it | Yes |
+| Previously painted with oil-based paint | Yes |
+| Quality vinyl-safe paint, minor color shift | Not required |
 
 Walk every panel once it's clean and dry. Look for cracks, loose sections, dried-out caulk around trim and windows, gaps anywhere.
 

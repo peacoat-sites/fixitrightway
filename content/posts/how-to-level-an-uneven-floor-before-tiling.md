@@ -18,11 +18,11 @@ author: "Kim Reeves"
 author_slug: "kim-reeves"
 author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
-
+lastmod: 2026-07-07
 ---
 Your floor looks uneven, your tiles keep cracking, and every time you walk across the room you can feel the dips and bumps beneath your feet. Sound familiar? Before you can lay a beautiful, lasting tile floor, you need to tackle **uneven floor leveling**. The good news? With the right materials and a little patience, most homeowners can handle this themselves.
 
-Skip this step and you're looking at cracked grout, broken tiles, and repairs that'll cost way more than the leveling compound you didn't want to buy upfront. In this guide, I'll walk you through exactly how to level an uneven floor before tiling, step by step.
+Skip this step and you're looking at [cracked grout](/how-to-clean-and-restore-grout/), broken tiles, and repairs that'll cost way more than the leveling compound you didn't want to buy upfront. In this guide, I'll walk you through exactly how to level an uneven floor before tiling, step by step.
 
 ## Why a Level Floor Matters Before Tiling
 
@@ -52,6 +52,13 @@ Self-leveling compound typically comes in 50-pound bags and covers roughly 40–
 **Pro Tip:** Buy about 10–15% more self-leveling compound than you think you need. Having a little left over beats running short mid-pour when the product is already setting up.
 
 ## Step 1: Assess and Map Your Floor
+
+| Issue | Severity Threshold | Solution |
+| --- | --- | --- |
+| Low spots | Greater than 1/4 inch | Self-leveling compound |
+| High spots | Any height | Grind down or fill with skim coat |
+| Cracks and gaps | Any size | Patching compound before leveling |
+| Overall floor variation | More than 3/16 inch over 10 feet | Complete leveling required |
 
 Photo by [Kari Shea](https://unsplash.com/@karishea?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 

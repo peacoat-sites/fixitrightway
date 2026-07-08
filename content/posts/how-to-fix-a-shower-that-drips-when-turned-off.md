@@ -18,7 +18,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-
+lastmod: 2026-07-07
 ---
 Your shower won't stop dripping even after you turn it all the way off. That slow, steady drip isn't just annoying, it can waste hundreds of gallons of water every month and quietly drive up your water bill. If your **shower drips when off**, here's the good news: this is one of the most common plumbing problems homeowners face, and it's almost always fixable without calling a plumber. In this guide, we'll walk you through exactly what causes the drip and how to stop it for good.
 
@@ -76,6 +76,12 @@ Use the appropriate screwdriver or Allen wrench to remove that screw, then pull 
 Once the handle is off, you may see a decorative trim plate or escutcheon. Remove any screws holding it in place and set it aside. You should now be looking at the valve cartridge or stem assembly inside the wall.
 
 ## Step 3: Inspect and Replace the Cartridge or Washer
+
+| Faucet Type | Problem Indicator | Replacement Part | Difficulty |
+| --- | --- | --- | --- |
+| Cartridge-style | Cracks, warping, visible wear on cylindrical cartridge | Cartridge | Easy |
+| Compression-style | Flattened, cracked, or hardened rubber washer | Washer and O-rings | Easy |
+| Ceramic disc | Cracks or mineral buildup on discs | Ceramic disc cartridge | Easy |
 
 This is where the actual repair happens. What you find inside will guide the rest of your fix.
 

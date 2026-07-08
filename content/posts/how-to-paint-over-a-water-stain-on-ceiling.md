@@ -23,7 +23,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-
+lastmod: 2026-07-07
 ---
 You can paint over a water stain with regular latex ceiling paint. Most people do. And within six months, the stain's back, slightly darker, slightly more humiliating, plus you've got a weird texture spot from all those extra coats.
 
@@ -31,7 +31,14 @@ The fix isn't complicated. But skip one specific step and you've turned a two-ho
 
 ## The Thing Everyone Skips
 
-Primer. Not just any primer. Shellac-based or oil-based stain-blocking primer. This is literally the only part that matters, and most DIY advice either buries it or recommends a cheap latex "stain blocker" that won't actually work.
+| Product | Type | Dry Time | Cost | Best For |
+| --- | --- | --- | --- | --- |
+| Zinsser BIN | Shellac-based | 45 minutes | $20-25/quart | Ceilings (default choice) |
+| Kilz Original | Oil-based | Slower | ~$20-25/quart | Serious tannin stains |
+| Kilz Max | Water-based | Standard | ~$20-25/quart | Light surface stains only |
+| Zinsser Mold Killing Primer | Shellac-based | Standard | ~$20-25/quart | Surface mold situations |
+
+Primer. Not just any primer. Shellac-based or oil-based [stain-blocking primer](/how-to-cover-a-stain-that-bleeds-through-paint/). This is literally the only part that matters, and most DIY advice either buries it or recommends a cheap latex "stain blocker" that won't actually work.
 
 Water stains bleed. The minerals, tannins, and organic material left behind after a leak push right through water-based coatings no matter how many coats you slap on. Shellac-based primer creates a true barrier. Latex doesn't.
 
@@ -55,7 +62,7 @@ Dry time matters. A soaked drywall ceiling needs at least 48-72 hours with decen
 
 Once you're certain the leak is fixed and the ceiling is dry, this is straightforward.
 
-**Assess the surface.** If the drywall is soft, bubbled, or the paper's peeling, stabilize it first. Cut out damaged sections and patch with new drywall or use a setting-type joint compound (Durabond 45 is my go-to) to skim over delaminated paper. Let it cure completely.
+**Assess the surface.** If the drywall is soft, bubbled, or the paper's [peeling, stabilize it first](/how-to-fix-paint-peeling-off-interior-walls/). Cut out damaged sections and patch with new drywall or use a setting-type joint compound (Durabond 45 is my go-to) to skim over delaminated paper. Let it cure completely.
 
 **Clean the stain lightly.** I don't obsess here, but a quick wipe with diluted TSP substitute (follow label dilution, usually an ounce per gallon of water) removes loose residue. Let it dry.
 

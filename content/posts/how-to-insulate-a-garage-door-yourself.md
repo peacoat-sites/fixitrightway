@@ -23,7 +23,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-
+lastmod: 2026-07-07
 ---
 My gas bill last January was $340. The month before I insulated my garage door, that same bill had been $410. Same house, same thermostat settings, same Minnesota winter. That $70 difference sounds modest until you add it up across a heating season and realize I spent about $85 on materials.
 
@@ -32,6 +32,12 @@ If your garage shares a wall with your living space, or if there's a bedroom abo
 Here's what most people miss: a standard uninsulated steel garage door has an R-value between R-2 and R-4. A basic foam board kit gets you to R-8. A good batt kit or two-inch polystyrene install pushes you to R-12 or R-16. That's not a rounding error. That's a different thermal envelope entirely.
 
 ## What You're Actually Choosing Between
+
+| Material | R-Value | Cost per 4x8 Sheet | Sheets Needed (16x7) | Total Cost | Best For |
+| --- | --- | --- | --- | --- | --- |
+| Foam Board (1.5" polyiso) | R-13 | $28-$35 | 4-6 | $130-$200 | Cold & mixed climates |
+| Fiberglass Batt Kit (2-car, R-8) | R-8 | $95 | 1 kit | $95 | Moderate climates, simple install |
+| Reflective Foil (bubble) | R-2 | Varies | N/A | $20-$50 | Not recommended for most climates |
 
 Three realistic paths exist for DIY garage door insulation. They are not equal.
 

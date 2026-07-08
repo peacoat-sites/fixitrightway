@@ -18,7 +18,7 @@ author: "Dana Morrison"
 author_slug: "dana-morrison"
 author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
-
+lastmod: 2026-07-07
 ---
 Your GFCI outlet keeps tripping, won't reset, or simply stopped working. It's frustrating. The good news is that replacing one is genuinely doable for most homeowners, and you can have it working in about 30 minutes.
 
@@ -98,6 +98,14 @@ Screw the cover plate back on. Head to your breaker panel and flip that circuit 
 Come back to your outlet. Press RESET firmly until you hear or feel the click. Use your voltage tester or plug in a lamp to confirm power's there. Then press TEST. Power should cut off immediately. Press RESET. Power comes back. Done.
 
 ## When to Call a Licensed Electrician
+
+| Scenario | When to DIY | When to Call a Pro |
+| --- | --- | --- |
+| Standard copper wiring, 3 wires, no burn marks | ✓ Proceed with replacement | - |
+| Aluminum wiring, burn marks, or melted insulation | ✗ Stop immediately | ✓ Call licensed electrician |
+| More than 3 wires, unclear LINE/LOAD distinction | ✗ Stop immediately | ✓ Call licensed electrician |
+| New GFCI trips repeatedly after installation | ✗ Do not proceed | ✓ Call licensed electrician |
+| Knob-and-tube wiring (pre-1940 homes) | ✗ Do not attempt | ✓ Call licensed electrician |
 
 Replacing a GFCI is straightforward for most people, but some situations demand professional help.
 

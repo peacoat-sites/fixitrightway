@@ -23,7 +23,7 @@ author: "Kim Reeves"
 author_slug: "kim-reeves"
 author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
-
+lastmod: 2026-07-07
 ---
 Your shower drain is slow. Not standing-in-water slow, but that creeping ankle-deep puddle that collects every time you wash your hair. You've been ignoring it for two weeks. I know, because I've seen this exact situation in probably a third of the homes I've walked into for unrelated work over the years.
 
@@ -31,11 +31,18 @@ The good news: you can almost certainly fix this yourself in under an hour, with
 
 ## Why I Don't Recommend Chemical Drain Cleaners Here
 
+| Method | Time Required | Cost | Effectiveness | Best For |
+| --- | --- | --- | --- | --- |
+| Manual removal (Zip-It) | 5-10 minutes | $3 | ~60% of cases | Surface-level hair clogs |
+| Plunger method | 10-15 minutes | $0 (tool owned) | Deeper blockages | Hair and soap buildup 6-12 inches down |
+| Drain snake (hand-crank) | 20-30 minutes | ~$30 | Soap scum and residue | P-trap and drain arm blockages |
+| Chemical drain cleaner | 15-30 minutes + wait | $5-10 | Lower on hair clogs | Kitchen grease clogs (not recommended for showers) |
+
 Most people reach for liquid drain cleaner first. I get it, the bottle's right there under the sink and it promises to "dissolve hair and soap scum." But hear me out on why that's usually the wrong move for a slow shower drain specifically.
 
 Chemical cleaners like Drano Max Gel or Liquid-Plumr work by creating a caustic reaction that generates heat. They're reasonably effective on grease clogs in kitchen drains. On a shower drain packed with a dense, wet mat of hair and conditioner residue? They hit the outside of the clog, struggle to penetrate, and often just sit there in your pipe. Meanwhile that caustic heat is working on your drain hardware and, in older homes with PVC or older ABS plastic pipe, softening it over time. I've replaced sections of pipe that a homeowner had been repeatedly treating with liquid drain cleaner for years. The pipe looked almost melted at the joints.
 
-Here's the practical downside: chemical cleaners require a wait period, don't always work, and now you've got a pipe full of caustic liquid you need to flush. The physical method I'm about to walk you through is faster, more effective on hair clogs, and doesn't come with any of those downsides.
+Here's the practical downside: [chemical cleaners](/how-to-unclog-a-drain-without-chemicals/) require a wait period, don't always work, and now you've got a pipe full of caustic liquid you need to flush. The physical method I'm about to walk you through is faster, more effective on hair clogs, and doesn't come with any of those downsides.
 
 ## Start With the Obvious: Pull the Drain Cover
 
@@ -71,7 +78,7 @@ You'll need a pipe wrench or channel-lock pliers, a bucket, old towels or rags, 
 
 First, confirm there's no in-floor access panel in your bathroom or an access panel on the other side of the wall. In some homes, particularly when the shower is on an exterior wall or above a finished basement, there's a cleanout access. Use it if you've got it.
 
-If you have a shower stall (not a tub-shower combo), the drain and P-trap sit directly under the floor and you can't easily access them from above without cutting drywall. I'd recommend trying a drain snake first before assuming it's the P-trap.
+If you have a shower stall (not a tub-shower combo), the drain and P-trap sit directly under the floor and you can't easily access them from above without cutting drywall. I'd recommend trying a [drain snake](/best-drain-snake-for-a-clogged-bathroom-sink/) first before assuming it's the P-trap.
 
 For a standard tub-shower combo, you can usually access the P-trap from the overflow plate on the front of the tub. Remove that oval or rectangular cover (two screws), and you'll see the trip lever or stopper mechanism. Pull the whole assembly out. This is also a good moment to clean that mechanism, because the stopper itself accumulates an extraordinary amount of hair. I've pulled out stopper assemblies with more hair wrapped around them than a drain clog would have, and the homeowner had no idea the restriction was there.
 

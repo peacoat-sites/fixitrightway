@@ -12,10 +12,16 @@ author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
 slug: "wire-grill-brush-recall-what-to-use-instead-this-summer"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you've got a wire grill brush sitting in your garage, you might be holding onto a recalled one. You're definitely not alone. Two massive recalls hit in the first three months of 2026, both timed perfectly to wreck your summer grilling plans: Weber recalled 3.2 million brushes on February 26, and Nexgrill followed up on March 26 with 10.2 million more. That's 13.4 million brushes that shouldn't be anywhere near your food.
 
 ## How to Know If Your Brush Is Recalled
+
+| Brand | Recall Date | Units Recalled | Sold At | Price Range | Model Numbers |
+| --- | --- | --- | --- | --- | --- |
+| Nexgrill | March 26, 2026 | 10.2 million | Home Depot | $5-$15 | 530-0024, 530-0024G, 530-0034, 530-0039, 530-0041, 530-0042 |
+| Weber | February 26, 2026 | 3.2 million | Lowe's, Home Depot, Ace Hardware, Target, Amazon | Not specified | Not specified |
 
 Start with the brand. For Nexgrill, the recall covers brushes sold at Home Depot (in-store and online) between 2015 and 2026, priced $5 to $15. Check your brush handle for one of these model numbers: 530-0024, 530-0024G, 530-0034, 530-0039, 530-0041, or 530-0042. [The CPSC's March 26 recall notice](https://cpsc.gov/Recalls/2026/Nexgrill-Recalls-Over-10-2-Million-Metal-Wire-Bristle-Grill-Brushes-Due-to-Ingestion-Hazard-Sold-at-Home-Depot) has the full details. If you can't find the packaging, check your Home Depot purchase history or call Nexgrill directly.
 

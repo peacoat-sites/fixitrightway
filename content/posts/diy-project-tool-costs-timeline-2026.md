@@ -18,6 +18,7 @@ faqs:
    answer: "Projects marked High difficulty often need pros (electrical, plumbing, structural). Medium is DIY-friendly if you have tools. Low is definitely DIY."
  - question: "Are these costs complete?"
    answer: "These include materials and tools. Not included: disposal/hauling, permits, rental of heavy equipment, inspection fees. Budget +20% for contingencies."
+lastmod: 2026-07-07
 ---
 
 Most DIY projects fail because people underestimate either **tool costs** or **timeline**.
@@ -30,6 +31,12 @@ This guide shows real tool costs and realistic timelines for the 9 most common h
 
 ## When to Hire a Professional
 
+| Project Difficulty | DIY Recommendation | Tool Strategy |
+| --- | --- | --- |
+| Low | Always worth doing yourself | Buy hand tools; rent specialty tools as needed |
+| Medium | Doable with right tools and patience | Invest in basic power tools (e.g., drill $100); rent specialty items |
+| High (electrical, plumbing, structural, foundation) | Hire a professional | Do not attempt; cost of mistakes exceeds professional fees |
+
 High-difficulty projects (electrical, plumbing, structural, foundation work) should go to a pro. The cost of fixing a mistake is worse than paying for expertise upfront.
 
 Medium projects are doable if you have the right tools and some patience.
@@ -40,7 +47,7 @@ Low projects are always worth doing yourself.
 
 Buy hand tools. Rent specialty tools. Power tools depend on frequency.
 
-A basic power drill ($100) pays for itself after 2-3 projects. A circular saw? Rent unless you are a regular builder.
+A basic power drill ($100) pays for itself after 2-3 projects. A [circular saw? Rent unless](/how-2026-tariffs-are-changing-the-math-on-summer-diy-projects/) you are a regular builder.
 
 ## Sources
 

@@ -18,7 +18,7 @@ author: "Dana Morrison"
 author_slug: "dana-morrison"
 author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
-
+lastmod: 2026-07-07
 ---
 Your windows feel like open holes in the wall every winter. Cold air seeps in. Your heating bills climb. You crank the thermostat higher and higher, but you just can't get comfortable.
 
@@ -41,6 +41,15 @@ The usual culprits:
 Even new windows can draft if they were installed badly or if your house has shifted. The real question is whether you can find the problem and fix it.
 
 ## Tools and Materials You Will Need
+
+| Material | Purpose | Cost Impact | Durability |
+| --- | --- | --- | --- |
+| Foam weatherstripping tape | Seals sash edges | $5-$15 | 3-5 years |
+| Silicone caulk | Seals frame perimeter (outdoor) | $5-$10 | 10+ years |
+| Latex caulk | Seals frame perimeter (indoor) | $3-$8 | 5-7 years |
+| V-strip weatherstripping | Seals sash channels | $5-$15 | 5-10 years |
+| Window insulation film kit | Insulates single-pane glass | $5-$20 | 1 season |
+| **Total Project Budget** | **All materials for standard window** | **$20-$50** | **Varies** |
 
 Get everything before you start. You don't want to be halfway done and realize you're missing something.
 

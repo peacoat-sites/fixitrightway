@@ -23,7 +23,7 @@ author: "Paul Zhang"
 author_slug: "paul-zhang"
 author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
-
+lastmod: 2026-07-07
 ---
 A running toilet wastes between 20 and 200 gallons of water per day. That's not a typo. A slow, lazy run adds $10–$30 to your monthly water bill. A full-bore phantom flush can cost you $70 or more. The maddening part: most running toilets take under 30 minutes to fix, cost less than $15 in parts, and require zero plumbing experience. The reason people don't fix them isn't difficulty. It's that most guides skip straight to "replace the flapper" without explaining how to figure out which of three completely different problems you're actually dealing with.
 
@@ -42,6 +42,11 @@ There are three mechanisms that cause a toilet to run. Treat them as separate di
 The dye test tells you which category you're in. Drop a dye tablet (sold at hardware stores for about $1) or a few drops of food coloring into the tank. Don't flush. Wait 15 minutes. If color appears in the bowl, your flapper is leaking. If the tank water climbs to the top of the overflow tube and spills over, you have a float or fill valve issue. These two problems have different fixes. Don't skip this step.
 
 ## How Much Does Fixing a Running Toilet Cost?
+
+| | DIY (parts only) | Professional |
+|---|---|---|
+| **Replace toilet flapper** | $5-$15 | $75-$150 |
+| **Replace fill valve** | $10-$25 | $100-$200 |
 
 | | DIY (parts only) | Professional |
 |---|---|---|

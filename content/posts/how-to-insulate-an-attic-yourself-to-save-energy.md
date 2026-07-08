@@ -23,7 +23,7 @@ author: "Dana Morrison"
 author_slug: "dana-morrison"
 author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
-
+lastmod: 2026-07-07
 ---
 My gas bill dropped $74 the first month after I insulated my attic. Not because I did anything fancy. I rented a blower machine from Home Depot for $25, bought 20 bags of Owens Corning PINK fiberglass loose-fill at around $13 a bag, and spent a Saturday crawling around in a respirator. That's it. No contractor, no permits in most jurisdictions, no special skills required. Just the willingness to be uncomfortable for a few hours.
 
@@ -32,6 +32,12 @@ If your house was built before 1990 and nobody's touched the attic insulation si
 The good news? This is one of the most DIY-friendly projects in the whole house. No license needed, materials are at every big-box store, and you'll typically recoup your money in 1 to 3 years. Let's actually do this.
 
 ## What You Need to Know Before You Buy Anything
+
+| Insulation Material | R-Value Per Inch | Inches Needed for R-38 | Cost Per Bag | Coverage Per Bag | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Blown-in Fiberglass | R-2.5 | 15-16 | ~$13 | Varies | Owens Corning, Johns Manville |
+| Blown-in Cellulose | R-3.7 | 10-11 | ~$11 | ~40 sq ft @ R-19 | GreenFiber; recycled paper; better for gaps |
+| Fiberglass Batts | R-3 | ~13 | Varies | Varies | Standard batts; compress over time |
 
 First thing: figure out what you've already got, and where you're trying to get.
 

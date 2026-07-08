@@ -23,6 +23,7 @@ faqs:
     a: "A high-quality 2.5-inch angled sash brush (Purdy XL Glide or Wooster Shortcut) for detail work, paired with a 4-inch foam roller for flat panels. Self-leveling paints like Benjamin Moore Advance dramatically reduce visible brush marks, but the foam roller on flat areas is still better than brushing everything."
   - q: "Is chalk paint a good option for kitchen cabinets without sanding?"
     a: "Chalk paint adhesion is decent without sanding, but it requires sealing with wax or a topcoat to hold up in a kitchen, and even then it's softer than alkyd-based cabinet paint. I've seen chalk-painted cabinets look great for a couple of years and then dull fast in high-traffic kitchens. It's a reasonable choice if you're going for a specific matte look and you're willing to recoat in a few years. Not my first recommendation for a long-term result."
+lastmod: 2026-07-07
 ---
 
 Sanding kitchen cabinets is a lie sold to you by people who've never spent a weekend hunched over forty doors with a random orbital sander and a grudge.
@@ -40,6 +41,16 @@ The conventional wisdom is "always sand first." I believed that too, until I sta
 For cabinets in normal condition with intact factory finish or old paint, the no-sand approach works reliably.
 
 ## What You Actually Need Before You Start
+
+| Product | Purpose | Brand Example | Approx. Cost |
+| --- | --- | --- | --- |
+| TSP substitute cleaner | Deep clean cabinet surfaces | Savogran | $8 |
+| Liquid deglosser | Dull sheen and micro-etch surface | Klean-Strip KL-150 | $12/quart |
+| Bonding primer (basic) | Prime surface before paint | Zinsser Bulls Eye 1-2-3 | Included in kit |
+| Bonding primer (premium) | Prime slick factory finishes | Zinsser BIN shellac-based | Included in kit |
+| Cabinet-specific paint | Final coat (not wall paint) | Benjamin Moore Advance, SW Emerald Urethane, Rust-Oleum Cabinet Transformations | Included in kit |
+| Quality brushes & roller | Application tools | Purdy or Wooster | Included in kit |
+| **Total for typical 10×12 kitchen** | **Full project materials** | **Various** | **$150-$250** |
 
 Don't buy anything until you know what your cabinets are made of. Solid wood, MDF, thermofoil, and wood veneer all behave differently. Thermofoil is the one that'll break your heart. Paint adhesion on thermofoil is genuinely difficult with or without sanding; if the vinyl is peeling at the edges, no prep technique saves you.
 

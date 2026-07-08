@@ -23,7 +23,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-
+lastmod: 2026-07-07
 ---
 Most people look at a hole in their drywall and think the hard part is the repair. I've watched hundreds of homeowners carefully patch, sand, and prime a wall only to end up with a ghost, a faint circular outline that shows up the moment the light hits it at the wrong angle. The hard part isn't filling the hole. The hard part is making it disappear completely. And if you don't understand why those ghosts appear (and how to prevent them from the start), you'll be repainting the same spot three times wondering what went wrong.
 
@@ -32,6 +32,11 @@ Most people look at a hole in their drywall and think the hard part is the repai
 Drywall is a gypsum plaster core sandwiched between two layers of paper. The paper is what holds everything together, and it's what makes patching tricky. When you damage drywall, you're usually exposing raw gypsum, tearing that paper face, or both. Every repair decision you make flows from understanding which of those things happened.
 
 ## How Much Does Drywall Repair Cost?
+
+| | DIY (parts only) | Professional |
+|---|---|---|
+| **Small hole patch** | $5-$20 | $75-$200 |
+| **Large section repair** | $20-$60 | $200-$500 |
 
 | | DIY (parts only) | Professional |
 |---|---|---|
@@ -44,7 +49,7 @@ The size of the hole determines your repair strategy. This isn't just a general 
 
 Nail holes and small dings under about half an inch barely count as repairs. A tiny amount of lightweight spackle, let it dry, sand flush, done. You don't technically need to prime separately if you're painting over it, though I'll explain in a minute why you probably should anyway.
 
-Holes from 1/2 inch to about 4 inches fall into "California patch" or mesh patch territory. Most drywall repairs you'll actually encounter live here: door handle impacts, doorknobs punched through the wall, picture hooks that went catastrophically wrong.
+Holes from 1/2 inch to about 4 inches fall into "California patch" or mesh patch territory. Most drywall repairs you'll actually encounter live here: door handle impacts, [doorknobs punched through the wall](/how-to-fix-a-hole-in-the-wall-from-a-doorknob/), picture hooks that went catastrophically wrong.
 
 Holes larger than 4 to 6 inches require cutting out drywall and installing backing. There's no shortcut that holds up. I've seen people try to fill a 6-inch hole with three layers of joint compound. It always fails, usually within a year.
 
@@ -56,7 +61,7 @@ The home improvement aisle is full of drywall products that exist more for margi
 
 Setting-type compound like Durabond is different again. It hardens through a chemical reaction rather than drying. This is what you want for the first coat on bigger repairs because it's stronger and doesn't shrink. It's also unforgiving once it sets, so don't mix more than you'll use in 20 minutes.
 
-**Mesh tape vs. paper tape:** Mesh tape is easier to apply because it's self-adhesive and you can stick it on before you mud. Paper tape is stronger because the compound bonds into it, and professional finishers almost always prefer it. For small repairs, mesh is totally fine. For anything where you're bridging a gap larger than about 2 inches, I'd use paper tape for the added strength.
+**[Mesh tape vs. paper tape](/mesh-tape-vs-paper-tape-for-drywall-seams/):** Mesh tape is easier to apply because it's self-adhesive and you can stick it on before you mud. Paper tape is stronger because the compound bonds into it, and professional finishers almost always prefer it. For small repairs, mesh is totally fine. For anything where you're bridging a gap larger than about 2 inches, I'd use paper tape for the added strength.
 
 **The tools you actually need:**
 - 3-inch putty knife for small repairs
@@ -93,7 +98,7 @@ What surprised me when I first learned this technique was how clean it is. No ba
 ### Large Holes (Over 6 Inches): Cut and Back
 
 1. Use a drywall saw or oscillating tool to cut the hole into a clean rectangle or square.
-2. Cut to the nearest studs if possible. If the hole doesn't reach studs, cut horizontal backing pieces (1x3 or 1x4 lumber works) and screw them into the existing drywall inside the opening to give yourself something to fasten to.
+2. [Cut to the nearest studs](/how-to-find-studs-behind-drywall-without-a-stud-finder/) if possible. If the hole doesn't reach studs, cut horizontal backing pieces (1x3 or 1x4 lumber works) and screw them into the existing drywall inside the opening to give yourself something to fasten to.
 3. Cut your patch piece to fit exactly.
 4. Screw the patch to the backing or studs. Use drywall screws every 6 to 8 inches. Drive them just below the surface without tearing the paper.
 5. Tape all seams with paper tape embedded in joint compound.

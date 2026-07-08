@@ -23,6 +23,7 @@ faqs:
    a: "It can in older houses with atmospheric combustion appliances, as I mentioned above. In very tight modern houses, you also want controlled mechanical ventilation (typically an HRV or ERV) to manage moisture and indoor air quality. For most old houses, though, you're so far from 'too tight' that over-sealing isn't a realistic concern. Prioritize finding and fixing the biggest leaks first."
  - q: "How much can air sealing actually reduce my heating bill?"
    a: "The research here is genuinely mixed because it depends heavily on how leaky the house was to begin with. The Department of Energy's general figures suggest air sealing can reduce heating and cooling costs by 10-20% in typical existing homes. In a truly leaky pre-1960 house that's never been touched, I've personally seen clients report 25-30% reductions after thorough attic and rim joist work combined with weatherstripping. Your mileage will vary, but the return on the materials cost (often under $500 for DIY) is almost always excellent."
+lastmod: 2026-07-07
 ---
 
 Most homeowners who complain about high heating bills are blaming their insulation. Nine times out of ten, the real culprit is air leakage. I've reinsulated attics for clients who still had $400 winter gas bills, only to find later that their old double-hung windows were basically open slots to the outside. Fixing drafts first, before you spend a dime on new insulation or HVAC equipment, is almost always the right call.
@@ -32,6 +33,19 @@ Old houses are a different animal from new construction. A 1920s craftsman or a 
 Here's what I've learned from doing this in hundreds of old houses: finding drafts is harder than sealing them. The sealing part is usually cheap and straightforward. The finding part requires some patience and a little methodology.
 
 ## How to Actually Find the Drafts
+
+| Air Leak Location | Typical % of Total Leakage | Difficulty to Seal | Priority |
+| --- | --- | --- | --- |
+| Rim joist | 15-25% | Easy | High |
+| Attic penetrations (wires, pipes, ducts) | Varies | Easy to moderate | High |
+| Interior wall top plates (balloon-frame) | Varies | Moderate | High |
+| Electrical outlets on interior walls | Varies | Easy | High |
+| Recessed light cans (non-IC-rated) | Varies | Easy | Medium |
+| Plumbing chases | Varies | Moderate | Medium |
+| Attic hatch | Varies | Easy | Medium |
+| Fireplace dampers | Varies | Easy to moderate | Medium |
+| Windows (single-pane) | 5-10% savings when weatherstripped | Easy | Low |
+| Doors | Varies | Easy | Low |
 
 I'll be honest, most of the advice you'll read tells you to run your hand along window frames on a cold day and call it done. That'll catch maybe 30% of your air leakage. The rest is hiding in places you'd never think to check just by feel.
 
@@ -63,7 +77,7 @@ The rim joist is next on my list, not because it's the biggest single source of 
 
 I'll say something that might surprise people who've spent time on energy efficiency forums: replacing old windows for energy savings alone is almost never worth the cost. A new double-pane window saves you roughly 5-10% on heating compared to a reasonably weatherstripped single-pane. At current window replacement costs ($400-800 per window installed, often more), the math doesn't close for 40-60 years in most climates.
 
-Weatherstrip them instead. For double-hung windows, the biggest leakage point is the meeting rail in the middle where the upper and lower sash meet. There are products designed specifically for this, like V-strip (tension seal) weatherstripping, that you press into the channel and let it spring open against the opposing sash. It's about $8 for a 17-foot roll at any hardware store. I've used this on Victorian-era windows and gotten them sealing as tightly as anything modern.
+[Weatherstrip them instead](/how-to-seal-drafty-windows-in-winter/). For double-hung windows, the biggest leakage point is the meeting rail in the middle where the upper and lower sash meet. There are products designed specifically for this, like V-strip (tension seal) weatherstripping, that you press into the channel and let it spring open against the opposing sash. It's about $8 for a 17-foot roll at any hardware store. I've used this on Victorian-era windows and gotten them sealing as tightly as anything modern.
 
 For doors, the threshold sweep is usually the first failure point. If you can see light under your exterior door, you're losing a meaningful amount of conditioned air. Door sweeps cost $15-30 and take about 20 minutes to install. If the door itself is warped or the frame has racked (very common in older homes where the structure has settled), no weatherstrip product is going to compensate. That's when you're looking at a door replacement or, in some cases, a frame rebuild.
 

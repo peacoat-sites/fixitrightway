@@ -23,7 +23,7 @@ author: "Kim Reeves"
 author_slug: "kim-reeves"
 author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
-
+lastmod: 2026-07-07
 ---
 Three years ago I watched a homeowner hang a 65-pound antique mirror using a single plastic expansion anchor from one of those hardware store variety packs. It held for about four days. When it came down, it took a fist-sized chunk of drywall with it and nearly took out a lamp on the way. That mirror survived. The wall did not.
 
@@ -63,7 +63,7 @@ Most of the cheaper anchors aren't worth your time for anything heavy. Here's wh
 
 ## Stud vs. no-stud: which situation are you actually in?
 
-Always check for studs first. I've talked to dozens of homeowners who went straight to anchors without checking, found a stud, and then used an anchor anyway out of habit. A 3-inch wood screw or a #10 x 3-inch construction screw driven into a stud will hold a 100-pound mirror with zero drama. That's the only answer you need if a stud is where you want it.
+[Always check for studs first](/how-to-find-studs-behind-drywall-without-a-stud-finder/). I've talked to dozens of homeowners who went straight to anchors without checking, found a stud, and then used an anchor anyway out of habit. A 3-inch wood screw or a #10 x 3-inch construction screw driven into a stud will hold a 100-pound mirror with zero drama. That's the only answer you need if a stud is where you want it.
 
 The problem is studs are 16 inches apart (sometimes 24 in older or commercial construction), and the hanging hardware on your mirror might be 30 inches wide, or 22 inches, or some awkward number that doesn't align with anything. That's anchor territory.
 

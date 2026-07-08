@@ -23,6 +23,7 @@ faqs:
    a: "Remove the P-trap and pour a cup of water directly into the drain pipe opening in the wall. If it flows freely, the trap was the culprit. If it backs up or drains slowly even without the trap in place, the blockage is further down the branch drain, and you need a snake."
  - q: "Is a slow drain in only one sink ever a sign of a bigger plumbing problem?"
    a: "Almost never. One slow sink is almost always a localized clog, a dirty stopper, or grease buildup specific to that fixture. The red flag is multiple fixtures draining slowly, or draining one causes gurgling in another. That's when you start thinking about main line issues."
+lastmod: 2026-07-07
 ---
 
 Your sink drains fine for six months, then one morning you're standing in two inches of soapy water while you brush your teeth. You know it's not a full clog yet. It's just... slow. And it's been slow for a while, and you've been ignoring it, and now here we are.
@@ -67,7 +68,15 @@ Reinstall the trap hand-tight, give each nut a quarter-turn snug with pliers, an
 
 ## Using a Drain Snake (When to Go Deeper)
 
-A manual hand snake (also called a drum auger) costs $25 to $40 and handles most clogs that live in the branch drain, which is the horizontal run going into the wall. The Ridgid PowerSpin+ is around $30, takes a standard drill, and is my honest recommendation if you want one tool that covers most residential drain situations without going full plumber's-snake territory.
+| Method | Cost | Time | Success Rate | Best For |
+| --- | --- | --- | --- | --- |
+| Stopper & drain opening cleaning | $0 | 5 min | ~30% | Hair and soap scum in bathroom sinks |
+| Plunger (cup-style) | $8 | 10 min | ~40% | General slow drains |
+| P-trap cleaning | $0 | 15 min | ~20% | Buildup in curved trap section |
+| Manual hand snake | $25-$40 | 15-20 min | ~80% | Clogs in branch drain lines |
+| Drain snake with drill | $30 | 15-20 min | ~80% | Clogs deeper in drain system |
+
+A [manual hand snake](/best-drain-snake-for-a-clogged-bathroom-sink/) (also called a drum auger) costs $25 to $40 and handles most clogs that live in the branch drain, which is the horizontal run going into the wall. The Ridgid PowerSpin+ is around $30, takes a standard drill, and is my honest recommendation if you want one tool that covers most residential drain situations without going full plumber's-snake territory.
 
 Feed the cable down the drain opening after removing the stopper, not through the P-trap cleanout (that's a less common setup). Turn the handle or drill clockwise as you push. When you feel resistance, you've hit the clog. Keep rotating and pushing gently. You'll either break it up or hook it and pull it back out. Don't force it aggressively if you feel hard resistance because old galvanized steel pipes and aggressive snaking can separate corroded joints.
 

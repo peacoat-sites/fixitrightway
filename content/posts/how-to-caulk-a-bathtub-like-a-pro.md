@@ -23,7 +23,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-
+lastmod: 2026-07-07
 ---
 Bad caulk jobs are everywhere on residential walkthroughs. Not because caulking is hard. Because most people skip two steps that matter enormously, and then wonder why their fresh bead is cracking or peeling within six months.
 
@@ -71,7 +71,7 @@ This sounds counterintuitive. You just cleaned and dried everything. Now you're 
 
 Fill it, then caulk, then let the caulk cure completely (read your specific product, but most silicone needs 24 hours minimum) before draining. That caulk is now cured in the flexed position. When the tub empties and rises back to its natural position, it's actually compressing the caulk, which helps it seal tighter.
 
-I've been doing this for 20 years and I've re-caulked tubs done with this method maybe twice. Tubs caulked the "normal" way? I see them back in 12-18 months routinely.
+I've been doing this for 20 years and I've [re-caulked tubs](/how-to-recaulk-a-bathtub-like-a-pro/) done with this method maybe twice. Tubs caulked the "normal" way? I see them back in 12-18 months routinely.
 
 ## How to Actually Apply the Caulk
 

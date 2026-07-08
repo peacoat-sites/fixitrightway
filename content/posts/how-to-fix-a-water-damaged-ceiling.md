@@ -18,9 +18,9 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-
+lastmod: 2026-07-07
 ---
-You're staring up at a brownish stain spreading across your ceiling, or maybe paint's bubbling up, or worse, there's a soft, sagging spot that tells you water's been sitting there way too long. Water damaged ceilings are one of those home repairs that feels like a disaster until you actually start fixing it. The thing is, it's totally DIY-friendly if you follow the steps and don't cut corners. This guide walks you through the whole process, from figuring out how bad it really is to painting the final coat.
+You're staring up at a brownish stain spreading across your ceiling, or maybe paint's bubbling up, or worse, there's a [soft, sagging spot](/how-to-fix-a-sagging-ceiling/) that tells you water's been sitting there way too long. Water damaged ceilings are one of those home repairs that feels like a disaster until you actually start fixing it. The thing is, it's totally DIY-friendly if you follow the steps and don't cut corners. This guide walks you through the whole process, from figuring out how bad it really is to painting the final coat.
 
 ## Understanding the Extent of the Damage
 
@@ -54,6 +54,15 @@ Grab everything before you start. This prevents multiple hardware store runs and
 **⚠️ Safety:** Always fix the source of the water leak before beginning any ceiling repair. Repairing a ceiling while moisture is still actively entering will cause the new work to fail within weeks and can create serious mold and structural hazards. If you are unsure whether the leak is fully resolved, call a plumber or roofer first.
 
 ## Step 1: Fix the Source of the Leak First
+
+| Step | Task | Key Duration |
+| --- | --- | --- |
+| 1 | Fix leak source & allow drying | 24-48 hours |
+| 2 | Remove damaged drywall | Varies |
+| 3 | Install new drywall patch | Varies |
+| 4 | First mud coat | 24 hours drying |
+| 4 | Second & third coats + sanding | 24+ hours per coat |
+| 5 | Prime & paint | Varies by product |
 
 Photo by [Brina Blum](https://unsplash.com/@brina_blum?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 

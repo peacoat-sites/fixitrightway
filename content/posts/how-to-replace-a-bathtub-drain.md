@@ -18,7 +18,7 @@ author: "Paul Zhang"
 author_slug: "paul-zhang"
 author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
-
+lastmod: 2026-07-07
 ---
 Your bathtub's draining slower every week. Maybe water pools around your feet in the shower now, or you've noticed a faint smell coming from under the tub. A corroded drain doesn't just annoy you, it quietly damages the wood and drywall beneath, and by the time you notice soft spots or staining, you're looking at thousands in water damage repair. The good news? You can replace it yourself. Even if you've never done this before, the process takes maybe an hour and costs $10 to $40 for the parts. This guide walks you through it step by step.
 
@@ -64,6 +64,13 @@ If your tub has an overflow plate (that oval cover near the top), check whether 
 **⚠️ Safety:** Don't kneel in a dry, slippery tub. Lay down a non-slip bath mat or grip pad first. If you have balance issues or mobility concerns, skip the tub entirely and work from a sturdy stool beside it, or ask a family member to help. Falling is not worth proving you can do this alone.
 
 ## Step 2: Remove the Old Drain Stopper
+
+| Stopper Type | Removal Method |
+| --- | --- |
+| Toe-touch | Open it. Unscrew the center post counterclockwise. Lift it out. |
+| Lift-and-turn | Lift and twist counterclockwise until it releases. Some have a tiny set screw on the side that needs loosening with a flathead first. |
+| Push-pull | Pull straight up and unscrew it counterclockwise by hand. |
+| Trip-lever drain | Unscrew the overflow faceplate and pull the whole mechanism out through the opening. |
 
 You can't access the drain itself until the stopper comes out. Method depends on what type you've got:
 

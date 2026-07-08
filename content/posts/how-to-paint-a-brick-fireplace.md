@@ -18,17 +18,27 @@ author: "Paul Zhang"
 author_slug: "paul-zhang"
 author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
-
+lastmod: 2026-07-07
 ---
 Your brick fireplace used to look great. Now it just looks tired, dirty, maybe out of sync with everything else you've done to the living room. Here's the thing: painting it is doable over a weekend, and it can completely change how that room feels. No contractor needed, no special skills required.
 
 ## Why Painting Your Brick Fireplace Is Worth It
 
-Paint transforms a room. It makes things brighter, cleaner, more intentional. You get to choose: classic white, warm gray, or something bold that actually makes a statement.
+[Paint transforms a room](/how-to-paint-a-room-like-a-professional/). It makes things brighter, cleaner, more intentional. You get to choose: classic white, warm gray, or something bold that actually makes a statement.
 
 There's also a practical side. Paint seals aging mortar and protects brick that's starting to crack or crumble. For the money you spend, the visual return is hard to beat.
 
 ## Tools and Materials You Will Need
+
+| Material/Tool | Purpose | Notes |
+| --- | --- | --- |
+| Wire brush or stiff-bristle brush | Remove loose mortar and debris | Work in sections |
+| TSP cleaner | Cut through soot and grime | Follow package directions for mixing |
+| Latex masonry primer | Seal porous brick surface | Apply 1-2 coats; let dry per label |
+| Latex masonry paint | Final color coat | Allows brick to breathe; soap and water cleanup |
+| 2-inch angled paintbrush | Mortar joints and edges | Use stippling motion |
+| 4-inch brush or 3/4-inch nap roller | Flat brick faces | Use stippling motion |
+| Painter's tape and plastic sheeting | Protect surroundings | Cover fireplace opening entirely |
 
 Gather everything before you start. It's the only way to avoid the mid-project hardware store run.
 

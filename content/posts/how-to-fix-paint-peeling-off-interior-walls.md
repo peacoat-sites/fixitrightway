@@ -23,12 +23,19 @@ faqs:
    a: "For most interior situations, Zinsser Bulls Eye 1-2-3 (water-based, easy cleanup) is a solid choice. For problem surfaces, anything that was oil-based, heavily glossy, or has had moisture exposure, step up to Zinsser BIN shellac-based primer. It's stronger, bonds more aggressively, and seals stains better. The tradeoff is that it requires denatured alcohol for cleanup and has a stronger odor."
  - q: "How long should I wait before painting over primer?"
    a: "Check the specific product label, but most latex primers are ready for topcoat in one to two hours under normal conditions (70 degrees, moderate humidity). Shellac-based primers like BIN can be recoated in 45 minutes. What I'd actually recommend: don't rush it. Give it the full dry time, lightly sand with 220-grit to knock down any raised grain, dust it off, and then paint. That last light sand makes a real difference in how smooth the final coat looks."
+lastmod: 2026-07-07
 ---
 Peeling paint is one of those problems that starts small enough to ignore and then, somehow, you're standing in your living room staring at a dinner-plate-sized chunk of wall that looks like a sunburned shoulder. I've seen it happen in houses that were painted six months ago. I've also seen walls that haven't been touched in thirty years holding up just fine. The difference almost always comes down to prep and moisture, not paint brand.
 
 Before you grab a scraper and a can of whatever's on sale at Home Depot, spend five minutes understanding *why* it's happening. Fix the wrong thing and you'll be doing this again in a year.
 
 ## Why Paint Peels (and Why the Reason Matters)
+
+| Cause | Location Clue | Appearance | Primary Fix |
+| --- | --- | --- | --- |
+| Moisture | Near windows, bathrooms, exterior walls, basements | Soft drywall, staining, musty smell | Address water source before repainting |
+| Adhesion Failure | Any area | Large sheet-like peeling, clean separation | Prep surface properly, prime before painting |
+| Incompatible Layers | Throughout (older homes pre-1980s) | Widespread peeling, no moisture connection | Prime with shellac-based primer before latex paint |
 
 Most peeling paint on interior walls traces back to one of three causes: moisture, adhesion failure, or incompatible paint layers. They look similar on the wall. The fix is very different.
 
@@ -46,7 +53,7 @@ Most DIYers underinvest here. They buy paint and a putty knife and show up unpre
 
 For a solid repair you'll need: a 3-inch or 4-inch flexible putty knife (the flexible part matters, a stiff one will gouge your drywall), 120-grit and 220-grit sandpaper or a sanding sponge, good primer, joint compound for skim coating over texture or divots, a paint tray, and a quality brush for cutting in. Large areas need a 9-inch roller and a couple of sleeves.
 
-On primer: don't skip it, and don't use the cheap stuff. I've used Zinsser BIN shellac-based primer on problem areas for years. It bonds to almost anything, including glossy surfaces and light water stains, and costs around $25 to $30 for a quart at most hardware stores. If moisture is part of your problem, Zinsser Bulls Eye 1-2-3 is a solid latex-based option that resists mildew and still gives good adhesion. For oil-over-oil or any situation where you're not sure what's underneath, the shellac-based version is safer.
+On primer: don't skip it, and don't use the cheap stuff. I've used Zinsser BIN shellac-based primer on problem areas for years. It bonds to almost anything, including glossy surfaces and [light water stains](/how-to-cover-a-stain-that-bleeds-through-paint/), and costs around $25 to $30 for a quart at most hardware stores. If moisture is part of your problem, Zinsser Bulls Eye 1-2-3 is a solid latex-based option that resists mildew and still gives good adhesion. For oil-over-oil or any situation where you're not sure what's underneath, the shellac-based version is safer.
 
 Budget-wise: a typical 10-by-12-foot room repair, assuming no major moisture damage, will run $80 to $150 in materials. That includes primer, joint compound, sandpaper, and a gallon of paint. Time investment is two days minimum, mostly waiting for things to dry.
 

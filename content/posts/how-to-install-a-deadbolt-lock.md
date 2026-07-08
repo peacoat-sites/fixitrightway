@@ -18,7 +18,7 @@ author: "Kim Reeves"
 author_slug: "kim-reeves"
 author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
-
+lastmod: 2026-07-07
 ---
 Your front door feels a little less secure than it used to. Time to upgrade that old lock. Installing a deadbolt is one of the smartest home security improvements you can make, and learning **how to install a deadbolt** yourself can save you money while giving you real peace of mind. The good news: this is a manageable DIY project, even if you're not especially handy around the house.
 
@@ -33,6 +33,13 @@ Security experts report that homes without deadbolts are up to three times more 
 Deadbolts resist kicking, prying, and picking far better than spring-latch locks. They cost between $20 and $80 at most hardware stores. Most standard doors are already pre-drilled or easy to drill for a deadbolt. Installation requires no special electrical or plumbing knowledge.
 
 ## Tools and Materials You Will Need
+
+| Component | Grade 1 | Grade 2 | Typical Cost | Best For |
+| --- | --- | --- | --- | --- |
+| ANSI Rating | Highest standard | Excellent protection | $20-$80 | Commercial vs. Residential |
+| Security Level | Maximum durability | High durability | - | Commercial buildings | Residential front doors |
+| Installation Difficulty | Straightforward | Straightforward | - | DIY projects |
+| Typical Use Case | Commercial buildings | Residential front doors | - | - |
 
 Gather everything in one place before you start. Running back and forth to the garage mid-project is frustrating.
 

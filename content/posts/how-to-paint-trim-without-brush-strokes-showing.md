@@ -23,11 +23,18 @@ author: "Kim Reeves"
 author_slug: "kim-reeves"
 author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
-
+lastmod: 2026-07-07
 ---
 You spent the weekend painting your baseboards, stood back to admire the work, and the whole room looks like it was finished with a broom. Brush marks running in every direction, ridges of dried paint catching the light, and that telltale drip you didn't catch in time. I've been there, and I've watched hundreds of homeowners go through the same deflating moment. The good news is that brush strokes on trim aren't a skill problem. They're almost always a product, prep, or technique problem, and every one of those is fixable.
 
 ## Why Trim Paint Shows Brush Strokes More Than Wall Paint
+
+| Product | Type | Price Range | Key Benefit |
+| --- | --- | --- | --- |
+| Benjamin Moore Advance | Waterborne Alkyd | $55-$75/gal | Levels beautifully, water cleanup |
+| Sherwin-Williams Emerald Urethane Trim Enamel | Waterborne Alkyd | $55-$75/gal | Levels beautifully, water cleanup |
+| Behr Alkyd Semi-Gloss | Waterborne Alkyd | $55-$75/gal | Levels beautifully, water cleanup |
+| Standard Latex (sale paint) | Latex | Budget | Dries fast, shows brush strokes easily |
 
 Trim is unforgiving in a way that walls simply aren't. Walls have texture. They absorb light. A little variation in your finish disappears into the overall surface. Trim, especially smooth factory-primed or previously painted woodwork, reflects light directly at you. Every ridge, every lap mark, every place you went back over paint that had started to tack up becomes visible the moment sunlight hits it.
 
@@ -41,7 +48,7 @@ Most painting tutorials spend two paragraphs on prep and ten on technique. It's 
 
 If your existing trim is glossy, you have to dull it. Paint doesn't bond well to gloss, and even if it sticks, you'll see imperfections amplified through the new coat. A light scuff with 120-grit sandpaper or liquid deglosser like Wilbond takes minutes. Don't skip this.
 
-Fill nail holes, dents, and gouges with lightweight spackling compound or painter's putty. Let it dry completely, sand it flush with 150-grit, and prime just those spots. If you use shellac-based primer like Zinsser BIN, you'll prevent the repair from flashing (showing through as a dull patch in your final coat). It's a small step that matters more on semi-gloss and gloss finishes.
+Fill nail holes, dents, and gouges with lightweight spackling compound or painter's putty. Let it dry completely, sand it flush with 150-grit, and prime just those spots. If you use [shellac-based primer like Zinsser BIN](/best-primer-for-covering-dark-walls-in-one-coat/), you'll prevent the repair from flashing (showing through as a dull patch in your final coat). It's a small step that matters more on semi-gloss and gloss finishes.
 
 Clean the trim. Grease, dust, and cleaning product residue will cause your paint to crawl or bead. A wipe-down with TSP substitute or even plain dish soap and water, rinsed and dried, is all you need.
 

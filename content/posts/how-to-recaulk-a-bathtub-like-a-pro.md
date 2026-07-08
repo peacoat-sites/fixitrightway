@@ -23,7 +23,7 @@ author: "Kim Reeves"
 author_slug: "kim-reeves"
 author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
-
+lastmod: 2026-07-07
 ---
 The old caulk around your tub doesn't fail all at once. It starts with one small section that looks a little gray, a little soft. You peel at it, and suddenly you've got a six-inch gap between the tub and the wall. I've watched homeowners spend $400 on a plumber to investigate what they thought was a mysterious leak, only to trace it back to exactly that: a failed caulk joint they'd been ignoring for two years.
 
@@ -38,6 +38,15 @@ For most tubs, you'll use a combination of a rigid plastic caulk removal tool (D
 After the bulk is out, hit the joint with a rag soaked in isopropyl alcohol or Lift Off Caulk Remover (about $8). Don't use acetone on acrylic or fiberglass tubs, it can cloud the surface. Let everything dry completely. If you're recaulking a shower or tub surround that gets used daily, do the prep work one evening and wait until the next morning to apply the new caulk. Moisture trapped under caulk is what causes mold to grow behind the bead. That grayish-black staining people think is surface mold is usually mold growing on the wall behind the caulk itself.
 
 ## Picking the Right Caulk (and Getting It Wrong Is Expensive)
+
+| Product | Type | Price | Durability | Best For |
+| --- | --- | --- | --- | --- |
+| GE Sealants Supreme Kitchen & Bath Silicone | 100% Silicone | $10-13 | 5-10 years | Standard white or clear applications |
+| DAP Silicone Max | 100% Silicone | $10-13 | 5-10 years | Standard white or clear applications |
+| Custom Building Products Polyblend Caulk | Siliconized Latex Hybrid | ~$10-13 | 3-5 years | Color-matched grout situations |
+| Latex Caulk | Latex | $5-8 | Under 1 year | Not recommended for tubs |
+| Dap Caulk Removal Tool Set | Plastic Tool | $7 | - | Removing old caulk |
+| Lift Off Caulk Remover | Chemical | $8 | - | Cleaning residual caulk |
 
 For tub and shower applications, use 100% silicone caulk. Not latex, not "paintable caulk," not "kitchen and bath" blends that are latex-based. Pure silicone.
 

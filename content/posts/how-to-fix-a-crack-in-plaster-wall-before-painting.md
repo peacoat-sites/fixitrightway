@@ -23,6 +23,7 @@ faqs:
    a: "Not necessarily, but flat or matte finishes hide repair work better than eggshell or semi-gloss. The sheen of higher-gloss paints highlights even slight texture differences between the repair and the original plaster. If you're set on eggshell or higher, apply two full coats and expect to do more careful sanding on the transition zones."
  - q: "Is it worth skim coating the whole wall instead of patching individual cracks?"
    a: "If you have more than 5-6 cracks across a single wall, skim coating the entire surface is often faster, cleaner, and more durable than chasing individual cracks. It also gives you a uniform base for paint that eliminates flashing issues. It's not a beginner skill, but it's learnable with practice and a YouTube session or two. The Gardz plus all-purpose compound approach works well for this."
+lastmod: 2026-07-07
 ---
 
 Hairline cracks are lying to you.
@@ -52,6 +53,15 @@ The other thing to check: is the surrounding plaster still bonded to the lath? T
 ---
 
 ## The Right Materials (and Why Most People Grab the Wrong Thing)
+
+| Material | Best Use | Shrinkage | Working Time | Approx. Cost |
+| --- | --- | --- | --- | --- |
+| Standard vinyl spackling | Hairline cracks only | High | N/A | $3-5 |
+| Setting-type joint compound (Durabond 45) | Medium to wide cracks | None | ~45 minutes | $12-15 |
+| Setting-type joint compound (Durabond 90) | Medium to wide cracks | None | ~90 minutes | $12-15 |
+| Lightweight all-purpose compound | Feathering & final coats | High | N/A | $14-18 |
+| Plaster of Paris | Textured surfaces & deep voids | Minimal | Fast | $4-7 |
+| Fiberglass mesh tape (2-inch) | Reinforcement for recurring cracks | N/A | N/A | $5-8 |
 
 Walk into any hardware store and you'll see about a dozen products that claim to fix cracks. Most of them are fine for drywall. Plaster is a different animal.
 

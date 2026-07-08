@@ -18,7 +18,7 @@ author: "Dana Morrison"
 author_slug: "dana-morrison"
 author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
-
+lastmod: 2026-07-07
 ---
 Your walls are buried under wallpaper that's either ancient, peeling, or just ugly. The nightmare of ripping it all off sounds like a two-week project. Good news: you can paint right over it. Better news: it actually works, if you don't skip the prep.
 
@@ -31,6 +31,14 @@ Skip the prep work and you'll get bubbling, seams that separate, and a finish th
 Here's the contrarian part: sometimes painting over wallpaper is actually the smarter move. Old wallpaper that's been there 20 years, multiple layers thick, bonded like concrete to the drywall? Removal tears the drywall itself. You end up needing repairs that cost more than a good primer and paint. In those situations, painting over it isn't lazy, it's practical.
 
 ## Tools and Materials You'll Need
+
+| Material | Purpose | Oil-Based or Water-Based | Key Consideration |
+| --- | --- | --- | --- |
+| Primer | Seal wallpaper and block stains | Oil-based (shellac/alkyd) | Essential-water-based causes bubbling |
+| Interior latex paint | Topcoat color | Water-based | Use satin or eggshell finish |
+| Seam repair adhesive | Fix loose seams | N/A | Apply with brush, press flat |
+| Spackling compound | Fill torn sections | N/A | Sand smooth after drying |
+| TSP cleaner | Remove grease and grime | Water-based solution | Rinse thoroughly before priming |
 
 Get this stuff before you start, or you'll be making three trips to Home Depot:
 

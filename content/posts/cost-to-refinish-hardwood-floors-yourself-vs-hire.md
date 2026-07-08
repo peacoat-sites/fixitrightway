@@ -23,6 +23,7 @@ faqs:
     a: "Oil-based finishes have strong solvent fumes that persist for days. If you're sensitive to chemicals, have young kids, or anyone with respiratory issues in the house, use water-based finish or vacate during application and for at least 48 hours after. Open windows and use cross-ventilation the entire time. Water-based finishes still off-gas, but much less aggressively."
   - q: "Is it worth refinishing or should I just replace the floors?"
     a: "If the wood is at least 3/4 inch thick, structurally sound, and the damage is cosmetic, refinishing almost always wins on cost. New solid hardwood installed runs $8 to $14 per square foot installed, often more with today's material prices. Refinishing at $3 to $6 per square foot professionally, or under $2 DIY, is a fraction of replacement. I'd only replace if there's subfloor damage, significant warping, or the floor has been sanded down so many times there's no material left to work with."
+lastmod: 2026-07-07
 ---
 
 Forty dollars a square foot. That's what a homeowner in my neighborhood paid last spring to have 800 square feet of white oak refinished by a flooring company. $32,000. For sanding and staining wood that was already there.
@@ -34,6 +35,16 @@ That gap is why people keep asking me about this.
 Let me give you the real numbers, the real risks, and a clear answer on who should actually be renting a drum sander versus who should be calling a pro.
 
 ## What Things Actually Cost (As of July 2026)
+
+| Scenario | DIY Cost | Professional Cost | Time Commitment |
+| --- | --- | --- | --- |
+| 800 sq ft, no stain change | $700-$1,100 | $2,400-$8,000 | Full long weekend |
+| 500 sq ft, no stain change | ~$500-$800 | $1,500-$5,000 | 2-3 days |
+| Equipment rental (2-3 days) | $350-$450 | Included | - |
+| Sandpaper (500 sq ft) | $80-$150 | Included | - |
+| Finish, 3 coats (800 sq ft) | $200-$400 | Included | - |
+| Standard refinishing rate | - | $3-$5/sq ft | - |
+| Staining add-on | $30-$50/gal | +$0.75-$1.50/sq ft | - |
 
 I'll start with the DIY side because that's where most people underestimate.
 
@@ -78,7 +89,7 @@ I'll just be direct here.
 
 **Hire a pro if:**
 - You have oak floors with tight grain that require color-matched staining
-- The floors have water damage, cupping, or squeaky sections (those need face-nailing or subfloor work first)
+- The floors have water damage, cupping, or [squeaky sections](/how-to-fix-squeaky-floorboards/) (those need face-nailing or subfloor work first)
 - You have a whole-house job over 1,000 square feet and a hard deadline
 - Your house is occupied with kids, pets, or anyone sensitive to solvents (oil-based poly fumes are serious)
 - The wood is thinner than 3/4 inch, like engineered hardwood. Many engineered floors can't be drum-sanded at all without going through the veneer

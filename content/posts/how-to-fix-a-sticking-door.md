@@ -23,11 +23,17 @@ author: "Paul Zhang"
 author_slug: "paul-zhang"
 author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
-
+lastmod: 2026-07-07
 ---
 A door that sticks in summer and swings free in winter isn't broken. It's telling you something. Most homeowners sand it down, paint it, and then spend the next rainy season fighting it again because they fixed the symptom without understanding the cause. That cycle ends here.
 
 ## Why Your Door Is Actually Sticking
+
+| Problem | Seasonal Pattern | Gap Characteristic | Primary Cause |
+| --- | --- | --- | --- |
+| Wood movement | Summer sticks, winter loosens | Tight along top edge or consistently swollen | Moisture absorption and shrinkage |
+| Foundation or framing shift | Year-round sticking | Diagonal rub pattern, visibly uneven gaps | House settlement or ground movement |
+| Loose or failing hardware | Year-round sticking | Binding at top corner opposite hinges | Sagging hinges or stripped screw holes |
 
 Sticking doors have three root causes, and the fix depends entirely on which one you're dealing with.
 
@@ -65,7 +71,7 @@ If the hinge itself is loose or the mortise has widened, consider replacing stan
 
 **2. Adjust the strike plate.** Sometimes the door doesn't stick so much as it doesn't latch without force. The strike plate may need to move up, down, or out by a few millimeters. Hold a piece of chalk or lipstick on the latch bolt, close the door, and check where it marks the strike plate. If the mark is off-center, you can enlarge the strike plate mortise slightly with a chisel or a rotary tool. A $3 tube of lipstick has diagnosed more door problems than most tools I own.
 
-**3. Lubricate the hinge pins.** Dry, corroded hinge pins create friction that feels like the door itself is binding. Pull the pins, wipe them down, coat them with petroleum jelly or a dry PTFE lubricant, and reinstall. Takes five minutes.
+**3. Lubricate the hinge pins.** Dry, [corroded hinge pins](/how-to-stop-a-door-from-squeaking/) create friction that feels like the door itself is binding. Pull the pins, wipe them down, coat them with petroleum jelly or a dry PTFE lubricant, and reinstall. Takes five minutes.
 
 **4. Plane or sand the binding edge.** If wood movement is confirmed and the door swells consistently in humid months, you can remove material, but do it in the humid season when the door is fully swollen. Mark your bind points, remove the door, and take off 1/16 inch at a time with a hand plane, belt sander, or circular saw with a guide. Always seal the planed edge with paint or primer immediately. Bare wood wicks moisture and defeats the purpose.
 

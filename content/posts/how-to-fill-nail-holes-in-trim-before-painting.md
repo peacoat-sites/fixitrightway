@@ -23,6 +23,7 @@ faqs:
    a: "Fill with a white or tintable spackling, let it dry fully, sand flush, then touch up with a small artist's brush using matching paint. The tricky part is getting a color match on older painted trim. If you don't have the original paint, take a chip to a paint store for a color match. Current matching technology (as of 2026) at most Benjamin Moore or Sherwin-Williams stores is surprisingly accurate, usually within a shade or two."
  - q: "Why do my filled nail holes still show after painting?"
    a: "Three likely causes: the filler wasn't sanded completely flush (run your fingernail across it to check), you didn't spot-prime and the filler is flashing, or the filler shrank and left a slight depression that needs a second coat. Go back, lightly sand the spot, re-prime, and repaint. It adds maybe 10 minutes per hole but the difference is dramatic."
+lastmod: 2026-07-07
 ---
 
 Most people overthink this. A nail hole in trim is about as low-stakes as a repair gets, and yet I've seen fresh paint jobs look terrible because someone grabbed the wrong filler, skipped sanding, or didn't prime. Twenty years in, I still see it on jobsites from guys who should know better.
@@ -33,7 +34,13 @@ So let's get this right. Whether you've got a single doorframe to touch up or yo
 
 ## The Material You Choose Makes or Breaks the Finish
 
-Here's where most people go wrong, and honestly, I made this mistake myself early on. I used to reach for whatever spackle was closest. DAP Lightweight Spackle, the stuff in the pink tub that goes white when it dries, is everywhere and it's fine for drywall repairs. But on trim, especially painted wood trim that flexes slightly with temperature and humidity, it can crack out of the hole within a season. I had a customer in Denver call me back six months after we painted her living room because half the nail holes in her baseboard had hairline cracks radiating from them. That was my fault for using the wrong product.
+| Product | Type | Tube Size | Cost | Best For |
+| --- | --- | --- | --- | --- |
+| DAP Plastic Wood | Solvent-based | 4 oz | ~$6-7 | Most trim situations; excellent flexibility and paint adhesion |
+| Elmer's Carpenter's Wood Filler | Water-based | 3.25 oz | ~$8 | Smaller holes; easier cleanup; less solvent smell |
+| Paintable latex caulk | Caulk | Varies | Varies | Only at existing caulk joints (base cap to baseboard) |
+
+Here's where most people go wrong, and honestly, I made this mistake myself early on. I used to reach for whatever spackle was closest. DAP Lightweight Spackle, the stuff in the pink tub that goes white when it dries, is everywhere and it's fine for drywall repairs. But on trim, especially [painted wood trim](/how-to-cut-crown-molding-inside-corners/) that flexes slightly with temperature and humidity, it can crack out of the hole within a season. I had a customer in Denver call me back six months after we painted her living room because half the nail holes in her baseboard had hairline cracks radiating from them. That was my fault for using the wrong product.
 
 What you actually want for trim is a **flexible, paintable wood filler**. My two go-to products as of June 2026:
 

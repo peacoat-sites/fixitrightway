@@ -18,7 +18,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-
+lastmod: 2026-07-07
 ---
 That steady _drip, drip, drip_ is costing you money. An outdoor faucet leak wastes hundreds of gallons monthly and can damage your foundation. The good news? Most homeowners can fix this in under an hour without calling a plumber.
 
@@ -35,7 +35,7 @@ You'll need a wrench, some basic parts (under $10 total), and patience. Even if 
 
 ## Why a Leaky Outdoor Faucet Deserves Prompt Attention
 
-That small drip might not seem like much. But here's the math: a leak that fills a bucket once per hour adds up to about 216 gallons monthly. Over a year, you're looking at thousands of gallons and a noticeable bump in your water bill.
+That small drip might not seem like much. But here's the math: a leak that fills a bucket once per hour adds up to about 216 gallons monthly. Over a year, you're looking at thousands of gallons and a noticeable bump in your [water bill](/how-to-fix-low-water-pressure-in-your-home/).
 
 Water seeping near your foundation causes moisture problems, mold, and wood rot. Fix it now, and you'll protect both your wallet and your house's structure.
 

@@ -23,6 +23,7 @@ faqs:
    a: "Once or twice, yes. More than that, stop. Repeatedly pressing the button doesn't fix the underlying fault, and in rare cases with a seriously compromised outlet, it can cause arcing. If it won't reset after two attempts with appliances unplugged, you need to diagnose the cause, not keep pushing the button."
  - q: "How do I know if my GFCI outlet is protecting other outlets on the circuit?"
    a: "Press the TEST button on your GFCI and then use a plug-in outlet tester (about $8 at any hardware store) on the other outlets in the room and adjacent areas. Any that lose power when you hit TEST are being protected by that GFCI. Write it down somewhere useful, like inside the panel door."
+lastmod: 2026-07-07
 ---
 
 Most people hit the reset button, nothing happens, and they assume the outlet is dead. That's usually wrong. The outlet is probably fine, it's just not ready to reset yet, and there's a specific sequence you have to follow or it won't work. I've watched homeowners replace perfectly good GFCI outlets because they didn't know about that sequence. Expensive mistake.
@@ -53,6 +54,12 @@ If it still won't reset after doing that, stop pressing the button repeatedly. R
 
 ## When It Won't Reset: What to Actually Check
 
+| Brand | Quality Assessment | Price Range |
+| --- | --- | --- |
+| Leviton | Consistent quality control | $12-$25 |
+| Hubbell | Consistent quality control | $12-$25 |
+| No-name (online marketplaces) | Quality control issues | $12-$25 |
+
 I'll be honest, this is where it gets a little more involved, but it's still usually a DIY situation.
 
 **Check for a wet or damp condition.** If this outlet is in a bathroom, garage, or outside, moisture inside the box or in a connected appliance is the most common culprit. Check the outlet cover for condensation. If you have an outdoor GFCI that tripped after rain, give it a day to dry out, then try again. I've seen outdoor outlets reset perfectly fine after 24 hours of drying.
@@ -71,7 +78,7 @@ Here's something I get asked about constantly. The outlet that's dead isn't a GF
 
 Start in the bathroom. There's almost always one there. Check the garage. Check the kitchen, especially near the sink. Check outside outlets (there's usually a GFCI near a door or on an exterior wall). If you have a finished basement, check the utility sink area if there is one.
 
-Some electricians wire the GFCI outlet for an entire bathroom circuit to a GFCI breaker in the panel instead of a GFCI outlet. If you can't find a tripped outlet anywhere, open your panel and look for a breaker that's sitting in the middle position (not fully on, not fully off) or has a small test button on its face. That's your GFCI breaker. Push it all the way to off, then back to on.
+Some electricians wire the GFCI outlet for an entire bathroom circuit to a [GFCI breaker in the panel](/how-to-replace-a-light-switch-safely-yourself/) instead of a GFCI outlet. If you can't find a tripped outlet anywhere, open your panel and look for a breaker that's sitting in the middle position (not fully on, not fully off) or has a small test button on its face. That's your GFCI breaker. Push it all the way to off, then back to on.
 
 Older homes sometimes have the GFCI in a completely non-obvious location. I worked on a 1990s house where the bathroom outlets were protected by a GFCI outlet inside a closet. Took a while to find.
 

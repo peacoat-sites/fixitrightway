@@ -18,7 +18,7 @@ author: "Dana Morrison"
 author_slug: "dana-morrison"
 author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
-
+lastmod: 2026-07-07
 ---
 Your shower dribbles when it should pour. Your kitchen faucet takes forever to fill a pot. Low water pressure is frustrating, but here's the thing: most of the time you don't need to call a plumber. Many causes are fixable in under an hour with basic tools. This guide walks you through what to check and how to actually fix it.
 
@@ -52,6 +52,14 @@ Grab these before you start. Most are under $20 total, and you probably own half
 If you suspect corroded pipes or a pressure regulator issue, budget for a plumber visit. But try these steps first.
 
 ## Step 1: Check Your Water Pressure With a Gauge
+
+| Issue | Normal Range | Problem Threshold | Action |
+| --- | --- | --- | --- |
+| Water Pressure (PSI) | 45-80 | Below 40 | Test and diagnose |
+| Water Pressure (PSI) | 45-80 | Above 80 | Adjust regulator |
+| Pressure Regulator Setting | Target | Range | Adjustment |
+| Pressure Regulator Setting | 50-60 PSI | Too low | Turn screw clockwise |
+| Aerator/Showerhead Soak Time | Standard | Heavily corroded | 30 min-1 hour in vinegar |
 
 Photo by [Point3D Commercial Imaging Ltd.](https://unsplash.com/@3dottawa?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 

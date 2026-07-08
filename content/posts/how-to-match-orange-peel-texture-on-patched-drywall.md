@@ -23,6 +23,7 @@ faqs:
    a: "Usually 24 hours, but check the specific product. Most drywall texture dries faster than joint compound, but don't rush it. Paint too soon and you can pull the texture off."
  - q: "Will sanding the edges of the texture seam make it more visible or less?"
    a: "Less, because you're breaking the sharp line that light bounces off. Sand lightly with 150 or 180-grit until the edge is smooth and gradual, not sharp."
+lastmod: 2026-07-07
 ---
 
 The first time I tried to blend a patch into existing orange peel, I thought I could just spray it on and walk away. Five minutes later I was staring at something that looked like it had been attacked by a very small, very angry wasp. It was smooth. The wall was bumpy. They did not match.
@@ -52,6 +53,12 @@ When I tested this approach on a 2,400 square foot home in Colorado with three r
 Get a sample of the existing texture if you can. Some people think this is cheating. I think it's professional. Many drywall suppliers can match texture from a sample, or you can bring it to a paint store and they'll help identify the product line and approximate spray pressure settings.
 
 ## The Patch Itself Has to Be Right First
+
+| Patch Size | Strategy | Masking | Feathering |
+| --- | --- | --- | --- |
+| Under 12 inches | Spray texture over patch and slightly beyond | Not recommended | Feather into surrounding wall to hide seam |
+| 18 inches to 3 feet | Spray patch and extend a few inches in all directions | Use tape on edges, remove before texture fully dries | Graduated edge blends better than tape line |
+| Large areas | Use proper texture rig | Spray past tape before removing | Creates intentional transition zone |
 
 You can't spray decent texture onto a bad substrate. If your drywall patch is mudded and sanded, it needs to be clean and it needs to be primed. Dust on the surface changes how texture sticks. No primer means the spray-on texture soaks into the mud unevenly, which changes the look.
 

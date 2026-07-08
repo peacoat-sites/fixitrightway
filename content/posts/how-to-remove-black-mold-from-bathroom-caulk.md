@@ -23,7 +23,7 @@ author: "Paul Zhang"
 author_slug: "paul-zhang"
 author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
-
+lastmod: 2026-07-07
 ---
 Black mold on bathroom caulk is one of those problems where 90% of the advice online is either dangerously wrong or just sells you something. "Spray bleach on it and you're done" is the most common instruction, and it's also the one that guarantees you'll be back in the same spot six months from now.
 
@@ -40,6 +40,14 @@ Old mold is different. Dark black. Embedded. Present for months. Silicone caulk 
 One honest test: scrub a small area hard with a stiff brush and a baking soda paste, rinse it, let it dry for 24 hours. If the black is still there, it's embedded. Don't fight it. Replace the caulk.
 
 ## Cleaning Method That Actually Works
+
+| Product | Type | Cost | Key Feature | Best For |
+| --- | --- | --- | --- | --- |
+| DAP Kwik Seal Plus | Caulk | ~$12/tube | General purpose silicone | Budget replacement caulking |
+| GE Sealants Advanced Silicone 2 | Caulk | $9-$11/tube | Built-in fungicide, 10-year mold-free guarantee | Wet areas, long-term mold prevention |
+| Concrobium Mold Control | Preventative spray | ~$12 | Physical barrier against regrowth | Post-cleaning surface protection |
+| DAP Caulk Removal Tool | Tool | ~$8 | Plastic removal tool | Old caulk extraction |
+| Plumber's rope or paper towels | Application | ~$3-5 | Maintains bleach contact time | Treating active mold growth |
 
 Assuming your mold is still in the "actually treatable" category, here's what beats generic mold sprays.
 
@@ -59,7 +67,7 @@ You'll need: household bleach (plain sodium hypochlorite, not "splash-less" or s
 
 ## When to Replace the Caulk Instead
 
-If you're replacing caulk, do it right or you'll be back here in 12 months.
+If you're [replacing caulk](/how-to-recaulk-a-bathtub-like-a-pro/), do it right or you'll be back here in 12 months.
 
 Remove all the old caulk first. All of it. Use a plastic caulk removal tool (Dap makes a decent one for around $8) and a utility knife for stubborn spots. Don't caulk over existing caulk. That's how you create moisture traps and compound the original problem. The new caulk won't bond properly either.
 

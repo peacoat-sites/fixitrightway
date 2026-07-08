@@ -23,7 +23,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-
+lastmod: 2026-07-07
 ---
 Most homeowners who get zapped replacing an outlet don't get zapped by the outlet. They get zapped because they turned off the wrong breaker, assumed the power was dead, and grabbed a wire. That single mistake sends a few thousand people to the ER every year. The good news: replacing an outlet is legitimately a beginner DIY job. The bad news: the margin for error is exactly zero, and most online tutorials skip straight to the screws without covering the part that actually matters.
 
@@ -32,6 +32,13 @@ Let's fix that.
 ---
 
 ## What You Need Before You Touch Anything
+
+| Outlet Type | Amperage | Cost | Key Identifier |
+| --- | --- | --- | --- |
+| Standard Duplex | 15-amp | $1.50 | Two vertical slots |
+| Standard Duplex | 20-amp | $3-$6 | T-shaped slot on left side |
+| GFCI | 15-20 amp | $15-$25 | LINE and LOAD terminals |
+| Wall Plate | Any | ~$1 | Protective cover |
 
 Tools first. You don't need much, but what you need, you actually need.
 

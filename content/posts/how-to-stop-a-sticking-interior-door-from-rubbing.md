@@ -23,13 +23,22 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-
+lastmod: 2026-07-07
 ---
 A sticking door is one of those problems that starts as a minor annoyance and somehow becomes the thing that breaks you. You shove it open with your shoulder every morning for six months, and then one day a houseguest uses that bathroom and you want to disappear into the floor. I've fixed hundreds of these, and the good news is that 90% of them cost nothing but an afternoon.
 
 The bad news is that most people fix the symptom and miss the cause. They sand the door, repaint it, and by the following spring it's rubbing again in the exact same spot. So before you grab sandpaper, let's figure out what's actually going on.
 
 ## Why Doors Stick in the First Place
+
+| Issue | Cause | Frequency | Typical Fix Complexity |
+| --- | --- | --- | --- |
+| Seasonal wood movement | Moisture absorption/release | ~70% of cases | Low |
+| Loose hinge screws | Years of use | ~40% solvable by hinge fix | Low |
+| Paint buildup | Previous owners | Varies | Medium |
+| Foundation settling | Home age/structural | Older homes | High |
+| Hinge leaf proud of mortise | Installation/wear | Varies | Low |
+| Frame racking | Structural movement | Older homes | High |
 
 Seasonal wood movement is responsible for probably 70% of the sticking doors I see. Wood expands when it absorbs moisture and contracts when it dries out. A door that swings perfectly in February will drag along the bottom by July in a humid climate. If your door only sticks in summer or right after a long stretch of rainy weather, this is almost certainly your problem, and the fix is much smaller than you'd think.
 

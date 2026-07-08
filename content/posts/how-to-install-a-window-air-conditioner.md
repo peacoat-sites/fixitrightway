@@ -18,7 +18,7 @@ author: "Paul Zhang"
 author_slug: "paul-zhang"
 author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
-
+lastmod: 2026-07-07
 ---
 Your bedroom hits 89 degrees at 11 PM. You're drenched. A window AC unit costs $200 to $400 and takes maybe two hours to install yourself, or you can pay someone $150 to $300 to do it. If you've got a helper and basic tools, you can skip the service call. The trick? Installation done wrong leaks water into your walls, lets bugs in, or worse, drops a 60-pound box onto someone's head.
 
@@ -51,6 +51,13 @@ Your unit comes with an installation kit. Panels, screws, brackets, it's in the 
 
 ## Step 1: Measure Your Window and Choose the Right Unit
 
+| Room Size (sq ft) | BTU Rating | Typical Cost | Installation Time |
+| --- | --- | --- | --- |
+| 100-150 | 5,000 | $200-$400 | 2 hours (DIY) |
+| 150-250 | 6,000-8,000 | $200-$400 | 2 hours (DIY) |
+| 250-400 | 10,000-12,000 | $200-$400 | 2 hours (DIY) |
+| 400-550 | 14,000-18,000 | $200-$400 | 2 hours (DIY) |
+
 Photo by [Turquo Cabbit](https://unsplash.com/@turquocabbit?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
 Measure your window opening. Width. Height. Most AC units fit windows that are 23 to 36 inches wide. If yours is wider, you need bigger side panels or a different model.
@@ -70,7 +77,7 @@ Open it all the way. Clean the sill and frame. Dust and dirt block a tight seal.
 
 Look at how the sill slopes. If it tilts outward even slightly, perfect, water runs outside. If it slopes inward, you'll need a thin wood shim or support bracket to tilt it the right way. The unit needs about a 1/4-inch outward slope so condensation drains away from your room, not into it.
 
-Stick foam weatherstripping along the bottom sill before you install. It fills gaps and stops bugs from crawling in around the edges.
+Stick [foam weatherstripping](/how-to-replace-window-weatherstripping/) along the bottom sill before you install. It fills gaps and stops bugs from crawling in around the edges.
 
 ## Step 3: Install the Side Accordion Panels
 
@@ -96,7 +103,7 @@ Many manuals tell you to drill through the window frame and accordion panel for 
 
 If your unit has an L-bracket or window lock, install it on the inner edge of the frame to lock the sash against the unit.
 
-Weatherstrip any remaining gaps at the top and sides. Any opening is a leak.
+[Weatherstrip any remaining gaps](/how-to-stop-drafts-from-windows/) at the top and sides. Any opening is a leak.
 
 ## Step 6: Test the Unit
 

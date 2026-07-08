@@ -23,6 +23,7 @@ faqs:
     a: "Yes, and it's almost certainly seasonal wood movement rather than fastener or subfloor failure. Boards shrink as indoor humidity drops and the edges create friction. Running a whole-house humidifier to keep interior RH between 35-50% in winter often reduces these squeaks significantly without any physical repair. Graphite in the seams helps too."
   - q: "How much does professional squeak repair cost?"
     a: "As of 2026, most flooring contractors charge $150-$400 to address a specific squeak problem in one room, depending on scope and whether subfloor repair is needed. If it's subfloor separation over multiple joists requiring sistering or sheathing replacement, you're looking at $800-$2,500 or more. Get two quotes, and make sure the contractor can tell you whether it's subfloor or surface before they start."
+lastmod: 2026-07-07
 ---
 
 Squeaky hardwood floors are almost never a structural problem. Almost. But the internet's full of people reassuring you it's "just cosmetic" without actually explaining what's going on underneath your feet, which means homeowners either ignore a fixable problem or tear up flooring they didn't need to touch.
@@ -46,6 +47,14 @@ Knowing which one you're dealing with matters because the fixes are different. T
 ---
 
 ## What You Can Actually Fix From Above
+
+| Method | Cost | Reliability | Duration | Best For |
+| --- | --- | --- | --- | --- |
+| Squeeeeek No More screws | $22-28 per kit | Most reliable | Permanent | Subfloor separation, loose fasteners |
+| Powdered graphite | ~$5 | Moderate | 1-2 seasons | Board-to-board seasonal friction |
+| Staircase Fix Kit (FloorMate) | Higher upfront | High | Permanent | Whole-room repairs |
+| Baby powder or baking soda | Free | Low | ~3 months | Emergency temporary fix |
+| Toothpicks with wood glue | Minimal | Does not work | N/A | Not recommended |
 
 This is where most articles go wrong. They list five methods without telling you honestly which ones work and which ones are wishful thinking.
 

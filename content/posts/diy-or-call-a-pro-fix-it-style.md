@@ -9,7 +9,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-
+lastmod: 2026-07-07
 ---
 Every homeowner knows the moment: water dripping from under the sink, a shelf pulling away from the wall, a light switch that suddenly won't click. Do you dig out the toolbox and spend your Saturday troubleshooting, or do you call someone and pay them to sweat instead?
 
@@ -19,7 +19,7 @@ This 7-question quiz walks through your actual habits (how comfortable are you w
 
 {{< quiz >}}
 
-The best home fixers aren't the ones who DIY everything. They're the ones who know which jobs they can handle, which ones will eat a weekend for nothing, and when to pick up the phone before they break something worse. We've got beginner repair guides, tool lists, and straight-up "call a professional" guides to help you figure it out safely. Build confidence on the projects that make sense, skip the ones that don't.
+The best home fixers aren't the ones who DIY everything. They're the ones who know which jobs they can handle, which ones will eat a weekend for nothing, and when to pick up the phone before they break something worse. We've got [beginner repair guides](/diy-project-tool-costs-timeline-2026/), tool lists, and straight-up "call a professional" guides to help you figure it out safely. Build confidence on the projects that make sense, skip the ones that don't.
 
 ---
 

@@ -23,7 +23,7 @@ author: "Paul Zhang"
 author_slug: "paul-zhang"
 author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
-
+lastmod: 2026-07-07
 ---
 Most homeowners figure a dead light switch means the switch itself has failed. Sometimes that's true. But I've seen plenty of cases where the switch was fine and the real problem was a loose wire connection that had been arcing for months. Replacing the switch fixed it, sure, but only because the electrician happened to catch the real issue while the cover plate was off. The point is: opening up a switch box is more diagnostic than most people realize. And with basic precautions, it's one of the most accessible electrical repairs a homeowner can do.
 
@@ -33,13 +33,18 @@ Before you buy anything or touch anything, it helps to know what type of switch 
 
 A **single-pole switch** controls a light from one location. It has two brass screw terminals and sometimes a green grounding screw. This is the most common switch in any house and the easiest to replace.
 
-A **3-way switch** controls a light from two locations, like at the top and bottom of a staircase. It has three terminals: one "common" screw (usually black or darker in color) and two "traveler" screws. The wiring is different, and if you mix up which wire goes where, you'll end up with a switch that only works in one position. More on that in a minute.
+A **[3-way switch](/how-to-wire-a-three-way-switch-for-beginners/)** controls a light from two locations, like at the top and bottom of a staircase. It has three terminals: one "common" screw (usually black or darker in color) and two "traveler" screws. The wiring is different, and if you mix up which wire goes where, you'll end up with a switch that only works in one position. More on that in a minute.
 
 A **4-way switch** sits between two 3-way switches when you're controlling a light from three or more locations. Rare in most homes, but they exist. If you open your box and see four terminals plus a ground, that's what you've got.
 
-What surprised me when I started paying closer attention is how many older homes still have ungrounded switches, meaning there's no bare copper or green wire in the box at all. Modern switches still work without a ground, but if you're upgrading to a smart switch or a dimmer, most of them require that ground wire. That's a conversation worth having before you buy anything.
+What surprised me when I started paying closer attention is how many older homes still have ungrounded switches, meaning there's no bare copper or green wire in the box at all. Modern switches still work without a ground, but if you're upgrading to a [smart switch or a dimmer](/how-to-install-a-dimmer-switch-step-by-step/), most of them require that ground wire. That's a conversation worth having before you buy anything.
 
 ## How Much Does It Cost to Replace a Light Switch?
+
+| | DIY (parts only) | Professional |
+|---|---|---|
+| **Replace light switch** | $5-$15 | $80-$200 |
+| **Install GFCI outlet** | $15-$30 | $100-$250 |
 
 | | DIY (parts only) | Professional |
 |---|---|---|

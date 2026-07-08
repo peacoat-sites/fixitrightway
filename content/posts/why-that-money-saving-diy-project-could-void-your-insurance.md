@@ -12,6 +12,7 @@ author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
 slug: "why-that-money-saving-diy-project-could-void-your-insurance"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 The math feels obvious right now. Lumber is up, cabinets cost 25% more because of tariffs, and contractor markups are brutal. So you do it yourself. You watch the YouTube tutorials, you rent the tools, you spend three weekends building that deck or finishing that basement. You saved maybe $8,000. What could go wrong?
@@ -28,7 +29,7 @@ The problem is that the projects people are now tackling to avoid those costs, d
 
 ## What Your Insurer Is Doing While You're Watching YouTube
 
-Here's what surprised me most when I went looking into this. Insurance companies don't need to send an adjuster to your property anymore to find unpermitted work. They're using AI-processed aerial and satellite imagery to flag structures that don't match what's on your policy.
+Here's what surprised me most when I went looking into this. Insurance companies don't need to send an adjuster to your property anymore to find [unpermitted work](/unpermitted-diy-work-can-void-your-home-insurance-claim/). They're using AI-processed aerial and satellite imagery to flag structures that don't match what's on your policy.
 
 According to research published by LegalClarity in April 2026, insurers are now running their policy databases against high-resolution overhead imagery, looking for mismatches. A new detached garage that wasn't on your original application. A pool. A second-story addition. The system flags it, and you get a coverage review letter you weren't expecting. The insurer doesn't need a tip or a complaint or a neighbor's call. The algorithm finds it.
 
@@ -44,6 +45,18 @@ The research here is genuinely mixed on how aggressively different municipalitie
 
 ## Where the Real DIY Line Is
 
+| Project Type | Permit Required | Insurance Risk | DIY Feasibility |
+| --- | --- | --- | --- |
+| Painting, trim, fixture replacement | No | None | Safe |
+| Tile work (non-plumbing) | No | None | Safe |
+| Floor refinishing | No | None | Safe |
+| Pre-hung doors in existing openings | No | None | Safe |
+| Decks (over certain height) | Yes | High | Permitted DIY possible |
+| New electrical circuits | Yes | High | Permitted DIY possible |
+| Home additions | Yes | High | Permitted DIY possible |
+| Basement finishing (livable space) | Yes | High | Permitted DIY possible |
+| Accessory structures | Yes | High | Permitted DIY possible |
+
 I'm not telling you to hire everything out. After 20 years in this business, I think there's a reasonable DIY line, and material costs in 2026 have absolutely pushed that line in favor of doing more yourself. The distinction I'd draw is between cosmetic work and structural or system work.
 
 Painting, trim, tile in a bathroom you're not relocating plumbing in, refinishing floors, replacing fixtures, installing a pre-hung door in an existing rough opening: almost none of this requires permits, and almost none of it creates insurance exposure. You can save real money here and carry zero risk of a denied claim.
@@ -54,7 +67,7 @@ If you're determined to do permitted work yourself, most building departments al
 
 ## The Summer 2026 Window Is Narrower Than It Looks
 
-Given that cabinet tariffs jump from 25% to 50% on January 1, 2027, there's a real argument for moving fast on kitchen projects this summer. I get the urgency. But fast and unpermitted is not the answer.
+Given that cabinet tariffs jump from 25% to 50% on January 1, 2027, there's a real argument for moving fast on [kitchen projects this summer](/how-tariff-driven-material-costs-are-changing-what-you-should-diy/). I get the urgency. But fast and unpermitted is not the answer.
 
 The smarter play is to call your local building department before you start anything structural, not after. Ask what requires a permit in your jurisdiction for your specific project. Ask whether you can pull the permit yourself as an owner-builder. Get that answer in writing if you can. It takes an afternoon and it can save you tens of thousands of dollars and a denied insurance claim down the road.
 

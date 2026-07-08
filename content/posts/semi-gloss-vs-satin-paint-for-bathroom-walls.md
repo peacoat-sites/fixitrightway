@@ -23,6 +23,7 @@ faqs:
    a: "If you're painting over new drywall, fresh patches, or a drastically different color, yes, prime first. Use a moisture-resistant primer, not just whatever's leftover from another room. Zinsser Mold Killing Primer is a solid choice for bathrooms with any history of moisture issues."
  - q: "Does the finish choice affect how much the paint job costs if I hire someone?"
    a: "Labor cost is the same regardless of finish. The only cost difference comes from the paint itself, which typically adds $20-50 to the total project cost if you step up from a standard finish to a premium bathroom formula. It's not a factor worth skimping on given the overall cost of a professional paint job."
+lastmod: 2026-07-07
 ---
 
 Most people treat this like a coin flip. Satin or semi-gloss, whatever's on sale, grab a gallon and roll it on. I made that mistake early in my career, and I've watched homeowners make it ever since. The truth is, the finish you pick for your bathroom walls will affect how that room looks and feels every single day, and more practically, how often you're repainting it.
@@ -65,6 +66,16 @@ That outcome repeats constantly in my experience. The "more durable" finish some
 
 ## Moisture, Mildew, and What the Manufacturers Don't Always Say Clearly
 
+| Paint Product | Type | Price (July 2026) | Mildewcide | Best For |
+| --- | --- | --- | --- | --- |
+| Sherwin-Williams Emerald Bath | Satin | $75-$90/gal | Yes | High-humidity spaces, modern formulation |
+| Benjamin Moore Aura Bath & Spa | Satin | $75-$90/gal | Yes | High-humidity spaces, modern formulation |
+| Sherwin-Williams Pro Classic | Semi-gloss | - | - | Smooth walls, maximum washability |
+| Benjamin Moore Regal Select | Satin | - | - | Imperfect walls, forgiving finish |
+| Sherwin-Williams Duration | Semi-gloss/Satin | - | Yes | General bathroom use |
+| Behr Premium Plus Ultra | Satin | - | Yes | Budget-conscious bathroom projects |
+| KILZ Tribute | Satin | - | Yes | Mildew-resistant bathrooms |
+
 Bathrooms are genuinely harsh environments for paint. Depending on your ventilation, surface temperatures during a hot shower can vary 30+ degrees from ambient, humidity can spike past 90% for 20-30 minutes multiple times a day, and you've got soap, shampoo, and cleaning products hitting the walls regularly. Any paint finish in that environment needs a proper mildewcide in the formulation, and this matters more than the sheen level.
 
 I'd put it this way: a satin paint with a strong mildewcide additive will outperform a semi-gloss paint without one. Every time.
@@ -79,7 +90,7 @@ Ventilation is the other half of this equation, and no paint compensates for a b
 
 Here's my current recommendation, as of 2026:
 
-If your walls are in good shape (smooth, properly primed, no significant patches), you can go either way. Semi-gloss gives you a slightly easier surface to wipe down and a brighter look that some people love. It's the traditional choice for a reason.
+If your walls are in good shape (smooth, [properly primed](/best-primer-for-covering-dark-walls-in-one-coat/), no significant patches), you can go either way. Semi-gloss gives you a slightly easier surface to wipe down and a brighter look that some people love. It's the traditional choice for a reason.
 
 If your walls have any significant imperfections, or if you just don't love the shiny, hospital-adjacent look of semi-gloss, go with a bathroom-specific satin. The performance difference from five years ago has largely disappeared in the premium lines.
 

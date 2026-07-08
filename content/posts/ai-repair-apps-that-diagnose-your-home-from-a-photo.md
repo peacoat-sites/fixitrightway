@@ -12,10 +12,11 @@ author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
 slug: "ai-repair-apps-that-diagnose-your-home-from-a-photo"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most homeowners don't think a photo can diagnose anything. A crack, a stain, a sagging gutter, you take a picture and what have you actually learned? Turns out, way more than I expected. AI-powered diagnosis apps hit the market in early 2026, and they're genuinely changing whether you grab a caulk gun or grab your phone.
 
-The timing is everything. Framing lumber costs jumped another 5.11% in Q2 2026 alone, according to Gordian's lumber price tracker, marking the ninth consecutive quarter of year-over-year growth. Cabinet and vanity tariffs landed at 30 to 50% on January 1, 2026. When materials cost this much, getting the diagnosis wrong is genuinely expensive. Patching what actually needs replacing, or replacing what only needed a patch, these mistakes matter. That's the context these apps are arriving into, and why I actually spent time testing them.
+The timing is everything. Framing lumber costs jumped another 5.11% in Q2 2026 alone, according to Gordian's lumber price tracker, marking the ninth consecutive quarter of year-over-year growth. Cabinet and vanity tariffs landed at 30 to 50% on January 1, 2026. When [materials cost this much](/how-2026-tariffs-are-changing-the-math-on-summer-diy-projects/), getting the diagnosis wrong is genuinely expensive. Patching what actually needs replacing, or replacing what only needed a patch, these mistakes matter. That's the context these apps are arriving into, and why I actually spent time testing them.
 
 
 <div class="value-module">

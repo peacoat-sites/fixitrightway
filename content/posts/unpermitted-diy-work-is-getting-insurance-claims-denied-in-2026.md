@@ -12,6 +12,7 @@ author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
 slug: "unpermitted-diy-work-is-getting-insurance-claims-denied-in-2026"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Labor costs are up, YouTube tutorials are better than ever, and 55% of homeowners now plan to handle their own repairs rather than hire out. The DIY boom makes complete sense. What's getting glossed over is the trap waiting on the other side: unpermitted work is now one of the most common reasons insurance claims get denied, and the consequences go well beyond a slap on the wrist.
 
@@ -43,9 +44,24 @@ The financial exposure looks like this, ranked from annoying to catastrophic: mu
 
 ## What Actually Requires a Permit (That Surprises People)
 
+| Work Type | Permit Required | Common Cost Range | Notes |
+| --- | --- | --- | --- |
+| Electrical panel upgrades | Almost always | $50-$500 permit | Leading cause of denied claims |
+| New circuits/subpanel work | Almost always | $50-$500 permit | Major insurance risk |
+| Load-bearing wall removal | Yes | $50-$500 permit | Structural safety critical |
+| Deck construction (height-dependent) | Usually | $50-$500 permit | Height thresholds vary by jurisdiction |
+| HVAC system replacement | Often required | $50-$500 permit | Now mandatory in code-updated states |
+| Water heater swap | Many jurisdictions | $50-$500 permit | Subject to 2025 Energy Standards in CA |
+| Bathroom addition | Yes | $50-$500 permit | Changes square footage |
+| Finished basement | Yes | $50-$500 permit | Changes use classification |
+| Painting | No | - | Cosmetic work exempt |
+| Flooring | No | - | Cosmetic work exempt |
+| Cabinet swap (no systems) | No | - | Cosmetic work exempt |
+| Fixture replacement (cosmetic) | No | - | Cosmetic work exempt |
+
 The common misconception is that permits are for major structural work only. The real list is longer and more specific than most homeowners expect.
 
-Electrical panel upgrades, new circuits, and most subpanel work almost universally require permits. So do load-bearing wall removals, deck construction above a certain height, HVAC system replacements (especially in code-updated states), and in many jurisdictions, water heater swaps. Bathroom additions, finished basements, and any work that changes the home's square footage or use classification trigger permits in virtually every municipality.
+Electrical panel upgrades, new circuits, and most subpanel work almost universally require permits. So do load-bearing wall removals, deck construction above a certain height, [HVAC system replacements](/can-you-really-install-a-diy-mini-split-this-weekend/) (especially in code-updated states), and in many jurisdictions, water heater swaps. Bathroom additions, finished basements, and any work that changes the home's square footage or use classification trigger permits in virtually every municipality.
 
 What generally doesn't require one: painting, flooring, cabinet swaps without electrical or plumbing changes, most fixture replacements, and cosmetic work that doesn't touch structure or systems. If you're in doubt, call your local building department. That phone call costs nothing and takes ten minutes. The permit itself is often $50 to $500, which is cheap insurance compared to the alternative.
 

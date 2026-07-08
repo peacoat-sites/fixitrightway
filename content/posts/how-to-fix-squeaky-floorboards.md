@@ -23,6 +23,7 @@ faqs:
    a: "If you've addressed the structural cause (loose fasteners, subfloor gap, joist contact), the fix should be permanent. If you only applied a lubricant, it'll likely return within a year or two. Screws and adhesive outlast lubricants every time."
  - q: "Is a squeaky floor a structural problem?"
    a: "Usually no. Most squeaks are cosmetic nuisances caused by normal wood movement. That said, if the floor feels soft or spongy when you walk on it, or if you notice the squeak getting significantly worse over a short time, get someone under the floor to check for moisture damage or joist issues. A squeak alone isn't alarming; softness underfoot is."
+lastmod: 2026-07-07
 ---
 
 Squeaky floors are one of those things that start as a minor annoyance and somehow end up being the loudest thing in your house at 2 a.m. You step over the same spot every night on your way to the bathroom. Your dog figures out the creak pattern and uses it against you. Sound familiar?
@@ -33,6 +34,16 @@ Let me explain what's actually happening first, because the fix depends entirely
 
 ## Why Floors Squeak (and Why It Matters Which Reason Applies to You)
 
+| Squeak Location | Access Type | Primary Cause | Recommended Fix |
+| --- | --- | --- | --- |
+| Subfloor to joist | Below (basement/crawlspace) | Gap between subfloor and joist | Drive 1.25"-1.5" construction screws up through joist into subfloor |
+| Subfloor to joist | Below (basement/crawlspace) | Lateral subfloor movement | Apply construction adhesive (PL Premium) along joist top |
+| Under carpet | From top | Subfloor-to-joist separation | Use Squeeeeek No More kit (~$25) to drive breakaway screw |
+| Hardwood boards | From top | Tongue-and-groove friction | Powdered graphite or WD-40 Specialist Dry Lube in joint |
+| Hardwood boards | From top | Prefinished surface | O'Berry Enterprises Counter-Snap kit |
+| Under tile | Either | Subfloor flex | Fix subfloor from below; avoid top-down work to prevent cracking |
+| Bridging area | Below | Loose wood bridging | Powdered graphite in joint (temporary); structural reinforcement needed |
+
 A squeak is friction. Two pieces of wood rubbing against each other, or a nail working against wood grain, or a subfloor panel moving against a joist. That's it. But where and why that friction is happening changes your approach completely.
 
 The most common culprits, in my experience:
@@ -40,7 +51,7 @@ The most common culprits, in my experience:
 - **Nail movement:** Over time, the nails holding your subfloor to the joists can work loose. Every time you step on that spot, the subfloor lifts slightly and drops back down, and the nail drags against the wood. This is extremely common in houses built before the mid-1990s, when pneumatic nailers weren't universal and ring-shank nails weren't as widely used.
 - **Subfloor panel gaps:** Engineered wood subfloor panels (OSB or plywood) expand and contract with humidity changes. If they were installed too tight together, or if the floor system has some flex in it, adjacent panels can rub at the seams.
 - **Joist bridging:** In some older homes, the bridging between joists (those diagonal pieces of wood or metal X-braces) can loosen and start rubbing against the joists themselves. This one tends to produce squeaks that feel more "whole room" and less localized.
-- **Finished flooring movement:** Hardwood strips rubbing against each other at the tongue-and-groove joints. This is more common in older solid hardwood and in rooms with big humidity swings.
+- **Finished flooring movement:** [Hardwood strips rubbing](/how-to-fix-a-squeaky-hardwood-floor-from-above/) against each other at the tongue-and-groove joints. This is more common in older solid hardwood and in rooms with big humidity swings.
 
 You might be wondering how you figure out which one you're dealing with. The honest answer is: access. If you have an unfinished basement or crawlspace below the squeaky area, you can see the structure and diagnose it directly. If you've got a slab or a finished ceiling below, you're working from the top, and it's a little more trial and error.
 

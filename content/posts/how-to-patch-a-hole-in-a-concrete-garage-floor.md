@@ -23,7 +23,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-
+lastmod: 2026-07-07
 ---
 You've got a hole in your garage floor. Maybe it's been there for months and you've just been stepping around it, or maybe something heavy dropped last week and now there's concrete missing. Either way, you're wondering if this is a Saturday morning fix or if you're calling someone.
 
@@ -32,6 +32,15 @@ Here's what I tell people: patching concrete is genuinely one of the easier DIY 
 First, scope check. A hole in a garage floor can mean different things. A small divot or spalled patch (that's when freeze-thaw cycles or road salt flake off the surface layer) is different from a structural crack with displacement, which is different from a sinkhole-style void where the soil underneath has shifted. This covers the first two. If your floor feels hollow in spots or you've got cracks wider than half an inch with one side higher than the other, get a professional to look before you patch it.
 
 ## What You Actually Need Before You Start
+
+| Product | Type | Cost | Coverage/Size | Best For |
+| --- | --- | --- | --- | --- |
+| Quikrete Vinyl Concrete Patcher | Vinyl patcher | $12-$22 | 10-25 lbs | Small holes, divots, spalled areas up to 1" deep |
+| Quikrete Hydraulic Water-Stop | Hydraulic cement | $8-$10 | 10 lbs | Base layer for deeper holes; expands slightly for better grip |
+| Rust-Oleum EpoxyShield Crack Filler | Polyurethane/epoxy filler | ~$14 | - | Cracks; self-leveling, flexible cure |
+| Quikrete Concrete Bonding Adhesive | Bonding agent | $10-$15 | - | Smooth-sided holes; improves adhesion |
+| Armor SX5000 WB | Penetrating sealer | $80-$100 | 200-400 sq ft per gallon | Sealing after patch cures (28 days) |
+| Rust-Oleum RockSolid Polycuramine | Epoxy floor coating | $150-$250 | Two-car garage kit | Full floor coating; hides patch |
 
 Don't buy anything until you know what kind of damage you're dealing with. I've watched homeowners spend $60 on the wrong product because they grabbed whatever Home Depot had without reading the label.
 

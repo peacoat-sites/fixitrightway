@@ -12,6 +12,7 @@ author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
 slug: "unpermitted-diy-work-can-void-your-home-insurance-claim"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 Picture this: it's September, the summer project is done, and you're genuinely proud of the panel upgrade or the bathroom addition you knocked out yourself. Then a kitchen fire happens. The adjuster comes out, starts asking questions, notices the work, pulls the permit history, and your $80,000 claim gets denied. Not because you did the work wrong. Because you never pulled the permit.
@@ -40,11 +41,17 @@ And here's what most people don't realize: you don't have to file a claim for th
 
 ## The Three Categories That Trigger the Most Scrutiny
 
+| Work Category | Permit Required | Primary Risk | Typical Cost to Legalize |
+| --- | --- | --- | --- |
+| Electrical panels and subpanels | Yes, virtually all jurisdictions | Service failures, fires, catastrophic loss | $5,000-$50,000+ |
+| Structural modifications | Yes | Integrity failure, collapse, denial almost certain | $5,000-$50,000+ |
+| Plumbing reroutes and additions | Yes | Water damage, code violations | $5,000-$50,000+ |
+
 Not all unpermitted work carries equal risk. In my experience, there are three categories where insurers and inspectors concentrate their attention.
 
 **Electrical panels and subpanels.** Any service upgrade, panel replacement, or subpanel addition requires a permit in virtually every jurisdiction. Full stop. This is also the work that's surging right now as homeowners add EV chargers and upgrade aging panels to support them.
 
-**Structural modifications.** Load-bearing wall removal, garage conversions, room additions, and deck builds all require permits because the structural integrity of your home is at stake. A deck collapse or a wall failure after unpermitted structural work is a claim scenario where denial is almost certain.
+**Structural modifications.** Load-bearing wall removal, garage conversions, room additions, and [deck builds](/should-you-replace-deck-boards-with-wood-or-composite-this-summer/) all require permits because the structural integrity of your home is at stake. A deck collapse or a wall failure after unpermitted structural work is a claim scenario where denial is almost certain.
 
 **Plumbing reroutes and additions.** Moving or adding supply and drain lines, adding a bathroom, or rerouting a gas line requires permits. Water damage from faulty unpermitted plumbing work is another high-scrutiny category.
 

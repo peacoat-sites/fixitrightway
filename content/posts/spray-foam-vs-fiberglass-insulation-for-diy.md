@@ -23,7 +23,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-
+lastmod: 2026-07-07
 ---
 You're standing in your attic right now, or staring at an open wall cavity. Maybe you got a contractor quote that made you wince. Maybe you're just tired of high utility bills. Either way, I'm going to give you the version that actually works.
 
@@ -39,7 +39,7 @@ There's also spray foam in a can. Great Stuff Pro or Froth-Pak kits are DIY-acce
 
 ## The Case for Fiberglass: Where It Actually Wins
 
-R-38 fiberglass batts for a 1,200-square-foot attic floor runs roughly $600 to $900 in materials at Home Depot or Menards. Add a respirator, safety glasses, gloves, and disposable coveralls. That's another $40. You're done.
+R-38 fiberglass batts for a 1,200-square-foot [attic floor](/how-to-insulate-an-attic-yourself-to-save-energy/) runs roughly $600 to $900 in materials at Home Depot or Menards. Add a respirator, safety glasses, gloves, and disposable coveralls. That's another $40. You're done.
 
 For attic floors, fiberglass is hard to beat on cost. You're adding thermal resistance. It handles that fine. Same for interior partition walls where moisture isn't a concern and you want sound control.
 
@@ -58,6 +58,14 @@ Cathedral ceilings and unvented roof assemblies are where closed-cell spray foam
 Open-cell foam works for interior walls, basement walls in some climates, anywhere you want vapor permeability. But avoid it in humid climates or anywhere with moisture risk. It soaks up water and holds it. I've seen mold issues in crawl spaces where someone used open-cell to save money. Closed-cell in those locations. Full stop.
 
 ## The Real DIY Question
+
+| Project | Material Cost | Equipment/Tools | Total Est. Cost | DIY Feasibility |
+| --- | --- | --- | --- | --- |
+| Attic floor (1,200 sq ft) with fiberglass | $600-$900 | Respirator, gloves, coveralls (~$40) | ~$650-$950 | High |
+| Rim joist with Froth-Pak 620 | ~$350 | Applicator gun (included) | ~$350 | High |
+| Attic air sealing with canned foam | $100-$200 | Caulk gun, safety gear | ~$150-$250 | High |
+| Rented spray foam equipment (weekend) | $160-$240 per component | Equipment rental | $1,660-$2,740 | Medium |
+| Cathedral ceiling (professional) | - | Professional equipment required | $1.50-$3.50/board foot | Not DIY |
 
 The best ROI projects for DIY: attic air sealing with canned foam around penetrations and light fixtures, fiberglass batts on the attic floor, and rim joist insulation with a Froth-Pak kit. These three cut heating and cooling bills meaningfully, often 15 to 25 percent. You can do all of it for under $1,000 in most cases.
 

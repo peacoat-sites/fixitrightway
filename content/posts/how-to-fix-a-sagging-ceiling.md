@@ -18,7 +18,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-
+lastmod: 2026-07-07
 ---
 Your ceiling is drooping, and you can't stop staring at it. That sagging section overhead, whether it's a small bulge near the bathroom or a wavy mess in the living room, gets worse the longer you ignore it. A ceiling that sags today can collapse tomorrow, so catching it early matters. The good news: most homeowners can fix this themselves with some basic tools and a weekend of work.
 
@@ -64,6 +64,13 @@ Get everything together first. Running back to the hardware store mid-project ki
   * Drop cloth to protect floors and furniture
 
 ## Step 1: Diagnose the Extent of the Damage
+
+| Damage Type | Indicator | Action Required |
+| --- | --- | --- |
+| Moisture-damaged drywall | Soft, spongy, or crumbling texture | Remove and replace panel |
+| Detached but firm drywall | Panel pulled away from joists | Refasten with new screws |
+| Severe water damage | Bulging dramatically, covers >4 sq ft | Call a contractor |
+| Plaster ceiling separation | Plaster pulled from lath | Use plaster washers to pull tight |
 
 Put on safety glasses and grab a flashlight. Press gently on the sagging spot with one finger. Does it feel soft, spongy, or does it crumble a little? That's moisture-damaged drywall, and it has to be ripped out and replaced.
 

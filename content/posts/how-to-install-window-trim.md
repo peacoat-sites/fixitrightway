@@ -18,7 +18,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-
+lastmod: 2026-07-07
 ---
 Your windows look drafty, unfinished, or just plain bare. Something's missing. Learning **how to install window trim** is one of the most rewarding home improvement projects you can tackle because the results show up immediately and look professional. Whether you're updating an older home or finishing a new window installation, adding trim transforms a plain opening into something polished and intentional.
 
@@ -28,7 +28,7 @@ The best part? You don't need carpentry experience. With the right tools, a litt
 
 Window trim (also called window casing) is the decorative molding that frames the inside or outside of a window. It covers the gap between the window frame and the wall, making everything look finished and intentional.
 
-Beyond looks, trim actually works. It seals out drafts, keeps moisture from sneaking into wall cavities, and adds a layer of insulation around the window edges.
+Beyond looks, trim actually works. It [seals out drafts](/how-to-stop-drafts-from-windows/), keeps moisture from sneaking into wall cavities, and adds a layer of insulation around the window edges.
 
 * Interior trim makes any room look better
 * Exterior trim protects your home from weather and moisture

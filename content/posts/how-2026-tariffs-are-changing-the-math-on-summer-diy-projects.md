@@ -12,12 +12,20 @@ author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
 slug: "how-2026-tariffs-are-changing-the-math-on-summer-diy-projects"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most DIYers heading into summer 2026 are still working off mental price lists from two or three years ago. That's the problem. The guy who budgeted a deck build based on what lumber cost in 2023 is going to get a very unpleasant phone call from the lumberyard. Between Canadian softwood tariffs, new duties on imported cabinets, and nine straight quarters of year-over-year lumber price growth, the math on summer projects has shifted in ways most homeowners haven't fully absorbed yet.
 
 I'll be honest: even I was surprised by how quickly some of these cost increases compounded once the January 2026 tariff changes hit.
 
 ## The Numbers Are Real and They're Not Temporary
+
+| Material/Project Type | Price Impact | Tariff Rate | Notes |
+| --- | --- | --- | --- |
+| Framing lumber (Q2 2026) | $916.62 per 1,000 board feet; +5.11% QoQ, +4.21% YoY | 45% combined (35% antidumping/countervailing + 10% Section 232) | 9 consecutive quarters of YoY growth |
+| Kitchen cabinets (imported) | +25-30% overnight (Jan 1, 2026) | 25-30% tariff impact | Mid-range package: ~$8,000 → $10,000-$10,400 |
+| Bathroom vanities (imported) | +25-30% overnight (Jan 1, 2026) | 25-30% tariff impact | Same category as cabinets |
+| New home construction (typical) | +$10,900 total impact | Tariff-driven costs | NAHB estimate; excludes 40% material inflation since Dec 2020 |
 
 Let's start with what's actually happening. Framing lumber hit $916.62 per thousand board feet in Q2 2026, a 5.11% spike in a single quarter and 4.21% higher than this time last year, according to Gordian/RSMeans data published in May 2026. That ninth consecutive quarter of year-over-year growth is the part that should get your attention. This isn't a temporary supply shock. It's a sustained structural shift.
 

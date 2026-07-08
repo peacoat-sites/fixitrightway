@@ -12,6 +12,7 @@ author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
 slug: "how-tariff-driven-material-costs-are-changing-what-you-should-diy"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 You budgeted $4,000 for a bathroom refresh. You've watched three YouTube videos, you've got a free weekend, and you're feeling capable. Then you price out the vanity. The one you picked last fall is now $800 more than it was, the cabinet place says lead times are six weeks out, and your lumber yard just raised prices again. Welcome to summer 2026, where the DIY math that made sense eighteen months ago has quietly stopped working.
 
@@ -27,19 +28,30 @@ And it's not just lumber. Tariffs on imported kitchen cabinets and vanities rose
 
 ## How This Should Change Your Project Calculus
 
+| Project Type | Material Cost Impact | Labor Savings | Permitting Risk | DIY Recommendation |
+| --- | --- | --- | --- | --- |
+| Painting & trim installation | Low | High | Minimal | Still viable |
+| Tile work (with experience) | Low-Medium | High | Minimal | Still viable |
+| Basic landscaping | Low | High | None | Still viable |
+| Insulation (accessible areas) | Low-Medium | High | Minimal | Still viable |
+| Structural work | High | Medium | High | Not recommended |
+| Imported cabinet installation | Very High | Medium | High | Not recommended |
+| Electrical/plumbing systems | High | High | Very High | Not recommended |
+| Demo work (contractor-supervised) | N/A | High | Low | Recommended |
+
 I've seen a lot of homeowners make the same mistake in high-material-cost environments: they absorb the price shock on materials but then try to claw back savings by cutting corners on labor, permits, or both. That's exactly backwards.
 
 When materials are expensive, waste and rework become catastrophic. A framing mistake that costs you two studs in a normal market costs you two studs at a significant premium right now. If you're not genuinely comfortable with the skill set a project requires, this is not the market to learn on the job. The YouTube confidence that the Farnsworth Group flagged in their February 2026 research is real: the primary DIY motivator has actually shifted from saving money to "I'm able to do it myself," even as financial stress among homeowners hit a five-quarter high in 2026. Those two things together are a setup for expensive mistakes.
 
 So which projects still make DIY sense? Finish work, in general, still does. Painting, trim installation, tile work if you have some experience, basic landscaping, insulation in accessible areas. These are labor-heavy and material-light, or they use domestic materials less affected by the current duty environment. The labor savings are real, the margin for error is recoverable, and the permitting risk is minimal or nonexistent.
 
-What's gotten harder to justify as a pure DIY play: anything structural, full cabinet installations where you're buying imported product at inflated prices and one wrong measurement is a $500 mistake, anything that touches electrical or plumbing systems.
+What's gotten harder to justify as a pure DIY play: anything structural, [full cabinet installations](/can-you-really-install-a-diy-mini-split-this-weekend/) where you're buying imported product at inflated prices and one wrong measurement is a $500 mistake, anything that touches electrical or plumbing systems.
 
 ## The Permit Problem Nobody Wants to Talk About
 
 Here's where I'm going to push back on the instinct a lot of homeowners have right now, which is to skip permits to offset rising material costs. I get the logic. Permits cost money and time, inspectors can complicate timelines, and plenty of neighbors have done the same small jobs without them for years. But the risk calculation has changed.
 
-An April 2026 report flagged by Homedit found that home inspectors are actively flagging unpermitted electrical work as a leading cause of denied insurance claims. And the standard isn't "major project." Insurers are treating missing permits as negligence even for small jobs, like adding a single outlet. That's a significant shift in how carriers are interpreting policy language, and it's showing up in real claim denials.
+An April 2026 report flagged by Homedit found that home inspectors are actively flagging [unpermitted electrical work](/unpermitted-diy-work-is-getting-insurance-claims-denied-in-2026/) as a leading cause of denied insurance claims. And the standard isn't "major project." Insurers are treating missing permits as negligence even for small jobs, like adding a single outlet. That's a significant shift in how carriers are interpreting policy language, and it's showing up in real claim denials.
 
 The scope of exposure is bigger than most people realize. Estimates suggest up to 50% of U.S. homes carry some form of unpermitted work, according to Econosurance's April 2026 analysis of insurance coverage gaps. If you're one of those homeowners and you have a fire, a flood, or a liability claim, that unpermitted work becomes a preexisting condition your insurer can use to reduce or deny your payout. The money you saved on the permit gets dwarfed fast.
 

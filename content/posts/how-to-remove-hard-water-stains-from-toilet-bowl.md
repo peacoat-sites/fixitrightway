@@ -23,7 +23,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-
+lastmod: 2026-07-07
 ---
 I'll be honest: I wasted probably three years of my life scrubbing toilet bowls with the wrong products. The frustrating part was that most of what gets recommended online makes the problem worse, or does absolutely nothing.
 
@@ -40,6 +40,14 @@ What surprised me was how porous toilet porcelain actually is under magnificatio
 The water line ring forms because that's where evaporation concentrates minerals. The rust-brown streaks running down from the rim holes are a different story. Those come from iron in your water oxidizing as it trickles down the bowl.
 
 ## The Products That Actually Work (and Two That Don't)
+
+| Product | Type | Cost | Best For | Active Ingredient |
+| --- | --- | --- | --- | --- |
+| Pumie Scouring Stick | Abrasive | $4-6 | Moderate to heavy buildup | Pumice stone |
+| Lime-A-Way | Chemical | Varies | Moderate stains, maintenance | Glycolic acid |
+| CLR | Chemical | $8-10 (28 oz) | Severe mineral deposits | Hydrochloric acid |
+| White vinegar | Chemical | Low | Light stains, overnight soak | 5% acetic acid |
+| Iron Out | Chemical | Varies | Iron and manganese staining | Sodium hydrosulfite |
 
 Let me get specific, because generic "use an acid cleaner" advice skips the part where you're standing in a hardware store confused.
 

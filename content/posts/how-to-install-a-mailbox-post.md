@@ -18,7 +18,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-
+lastmod: 2026-07-07
 ---
 Your old mailbox post has finally given up the ghost. It's leaning sideways, rotting at the base, or just falling apart. Whether you're replacing a worn-out post or installing a brand-new one, knowing **how to install a mailbox post** correctly saves you time, money, and a second trip to the hardware store. The good news? This is a manageable weekend project most homeowners can tackle with basic tools and a little guidance.
 
@@ -65,7 +65,7 @@ If you're replacing an existing mailbox post, remove it cleanly before installin
 For wooden posts set in concrete, use a long pry bar to loosen the post from the ground. Work around all four sides, rocking gently back and forth until the concrete base loosens. You may need a helper to pull the post upward while you lever from below.
 
   * Wear gloves to protect your hands from splinters and sharp edges
-  * Break up old concrete with a sledgehammer if it's stuck
+  * Break up old [concrete with a sledgehammer](/how-to-repair-a-concrete-walkway/) if it's stuck
   * Remove as much of the old concrete as possible from the hole
   * Fill any gaps left behind with fresh soil or gravel
 
@@ -74,6 +74,10 @@ Don't rush this step. Taking time to clear out the old material gives your new p
 **⚠️ Safety:** Call 811 (the national "Call Before You Dig" hotline) at least a few days before digging. This free service marks any underground utility lines in your yard (gas, electric, water). Hitting a buried line can cause serious injury or expensive damage.
 
 ## Step 3: Dig the Post Hole
+
+| Post Length | Hole Depth | Hole Diameter | Gravel Base |
+| --- | --- | --- | --- |
+| 6 feet | 24-28 inches | 10-12 inches | 3-4 inches |
 
 Now dig. The depth of your hole is critical for a stable, long-lasting installation. A good rule of thumb is to bury at least one-third of the total post length underground.
 

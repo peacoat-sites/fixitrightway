@@ -23,7 +23,7 @@ author: "Paul Zhang"
 author_slug: "paul-zhang"
 author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
-
+lastmod: 2026-07-07
 ---
 You found the leak on a Tuesday morning. Maybe it was a soft stain spreading across the drywall behind your shower, or water dripping into the cabinet below, or a puddle on the subfloor that you kept hoping was condensation. Whatever tipped you off, here you are, and you're probably asking yourself some version of the same question I hear all the time: "Do I have to open up my wall for this?"
 
@@ -40,6 +40,12 @@ Sometimes yes. Sometimes no. Let me walk you through how to tell the difference,
 </div>
 
 ## First, Figure Out What's Actually Leaking
+
+| Leak Source | Wall Access Required | Parts Cost Range | Complexity |
+| --- | --- | --- | --- |
+| Cartridge/O-ring failure | No | $15-$80 | Low |
+| Supply fitting leak | Yes | $50-$150 | Medium |
+| Cracked valve body | Yes | $150-$400 | High |
 
 This sounds obvious, but it trips people up constantly. Not every wet wall behind a shower means the valve itself is leaking. Spend 20 minutes diagnosing before you touch anything.
 

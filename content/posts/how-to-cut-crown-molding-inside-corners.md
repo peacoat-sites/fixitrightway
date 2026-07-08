@@ -23,6 +23,7 @@ faqs:
    a: "Spring angle is the angle at which the crown tilts between the wall and ceiling. Most standard crown is 38 degrees; some is 45 degrees. It affects every miter and bevel angle you'll cut. If you set up your saw for a 38-degree spring profile and your molding is actually 45 degrees, none of your angles will be right."
  - q: "Can I cope polyurethane or MDF crown molding the same way as wood?"
    a: "MDF copes very well, often better than wood because it doesn't have grain to fight. Polyurethane foam crown is trickier: it's soft enough that a coping saw will tear it. For urethane crown, a fine-tooth handsaw works better for the cope cut, followed by careful cleanup with a utility knife and sandpaper."
+lastmod: 2026-07-07
 ---
 
 Most people assume the coped joint is some ancient dark art that only finish carpenters can pull off. I've taught it to complete beginners in a single afternoon. The compound miter cut, though? That one trips up experienced DIYers every single time, and there's a specific reason why.
@@ -32,6 +33,13 @@ Let's talk about crown molding inside corners, because this is where most crown 
 There are two ways to cut an inside corner in crown molding: the coped joint and the compound miter. Each has its place. I'll tell you exactly when to use which, and I'll walk you through both.
 
 ## Why Inside Corners Are the Hardest Part
+
+| Molding Type | Price Range (Paint-Grade) | Price Range (Solid Wood) | Spring Angle | Best For |
+| --- | --- | --- | --- | --- |
+| MDF Colonial Crown (3.5") | $3.50-$5.00/ft | - | 38° | Budget-friendly painted interiors |
+| Solid Poplar Crown | - | $7.00-$12.00/ft | 38° | Higher-end painted or stained work |
+| Standard Crown | - | - | 38° | Most residential applications |
+| Specialty Crown Profiles | - | - | 45° | Custom or ornate designs |
 
 Here's what most people don't realize: walls are almost never perfectly square. A corner that reads 90 degrees on your framing square might actually be 88 or 93 degrees once drywall and paint are layered on. Crown molding is also a compound shape, meaning it sits at two angles simultaneously (the spring angle against the wall and the spring angle against the ceiling). That compounding geometry is why even a small error in your setup gets multiplied into a visible gap.
 
@@ -57,7 +65,7 @@ Here's how it works: one piece of molding runs straight into the corner and butt
 
 3. Take that mitered end to your coping saw. You'll follow the profile line (the dark shadow line created by the miter cut) with your coping saw, cutting at roughly a 5-degree back bevel. That back bevel is important: it means the front face edge makes contact while the back is slightly relieved, so it seats cleanly against the first piece.
 
-4. Test fit it. You'll almost certainly need to refine it with a rasp, a half-round file, or 80-grit sandpaper wrapped around a dowel for any curved sections. Don't skip this step.
+4. Test fit it. You'll almost certainly need to refine it with a rasp, a half-round file, or 80-grit sandpaper wrapped around a dowel for any curved sections. [Don't skip this step](/how-to-fill-nail-holes-in-trim-before-painting/).
 
 5. Once it fits snugly, nail it and move on.
 

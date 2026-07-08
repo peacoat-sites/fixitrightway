@@ -18,7 +18,7 @@ author: "Kim Reeves"
 author_slug: "kim-reeves"
 author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
-
+lastmod: 2026-07-07
 ---
 Your refrigerator isn't keeping food cold. That moment when you open the door and realize everything inside is warming up? It's a specific kind of panic. The good news: most cooling problems are fixable without calling a repair technician at $150 an hour.
 
@@ -112,9 +112,15 @@ The compressor is the heart of the whole system. It's the large, round, black un
 
 Loud clicking, buzzing, or complete silence is bad. Clicking every few minutes means it's struggling to start.
 
-Compressor replacement costs $200 to $500 or more. If your fridge is over 10 or 12 years old, replacing the whole unit might make more sense financially. A local repair pro can advise after they see it.
+Compressor replacement costs $200 to $500 or more. If your fridge is over 10 or 12 years old, [replacing the whole unit](/how-to-replace-a-kitchen-countertop/) might make more sense financially. A local repair pro can advise after they see it.
 
 ## When to Call a Professional
+
+| Component | Replacement Cost | Labor Cost | Total Typical Cost |
+| --- | --- | --- | --- |
+| Door gasket | $20-$60 | $0 (DIY) | $20-$60 |
+| Defrost heater, timer, or thermostat | Cheap | $300-$600 | $300-$600 |
+| Compressor | $200-$500+ | Included | $200-$500+ |
 
 You've tried everything above and it's still not cooling. That's fine. You've done solid troubleshooting. Now bring in someone with the right tools.
 

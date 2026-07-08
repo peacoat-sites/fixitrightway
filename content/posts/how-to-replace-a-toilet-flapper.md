@@ -18,9 +18,9 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-
+lastmod: 2026-07-07
 ---
-Your toilet keeps running long after you flush. That endless hissing sound. The water bill creeping up month after month. Here's the thing: you almost certainly don't need to call a plumber for this. Replacing a toilet flapper is genuinely one of the easiest fixes you can do at home, and most people finish it in under 30 minutes.
+Your toilet keeps running long after you flush. That endless hissing sound. The water bill creeping up month after month. Here's the thing: you almost certainly don't need to [call a plumber](/how-to-unclog-a-toilet-without-a-plunger/) for this. Replacing a toilet flapper is genuinely one of the easiest fixes you can do at home, and most people finish it in under 30 minutes.
 
 ## What Is a Toilet Flapper and Why Does It Matter?
 
@@ -100,6 +100,12 @@ If it keeps running after that, check the chain slack and make sure both ears ar
 Here's the leak test: put a few drops of food coloring in the tank. Wait 15 minutes without flushing. If color shows up in the bowl, there's still a leak. Try reseating the flapper or switch to a different brand or size.
 
 ## How to Choose the Right Replacement Flapper
+
+| Flapper Type | Best For | Typical Cost | Installation Time |
+| --- | --- | --- | --- |
+| Universal fit | Most standard toilets | $5-$15 | Under 30 minutes |
+| Brand-specific | Kohler, American Standard, TOTO | $8-$20 | Under 30 minutes |
+| Slide-over style | Older toilet models | $6-$18 | Under 30 minutes |
 
 Universal flappers work for most toilets and cost just a few dollars at any hardware store. Look for "universal fit" labels from brands like Fluidmaster, Korky, or American Standard.
 

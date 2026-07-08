@@ -23,7 +23,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-
+lastmod: 2026-07-07
 ---
 Most people grab a can of WD-40, spray the hinges, and call it done. The squeak comes back in two weeks. I've seen this cycle repeat dozens of times on job sites and in client homes, and the frustrating part is that WD-40 is one of the worst things you can use on a squeaky door hinge. It's a solvent and water displacer, not a lubricant. It cleans out the existing grease, gives you a brief quiet period, and then leaves metal grinding on metal again. If your door squeak has come back multiple times after treatment, this is probably why.
 
@@ -42,6 +42,15 @@ Before you touch anything, you need to know what you're actually dealing with. D
 Spend 60 seconds diagnosing before you reach for anything. Swing the door slowly and listen. Does the squeak happen at the same point every time? Does it come from a specific hinge? Put your hand on each hinge while someone else moves the door. You'll feel the problem hinge vibrating.
 
 ## The Right Lubricants (and What to Actually Buy)
+
+| Lubricant | Durability | Best Use | Cost | Residue |
+| --- | --- | --- | --- | --- |
+| Petroleum jelly (Vaseline) | Short-term | Interior doors | Low | Minimal |
+| White lithium grease | Years | Most residential hinges | $7-$10 | Low |
+| Silicone spray lubricant | Medium | Painted surfaces, sliding doors | Moderate | None |
+| Grease sticks / paraffin wax | Long | Traditional application | Low | Minimal |
+| 3-in-1 Oil | Medium | Light-duty doors | Low | Minimal |
+| WD-40 | Very short | Loosening corroded pins only | Low | High |
 
 Here's the honest part: the lubricant aisle is confusing, and online advice contradicts itself constantly. What actually works, ranked by durability.
 

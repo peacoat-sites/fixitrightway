@@ -23,7 +23,7 @@ author: "Paul Zhang"
 author_slug: "paul-zhang"
 author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
-
+lastmod: 2026-07-07
 ---
 Most people are way more scared of this project than they need to be. I'll be honest: the first dimmer switch I ever installed took me about 45 minutes because I kept second-guessing myself, checking and rechecking the wiring. These days I can swap one out in under ten minutes. The work itself isn't hard. What trips people up is not understanding what they're looking at when they open the wall box.
 
@@ -31,11 +31,18 @@ So let's fix that.
 
 ## What You Need Before You Touch Anything
 
+| Dimmer Type | Use Case | Wiring Complexity | Notes |
+| --- | --- | --- | --- |
+| Single-pole | One switch controls one light | Simple (2 wires + ground) | Easiest installation, line and load interchangeable |
+| Three-way | Two switches control same light | Moderate (3 wires + ground) | Requires two 3-way dimmers OR one 3-way dimmer + companion switch |
+| Smart dimmer (Lutron Caseta) | Remote/app control needed | Moderate (requires neutral wire) | ~$60, excellent reliability |
+| Basic LED dimmer (Leviton/Lutron) | Standard LED bulbs | Simple (2 wires + ground) | $15-$30, no neutral required |
+
 Not every dimmer works with every light fixture. This is the mistake I see most often, and it costs people money. A standard incandescent dimmer will hum, flicker, or just fail outright when you wire it to LED bulbs. Always buy a dimmer that's rated for the bulb type you're running. Lutron and Leviton both make excellent LED-compatible dimmers in the $15 to $30 range at any home center. The Lutron Caseta line (around $60 for the smart version) is my personal go-to for anything where a client wants remote or app control. For a basic swap, the Leviton DSL06-1LZ or the Lutron DVCL-153P will handle most residential LED situations without drama.
 
 Check the dimmer's wattage rating too. It'll be printed right on the box. If you've got six recessed lights on a circuit, each pulling 10 watts, you're fine. If you've got eight 65-watt BR30 halogens, you need to actually do that math before buying a $12 dimmer rated for 150 watts.
 
-Tools you'll need: a flathead and Phillips screwdriver, a non-contact voltage tester (Klein makes a reliable one for about $20, don't skip this), needle-nose pliers, and wire strippers. A flashlight or headlamp is genuinely useful because wall boxes are dark and the wire color codes matter a lot here.
+Tools you'll need: a flathead and Phillips screwdriver, a [non-contact voltage tester](/how-to-replace-a-light-switch/) (Klein makes a reliable one for about $20, don't skip this), needle-nose pliers, and wire strippers. A flashlight or headlamp is genuinely useful because wall boxes are dark and the wire color codes matter a lot here.
 
 ## The Part Nobody Explains Well: Understanding What's in Your Wall Box
 
@@ -43,7 +50,7 @@ Pull the cover plate off your existing switch before you buy anything. You need 
 
 A standard single-pole switch setup will have two wires connected to the switch, usually one black and one white (or two blacks), plus a bare copper or green ground wire. This is the easiest scenario. You can replace it with any single-pole dimmer.
 
-A three-way switch situation is different. This is when you have two switches controlling the same light, like at the top and bottom of a staircase. You'll see three wires on the switch (not counting ground): one "common" wire, usually black, and two "traveler" wires. Three-way dimmer setups require either two specially rated 3-way dimmers (Lutron makes these) or one 3-way dimmer plus a matching companion switch. The companion switch isn't a dimmer itself, it just plays nicely with the main dimmer. Get this wrong and you'll have a light that doesn't turn off in one switch position. Ask me how I know.
+A [three-way switch situation](/how-to-wire-a-three-way-switch-for-beginners/) is different. This is when you have two switches controlling the same light, like at the top and bottom of a staircase. You'll see three wires on the switch (not counting ground): one "common" wire, usually black, and two "traveler" wires. Three-way dimmer setups require either two specially rated 3-way dimmers (Lutron makes these) or one 3-way dimmer plus a matching companion switch. The companion switch isn't a dimmer itself, it just plays nicely with the main dimmer. Get this wrong and you'll have a light that doesn't turn off in one switch position. Ask me how I know.
 
 One more thing to look for: a neutral wire. Older wiring sometimes has what's called a "switch loop," where no neutral is present in the box. Most standard dimmers don't need a neutral. Some smart dimmers (especially Kasa and certain Lutron models) do require one. If you only see two wires and no white wire capped off in the back of the box, you might be in switch-loop territory. Check your dimmer's documentation before buying.
 

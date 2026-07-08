@@ -18,7 +18,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-
+lastmod: 2026-07-07
 ---
 You hear it before you see it, that hollow clunk underfoot as you walk across your kitchen or bathroom floor. A loose tile is annoying enough in the moment, but ignore it and you're looking at cracking, shifting, and eventually a tripping hazard. The good news? **Loose floor tile repair** is genuinely satisfying to tackle yourself, even if you've never held a grout saw. With the right tools, some patience, and a clear process, you can have your floor solid again in a weekend.
 
@@ -29,7 +29,7 @@ The cause matters because it determines whether your fix will actually stick. Ti
 Other culprits:
 
 * Moisture seeping under the tile and weakening the bond
-* A subfloor that flexes slightly with foot traffic
+* A [subfloor that flexes](/how-to-level-an-uneven-floor-before-tiling/) slightly with foot traffic
 * Temperature swings causing the tile and subfloor to expand and contract at different rates
 * Age, plain and simple, older homes used adhesives that just fail over time
 * Heavy impacts, like dropping something substantial on the tile
@@ -63,6 +63,14 @@ Grab everything before you start. This saves time and kills those mid-project ha
 **Pro Tip:** Grab a small chip of your existing grout and take it to a tile store. They have color-matching kits that'll get you nearly perfect, so the repair disappears into the rest of the floor.
 
 ## Step 1: Remove the Old Grout
+
+| Stage | Typical Duration | Notes |
+| --- | --- | --- |
+| Remove old grout | 30-60 min | Slowest part; varies by grout hardness |
+| Lift tile and clean surfaces | 15-20 min | Includes scraping, wiping, and drying |
+| Apply adhesive and reset tile | 10-15 min | Plus 24 hours cure time before grouting |
+| Mix and apply grout | 15-20 min | Plus 20-30 min before wiping excess |
+| Cure and seal | 48-72 hours | Full grout cure before sealer application |
 
 You can't lift the tile until the grout's gone. This is the slowest part of the job, so don't rush, hurrying here damages neighboring tiles.
 

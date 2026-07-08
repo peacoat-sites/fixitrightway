@@ -23,6 +23,7 @@ faqs:
    a: "Recurring cracks in the same location almost always mean movement in that area. Check whether it's at a change-of-plane joint (if so, use silicone caulk instead). If it's in the field tile, look for a loose tile nearby, a soft spot in the substrate, or a structural issue like a joist running beneath that section. Regrout a spot that keeps cracking without finding the cause and you'll be back doing it again."
  - q: "Do I need to seal grout in a shower?"
    a: "Yes, every time you regrout, and then again once a year or so depending on use. Unsealed grout in a shower absorbs water, grows mold, and deteriorates faster. Penetrating sealers (not surface film sealers) are the right type for floor and wall grout. The test: drop a few beads of water on your existing grout. If they soak in immediately, it needs sealer. If they bead up, you're fine for now."
+lastmod: 2026-07-07
 ---
 
 Shower grout fails in two ways, and most repair guides treat them identically. That's the first mistake.
@@ -32,6 +33,12 @@ Cracked or crumbling grout in the field (the flat tile sections) is a different 
 The good news: this is genuinely one of the more satisfying DIY repairs you can do. The tools are cheap, the learning curve is short, and getting it right costs maybe $40 in materials. Getting it wrong costs a rotted subfloor and a $6,000 tile tear-out. So it's worth doing correctly.
 
 ## What You're Actually Looking At
+
+| Material | Joint Width | Use Case | Durability in Showers |
+| --- | --- | --- | --- |
+| Sanded Grout | > 1/8 inch | Field tile with wider joints | Good (with sealer) |
+| Unsanded Grout | ≤ 1/8 inch | Field tile with narrow joints | Good (with sealer) |
+| 100% Silicone Caulk | Any | Change-of-plane joints (corners, transitions) | Excellent |
 
 Before you buy anything, spend two minutes diagnosing what you have.
 

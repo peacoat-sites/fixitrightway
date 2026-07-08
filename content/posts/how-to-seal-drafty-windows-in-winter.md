@@ -23,15 +23,15 @@ author: "Kim Reeves"
 author_slug: "kim-reeves"
 author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
-
+lastmod: 2026-07-07
 ---
-Your windows are probably leaking more heat than your insulation is saving. That's not hyperbole, it's what happens when weatherstripping compresses, caulk cracks, and the glazing compound hasn't been touched since the Clinton administration. Most articles on this topic tell you to feel for drafts with your hand and then recommend one generic product. That approach leaves money on the table. Let me actually walk you through what's happening, what fixes it, and what's a waste of your time.
+Your windows are probably leaking more heat than [your insulation is saving](/how-to-insulate-an-attic-yourself-to-save-energy/). That's not hyperbole, it's what happens when weatherstripping compresses, caulk cracks, and the glazing compound hasn't been touched since the Clinton administration. Most articles on this topic tell you to feel for drafts with your hand and then recommend one generic product. That approach leaves money on the table. Let me actually walk you through what's happening, what fixes it, and what's a waste of your time.
 
 ## Why Windows Leak (And Why It's Not Always Obvious)
 
 Windows bleed heat from three separate places. Most homeowners only fix one.
 
-The **frame-to-wall joint** is where the window frame meets the rough opening in your wall. During installation, someone filled this gap with expanding foam or caulk. Over time, the house settles, the foam compresses, and you get a cold channel running straight through your wall. You'll never feel this one with your hand because it hides behind trim.
+The **frame-to-wall joint** is where the window frame meets the rough opening in your wall. During installation, someone filled this gap with expanding foam or caulk. Over time, the [house settles, the foam compresses](/spray-foam-vs-fiberglass-insulation-for-diy/), and you get a cold channel running straight through your wall. You'll never feel this one with your hand because it hides behind trim.
 
 The **operable sash** (the part that actually opens) is where weatherstripping does its job. Weatherstripping doesn't last forever. Most foam tape compresses flat and stops sealing anything after two to four winters. V-strip, also called tension seal, lasts much longer. I've found original bronze V-strip in 1940s double-hungs that still works perfectly.
 
@@ -50,6 +50,14 @@ Also pull off the interior trim on at least one suspect window. Just pop the cas
 One more thing: on cold mornings, look for frost or heavy condensation concentrated at specific spots on the glass or frame. That's a thermal map of where the worst air infiltration is.
 
 ## The Actual Fixes, Ranked by Cost and Impact
+
+| Component | Lifespan | Cost | Durability | Best For |
+| --- | --- | --- | --- | --- |
+| Foam weatherstrip tape | 2-4 winters | Low | Poor (compresses flat) | Newer windows with small gaps |
+| Bronze V-strip | 40+ years | Moderate | Excellent | Double-hung windows, long-term fix |
+| Backer rod + caulk | 5-10 years | Low ($4/tube) | Good | Frame-to-wall gaps, biggest impact |
+| Glazing compound | 10-20 years | Low | Fair (needs maintenance) | Single-pane wood windows |
+| Window insulation film | 1 season | Low ($12/5 windows) | Temporary | Seasonal use, basement/spare rooms |
 
 **Backer rod and caulk around the frame: biggest bang for the buck.**
 

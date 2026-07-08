@@ -23,7 +23,7 @@ author: "Kim Reeves"
 author_slug: "kim-reeves"
 author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
-
+lastmod: 2026-07-07
 ---
 Tuck-pointing is one of those repairs that sounds scarier than it is, until you ignore it long enough that it actually becomes scary. I've watched homeowners let soft, crumbling mortar sit for two, three, sometimes five years because they assumed it was a big-ticket masonry job. In a lot of cases, they were right by the time they called me. What started as a weekend afternoon of grinding and patching had turned into spalling brick faces, water intrusion, and in one case a 1920s Chicago bungalow with a basement wall that had started to bow inward. A $200 repair became a $14,000 conversation.
 
@@ -70,6 +70,14 @@ Pack the mortar in layers if the joint is deep. First layer shouldn't exceed abo
 Mist the finished work lightly for a day or two. Mortar curing too fast in heat or direct sun will crack. This is worth doing.
 
 ## What It Costs If You're Hiring It Out
+
+| Item | Cost | Notes |
+| --- | --- | --- |
+| Angle grinder diamond tuckpointing wheel | $35-50 | 4-inch wheel |
+| Type S mortar mix | $12-15 | 60-lb bag at Home Depot/Lowe's |
+| Type O or repointing mortar | $20-25 | Per bag at masonry supply houses |
+| Single chimney repoint (labor) | $300-800 | Midwest region |
+| Labor rate (per sq ft) | $5-25 | Varies by region and accessibility |
 
 Labor rates for tuck-pointing run from about $5 to $25 per square foot depending on your region, the accessibility of the wall, and how extensive the deterioration is. A single chimney repoint in the Midwest typically runs $300-800. A full exterior wall on a two-story brick home can easily hit $3,000-8,000. Get at least three quotes, and ask specifically whether they'll be grinding to the right depth or just skim-coating over existing mortar. Skim-coating is faster and cheaper and will fail in a few years. Any mason worth hiring shouldn't hesitate to answer that directly.
 

@@ -23,6 +23,7 @@ faqs:
    a: "Yes, but use a bit of judgment about moisture. In high-humidity areas, the foam gaskets are still fine, but if you're noticing any moisture issues around outlets in those rooms, have an electrician look at it. Sealing those boxes too tightly in a moisture-problem area can occasionally mask a bigger issue."
  - q: "My house has those old two-prong outlets. Is this project still safe?"
    a: "Two-prong outlets aren't a safety hazard for this particular project, but they're worth upgrading eventually. You can install the foam gaskets the same way. Just use your non-contact voltage tester before removing anything, same as you would with any outlet."
+lastmod: 2026-07-07
 ---
 
 Your heating bill goes up every winter and you've already checked the obvious stuff: weatherstripping around the doors, caulk around the windows, maybe even added attic insulation. But there's a category of air leak that almost everyone misses, and it's responsible for more draft infiltration than most people expect. Electrical outlets and switches on exterior walls are essentially holes punched straight through your wall cavity, and in most homes built before 2010 or so, they're sealed with nothing but the cover plate and a thin plastic box.
@@ -38,6 +39,12 @@ The cover plate sits flush against the wall but doesn't actually seal anything. 
 Cold air finds the path of least resistance. In winter, exterior wall cavities get very cold, and that cold air migrates inward through every gap it can find. Outlets and switches on those walls are essentially little vents. You've probably noticed that some outlets feel colder than others when you're near them, or that switch plates get cold to the touch. That's exactly what's happening.
 
 ## What You Need Before You Start
+
+| Product Type | Cost Per Unit | Quantity Per Pack | Total House Cost | Installation Time Per Outlet |
+| --- | --- | --- | --- | --- |
+| Foam gaskets | $5-$8 | 10 | $25-$40 | ~90 seconds |
+| Low-expansion spray foam | Varies | Single can | Additional $10-$15 | 5-10 minutes per box |
+| Acoustical sealant | Varies | Single tube | Additional $8-$12 | 10-15 minutes per box |
 
 The two main products you're choosing between are foam gaskets and caulk/spray foam applied from inside the box. Both work. Here's my actual recommendation: use gaskets first, and if you have particularly leaky boxes or gaps where the box meets the drywall, add a little low-expansion spray foam or acoustical sealant around the perimeter.
 

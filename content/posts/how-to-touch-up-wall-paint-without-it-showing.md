@@ -23,13 +23,20 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-
+lastmod: 2026-07-07
 ---
 Most touch-up paint jobs look worse than the original damage. I spent years telling homeowners "just dab it on and feather the edges" before I finally understood why that advice produces ghostly patches and mismatched sheen on practically every wall it gets tried on. The problem isn't technique, at least not entirely. The problem is that most people don't know what they're actually fighting against.
 
 There are three separate enemies here: color shift, sheen mismatch, and texture difference. Fix all three and the touch-up vanishes. Miss any one of them and you'll see it from across the room, usually in raking light at about 4pm when the sun cuts low through a window.
 
 ## Why Touch-Ups Fail (The Part Nobody Explains)
+
+| Issue | Cause | Visual Sign | Solution |
+| --- | --- | --- | --- |
+| Color Shift | Paint oxidation & UV exposure | Patch color noticeably different from wall | Use original paint or spectrophotometer match |
+| Sheen Mismatch | Fresh paint higher gloss than cured wall paint | "Wet spot" that never dries (flashing) | Extend coverage 12-18", apply thin coats, scuff and recoat if needed |
+| Texture Difference | Brush applied over roller texture | Smooth island visible in raking light | Use foam roller with matching nap size (3/8" or 1/2") |
+| Adhesion Problems | Grease, dust, skin oil on surface | Color variation and poor bond | Clean with damp soapy rag, dry completely before painting |
 
 Paint ages. Even sealed in the can, the formula oxidizes slightly. On your wall, it's been exposed to UV, humidity, cooking vapors, and whatever life happens in your house. The sheen flattens. The color shifts, sometimes warm, sometimes cool, depending on the pigments involved. Titanium white stays relatively stable. Organic pigments, some reds and yellows especially, drift noticeably in a year or two.
 

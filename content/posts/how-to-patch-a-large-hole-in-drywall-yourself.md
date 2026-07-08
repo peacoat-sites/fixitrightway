@@ -23,6 +23,7 @@ faqs:
    a: "You don't technically need to, but I'd recommend it anyway. Even a small four-inch hole benefits from a tape base because it reinforces the compound and prevents cracking as the patch settles. It's one extra step that saves rework."
  - q: "What happens if I sand through to the drywall underneath?"
    a: "You'll see the dull paper. Stop sanding, apply another thin coat of compound to cover the exposed paper, let it dry, and sand that. It's a minor setback, not a catastrophe. This is why thin coats matter; you're building a buffer against oversanding."
+lastmod: 2026-07-07
 ---
 
 I watched a homeowner spend three hours on YouTube videos last Tuesday before texting me a photo of a hole in her daughter's bedroom wall. Not a tiny nail hole. A proper gouge, maybe eight inches across, surrounded by drywall dust and the kind of damage that happens when someone's moved furniture too aggressively or a stray baseball found its way indoors. She was convinced she needed to call a drywall guy. She didn't. Neither do you, unless the hole's the size of a grapefruit or you're genuinely out of patience.
@@ -39,13 +40,24 @@ Also check what's behind the hole. Knock around it gently. If you hear hollow th
 
 ## The tools you actually need (and the ones you don't)
 
+| Item | Cost | Notes |
+| --- | --- | --- |
+| Putty knife (2x 4-inch and 10-inch) | $16 | Marshalltown or Husky brand |
+| Joint compound (5-gallon bucket) | $8-$12 | All-purpose or lightweight |
+| Drywall mesh tape (roll) | $7 | Self-adhesive, from Costco |
+| Sandpaper (120-grit and 220-grit) | $5 | Pack of both grits |
+| Spray bottle | $2 | Basic utility |
+| Sanding block | $4 | Basic utility |
+| Headlamp | $12 | Optional for dim areas |
+| **Total tool investment** | **~$55** | **Reusable for multiple patches** |
+
 Here's where the internet sells you a fantasy. You do not need a special drywall repair kit costing $45. You do not need a heated drying cabinet or a professional tape dispenser. What you need costs less than the price of a coffee maker.
 
 First: a putty knife. Get two, ideally. A 4-inch for initial filling and a wider 10-inch blade for feathering and final coats. I use a Marshalltown Trowel (about $8 each), nothing fancy. A Husky from Home Depot works fine too. You're spending maybe $16 total.
 
 Joint compound. This is the white stuff that hardens as it dries. Go with all-purpose compound (USG Durabond or DAP Fast 'N Final, $8 a bucket, gets you through most residential holes) or opt for Sheetrock's lightweight compound if you find sanding soothing rather than soul-crushing. As of 2026, a standard five-gallon bucket of all-purpose runs $8 to $12 and lasts through multiple patches.
 
-Drywall tape. For holes this size, you want mesh tape (the self-adhesive kind), not paper tape. Paper is for seams; mesh is for damage. Costco sells a big roll for $7. This matters more than I can overstate. Without tape, you're just filling a hole with plaster. With tape, you're creating a reinforced patch that won't crack.
+Drywall tape. For holes this size, you want [mesh tape](/mesh-tape-vs-paper-tape-for-drywall-seams/) (the self-adhesive kind), not paper tape. Paper is for seams; mesh is for damage. Costco sells a big roll for $7. This matters more than I can overstate. Without tape, you're just filling a hole with plaster. With tape, you're creating a reinforced patch that won't crack.
 
 Sandpaper. Grab a pack of 120-grit and 220-grit. Total cost: $5. Skip anything coarser. You're not sanding a deck; you're smoothing hardened compound, and 120 is the starting point.
 

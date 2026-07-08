@@ -23,6 +23,7 @@ faqs:
    a: "No. Shellac-based and oil-based primers are compatible with latex topcoats as long as the primer is fully cured before you paint over it. This is one of the genuinely convenient things about stain-blocking primers: you use the best blocker for the job, then go back to your preferred water-based paint on top."
  - q: "Will the stain come back after I've properly primed and painted it?"
    a: "If you addressed the source of the stain (fixed the leak, eliminated the grease source, whatever caused it) and used a proper stain-blocking primer, the stain should not reappear. The primer creates a permanent barrier. The only time I've seen properly sealed stains return is when the underlying problem was never actually fixed."
+lastmod: 2026-07-07
 ---
 
 Three coats of fresh paint and the stain is still grinning back at you. I've seen grown adults nearly cry at that point, and honestly, I don't blame them.
@@ -46,6 +47,14 @@ That barrier is shellac-based or oil-based primer. These products cure to a hard
 ---
 
 ## Shellac vs. Oil-Based Primer: Which One Do You Actually Need
+
+| Product | Type | Dry Time | Coverage | Price Range | Best For |
+| --- | --- | --- | --- | --- | --- |
+| Zinsser BIN | Shellac-based | 45 minutes | ~100 sq ft/quart | $22-$26/quart | Water stains, smoke, fire damage, grease, tannin bleed, crayon, marker |
+| Zinsser Bulls Eye 1-2-3 | Oil-based | 1-2 hours | Varies | ~$18-$22/quart | Light water stains, light smoke, general grime |
+| Kilz Original | Oil-based | 1-2 hours | Varies | ~$18-$22/quart | Light water stains, light smoke, general grime |
+| Zinsser Bulls Eye 1-2-3 | Water-based | Varies | Varies | Varies | Mild stains only |
+| Kilz 2 | Water-based | Varies | Varies | Varies | Mild stains only |
 
 This is where I see a lot of DIYers get confused by conflicting advice online, so let me give you my honest take after 20 years of dealing with both products.
 

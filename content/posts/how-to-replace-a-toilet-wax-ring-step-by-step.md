@@ -23,6 +23,7 @@ faqs:
     a: "The smell is sewer gas, which contains methane and hydrogen sulfide. Low-level exposure from a slow wax ring leak in a ventilated bathroom is generally not dangerous, but it's not something to ignore either. Concentrated sewer gas buildup in an enclosed space can be harmful, so fix it promptly."
   - q: "Do I need to caulk around the base of the toilet after installation?"
     a: "This is genuinely debated. Some codes require it; some plumbers hate it. My position: leave the back half of the base uncaulked so water from a future leak weeps out where you can see it rather than rotting the subfloor silently for months before you notice. A fully caulked base looks clean but hides problems."
+lastmod: 2026-07-07
 ---
 Most plumbers charge $150 to $300 to replace a wax ring. The ring itself costs $8. That gap tells you almost everything you need to know about this repair.
 
@@ -39,6 +40,16 @@ What surprises a lot of homeowners is that a toilet rocking on the floor doesn't
 If water is actually weeping out from under the toilet after a flush, that's a compromised wax ring. Replace it.
 
 ## What You'll Need (and One Thing You Should Upgrade)
+
+| Item | Cost | Notes |
+| --- | --- | --- |
+| Wax ring | $6-12 | Standard ring recommended for most situations |
+| Flange bolts | ~$4 | Always replace; buy new set |
+| Toilet bolt caps | Varies | Only if cracked or missing |
+| Waxless ring alternative | $10-15 | Fluidmaster 7500 or Fernco; better for recessed flanges |
+| Flange repair ring | $10-15 | For cracked plastic flange; avoids full replacement |
+| Professional plumber service | $150-300 | Labor only; does not include parts |
+| DIY total (material only) | ~$25 | Approximate cost for standard replacement |
 
 **Tools:** adjustable wrench or channel-lock pliers, a putty knife or wide scraper, bucket, sponge, old towels or drop cloths, rubber gloves, utility knife.
 

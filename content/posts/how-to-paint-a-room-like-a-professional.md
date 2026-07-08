@@ -18,7 +18,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-
+lastmod: 2026-07-07
 ---
 You stare at the scuffed, faded walls of your living room. A professional painter would charge you $2,000 to $5,000 to fix this. Here's what I'm about to tell you: you can do it yourself, and it's not actually that hard.
 
@@ -73,9 +73,16 @@ Spread drop cloths across the whole floor and overlap them at the seams. Canvas 
 
 ## Step 3: Prime the Walls If Needed
 
+| Surface Type | Primer Needed | Reason |
+| --- | --- | --- |
+| Dark color to light color | Yes | Prevents bleed-through |
+| Stains or water marks | Yes | Blocks discoloration |
+| Brand-new drywall | Yes | Seals porous surface |
+| Existing paint job refresh | No | Paint and primer in one acceptable |
+
 Photo by [Wes Fischer](https://unsplash.com/@ntwrk_img?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Primer isn't always necessary, but it's often the difference between one coat of paint and three. Prime if you're covering a dark color with a light one, if there are stains or water marks, or if you're painting brand-new drywall.
+Primer isn't always necessary, but it's often the difference between one coat of paint and three. Prime if you're covering a dark color with a light one, if there are stains or water marks, or if you're [painting brand-new drywall](/how-to-paint-over-wallpaper/).
 
 Use the same roller you'll use for paint. Work in a "W" or "M" pattern across each section to spread the primer evenly, then smooth back over without reloading. Let it dry fully per the can's instructions.
 

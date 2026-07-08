@@ -23,9 +23,9 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-
+lastmod: 2026-07-07
 ---
-Most electrical guides open with three paragraphs about turning off the breaker. You already know to turn off the breaker. Let's skip to the parts that actually trip people up.
+Most electrical guides open with three paragraphs about turning off the breaker. You already know to [turn off the breaker](/how-to-replace-a-light-switch-safely-yourself/). Let's skip to the parts that actually trip people up.
 
 Replacing a ceiling light fixture is one of the better DIY wins out there: low materials cost, no permits required in most jurisdictions for a straight swap, and the whole job takes under an hour once you've done it once. The first time, budget 90 minutes. The intimidation factor is mostly theater.
 
@@ -43,7 +43,7 @@ Nothing exotic. A non-contact voltage tester ($15-25, Klein makes a reliable one
 
 Wire nuts come with most fixtures. Use them, don't improvise with tape. If you're working in a 60-year-old house and the insulation on the existing wires is crumbly or cloth-wrapped, don't just tape over it and move on. That's a call-a-pro moment, or at minimum an electrician consult to assess the wiring condition before you button everything back up.
 
-One thing I'd add to every light swap: grab a can of electrical contact cleaner spray. Old wire connections get oxidized. A quick spray before you make the new connections is cheap insurance. Most people skip this. I didn't start doing it until a fixture I'd installed started flickering six months later because of a corroded connection point I'd missed.
+One thing I'd add to every light swap: grab a can of electrical contact cleaner spray. Old [wire connections](/how-to-replace-an-electrical-outlet/) get oxidized. A quick spray before you make the new connections is cheap insurance. Most people skip this. I didn't start doing it until a fixture I'd installed started flickering six months later because of a corroded connection point I'd missed.
 
 ## Step-by-Step: The Actual Swap
 
@@ -70,6 +70,13 @@ The easiest fix for a wobbly between-joist box is a Westinghouse or Hubbell adju
 If you want to move the fixture location entirely, that's drywall work and fishing wire, and it crosses into a longer project. Still DIY-able, but plan a full afternoon and a YouTube deep-dive on fishing wire through finished ceilings.
 
 ## The Weight Ceiling (No Pun Intended)
+
+| Fixture Type | Box Support | Weight Capacity | Notes |
+| --- | --- | --- | --- |
+| Flush mounts and basic pendants | Standard box | Up to 50 lbs | Most common replacements |
+| Mid-size chandelier (15-30 lbs) | Joist-mounted or brace bar | Up to 70 lbs (with brace bar) | Verify box rating before installation |
+| Heavy chandelier (35+ lbs) | Joist-mounted with rated box | Varies by box rating | Replace box if needed |
+| Between-joist installation (no support) | Adjustable brace bar | Up to 70 lbs | Requires brace bar installation |
 
 Flush mounts and basic pendants: almost any standard box handles these.
 

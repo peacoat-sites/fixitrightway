@@ -12,6 +12,7 @@ author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
 slug: "when-diy-voids-your-insurance-the-permit-trap-homeowners-miss"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 You finished the bathroom yourself last summer. Swapped out the vanity light, added a GFCI outlet near the sink, maybe ran a new circuit for a space heater. Saved yourself $800 in electrician fees and felt pretty good about it. What you probably didn't think about: if that bathroom catches fire this summer and the insurance adjuster finds that outlet, you might be writing a very large check with no help from your insurer.
 
@@ -37,9 +38,18 @@ California has been moving in the same direction. [LA Construction Compliance (u
 
 If you already have unpermitted work and you're thinking about cleaning it up, brace yourself. Retroactive permitting and remediation, meaning bringing the work up to code so a building official will sign off on it, runs $5,000 on the low end and climbs past $50,000 depending on scope. An unpermitted room addition is a very different animal than a single unpermitted outlet, but even small electrical fixes can require opening walls for inspection before a permit gets closed out.
 
-And it's not just an insurance problem. Mortgage lenders in 2026 are flagging unpermitted work during underwriting. If you're selling your house, refinancing, or the buyer is getting a conventional loan, unpermitted additions show up as a liability on the title. Deals fall apart over this. I've watched it happen on houses where the owners genuinely didn't know the work was unpermitted because it was done before they bought the place. That's not a defense your lender or insurer is especially moved by.
+And it's not just an insurance problem. Mortgage lenders in 2026 are flagging [unpermitted work during underwriting](/unpermitted-diy-work-can-void-your-home-insurance-claim/). If you're selling your house, refinancing, or the buyer is getting a conventional loan, unpermitted additions show up as a liability on the title. Deals fall apart over this. I've watched it happen on houses where the owners genuinely didn't know the work was unpermitted because it was done before they bought the place. That's not a defense your lender or insurer is especially moved by.
 
 ## Where DIY Is Fine and Where It Isn't
+
+| Work Type | Permit Required | Insurance Risk | Examples |
+| --- | --- | --- | --- |
+| Cosmetic & Simple Replacements | No | Low | Light fixture swaps, painting, faucet replacement, floor refinishing |
+| Electrical Work | Yes | High | New circuits, panel upgrades, adding outlets, extending circuits |
+| Plumbing | Yes | High | Moving or adding plumbing lines |
+| Structural Changes | Yes | High | Removing walls, adding square footage |
+| Roof or HVAC Replacement | Often Yes | High | Varies by municipality |
+| Retroactive Permitting Cost | N/A | High | $5,000-$50,000+ depending on scope |
 
 None of this means you shouldn't do your own work. I've done plenty myself over the years. But the line is clearer than most people realize: cosmetic work and simple replacements generally don't require permits. Swapping a like-for-like light fixture, painting, replacing a faucet on existing supply lines, refinishing floors. All of that is fair game in most jurisdictions.
 

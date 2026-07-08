@@ -23,6 +23,7 @@ faqs:
     a: "The EPA considers areas under 10 square feet manageable by a careful homeowner with proper PPE (N95 respirator minimum, gloves, eye protection) and an EPA-registered disinfectant. That said, I'd be cautious: if anyone in the home has asthma, is immunocompromised, or if you can't confirm the mold hasn't spread behind the wall, get a professional assessment first. Disturbing mold you can't fully contain can make air quality significantly worse."
   - q: "What's the difference between paper tape and mesh tape for drywall repairs, and does it matter?"
     a: "It matters more than most tutorials admit. Paper tape is stronger at seams over time because the joint compound bonds directly to the paper. Fiberglass mesh tape is easier to apply (it's self-adhesive) but is more prone to cracking at seams, especially on repairs that see any movement or vibration. Use paper tape for flat seams on patches. Mesh tape is fine for corner bead or areas where you can't easily fold paper tape into position."
+lastmod: 2026-07-07
 ---
 
 Most homeowners assume drywall water damage is a cosmetic problem. It's not. The water you can see is usually the least of your worries.
@@ -40,6 +41,12 @@ Before you touch the drywall, you need to confirm the moisture source is fixed a
 A decent pin-type moisture meter costs between $25 and $60 (I use a Calculated Industries model that runs about $45, as of July 2026). Drywall should read below 1% moisture content before you repair. Anything above that and you're sealing in a problem. Mold grows at sustained moisture levels around 70% relative humidity or higher, and wet drywall can hit that threshold in 24 to 48 hours. The EPA's own guidance says materials that have been wet for more than 48 to 72 hours should be evaluated for mold before remediation, not just dried out and patched.
 
 ## Assessing the Damage: What Are You Actually Dealing With?
+
+| Damage Type | Signs | Repair Method | Complexity |
+| --- | --- | --- | --- |
+| Surface staining only | Firm drywall, no soft spots, intact paper face | Clean, prime with shellac-based blocker, paint | DIY-friendly |
+| Compromised drywall core | Spongy/crumbly texture, paper delamination, thumb pushes through | Cut out and replace with patch piece | DIY-moderate |
+| Mold present | Fuzzy growth, musty smell after drying | Professional assessment recommended for living spaces | Professional-recommended |
 
 Water damage in drywall falls into roughly three categories, and treating them the same is where people go wrong.
 
@@ -61,7 +68,7 @@ Assuming you've confirmed the source is fixed, the area is genuinely dry, and th
 
 **Match your thickness.** Residential walls are almost universally 1/2-inch drywall. Ceilings are often 5/8-inch for fire rating or sag resistance. Measure before you buy your patch piece. Using the wrong thickness creates a step at the seam that no amount of joint compound will hide cleanly.
 
-**Tape and mud.** Paper tape, not mesh, for flat seams. I know mesh tape is easier. It's also more crack-prone over time because it doesn't bond to the compound as well as paper does. Use a setting-type compound (the kind you mix from powder, like Durabond 45 or 90) for your first coat if the patch is larger than about 12 inches, because it shrinks less than premixed compound. Finish with two to three coats of lightweight premixed compound, feathering each coat wider than the last. Let each coat dry completely before the next.
+**Tape and mud.** [Paper tape, not mesh](/mesh-tape-vs-paper-tape-for-drywall-seams/), for flat seams. I know mesh tape is easier. It's also more crack-prone over time because it doesn't bond to the compound as well as paper does. Use a setting-type compound (the kind you mix from powder, like Durabond 45 or 90) for your first coat if the patch is larger than about 12 inches, because it shrinks less than premixed compound. Finish with two to three coats of lightweight premixed compound, feathering each coat wider than the last. Let each coat dry completely before the next.
 
 A rough timeline: for a 12 by 24 inch patch on a wall, from cutting out to final paint-ready surface, I budget about two full days with drying time factored in.
 

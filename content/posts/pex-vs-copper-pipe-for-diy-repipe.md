@@ -23,12 +23,20 @@ faqs:
     a: "Half-inch handles almost every individual fixture run. Use three-quarter-inch for your main supply line from the street, the line feeding your water heater, and any run serving three or more fixtures off a single branch. If you have a large house with a lot of simultaneous draw (multiple showers running at once), consult a plumber about upsizing your main to one inch."
   - q: "How long does a DIY repipe typically take?"
     a: "A full house repipe done by one person with solid preparation takes four to six days for a 1,500 square foot home. That includes planning, rough-in, pressure testing, and reconnection at fixtures. Budget extra time if you're opening finished walls rather than working in an unfinished space. The rough-in itself is often the fastest part; the demo and patching take longer than most people expect."
+lastmod: 2026-07-07
 ---
 Copper still wins in exactly one scenario: you're doing a small repair on an existing copper system and you don't want to deal with transition fittings. That's it. For anything bigger, for a partial repipe or a full house repipe, PEX has made copper look like a stubborn habit more than a smart choice.
 
 I say that after spending years running both. The arguments you'll still find online defending copper for DIY work are mostly recycled from before PEX-A tools dropped in price and before anyone had two decades of field data on PEX reliability. That data exists now, and the picture is pretty clear.
 
 ## What You're Actually Choosing Between
+
+| Material | Type | Cost per Linear Foot | Best For | Skill Level |
+| --- | --- | --- | --- | --- |
+| Copper | Type M | $1.10-$1.40 | Small repairs, existing systems | Intermediate-Advanced |
+| Copper | Type L | $1.10-$1.40 | Hot water lines, higher pressure | Intermediate-Advanced |
+| PEX | PEX-A | $0.45-$0.65 | Full repipes, new installations | Beginner-Intermediate |
+| PEX | PEX-B | $0.45-$0.65 | Repairs, short runs | Beginner-Intermediate |
 
 PEX is cross-linked polyethylene tubing. It comes in three types: PEX-A (made with the Engel method), PEX-B (silane method), and PEX-C (electron beam). Most DIYers should use PEX-A. It's the most flexible, it has the best freeze resistance, and it's the only type that works with expansion fittings, which are stronger than the pipe itself at the joint. Uponor (formerly Wirsbo) and Rehau make the best PEX-A on the market. PEX-B from brands like SharkBite or Watts is fine for repairs and short runs, but I wouldn't build a whole house on it when PEX-A exists.
 

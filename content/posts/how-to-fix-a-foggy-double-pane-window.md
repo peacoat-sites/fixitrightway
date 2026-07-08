@@ -23,6 +23,7 @@ faqs:
    a: "For clarity, yes, it often works well. For insulation restoration, no. The vent plugs left after the procedure deliberately allow air exchange to prevent re-fogging, which means you've permanently lost the sealed gas fill. If you're in a mild climate and mainly care that the window looks clear again, it's a reasonable fix at a lower cost than full IGU replacement."
  - q: "Can I add my own argon gas when replacing the IGU myself?"
    a: "Realistically, no. Filling an IGU with argon requires injecting the gas during manufacturing while the unit is being sealed, using equipment glass shops use daily. Some shops will fill custom IGUs with argon on request for a modest upcharge, typically $20-$40 extra per unit. Ask when you order. Don't bother trying to inject argon after the fact through any kind of DIY rig."
+lastmod: 2026-07-07
 ---
 
 Fogged double pane windows are one of those repairs where nearly every article you'll find online steers you toward the wrong fix. They'll tell you to replace the whole window, quote you $400-$800 per unit, and send you off to find a contractor. Some of those articles are written by window companies. Funny how that works.
@@ -38,6 +39,12 @@ What a failed seal doesn't do: it doesn't make the window structurally unsafe, i
 The fog itself is mineral deposits. Water vapor comes in, moisture evaporates, leaves calcium and silica residue on the inner glass surface. Early on, fogging looks like haze. Later it looks like someone smeared the inside with a thin layer of dried shampoo. It won't go away on its own.
 
 ## Your Three Real Options, Ranked
+
+| Option | Cost (Glass/Service) | Labor Time | Restores Clarity | Restores Gas Fill | Best For |
+| --- | --- | --- | --- | --- | --- |
+| IGU Replacement | $75-$200 | ~45 min-1 hour | Yes | Yes | Most situations; standard vinyl/aluminum frames |
+| Defogging Service | $75-$150 | N/A | Yes | No | Aesthetics priority; mild climates |
+| Full Window Replacement | $350-$600+ | Installation labor | Yes | Yes | Rotted frame, unusual size, hardware failure, 20+ years old |
 
 **Replace just the IGU.** This is the right answer for most situations. A glass shop orders a replacement IGU cut to your exact dimensions, you or they pop out the old unit, drop in the new one, re-glaze or re-bead, done. Cost is typically $75-$200 for the glass depending on size and glass type, plus an hour of labor if you hire it out. For a standard 24x36 double pane unit, I've paid $90 for the glass and done the swap myself in 45 minutes. This restores full clarity and the insulating gas layer.
 

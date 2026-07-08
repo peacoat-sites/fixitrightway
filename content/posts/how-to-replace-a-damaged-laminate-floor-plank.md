@@ -23,13 +23,19 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-
+lastmod: 2026-07-07
 ---
 You probably noticed the damaged plank weeks ago and have been stepping around it ever since. Maybe it's a bubble from a slow leak under the dishwasher, or a crack from something heavy getting dropped, or just that one high-traffic spot near the back door that finally gave up. Whatever caused it, here's what most people don't realize: replacing a single laminate plank is genuinely doable on a weekend afternoon, and it doesn't require tearing up your whole floor.
 
 That said, there are a few ways to make this harder than it needs to be.
 
 ## Before You Touch Anything: Figure Out What You're Actually Working With
+
+| Locking Type | How It Works | Installation Method | Best For |
+| --- | --- | --- | --- |
+| Fold-down Click Lock | Angle short end up at ~45° and fold down to lock | Row-by-row disassembly or blind install | Most laminate floors installed in last 15 years |
+| Side-snap Click Lock | Planks slide horizontally into each other | Row-by-row disassembly or blind install | Planks that engage from the side |
+| Peel-and-stick (Allure/FasTak) | Adhesive-backed vinyl planks | Typically requires different removal method | Actually vinyl, not laminate |
 
 Laminate floors click together using a tongue-and-groove locking system. The specific lock profile matters more than most DIY articles admit, because it determines exactly how you'll get a replacement plank in and out.
 

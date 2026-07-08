@@ -23,7 +23,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-
+lastmod: 2026-07-07
 ---
 Your garbage disposal is silent when you hit the switch. No hum, no grind, nothing. Most articles will send you straight to "call a plumber." That's almost always wrong. In my experience, a disposal that won't turn on at all is usually fixable in under ten minutes without touching a single tool.
 
@@ -84,6 +84,14 @@ Completely silent disposals either aren't getting power or the thermal overload 
 A disposal making loud noise and then stopping usually means something hard dropped in (a spoon, bottle cap, fork tine). Fish it out with tongs or pliers, not your fingers. Do the hex wrench reset after.
 
 ## When Replacement Makes More Sense
+
+| Component | Cost | Notes |
+| --- | --- | --- |
+| 1/4-inch Allen wrench | ~$3 | Hardware store, standard size |
+| Non-contact voltage tester (Klein CL120) | ~$25 | Home Depot, for switch testing |
+| Mid-range disposal unit (InSinkErator Evolution Compact or Waste King L-8000) | $130-$200 | Replacement cost |
+| Professional plumber labor | $150-$300 | Labor only |
+| Total professional replacement | $280-$500 | Unit + labor combined |
 
 Garbage disposals aren't expensive. A solid mid-range unit like the InSinkErator Evolution Compact or Waste King L-8000 runs $130 to $200. A plumber charges $150 to $300 for labor. Total: roughly $280 to $500 for professional replacement.
 

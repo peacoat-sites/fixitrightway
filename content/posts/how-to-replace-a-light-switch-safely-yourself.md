@@ -23,6 +23,7 @@ faqs:
     a: "Usually this happens with dimmer switches when they're not compatible with the type of bulb in the fixture. LED bulbs in particular require dimmers rated for LED loads. Check the dimmer's packaging for compatibility and make sure your bulbs aren't the culprit. A faint buzz from a standard toggle switch can also indicate a loose connection worth re-checking."
   - q: "Can I replace a regular switch with a smart switch myself?"
     a: "Often, yes, but smart switches almost always require a neutral wire in the box, and older homes sometimes don't have one at the switch location. Check whether your box has a white wire connected (not just tucked back unused) before buying. Lutron's Caseta line is one of the few that can work without a neutral, which is why I recommend it for older homes."
+lastmod: 2026-07-07
 ---
 
 Replacing a light switch is one of those repairs that sounds scarier than it is. I'd guess 90% of the homeowners I've talked to over the years who were nervous about it knocked it out in under 30 minutes once I walked them through it. The other 10% had older wiring that threw them a curveball, and we'll cover that too.
@@ -45,15 +46,21 @@ After that, grab a non-contact voltage tester before you touch a single wire. Yo
 
 ## What You're Actually Working With
 
+| Switch Type | Screw Terminals | Common/Ground | Price Range |
+| --- | --- | --- | --- |
+| Single-pole | 2 brass screws | 1 green ground screw | $3-$8 |
+| Three-way | 2 brass screws | 1 dark common + 1 green ground | $6-$15 |
+| Dimmer | Varies by model | Depends on model | $20-$60+ |
+
 Most light switches in American homes built after the 1960s follow a pretty predictable pattern. You'll open the switch box and find a black wire (hot), a white wire (neutral, though in switch loops it's sometimes used as a hot), a bare copper or green wire (ground), and occasionally a red wire in a three-way setup.
 
-Standard single-pole switches, the kind that control a light from one location, are by far the most common. If you have two switches that control the same light from different ends of a hallway or room, those are three-way switches, and they're a different animal entirely. I'll get to those.
+Standard single-pole switches, the kind that control a light from one location, are by far the most common. If you have two switches that control the same light from different ends of a hallway or room, those are [three-way switches](/how-to-wire-a-three-way-switch-for-beginners/), and they're a different animal entirely. I'll get to those.
 
 Before you buy a replacement switch, check what you've got:
 
 - Single-pole: two screw terminals on the side, plus a ground screw (usually green)
 - Three-way: two screw terminals plus one "common" terminal (usually a darker screw), plus a ground
-- Dimmer switches: may require a neutral wire depending on the model, so check the specs before buying
+- [Dimmer switches](/how-to-install-a-dimmer-switch-step-by-step/): may require a neutral wire depending on the model, so check the specs before buying
 
 Current as of July 2026, a basic single-pole switch runs $3 to $8. A quality three-way switch is $6 to $15. Dimmers range from $20 for a basic Leviton to $60+ for a Lutron Caseta if you want smart features. Don't let the hardware store upsell you on something you don't need.
 

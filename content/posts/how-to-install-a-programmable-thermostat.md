@@ -18,7 +18,7 @@ author: "Kim Reeves"
 author_slug: "kim-reeves"
 author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
-
+lastmod: 2026-07-07
 ---
 Your energy bills keep climbing, and your old thermostat just sits there running heat or air conditioning whether you're home or not. Installing a programmable thermostat is one of the smartest upgrades you can make, and honestly, it's easier than you'd expect. Most people finish this in under an hour with just a few basic tools.
 
@@ -46,13 +46,22 @@ Your new thermostat comes with an installation guide and wiring diagram. Keep it
 
 ## Step 1: Turn Off the Power to Your HVAC System
 
-Safety first. Go to your breaker panel and find the circuit breaker controlling your heating and cooling system. Flip it to OFF.
+Safety first. Go to your breaker panel and find the circuit breaker controlling your [heating and cooling system](/how-to-fix-a-noisy-furnace/). Flip it to OFF.
 
 Don't just turn the thermostat off at the wall. The wiring behind it can still carry live electricity.
 
 **⚠️ Safety:** Before touching any wires, use a non-contact voltage tester near the wires. If it beeps or lights up, go back to the breaker and try again. Never skip this. Electrical shock is real, and older homes sometimes have mislabeled breakers. Once confirmed the power is off, you're safe to remove the old thermostat.
 
 ## Step 2: Remove the Old Thermostat and Label the Wires
+
+| Wire Label | Color | Function |
+| --- | --- | --- |
+| R or RH | Red | Power |
+| RC | - | Cooling power |
+| G | Green | Fan |
+| Y | Yellow | Air conditioning |
+| W | White | Heating |
+| C | Blue or black | Common wire |
 
 Photo by [Nikita Fursenko](https://unsplash.com/@fursenko?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 

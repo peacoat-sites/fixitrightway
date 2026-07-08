@@ -12,13 +12,14 @@ author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
 slug: "weber-and-nexgrill-recalled-13-million-grill-brushes-now-what"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 You pull the grill cover off for the first time this season, grab the wire brush hanging on the side, and start scrubbing the grates without a second thought. That's exactly what 13 million other households were doing right up until federal regulators stepped in and said: stop.
 
 Weber recalled 3.2 million metal wire-bristle grill brushes on February 26, 2026. A month later, on March 26, Nexgrill followed with a recall of 10.2 million brushes, sold exclusively through Home Depot and its website between 2015 and 2026 for anywhere from $5 to $15. Together, these two actions represent one of the largest grilling-product recalls in CPSC history, and they landed right at the start of grilling season, when most people are least likely to be checking recall databases.
 
-If you've got a wire brush in your garage or hanging by the grill, there's a very real chance it's one of them.
+If you've got a [wire brush in your garage](/wire-grill-brush-recall-what-to-use-instead-this-summer/) or hanging by the grill, there's a very real chance it's one of them.
 
 ## What Actually Went Wrong (And Why It's More Serious Than It Sounds)
 
@@ -39,6 +40,13 @@ The actual steps: for Nexgrill, start at the CPSC recall page or Home Depot's re
 Don't procrastinate on this. Recalls have participation windows, and these are already several months old.
 
 ## What to Use Instead
+
+| Brush Type | Material | Detachment Risk | Price Range | Best Use |
+| --- | --- | --- | --- | --- |
+| Wire-bristle (recalled) | Metal wires | High | $5-$15 | Not recommended |
+| Grill stones/pumice blocks | Dense abrasive | None | Not specified | Hot grates, requires burn-off |
+| Coiled stainless steel scrapers | Heavy-gauge wire coils | None | $20-$35 | Built-up carbon, regular maintenance |
+| Wooden scrapers | Wood | None | Not specified | Hot grates immediately after cooking |
 
 Here's where I want to give you something actually useful, because the recall response from most sources is "throw it away" without telling you what comes next.
 
