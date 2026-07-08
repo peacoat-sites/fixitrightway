@@ -18,7 +18,7 @@ author: "Paul Zhang"
 author_slug: "paul-zhang"
 author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your bedroom hits 89 degrees at 11 PM. You're drenched. A window AC unit costs $200 to $400 and takes maybe two hours to install yourself, or you can pay someone $150 to $300 to do it. If you've got a helper and basic tools, you can skip the service call. The trick? Installation done wrong leaks water into your walls, lets bugs in, or worse, drops a 60-pound box onto someone's head.
 
@@ -64,10 +64,10 @@ Measure your window opening. Width. Height. Most AC units fit windows that are 2
 
 Now pick the right cooling power for your room size:
 
-  * **100–150 sq ft:** 5,000 BTU unit
-  * **150–250 sq ft:** 6,000–8,000 BTU unit
-  * **250–400 sq ft:** 10,000–12,000 BTU unit
-  * **400–550 sq ft:** 14,000–18,000 BTU unit
+  * **100-150 sq ft:** 5,000 BTU unit
+  * **150-250 sq ft:** 6,000-8,000 BTU unit
+  * **250-400 sq ft:** 10,000-12,000 BTU unit
+  * **400-550 sq ft:** 14,000-18,000 BTU unit
 
 Too small and your room stays hot. Too large and the unit cycles on and off constantly, eating electricity for no reason. Get the size right the first time.
 
@@ -119,7 +119,7 @@ Clean or replace the filter every two to four weeks when you're using it heavily
 
 When fall comes, pull the unit out, wipe it down, and store it in a dry spot indoors. Put an insulating cover over the window opening during winter to block cold air.
 
-  * Clean the air filter every 2–4 weeks
+  * Clean the air filter every 2-4 weeks
   * Wipe down the exterior vents with a damp cloth monthly
   * Check the drainage hole at the back of the unit for clogs
   * Inspect the weatherstripping each season and replace if worn

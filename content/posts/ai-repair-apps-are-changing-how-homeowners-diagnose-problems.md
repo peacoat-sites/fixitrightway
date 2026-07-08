@@ -12,7 +12,7 @@ author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
 slug: "ai-repair-apps-are-changing-how-homeowners-diagnose-problems"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most home repair coverage right now is asking "which AI app is best?" That's the wrong question. The better one: do these tools actually change anything for a homeowner standing in front of a failing water heater at 7pm, or are they just a prettier way to Google?
@@ -68,7 +68,7 @@ The broader shift here is worth naming plainly. For the first time, homeowners h
 - [Fast Company ,  Thumbtack's new AI diagnoses home repairs](https://www.fastcompany.com/91534514/thumbtacks-new-ai-wants-to-diagnose-your-leaky-eiling) (April 30, 2026)
 - [Toolbox Repair ,  Best Home Repair Apps in 2026](https://toolbox.repair/best-home-repair-apps) (March 25, 2026)
 - [HomeMD.ai ,  Best AI Home Repair Tools in 2026 Comparison](https://homemd.ai/guides/best-ai-home-repair-tools-2026-comparison) (April 17, 2026)
-- [Farnsworth Group ,  10 DIY Statistics Shaping Home Improvement 2026–2028](https://www.thefarnsworthgroup.com/blog/10-diy-statistics-shaping-home-improvement) (February 12, 2026)
+- [Farnsworth Group ,  10 DIY Statistics Shaping Home Improvement 2026-2028](https://www.thefarnsworthgroup.com/blog/10-diy-statistics-shaping-home-improvement) (February 12, 2026)
 - [Geartor ,  Whole Home Battery Backup Systems 2026 Guide](https://geartor.com/whole-home-battery-backup-systems) (December 21, 2025)
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*

@@ -9,7 +9,7 @@ slug: "how-to-stop-drafts-from-windows"
 affiliate_disclosure: true
 faqs:
   - q: "How much can fixing drafty windows lower my heating bill?"
-    a: "According to the U.S. Department of Energy, air leaks around windows and doors can account for up to 30% of home heating costs. By sealing drafts properly with weatherstripping and caulk, many homeowners see a noticeable reduction in monthly energy bills, sometimes 10–20% or more."
+    a: "According to the U.S. Department of Energy, air leaks around windows and doors can account for up to 30% of home heating costs. By sealing drafts properly with weatherstripping and caulk, many homeowners see a noticeable reduction in monthly energy bills, sometimes 10-20% or more."
   - q: "Is window insulation film safe and easy to remove in spring?"
     a: "Yes, window insulation film is completely safe and designed to be temporary. It attaches using double-sided tape and peels away cleanly when the warmer weather arrives. Most kits leave no sticky residue and won’t damage painted frames when removed carefully."
   - q: "When should I call a professional instead of fixing drafts myself?"
@@ -18,7 +18,7 @@ author: "Dana Morrison"
 author_slug: "dana-morrison"
 author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your windows feel like open holes in the wall every winter. Cold air seeps in. Your heating bills climb. You crank the thermostat higher and higher, but you just can't get comfortable.
 
@@ -64,7 +64,7 @@ Get everything before you start. You don't want to be halfway done and realize y
 * A candle, incense stick, or lighter (for finding drafts)
 * A hair dryer (if you use shrink-film insulation)
 
-You probably have half these at home already. Budget $20–$50 total for most standard windows.
+You probably have half these at home already. Budget $20-$50 total for most standard windows.
 
 **Pro Tip:** On a cold or windy day, hold a lit incense stick near your window edges. Watch for the smoke to waver. That tells you exactly where the air's getting in and saves you guessing.
 

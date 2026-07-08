@@ -12,6 +12,7 @@ author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
 slug: "ira-rebates-are-still-on-the-table-how-to-claim-them-now"
 affiliate_disclosure: true
+lastmod: 2026-07-08
 ---
 
 Most coverage of the Inflation Reduction Act right now falls into one of two camps: either breathless "act now before it's gone!" panic, or a shrug that the big credits are dead. Both miss the actual picture. The 25C tax credit did expire December 31, 2025, but the HEEHRA rebate money, the Home Electrification and Appliance Rebates portion of the IRA, is still live in most states, still largely unclaimed, and in some combinations worth more than most homeowners spent on their last two HVAC systems combined.
@@ -41,7 +42,7 @@ This is the part that should make homeowners genuinely frustrated. Because state
 | State | HEEHRA Status (mid-2026) | Additional Incentives |
 | --- | --- | --- |
 | California | Fully reserved, waitlist only | Some utility programs still active |
-| Massachusetts | Active | $1,250–$10,000+ via Mass Save utility rebates |
+| Massachusetts | Active | $1,250-$10,000+ via Mass Save utility rebates |
 | New York | Active | NYSERDA driving 37% jump in installs |
 | Several states | Not yet launched | Federal rebates unavailable; utility-only options |
 

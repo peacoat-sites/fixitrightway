@@ -13,12 +13,12 @@ faqs:
   - q: "Can low water pressure damage my appliances?"
     a: "Yes, chronically low pressure can affect washing machines, dishwashers, and water heaters, causing them to run longer cycles and wear out faster. Some appliances, like certain tankless water heaters, require a minimum pressure threshold to operate at all. Fixing low pressure protects both your comfort and the lifespan of your home’s appliances."
   - q: "How much does it cost to fix low water pressure in a house?"
-    a: "Cost depends entirely on the cause. Cleaning an aerator costs nothing but your time. Replacing a showerhead might run $20–$50. A new pressure reducing valve installed by a plumber typically costs $200–$400 including labor. Replacing corroded galvanized pipes throughout a home is a larger project that can range from $1,500 to $15,000 depending on home size and pipe accessibility. Most homeowners find that simple fixes like cleaning aerators and checking valves solve the problem at zero cost. Low water pressure doesn’t have to mean a big plumbing bill or weeks of frustration. By working through"
+    a: "Cost depends entirely on the cause. Cleaning an aerator costs nothing but your time. Replacing a showerhead might run $20-$50. A new pressure reducing valve installed by a plumber typically costs $200-$400 including labor. Replacing corroded galvanized pipes throughout a home is a larger project that can range from $1,500 to $15,000 depending on home size and pipe accessibility. Most homeowners find that simple fixes like cleaning aerators and checking valves solve the problem at zero cost. Low water pressure doesn’t have to mean a big plumbing bill or weeks of frustration. By working through"
 author: "Dana Morrison"
 author_slug: "dana-morrison"
 author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your shower dribbles when it should pour. Your kitchen faucet takes forever to fill a pot. Low water pressure is frustrating, but here's the thing: most of the time you don't need to call a plumber. Many causes are fixable in under an hour with basic tools. This guide walks you through what to check and how to actually fix it.
 
@@ -44,7 +44,7 @@ Grab these before you start. Most are under $20 total, and you probably own half
 * White vinegar and a small bowl
 * Rubber bands or zip ties
 * Old toothbrush
-* Replacement aerator (optional, $5–$10)
+* Replacement aerator (optional, $5-$10)
 * Plumber's tape
 * Flashlight
 * Bucket and towels
@@ -67,7 +67,7 @@ Measure your actual pressure. Normal household water pressure sits between **45 
 
 Screw the gauge onto an outdoor hose bib. Turn the water on fully and read it. Write the number down.
 
-**Pro Tip:** Test at different times of day. Pressure often dips in early morning (7–9 AM) when everyone's showering. Big swings suggest a municipal supply problem, not your plumbing.
+**Pro Tip:** Test at different times of day. Pressure often dips in early morning (7-9 AM) when everyone's showering. Big swings suggest a municipal supply problem, not your plumbing.
 
 If pressure reads below 40 PSI, keep going. If it reads above 80 PSI, you've got too much pressure (bad for pipes and appliances), and your regulator needs adjustment.
 
@@ -96,7 +96,7 @@ Pressure fine at the main line but weak at specific faucets? It's almost certain
 * Take it apart and soak all pieces in white vinegar for 30 minutes to 1 hour
 * Scrub gently with an old toothbrush to remove deposits
 * Rinse thoroughly and reassemble
-* Reattach and test, if it's badly corroded, a new one costs $5–$10
+* Reattach and test, if it's badly corroded, a new one costs $5-$10
 
 **To clean a showerhead:**
 
@@ -115,9 +115,9 @@ Most homes built after the 1970s have a **pressure reducing valve (PRV)** instal
 * Find the bolt or screw on top, that's your adjustment screw
 * Measure current pressure at a hose bib using your gauge
 * Turn the screw **clockwise** slightly to increase pressure
-* Recheck after each adjustment, aiming for 50–60 PSI
+* Recheck after each adjustment, aiming for 50-60 PSI
 
-If turning the screw does nothing, or if the valve is leaking or corroded, it needs replacement. Call a plumber. The valve itself runs $50–$150.
+If turning the screw does nothing, or if the valve is leaking or corroded, it needs replacement. Call a plumber. The valve itself runs $50-$150.
 
 ## Step 5: Look for Leaks and Pipe Problems
 
@@ -129,7 +129,7 @@ A hidden leak anywhere steals pressure from every faucet. Even a pinhole leak in
 
 * Turn off all water inside and outside your home
 * Note your water meter reading
-* Wait 1–2 hours without using water
+* Wait 1-2 hours without using water
 * If the meter changed, you have a leak
 
 Also inspect exposed pipes in basements and crawlspaces. Look for water stains, wet spots, rust, or green corrosion on copper. If your pipes are older galvanized steel (gray and magnetic), corrosion is restricting flow and they need professional replacement.
@@ -159,7 +159,7 @@ Yes, if you have a basic wrench and a pressure gauge. The adjustment screw turns
 
 ### What PSI should my water pressure be?
 
-Aim for 50–60 PSI for most homes. Anything between 45 and 80 is acceptable. Below 40 feels weak, above 80 strains pipes and appliances. Your pressure regulator should keep it in that sweet spot.
+Aim for 50-60 PSI for most homes. Anything between 45 and 80 is acceptable. Below 40 feels weak, above 80 strains pipes and appliances. Your pressure regulator should keep it in that sweet spot.
 
 ### How do I know if my pipes are galvanized?
 

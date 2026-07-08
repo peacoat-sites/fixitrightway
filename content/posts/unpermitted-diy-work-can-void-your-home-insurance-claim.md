@@ -12,7 +12,7 @@ author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
 slug: "unpermitted-diy-work-can-void-your-home-insurance-claim"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Picture this: it's September, the summer project is done, and you're genuinely proud of the panel upgrade or the bathroom addition you knocked out yourself. Then a kitchen fire happens. The adjuster comes out, starts asking questions, notices the work, pulls the permit history, and your $80,000 claim gets denied. Not because you did the work wrong. Because you never pulled the permit.
@@ -81,7 +81,7 @@ The confidence driving this summer's DIY boom is genuinely good. People are capa
 - [Can Electrical Work Affect Home Insurance? ,  Nexum Electric](https://nexumelectric.com/2026/03/04/can-electrical-work-affect-home-insurance-what-homeowners-should-know-before-diy-or-upgrades/) (March 4, 2026)
 - [Does Homeowners Insurance Cover Unpermitted Work? ,  Econosurance](https://econosurance.com/property-insurance/does-homeowners-insurance-cover-unpermitted-work/) (April 4, 2026)
 - [Unpermitted Additions in 2026: Should You Walk Away? ,  PLHH](https://www.plhh.com/unpermitted-home-additions-2026-buyer-guide.html) (March 22, 2026)
-- [10 DIY Statistics Shaping Home Improvement (2026–2028) ,  Farnsworth Group](https://www.thefarnsworthgroup.com/blog/10-diy-statistics-shaping-home-improvement) (February 12, 2026)
+- [10 DIY Statistics Shaping Home Improvement (2026-2028) ,  Farnsworth Group](https://www.thefarnsworthgroup.com/blog/10-diy-statistics-shaping-home-improvement) (February 12, 2026)
 
 *Photo: [tnfeez desgin](https://www.pexels.com/@tanfeez) via Pexels*
 

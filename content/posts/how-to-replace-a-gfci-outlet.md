@@ -18,7 +18,7 @@ author: "Dana Morrison"
 author_slug: "dana-morrison"
 author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your GFCI outlet keeps tripping, won't reset, or simply stopped working. It's frustrating. The good news is that replacing one is genuinely doable for most homeowners, and you can have it working in about 30 minutes.
 
@@ -45,7 +45,7 @@ Grab everything first so you're not hunting around mid-project.
 * Electrical tape
 * Smartphone or camera for photos
 
-Hardware stores sell replacement GFCI outlets for $15–$25. Check your circuit breaker panel to confirm the amperage before you buy.
+Hardware stores sell replacement GFCI outlets for $15-$25. Check your circuit breaker panel to confirm the amperage before you buy.
 
 **Pro Tip:** Photograph the old outlet before you pull it out. Take a clear shot of the wiring. This becomes your reference guide and helps confirm you've bought the right replacement.
 

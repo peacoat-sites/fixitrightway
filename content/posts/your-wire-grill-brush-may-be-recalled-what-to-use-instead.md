@@ -12,7 +12,7 @@ author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
 slug: "your-wire-grill-brush-may-be-recalled-what-to-use-instead"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 If you've got a grill brush hanging in your garage or stuffed in a drawer near the patio, there's a real chance it's been recalled. Not hypothetically recalled, not "under review", actually pulled from the market by the CPSC because people swallowed metal bristles and ended up in the hospital. Back-to-back recalls in February and March 2026 have now flagged more than 13 million wire-bristle grill brushes sold under the Weber and Nexgrill names. Grilling season is here. This is the moment to go check.
@@ -24,7 +24,7 @@ If you've got a grill brush hanging in your garage or stuffed in a drawer near t
 | Weber | February 26, 2026 | 3.2 million | $10-$17 | Lowe's, Home Depot, Ace Hardware, Target, Amazon | 2011-2026 |
 | Nexgrill | March 26, 2026 | 10.2 million | $5-$15 | Home Depot, homedepot.com | 2015-2026 |
 
-Weber's recall came first. On February 26, 2026, the CPSC announced Weber was pulling over 3.2 million metal wire-bristle grill brushes due to a design flaw that allows individual bristles to detach during normal use. The problem isn't just that bristles fall off. It's that they're thin enough to land on your grate, transfer to food, and get swallowed without anyone noticing. Weber's brushes covered by this recall were sold at Lowe's, Home Depot, Ace Hardware, Target, and Amazon between 2011 and 2026, mostly in the $10–$17 range.
+Weber's recall came first. On February 26, 2026, the CPSC announced Weber was pulling over 3.2 million metal wire-bristle grill brushes due to a design flaw that allows individual bristles to detach during normal use. The problem isn't just that bristles fall off. It's that they're thin enough to land on your grate, transfer to food, and get swallowed without anyone noticing. Weber's brushes covered by this recall were sold at Lowe's, Home Depot, Ace Hardware, Target, and Amazon between 2011 and 2026, mostly in the $10-$17 range.
 
 Then Nexgrill followed exactly a month later. On March 26, 2026, the CPSC announced Nexgrill was recalling over 10.2 million wire-bristle brushes sold exclusively through Home Depot and homedepot.com from 2015 through 2026, priced between $5 and $15. Together, that's more than 13 million brushes across two major brands, sold through virtually every major retailer most homeowners shop.
 
@@ -44,7 +44,7 @@ This is also why the recalls cover such long date ranges. A brush you bought in 
 
 Here's what I tell people when they ask what to buy: the alternatives work just as well, and some of them work better. The wire brush became a default tool because it was cheap and available everywhere, not because it was the best option for grill cleaning.
 
-The most direct swap is a coiled stainless steel scraper. These use a tightly wound coil design instead of loose bristles, and they're effective on both gas and charcoal grates. There's no loose material to shed, and they hold up well over a season. Brands like Kona and Grill Art make well-reviewed versions in the $15–$25 range.
+The most direct swap is a coiled stainless steel scraper. These use a tightly wound coil design instead of loose bristles, and they're effective on both gas and charcoal grates. There's no loose material to shed, and they hold up well over a season. Brands like Kona and Grill Art make well-reviewed versions in the $15-$25 range.
 
 Nylon-bristle brushes are another option, recommended by safety experts and the CDC as a wire-free alternative. They work best when the grate has cooled slightly, since nylon can melt on a screaming hot grate. Worth knowing before you buy.
 

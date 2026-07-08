@@ -18,7 +18,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 That steady _drip, drip, drip_ is costing you money. An outdoor faucet leak wastes hundreds of gallons monthly and can damage your foundation. The good news? Most homeowners can fix this in under an hour without calling a plumber.
 
@@ -28,7 +28,7 @@ You'll need a wrench, some basic parts (under $10 total), and patience. Even if 
   <div class="vm-head">Outdoor Faucet Leak Diagnosis Checklist</div>
   <div class="vm-body">
     <p class="vm-intro">Use this checklist to pinpoint your leak source before disassembly, each location points to a specific repair.</p>
-    <table><thead><tr><th>Leak Location</th><th>What to Look For</th><th>Most Likely Cause</th><th>Parts to Replace</th></tr></thead><tbody><tr><td>Spout (drips when off)</td><td>Water dripping from spout opening with handle fully closed</td><td>Worn seat washer</td><td>Seat washer ($0.50–$2)</td></tr><tr><td>Handle base (while on)</td><td>Water seeping around handle stem when faucet is running</td><td>Degraded packing washer or O-ring</td><td>Packing washer or stem O-ring ($1–$3)</td></tr><tr><td>Handle base (while off)</td><td>Slow weep around stem even with faucet closed</td><td>Loose or worn packing nut</td><td>Tighten nut ¼ turn; replace packing if still leaking</td></tr><tr><td>Body-to-wall connection</td><td>Water emerging where faucet pipe enters siding</td><td>Failed pipe fitting or interior shutoff issue</td><td>Pipe thread sealant or call plumber for interior access</td></tr><tr><td>Vacuum breaker cap</td><td>Water spraying from top cap on frost-free models</td><td>Cracked vacuum breaker diaphragm</td><td>Vacuum breaker repair kit ($5–$10)</td></tr></tbody></table>
+    <table><thead><tr><th>Leak Location</th><th>What to Look For</th><th>Most Likely Cause</th><th>Parts to Replace</th></tr></thead><tbody><tr><td>Spout (drips when off)</td><td>Water dripping from spout opening with handle fully closed</td><td>Worn seat washer</td><td>Seat washer ($0.50-$2)</td></tr><tr><td>Handle base (while on)</td><td>Water seeping around handle stem when faucet is running</td><td>Degraded packing washer or O-ring</td><td>Packing washer or stem O-ring ($1-$3)</td></tr><tr><td>Handle base (while off)</td><td>Slow weep around stem even with faucet closed</td><td>Loose or worn packing nut</td><td>Tighten nut ¼ turn; replace packing if still leaking</td></tr><tr><td>Body-to-wall connection</td><td>Water emerging where faucet pipe enters siding</td><td>Failed pipe fitting or interior shutoff issue</td><td>Pipe thread sealant or call plumber for interior access</td></tr><tr><td>Vacuum breaker cap</td><td>Water spraying from top cap on frost-free models</td><td>Cracked vacuum breaker diaphragm</td><td>Vacuum breaker repair kit ($5-$10)</td></tr></tbody></table>
     <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>

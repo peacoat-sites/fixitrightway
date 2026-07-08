@@ -23,7 +23,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Bad caulk jobs are everywhere on residential walkthroughs. Not because caulking is hard. Because most people skip two steps that matter enormously, and then wonder why their fresh bead is cracking or peeling within six months.
 
@@ -34,7 +34,7 @@ Let me save you that frustration.
   <div class="vm-head">Caulk Type Comparison for Bathtubs</div>
   <div class="vm-body">
     <p class="vm-intro">Choosing the right caulk matters as much as prep work-here's how the three common options compare for typical bathtub applications.</p>
-    <table><thead><tr><th>Caulk Type</th><th>Water Resistance</th><th>Ease of Application</th><th>Mold Resistance</th><th>Cure Time</th><th>Paintable</th><th>Best For</th></tr></thead><tbody><tr><td>100% Silicone</td><td>Excellent</td><td>Difficult (sticky, hard to smooth)</td><td>Excellent (5–10 years typical)</td><td>24–48 hours</td><td>No</td><td>High-use showers, jetted tubs, humid climates</td></tr><tr><td>Siliconized Latex (Acrylic Latex + Silicone)</td><td>Good</td><td>Easy (smooths well, water cleanup)</td><td>Good (3–5 years typical)</td><td>2–4 hours surface dry; 24 hours full cure</td><td>Yes</td><td>Guest baths, standard tubs, DIYers wanting forgiveness</td></tr><tr><td>Polyurethane</td><td>Excellent</td><td>Moderate (tools well but requires solvent cleanup)</td><td>Good (4–7 years typical)</td><td>24–72 hours</td><td>Yes</td><td>Exterior transitions, tub-to-tile gaps with movement</td></tr></tbody></table>
+    <table><thead><tr><th>Caulk Type</th><th>Water Resistance</th><th>Ease of Application</th><th>Mold Resistance</th><th>Cure Time</th><th>Paintable</th><th>Best For</th></tr></thead><tbody><tr><td>100% Silicone</td><td>Excellent</td><td>Difficult (sticky, hard to smooth)</td><td>Excellent (5-10 years typical)</td><td>24-48 hours</td><td>No</td><td>High-use showers, jetted tubs, humid climates</td></tr><tr><td>Siliconized Latex (Acrylic Latex + Silicone)</td><td>Good</td><td>Easy (smooths well, water cleanup)</td><td>Good (3-5 years typical)</td><td>2-4 hours surface dry; 24 hours full cure</td><td>Yes</td><td>Guest baths, standard tubs, DIYers wanting forgiveness</td></tr><tr><td>Polyurethane</td><td>Excellent</td><td>Moderate (tools well but requires solvent cleanup)</td><td>Good (4-7 years typical)</td><td>24-72 hours</td><td>Yes</td><td>Exterior transitions, tub-to-tile gaps with movement</td></tr></tbody></table>
     <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>

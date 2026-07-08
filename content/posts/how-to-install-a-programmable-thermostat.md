@@ -18,11 +18,11 @@ author: "Kim Reeves"
 author_slug: "kim-reeves"
 author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your energy bills keep climbing, and your old thermostat just sits there running heat or air conditioning whether you're home or not. Installing a programmable thermostat is one of the smartest upgrades you can make, and honestly, it's easier than you'd expect. Most people finish this in under an hour with just a few basic tools.
 
-Here's what actually happens: you set heating and cooling schedules around your life. Comfortable temps when you're there, savings when you're not. The U.S. Department of Energy says you can save up to 10% annually on heating and cooling just by dropping your thermostat back 7–10 degrees for 8 hours a day. That adds up.
+Here's what actually happens: you set heating and cooling schedules around your life. Comfortable temps when you're there, savings when you're not. The U.S. Department of Energy says you can save up to 10% annually on heating and cooling just by dropping your thermostat back 7-10 degrees for 8 hours a day. That adds up.
 
 I'll walk you through each step so you can do this safely and get it right the first time.
 
@@ -115,10 +115,10 @@ Go back to the breaker panel and flip the HVAC circuit back on. Return to the th
 
 Now program your schedule. Most programmable thermostats let you set different temperatures for different times and days. A solid starting schedule looks like this:
 
-  * **Wake time (6–8 AM):** Your comfortable temperature
-  * **Away time (8 AM–5 PM):** Back 7–10 degrees for savings
-  * **Home time (5–10 PM):** Return to comfortable
-  * **Sleep time (10 PM–6 AM):** Slightly lower for sleep
+  * **Wake time (6-8 AM):** Your comfortable temperature
+  * **Away time (8 AM-5 PM):** Back 7-10 degrees for savings
+  * **Home time (5-10 PM):** Return to comfortable
+  * **Sleep time (10 PM-6 AM):** Slightly lower for sleep
 
 Follow your thermostat's specific instructions, each one works differently. Once programmed, test both heating and cooling modes to confirm everything works.
 

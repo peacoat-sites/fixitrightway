@@ -18,7 +18,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-
+lastmod: 2026-07-08
 ---
 Your door won't latch. It clicks but swings open. Or maybe it pops open on its own. Or you have to shoulder-shove it every single time. Whatever's happening, it's annoying, it's a security issue, and you're sick of it. The good news: this is one of the easiest household fixes. Most of the time you can solve it yourself in under an hour without calling anyone.
 
@@ -29,7 +29,7 @@ This guide walks you through why doors stop latching and how to actually fix it,
   <div class="vm-head">Diagnosis-to-Fix Decision Matrix</div>
   <div class="vm-body">
     <p class="vm-intro">Use this matrix to identify your specific latch problem and jump directly to the right repair, ranked by how often each cause occurs.</p>
-    <table><thead><tr><th>Symptom</th><th>Quick Test</th><th>Likely Cause</th><th>Fix Time</th><th>Repair Action</th></tr></thead><tbody><tr><td>Latch clicks but door swings open</td><td>Close door slowly; latch retracts before engaging strike</td><td>Strike plate too far from latch (most common: 45% of cases)</td><td>10–15 min</td><td>Move strike plate toward door stop, or add strike plate shim</td></tr><tr><td>Latch won't reach strike hole</td><td>Mark latch with lipstick; close door; check mark position vs. strike opening</td><td>Strike plate misaligned vertically</td><td>15–30 min</td><td>File strike opening ⅛″ in direction of mark, or reposition plate</td></tr><tr><td>Must lift handle to latch</td><td>Open door; check gap at hinge side-wider at top than bottom?</td><td>Sagging hinges (top hinge loose)</td><td>5–20 min</td><td>Tighten or replace top-hinge screws with 3″ screws into stud</td></tr><tr><td>Must push hard to close</td><td>Door binds before latch contacts strike; rubs on frame</td><td>Swollen wood from humidity</td><td>20–45 min</td><td>Sand or plane binding edge; seal with primer after trimming</td></tr><tr><td>Latch sticks in retracted position</td><td>Operate handle with door open-latch sluggish or jammed?</td><td>Dirty or worn latch mechanism</td><td>5–10 min</td><td>Lubricate latch with dry Teflon spray; replace if bent or broken</td></tr><tr><td>Gap around door is uneven or diagonal</td><td>Measure frame corners-difference &gt;¼″ corner to corner</td><td>Frame racked from foundation settling</td><td>30–60 min+</td><td>Shim hinges to re-square door in frame, or consult contractor</td></tr></tbody></table>
+    <table><thead><tr><th>Symptom</th><th>Quick Test</th><th>Likely Cause</th><th>Fix Time</th><th>Repair Action</th></tr></thead><tbody><tr><td>Latch clicks but door swings open</td><td>Close door slowly; latch retracts before engaging strike</td><td>Strike plate too far from latch (most common: 45% of cases)</td><td>10-15 min</td><td>Move strike plate toward door stop, or add strike plate shim</td></tr><tr><td>Latch won't reach strike hole</td><td>Mark latch with lipstick; close door; check mark position vs. strike opening</td><td>Strike plate misaligned vertically</td><td>15-30 min</td><td>File strike opening ⅛″ in direction of mark, or reposition plate</td></tr><tr><td>Must lift handle to latch</td><td>Open door; check gap at hinge side-wider at top than bottom?</td><td>Sagging hinges (top hinge loose)</td><td>5-20 min</td><td>Tighten or replace top-hinge screws with 3″ screws into stud</td></tr><tr><td>Must push hard to close</td><td>Door binds before latch contacts strike; rubs on frame</td><td>Swollen wood from humidity</td><td>20-45 min</td><td>Sand or plane binding edge; seal with primer after trimming</td></tr><tr><td>Latch sticks in retracted position</td><td>Operate handle with door open-latch sluggish or jammed?</td><td>Dirty or worn latch mechanism</td><td>5-10 min</td><td>Lubricate latch with dry Teflon spray; replace if bent or broken</td></tr><tr><td>Gap around door is uneven or diagonal</td><td>Measure frame corners-difference &gt;¼″ corner to corner</td><td>Frame racked from foundation settling</td><td>30-60 min+</td><td>Shim hinges to re-square door in frame, or consult contractor</td></tr></tbody></table>
     <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
@@ -144,7 +144,7 @@ Remove the handle by unscrewing both side plates. The latch mechanism slides out
 
 * Spray lubricant into the mechanism and work it back and forth by hand.
 * Check the spring. Is it bent or broken?
-* If the bolt is bent or the spring is damaged, swap the whole latch unit. They cost $10–$20 at any hardware store and replace in five minutes.
+* If the bolt is bent or the spring is damaged, swap the whole latch unit. They cost $10-$20 at any hardware store and replace in five minutes.
 * Reinstall and test.
 
 Replacing a latch is easier than it sounds. The new one slides right in, handles reattach the same way.

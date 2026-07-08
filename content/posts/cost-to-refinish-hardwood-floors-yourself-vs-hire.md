@@ -23,7 +23,7 @@ faqs:
     a: "Oil-based finishes have strong solvent fumes that persist for days. If you're sensitive to chemicals, have young kids, or anyone with respiratory issues in the house, use water-based finish or vacate during application and for at least 48 hours after. Open windows and use cross-ventilation the entire time. Water-based finishes still off-gas, but much less aggressively."
   - q: "Is it worth refinishing or should I just replace the floors?"
     a: "If the wood is at least 3/4 inch thick, structurally sound, and the damage is cosmetic, refinishing almost always wins on cost. New solid hardwood installed runs $8 to $14 per square foot installed, often more with today's material prices. Refinishing at $3 to $6 per square foot professionally, or under $2 DIY, is a fraction of replacement. I'd only replace if there's subfloor damage, significant warping, or the floor has been sanded down so many times there's no material left to work with."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Forty dollars a square foot. That's what a homeowner in my neighborhood paid last spring to have 800 square feet of white oak refinished by a flooring company. $32,000. For sanding and staining wood that was already there.
@@ -141,6 +141,6 @@ That last one is where DIY really pays off. But notice the person doing it had r
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

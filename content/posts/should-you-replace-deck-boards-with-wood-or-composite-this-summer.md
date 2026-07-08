@@ -12,9 +12,9 @@ author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
 slug: "should-you-replace-deck-boards-with-wood-or-composite-this-summer"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
-Most deck board comparisons treat price-per-square-foot like it's a fixed number. Right now, it isn't. Tariffs on Canadian softwood lumber, which supplies roughly 25–30% of the U.S. market, hit a combined duty rate of 45% in 2026. According to [Gordian's May 2026 lumber cost report](https://www.gordian.com/resources/lumber-price-updates/), framing lumber costs spiked 5.11% in Q2 alone, the ninth consecutive quarter of year-over-year growth. In some regional markets, the tariff pressure has pushed lumber costs up 8–12% this year. That's not a rounding error. That's a material choice getting re-priced in real time, during peak deck season, while you're standing in the lumber aisle trying to decide.
+Most deck board comparisons treat price-per-square-foot like it's a fixed number. Right now, it isn't. Tariffs on Canadian softwood lumber, which supplies roughly 25-30% of the U.S. market, hit a combined duty rate of 45% in 2026. According to [Gordian's May 2026 lumber cost report](https://www.gordian.com/resources/lumber-price-updates/), framing lumber costs spiked 5.11% in Q2 alone, the ninth consecutive quarter of year-over-year growth. In some regional markets, the tariff pressure has pushed lumber costs up 8-12% this year. That's not a rounding error. That's a material choice getting re-priced in real time, during peak deck season, while you're standing in the lumber aisle trying to decide.
 
 The gap between pressure-treated wood and composite decking is narrowing faster than most homeowners realize. If you're replacing boards this summer, here's what that actually means for your decision.
 
@@ -26,11 +26,11 @@ The gap between pressure-treated wood and composite decking is narrowing faster 
 | Composite (Major Brands) | $8.20-$13.30 | 25-30 years | Occasional washing only | Single installation, minimal upkeep |
 | Composite (Mid-Range) | $15-$18 (installed) | 25-30 years | Occasional washing only | Single installation, minimal upkeep |
 
-Composite still costs more upfront. Full stop. Pressure-treated pine deck boards run as little as $2 per square foot. Composite from major domestic brands like Trex, TimberTech, and Fiberon runs $8.20–$13.30 per square foot. The 2025 Zonda Cost vs. Value Report puts a professionally installed 16x20 wood deck at $18,263 versus $25,096 for composite, a 27% premium.
+Composite still costs more upfront. Full stop. Pressure-treated pine deck boards run as little as $2 per square foot. Composite from major domestic brands like Trex, TimberTech, and Fiberon runs $8.20-$13.30 per square foot. The 2025 Zonda Cost vs. Value Report puts a professionally installed 16x20 wood deck at $18,263 versus $25,096 for composite, a 27% premium.
 
 But that premium is moving. Because Trex, TimberTech, and Fiberon manufacture domestically, they're largely insulated from Canadian lumber tariffs. Their price increases have been modest compared to what's happening to pressure-treated pine. Every dollar that pressure-treated wood climbs closes the gap a little more, and the gap was already narrower than it looked once you ran a 25-year lifecycle cost.
 
-Pressure-treated pine realistically lasts 10–15 years before it's cupping, cracking, and driving splinters into bare feet. Composite runs 25–30 years with almost no maintenance. If you replace wood boards twice over 30 years, you've spent the money twice and done the project twice. The tariff environment is making that second trip to the lumber yard look a lot more expensive than it used to.
+Pressure-treated pine realistically lasts 10-15 years before it's cupping, cracking, and driving splinters into bare feet. Composite runs 25-30 years with almost no maintenance. If you replace wood boards twice over 30 years, you've spent the money twice and done the project twice. The tariff environment is making that second trip to the lumber yard look a lot more expensive than it used to.
 
 ## When Wood Still Makes Sense
 
@@ -44,13 +44,13 @@ One more case for wood: structural framing. Even on composite decks, most contra
 
 You're staying in the house long-term. You hate maintenance. You live somewhere with real weather, meaning freeze-thaw cycles, heavy humidity, or a deck that gets full sun all afternoon. Any of those conditions accelerate wood degradation and make composite's durability advantage compound quickly.
 
-The calculation gets cleaner when you build in the actual cost of maintaining wood: deck stain or sealer runs $30–$60 per gallon, you'll need it every one to two years, and you'll need a weekend to do it. Composite needs an occasional wash. That's it. Over a decade, the time and product costs on a wood deck aren't trivial, and they never show up in the upfront price comparison.
+The calculation gets cleaner when you build in the actual cost of maintaining wood: deck stain or sealer runs $30-$60 per gallon, you'll need it every one to two years, and you'll need a weekend to do it. Composite needs an occasional wash. That's it. Over a decade, the time and product costs on a wood deck aren't trivial, and they never show up in the upfront price comparison.
 
-[Ergeon's May 2026 composite cost breakdown](https://www.ergeon.com/blog/post/composite-deck-cost) notes that mid-range composite products from brands like Trex Select or TimberTech Edge have gotten more accessible, with installed costs sometimes landing closer to $15–$18 per square foot on a straightforward board replacement. That's still above pressure-treated, but not by the margin most people assume once labor is in the mix. Labor costs are similar for both materials. You're not saving much on installation by choosing wood.
+[Ergeon's May 2026 composite cost breakdown](https://www.ergeon.com/blog/post/composite-deck-cost) notes that mid-range composite products from brands like Trex Select or TimberTech Edge have gotten more accessible, with installed costs sometimes landing closer to $15-$18 per square foot on a straightforward board replacement. That's still above pressure-treated, but not by the margin most people assume once labor is in the mix. Labor costs are similar for both materials. You're not saving much on installation by choosing wood.
 
 ## The Permit Question Nobody Wants to Deal With
 
-Here's where homeowners get into trouble. Most people assume replacing like-for-like deck boards doesn't require a permit. Most municipalities disagree. Even a board-only replacement on an attached deck typically triggers permit requirements, and permits for this scope usually run $100–$500 depending on your jurisdiction.
+Here's where homeowners get into trouble. Most people assume replacing like-for-like deck boards doesn't require a permit. Most municipalities disagree. Even a board-only replacement on an attached deck typically triggers permit requirements, and permits for this scope usually run $100-$500 depending on your jurisdiction.
 
 Skipping the permit feels like a victimless shortcut until you sell the house. Unpermitted deck work can void manufacturer warranties, complicate your homeowner's insurance claim if something fails, and surface as a problem during the buyer's inspection. Real estate attorneys see this scenario regularly. It's not theoretical.
 

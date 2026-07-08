@@ -23,7 +23,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people look at a hole in their drywall and think the hard part is the repair. I've watched hundreds of homeowners carefully patch, sand, and prime a wall only to end up with a ghost, a faint circular outline that shows up the moment the light hits it at the wrong angle. The hard part isn't filling the hole. The hard part is making it disappear completely. And if you don't understand why those ghosts appear (and how to prevent them from the start), you'll be repainting the same spot three times wondering what went wrong.
 
@@ -40,10 +40,10 @@ Drywall is a gypsum plaster core sandwiched between two layers of paper. The pap
 
 | | DIY (parts only) | Professional |
 |---|---|---|
-| **Small hole patch** | $5–$20 | $75–$200 |
-| **Large section repair** | $20–$60 | $200–$500 |
+| **Small hole patch** | $5-$20 | $75-$200 |
+| **Large section repair** | $20-$60 | $200-$500 |
 
-A small patch costs just $5–$20 in materials. See the [full home repair cost guide](/home-repair-cost-guide/) to compare costs across 30+ repairs.
+A small patch costs just $5-$20 in materials. See the [full home repair cost guide](/home-repair-cost-guide/) to compare costs across 30+ repairs.
 
 The size of the hole determines your repair strategy. This isn't just a general guideline. It's the actual decision tree.
 

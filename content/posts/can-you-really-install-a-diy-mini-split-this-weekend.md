@@ -12,7 +12,7 @@ author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
 slug: "can-you-really-install-a-diy-mini-split-this-weekend"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 If you've been putting off adding a zone of air conditioning because every quote you've gotten has made your stomach drop, this summer might actually be different. Two things happened at once: professional installation costs haven't gotten more reasonable (if anything, a nationwide HVAC labor shortage and elevated tariffs are keeping them high), and the DIY mini-split category just got a meaningful new competitor. Zone Air launched its next-generation DIY mini-split heat pump line in June 2026, with units shipping nationwide this month. That's real competition for MRCOOL, which has owned this space for years, and competition is good for you.
@@ -81,6 +81,6 @@ The DIY mini-split category has genuinely matured. Zone Air entering the market 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)** (~$199) — 200W panel kit with MPPT charge controller for maximum energy harvest.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)** (~$199), 200W panel kit with MPPT charge controller for maximum energy harvest.
 

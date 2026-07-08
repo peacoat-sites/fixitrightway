@@ -18,7 +18,7 @@ author: "Kim Reeves"
 author_slug: "kim-reeves"
 author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your floor looks uneven, your tiles keep cracking, and every time you walk across the room you can feel the dips and bumps beneath your feet. Sound familiar? Before you can lay a beautiful, lasting tile floor, you need to tackle **uneven floor leveling**. The good news? With the right materials and a little patience, most homeowners can handle this themselves.
 
@@ -34,7 +34,7 @@ Taking the time to properly level your floor protects your investment and ensure
 
 Gather everything before you start. Nothing's worse than mixing compound and then realizing you left the gauge rake at the store.
 
-  * Long straightedge or level (at least 6–10 feet)
+  * Long straightedge or level (at least 6-10 feet)
   * Tape measure and pencil
   * Floor scraper or wide putty knife
   * Shop vacuum or broom
@@ -47,9 +47,9 @@ Gather everything before you start. Nothing's worse than mixing compound and the
   * Foam backer rod or perimeter tape (for edges)
   * Patching compound or floor patch (for high spots and cracks)
 
-Self-leveling compound typically comes in 50-pound bags and covers roughly 40–50 square feet at a 1/4-inch depth. Most items are available at your local home improvement store.
+Self-leveling compound typically comes in 50-pound bags and covers roughly 40-50 square feet at a 1/4-inch depth. Most items are available at your local home improvement store.
 
-**Pro Tip:** Buy about 10–15% more self-leveling compound than you think you need. Having a little left over beats running short mid-pour when the product is already setting up.
+**Pro Tip:** Buy about 10-15% more self-leveling compound than you think you need. Having a little left over beats running short mid-pour when the product is already setting up.
 
 ## Step 1: Assess and Map Your Floor
 
@@ -103,7 +103,7 @@ Follow the mixing instructions on your specific product carefully:
 
   * Pour the correct amount of clean, cold water into your bucket first
   * Add the leveling compound powder slowly while mixing with a drill and paddle
-  * Mix for 3–5 minutes until you reach a smooth, lump-free consistency
+  * Mix for 3-5 minutes until you reach a smooth, lump-free consistency
   * Pour immediately into the low areas you identified in Step 1
   * Use a gauge rake or smoother to spread it evenly
 
@@ -115,7 +115,7 @@ If you're leveling a large room, consider having a helper to mix a second batch 
 
 Photo by [Possessed Photography](https://unsplash.com/@possessedphotography?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Once the compound is poured and spread, leave it alone. Resist the urge to walk on it or test it too early. Most products are dry enough to walk on in **4–6 hours**, but you should wait a full **24 hours** before tiling. Always check the manufacturer's recommended cure time.
+Once the compound is poured and spread, leave it alone. Resist the urge to walk on it or test it too early. Most products are dry enough to walk on in **4-6 hours**, but you should wait a full **24 hours** before tiling. Always check the manufacturer's recommended cure time.
 
 After the leveler has fully cured, drag your straightedge across the surface again. The floor should now be flat and smooth. If you notice any small ridges at the edges of your pour, lightly sand them down with a hand sander.
 

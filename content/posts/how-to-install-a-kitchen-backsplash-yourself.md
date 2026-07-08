@@ -18,7 +18,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your kitchen backsplash is cracked, stained, or stuck in 1987. Every time you cook, you stare at it. Here's the thing: installing a kitchen backsplash yourself is one of the most rewarding DIY projects you can tackle on a weekend, and it transforms your entire kitchen without the $15,000 full-renovation price tag.
 
@@ -33,7 +33,7 @@ Even if you've never laid a tile in your life, this guide will walk you through 
 | Tool Rental | Included | ~$40/day (wet saw) |
 | Material Waste Buffer | Included | 10% extra recommended |
 
-A professional installation runs $800 to $3,000 depending on your kitchen size. Doing it yourself costs $200–$500 in materials. That's money you can spend on something you actually want.
+A professional installation runs $800 to $3,000 depending on your kitchen size. Doing it yourself costs $200-$500 in materials. That's money you can spend on something you actually want.
 
 Beyond the savings, there's real satisfaction in looking at your kitchen and knowing you did that. Most kitchens get tiled in one to two days, even for a first-timer working at a comfortable pace.
 
@@ -114,9 +114,9 @@ After the adhesive cures for 24 hours, remove all your spacers. Mix grout accord
 
 Using your grout float at a 45-degree angle, push grout diagonally across the tiles, pressing it firmly into every joint. Work in small sections of about four square feet. Remove excess grout by holding the float nearly flat and sweeping across.
 
-Wait 15–20 minutes, then use a damp sponge to wipe the tiles clean in circular motions, rinsing frequently. A light haze may remain, that's normal. Once grout cures for 24 hours, buff the haze away with a dry cloth.
+Wait 15-20 minutes, then use a damp sponge to wipe the tiles clean in circular motions, rinsing frequently. A light haze may remain, that's normal. Once grout cures for 24 hours, buff the haze away with a dry cloth.
 
-Apply grout sealer once the grout has fully cured (usually 48–72 hours). This protects against moisture, staining, and mold, especially important in kitchens. Run a thin bead of caulk where the backsplash meets the countertop instead of grout, since that joint needs flexibility to absorb movement.
+Apply grout sealer once the grout has fully cured (usually 48-72 hours). This protects against moisture, staining, and mold, especially important in kitchens. Run a thin bead of caulk where the backsplash meets the countertop instead of grout, since that joint needs flexibility to absorb movement.
 
 ## You Are Ready to Transform Your Kitchen
 

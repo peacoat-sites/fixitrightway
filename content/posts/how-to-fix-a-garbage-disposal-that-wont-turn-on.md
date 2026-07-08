@@ -23,7 +23,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your garbage disposal is silent when you hit the switch. No hum, no grind, nothing. Most articles will send you straight to "call a plumber." That's almost always wrong. In my experience, a disposal that won't turn on at all is usually fixable in under ten minutes without touching a single tool.
 
@@ -33,7 +33,7 @@ Let me walk you through this the right way.
 <div class="value-module">
  <div class="vm-head">Disposal Won't Start: Diagnostic Checklist</div>
  <div class="vm-body">
- <p class="vm-intro">Work through these checks in order, most failures resolve at steps 1–3.</p>
+ <p class="vm-intro">Work through these checks in order, most failures resolve at steps 1-3.</p>
  <table><thead><tr><th>Step</th><th>Check</th><th>Pass Threshold</th><th>If Fails</th></tr></thead><tbody><tr><td>1</td><td>Wall switch or outlet has power</td><td>Other appliances work on same circuit; GFCI not tripped</td><td>Reset GFCI or flip breaker; test outlet with lamp or phone charger</td></tr><tr><td>2</td><td>Reset button on disposal bottom</td><td>Button flush with housing, clicks when pressed</td><td>Press firmly until click; if it pops back out, proceed to step 3</td></tr><tr><td>3</td><td>Flywheel rotates freely</td><td>¼" Allen wrench turns full 360° without binding</td><td>Crank wrench back and forth until obstruction clears, then re-try step 2</td></tr><tr><td>4</td><td>Reset button stays engaged after clearing jam</td><td>Holds flush for 10+ seconds</td><td>Motor may be burned out, replacement typically more economical than repair</td></tr><tr><td>5</td><td>Disposal runs when switch flipped</td><td>Motor spins, grinding sound normal</td><td>If hums but won't spin: jam remains (repeat step 3). If silent: wiring or switch fault, test with multimeter or call electrician</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>

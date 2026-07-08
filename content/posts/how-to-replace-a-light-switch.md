@@ -23,7 +23,7 @@ author: "Paul Zhang"
 author_slug: "paul-zhang"
 author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most homeowners figure a dead light switch means the switch itself has failed. Sometimes that's true. But I've seen plenty of cases where the switch was fine and the real problem was a loose wire connection that had been arcing for months. Replacing the switch fixed it, sure, but only because the electrician happened to catch the real issue while the cover plate was off. The point is: opening up a switch box is more diagnostic than most people realize. And with basic precautions, it's one of the most accessible electrical repairs a homeowner can do.
 
@@ -48,10 +48,10 @@ What surprised me when I started paying closer attention is how many older homes
 
 | | DIY (parts only) | Professional |
 |---|---|---|
-| **Replace light switch** | $5–$15 | $80–$200 |
-| **Install GFCI outlet** | $15–$30 | $100–$250 |
+| **Replace light switch** | $5-$15 | $80-$200 |
+| **Install GFCI outlet** | $15-$30 | $100-$250 |
 
-The switch itself costs $5–$15. An electrician charges $80–$200 for the same job. See the [full home repair cost guide](/home-repair-cost-guide/) to compare costs across 30+ common repairs.
+The switch itself costs $5-$15. An electrician charges $80-$200 for the same job. See the [full home repair cost guide](/home-repair-cost-guide/) to compare costs across 30+ common repairs.
 
 ## Tools and Materials: Don't Overthink It
 
