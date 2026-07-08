@@ -3,7 +3,7 @@ title: "How to install a new shower"
 date: 2026-05-19T10:50:58.139635+00:00
 draft: false
 description: "Learn how to install a shower with this complete step-by-step guide for homeowners. Covers tools, removal, base installation, plumbing, sealing, and accessib"
-image: "https://images.pexels.com/photos/9376103/pexels-photo-9376103.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9376103.jpg"
 categories: ["bathroom"]
 slug: "how-to-install-a-new-shower"
 affiliate_disclosure: true

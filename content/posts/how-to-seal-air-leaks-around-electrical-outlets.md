@@ -3,7 +3,7 @@ title: "How To Seal Air Leaks Around Electrical Outlets"
 date: 2026-06-21T10:24:52.100921+00:00
 draft: false
 description: "Stop drafts and cut energy bills by sealing air leaks around electrical outlets with simple foam gaskets, caulk, and weatherstripping in minutes."
-image: "https://images.pexels.com/photos/7937307/pexels-photo-7937307.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7937307.jpg"
 categories: ["Energy & Insulation"]
 tags: ["seal", "leaks", "around", "electrical", "outlets"]
 author: "Paul Zhang"

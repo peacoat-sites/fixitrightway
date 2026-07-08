@@ -3,7 +3,7 @@ title: "Should You Replace Deck Boards with Wood or Composite This Summer?"
 date: 2026-06-21T10:22:31.323471+00:00
 draft: false
 description: "Torn between wood and composite deck boards this summer? Compare costs, durability, maintenance, and appearance to find the best material for your outdoor space"
-image: "https://images.pexels.com/photos/10118262/pexels-photo-10118262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/10118262.jpg"
 categories: ["trending"]
 tags: ["should", "replace", "deck", "boards", "with"]
 author: "Kim Reeves"

@@ -3,7 +3,7 @@ title: "How To Replace A Light Switch Safely Yourself"
 date: 2026-07-05T09:31:49.720513+00:00
 draft: false
 description: "Learn how to replace a light switch safely yourself with this step-by-step guide covering tools needed, wiring tips, and important safety precautions."
-image: "https://images.pexels.com/photos/13963756/pexels-photo-13963756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/13963756.jpg"
 categories: ["Electrical"]
 tags: ["replace", "light", "switch", "safely", "yourself"]
 author: "Dana Morrison"

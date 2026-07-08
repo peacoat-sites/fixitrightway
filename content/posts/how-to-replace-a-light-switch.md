@@ -3,7 +3,7 @@ title: "How To Replace A Light Switch"
 date: 2026-05-23T10:44:00.717510+00:00
 draft: false
 description: "Learn how to replace a light switch safely with our easy step-by-step guide. Save money on electrician fees and complete this simple DIY job in minutes."
-image: "https://images.pexels.com/photos/6519918/pexels-photo-6519918.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6519918.jpg"
 categories: ["Electrical"]
 tags: ["replace", "light", "switch"]
 slug: "how-to-replace-a-light-switch"

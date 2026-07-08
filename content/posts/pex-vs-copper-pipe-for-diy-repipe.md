@@ -3,7 +3,7 @@ title: "PEX Vs Copper Pipe For DIY Repipe"
 date: 2026-06-17T11:24:29.460705+00:00
 draft: false
 description: "Compare PEX vs copper pipe for your DIY repipe project. Learn costs, durability, installation ease, and which material suits your home best."
-image: "https://images.pexels.com/photos/3324442/pexels-photo-3324442.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3324442.jpg"
 categories: ["Plumbing"]
 tags: ["copper", "pipe", "repipe"]
 author: "Maria Gonzalez"

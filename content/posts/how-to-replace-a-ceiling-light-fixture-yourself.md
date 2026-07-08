@@ -3,7 +3,7 @@ title: "How To Replace A Ceiling Light Fixture Yourself"
 date: 2026-06-05T12:20:43.199216+00:00
 draft: false
 description: "Learn how to replace a ceiling light fixture yourself with this simple step-by-step guide. Save money on electrician fees and upgrade your home lighting safely."
-image: "https://images.pexels.com/photos/8469950/pexels-photo-8469950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8469950.jpg"
 categories: ["Electrical"]
 tags: ["replace", "ceiling", "light", "fixture", "yourself"]
 slug: "how-to-replace-a-ceiling-light-fixture-yourself"

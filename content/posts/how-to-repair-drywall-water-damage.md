@@ -3,7 +3,7 @@ title: "How To Repair Drywall Water Damage"
 date: 2026-07-06T11:17:27.208145+00:00
 draft: false
 description: "Learn how to repair drywall water damage step by step. Fix stains, soft spots, and holes with simple tools and restore your walls to perfect condition fast."
-image: "https://images.pexels.com/photos/27728635/pexels-photo-27728635.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/27728635.jpg"
 categories: ["Drywall & Walls"]
 tags: ["repair", "drywall", "water", "damage"]
 author: "Paul Zhang"

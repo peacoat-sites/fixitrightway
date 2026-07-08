@@ -3,7 +3,7 @@ title: "How To Fix A Running Toilet"
 date: 2026-05-26T15:08:50.223846+00:00
 draft: false
 description: "Learn how to fix a running toilet with our simple step-by-step guide. Save water, reduce bills, and solve common toilet problems quickly with basic tools."
-image: "https://images.pexels.com/photos/5938250/pexels-photo-5938250.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5938250.jpg"
 categories: ["Plumbing"]
 tags: ["running", "toilet"]
 slug: "how-to-fix-a-running-toilet"

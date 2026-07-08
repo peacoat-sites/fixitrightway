@@ -3,7 +3,7 @@ title: "When DIY Voids Your Insurance: The Permit Trap Homeowners Miss"
 date: 2026-06-24T10:02:18.263534+00:00
 draft: false
 description: "Learn how skipping building permits on DIY projects can void your homeowners insurance and leave you financially exposed when you need coverage most."
-image: "https://images.pexels.com/photos/8293635/pexels-photo-8293635.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8293635.jpg"
 categories: ["trending"]
 tags: ["when", "voids", "your", "insurance:", "permit"]
 author: "Paul Zhang"

@@ -3,7 +3,7 @@ title: "How To Match Orange Peel Texture On Patched Drywall"
 date: 2026-07-03T09:45:18.569001+00:00
 draft: false
 description: "Learn how to match orange peel texture on patched drywall. Step-by-step guide to blending repairs seamlessly with your existing wall texture."
-image: "https://images.pexels.com/photos/12326419/pexels-photo-12326419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12326419.jpg"
 categories: ["Drywall & Walls"]
 tags: ["match", "orange", "peel", "texture", "patched"]
 author: "Kim Reeves"

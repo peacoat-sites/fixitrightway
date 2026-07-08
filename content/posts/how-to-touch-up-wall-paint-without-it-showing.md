@@ -3,7 +3,7 @@ title: "How To Touch Up Wall Paint Without It Showing"
 date: 2026-06-10T10:44:43.188950+00:00
 draft: false
 description: "Learn how to touch up wall paint without it showing using expert blending techniques, the right tools, and colour-matching tips for a flawless, invisible finish"
-image: "https://images.pexels.com/photos/7218037/pexels-photo-7218037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7218037.jpg"
 categories: ["Painting"]
 tags: ["touch", "wall", "paint", "without", "showing"]
 slug: "how-to-touch-up-wall-paint-without-it-showing"

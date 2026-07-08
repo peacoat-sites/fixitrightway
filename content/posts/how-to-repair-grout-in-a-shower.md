@@ -3,7 +3,7 @@ title: "How To Repair Grout In A Shower"
 date: 2026-06-23T10:24:00.683091+00:00
 draft: false
 description: "Learn how to repair grout in a shower step by step. Remove damaged grout, apply fresh grout, and seal it properly for a clean, waterproof finish."
-image: "https://images.pexels.com/photos/7587289/pexels-photo-7587289.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7587289.jpg"
 categories: ["Bathroom"]
 tags: ["repair", "grout", "shower"]
 author: "Dana Morrison"

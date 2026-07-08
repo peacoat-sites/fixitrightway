@@ -3,7 +3,7 @@ title: "How To Caulk A Bathtub Like A Pro"
 date: 2026-06-11T11:15:45.012491+00:00
 draft: false
 description: "Learn how to caulk a bathtub like a pro with our step-by-step guide. Get a watertight, clean finish that prevents mold and keeps your tub looking brand new."
-image: "https://images.pexels.com/photos/3990591/pexels-photo-3990591.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3990591.jpg"
 categories: ["Bathroom"]
 tags: ["caulk", "bathtub", "like"]
 slug: "how-to-caulk-a-bathtub-like-a-pro"

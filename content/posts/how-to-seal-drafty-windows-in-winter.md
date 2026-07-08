@@ -3,7 +3,7 @@ title: "How To Seal Drafty Windows In Winter"
 date: 2026-06-08T11:32:55.876740+00:00
 draft: false
 description: "Stop cold air and high heating bills with these easy DIY methods to seal drafty windows this winter using weatherstripping, caulk, and insulating film."
-image: "https://images.pexels.com/photos/32254522/pexels-photo-32254522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/32254522.jpg"
 categories: ["Energy & Insulation"]
 tags: ["seal", "drafty", "windows", "winter"]
 slug: "how-to-seal-drafty-windows-in-winter"

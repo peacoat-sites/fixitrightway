@@ -3,7 +3,7 @@ title: "How To Insulate An Attic Yourself To Save Energy"
 date: 2026-06-07T09:52:34.970256+00:00
 draft: false
 description: "Learn how to insulate your attic yourself with our step-by-step guide. Cut energy bills, boost comfort, and choose the right materials for maximum savings."
-image: "https://images.pexels.com/photos/29356271/pexels-photo-29356271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/29356271.jpg"
 categories: ["Energy & Insulation"]
 tags: ["insulate", "attic", "yourself", "save", "energy"]
 slug: "how-to-insulate-an-attic-yourself-to-save-energy"

@@ -3,7 +3,7 @@ title: "How To Cover A Stain That Bleeds Through Paint"
 date: 2026-07-01T10:35:16.346017+00:00
 draft: false
 description: "Stop bleed-through stains ruining your paint job. Learn which primers and techniques permanently block tough stains like water damage, smoke, and grease."
-image: "https://images.pexels.com/photos/13778011/pexels-photo-13778011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/13778011.jpg"
 categories: ["Painting"]
 tags: ["cover", "stain", "that", "bleeds", "through"]
 author: "Maria Gonzalez"

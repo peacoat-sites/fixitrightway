@@ -3,7 +3,7 @@ title: "How To Find Studs Behind Drywall Without A Stud Finder"
 date: 2026-06-06T09:15:04.133302+00:00
 draft: false
 description: "Learn how to find studs behind drywall without a stud finder using simple tricks like knocking, measuring, and using a magnet to locate nails fast and accuratel"
-image: "https://images.pexels.com/photos/3614763/pexels-photo-3614763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3614763.jpg"
 categories: ["Drywall & Walls"]
 tags: ["find", "studs", "behind", "drywall", "without"]
 slug: "how-to-find-studs-behind-drywall-without-a-stud-finder"

@@ -3,7 +3,7 @@ title: "How to install a programmable thermostat"
 date: 2026-05-19T21:15:24.990511+00:00
 draft: false
 description: "Learn how to install a programmable thermostat safely and easily with this step-by-step guide. Save money on energy bills and enjoy a more comfortable home t"
-image: "https://images.pexels.com/photos/7214157/pexels-photo-7214157.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7214157.jpg"
 categories: ["hvac"]
 slug: "how-to-install-a-programmable-thermostat"
 affiliate_disclosure: true

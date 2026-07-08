@@ -3,7 +3,7 @@ title: "How To Fix A Squeaky Hardwood Floor From Above"
 date: 2026-07-04T09:10:50.557313+00:00
 draft: false
 description: "Learn how to fix a squeaky hardwood floor from above with simple DIY methods that stop annoying creaks without removing your flooring or subfloor."
-image: "https://images.pexels.com/photos/218535/pexels-photo-218535.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/218535.jpg"
 categories: ["Flooring"]
 tags: ["squeaky", "hardwood", "floor", "from", "above"]
 author: "Steve Adams"

@@ -3,7 +3,7 @@ title: "How To Remove Hard Water Stains From Toilet Bowl"
 date: 2026-06-08T11:30:41.537601+00:00
 draft: false
 description: "Discover the best methods to remove stubborn hard water stains from your toilet bowl using simple household products like vinegar, baking soda, and pumice stone"
-image: "https://images.pexels.com/photos/127726/pexels-photo-127726.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/127726.jpg"
 categories: ["Bathroom"]
 tags: ["remove", "hard", "water", "stains", "from"]
 slug: "how-to-remove-hard-water-stains-from-toilet-bowl"

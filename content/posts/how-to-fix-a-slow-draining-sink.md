@@ -3,7 +3,7 @@ title: "How To Fix A Slow Draining Sink"
 date: 2026-06-22T12:38:42.628006+00:00
 draft: false
 description: "Learn how to fix a slow draining sink fast with simple DIY methods including cleaning the drain, removing clogs, and using basic household tools."
-image: "https://images.pexels.com/photos/4194980/pexels-photo-4194980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4194980.jpg"
 categories: ["Plumbing"]
 tags: ["slow", "draining", "sink"]
 author: "Maria Gonzalez"

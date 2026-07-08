@@ -3,7 +3,7 @@ title: "How Tariff-Driven Material Costs Are Changing What You Should DIY"
 date: 2026-06-18T11:02:07.875975+00:00
 draft: false
 description: "Discover how rising tariff-driven material costs are reshaping DIY decisions. Learn which projects still save money and which are now better left to the pros."
-image: "https://images.pexels.com/photos/15060438/pexels-photo-15060438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15060438.jpg"
 categories: ["trending"]
 tags: ["tariff-driven", "material", "costs", "changing", "what"]
 author: "Dana Morrison"

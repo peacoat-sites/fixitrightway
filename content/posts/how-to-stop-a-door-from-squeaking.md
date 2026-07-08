@@ -3,7 +3,7 @@ title: "How To Stop A Door From Squeaking"
 date: 2026-05-23T09:53:52.527164+00:00
 draft: false
 description: "Learn how to stop a door from squeaking with simple fixes using household items. Discover quick lubrication tips and hinge solutions to silence noisy doors for "
-image: "https://images.pexels.com/photos/20883103/pexels-photo-20883103.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/20883103.jpg"
 categories: ["Doors & Windows"]
 tags: ["stop", "door", "from", "squeaking"]
 slug: "how-to-stop-a-door-from-squeaking"

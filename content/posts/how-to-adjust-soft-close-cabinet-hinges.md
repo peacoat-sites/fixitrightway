@@ -3,7 +3,7 @@ title: "How To Adjust Soft Close Cabinet Hinges"
 date: 2026-06-20T09:53:32.851885+00:00
 draft: false
 description: "Learn how to adjust soft close cabinet hinges in minutes with simple tools. Fix slow, loud, or misaligned doors using these easy step-by-step instructions."
-image: "https://images.pexels.com/photos/8089082/pexels-photo-8089082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8089082.jpg"
 categories: ["Kitchen"]
 tags: ["adjust", "soft", "close", "cabinet", "hinges"]
 author: "Steve Adams"

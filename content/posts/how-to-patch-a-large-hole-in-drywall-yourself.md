@@ -3,7 +3,7 @@ title: "How To Patch A Large Hole In Drywall Yourself"
 date: 2026-07-03T09:47:23.695254+00:00
 draft: false
 description: "Learn how to patch large drywall holes yourself with this step-by-step guide. Discover the tools, materials, and techniques needed for professional-looking repa"
-image: "https://images.pexels.com/photos/28380061/pexels-photo-28380061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/28380061.jpg"
 categories: ["Drywall & Walls"]
 tags: ["patch", "large", "hole", "drywall", "yourself"]
 author: "Paul Zhang"

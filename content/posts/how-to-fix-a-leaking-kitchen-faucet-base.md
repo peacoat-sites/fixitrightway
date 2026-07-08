@@ -3,7 +3,7 @@ title: "How To Fix A Leaking Kitchen Faucet Base"
 date: 2026-06-26T10:04:17.640761+00:00
 draft: false
 description: "Learn how to fix a leaking kitchen faucet base with simple tools and step-by-step instructions. Stop water damage and save money on plumber costs today."
-image: "https://images.pexels.com/photos/7166562/pexels-photo-7166562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7166562.jpg"
 categories: ["Kitchen"]
 tags: ["leaking", "kitchen", "faucet", "base"]
 author: "Paul Zhang"

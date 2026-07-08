@@ -3,7 +3,7 @@ title: "How To Replace A Garbage Disposal Step By Step"
 date: 2026-06-19T11:08:01.729300+00:00
 draft: false
 description: "Learn how to replace a garbage disposal step by step with this easy guide covering tools needed, removal, installation, and testing for a leak-free result."
-image: "https://images.pexels.com/photos/33929670/pexels-photo-33929670.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33929670.jpg"
 categories: ["Plumbing"]
 tags: ["replace", "garbage", "disposal", "step", "step"]
 author: "Paul Zhang"

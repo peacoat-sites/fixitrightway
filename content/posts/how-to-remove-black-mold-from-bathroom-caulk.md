@@ -3,7 +3,7 @@ title: "How To Remove Black Mold From Bathroom Caulk"
 date: 2026-06-12T10:55:01.960374+00:00
 draft: false
 description: "Learn how to remove black mold from bathroom caulk using simple household solutions. Restore your caulk to pristine condition and prevent future mold growth eff"
-image: "https://images.pexels.com/photos/8583820/pexels-photo-8583820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8583820.jpg"
 categories: ["Bathroom"]
 tags: ["remove", "black", "mold", "from", "bathroom"]
 slug: "how-to-remove-black-mold-from-bathroom-caulk"

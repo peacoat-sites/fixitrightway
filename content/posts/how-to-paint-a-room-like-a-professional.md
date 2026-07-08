@@ -3,7 +3,7 @@ title: "How to paint a room like a professional"
 date: 2026-05-26T12:28:54.016052+00:00
 draft: false
 description: "Learn how to paint a room like a professional with this complete step-by-step guide. Covering tools, prep, priming, rolling, and clean-up, get flawless resu"
-image: "https://images.pexels.com/photos/7217928/pexels-photo-7217928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7217928.jpg"
 categories: ["painting"]
 slug: "how-to-paint-a-room-like-a-professional"
 affiliate_disclosure: true

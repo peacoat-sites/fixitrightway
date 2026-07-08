@@ -3,7 +3,7 @@ title: "How to fix a tile that has come loose"
 date: 2026-05-25T19:36:03.868359+00:00
 draft: false
 description: "Learn how to complete a loose floor tile repair yourself with this easy step-by-step guide. Includes tools list, pro tips, safety advice, and an FAQ to help"
-image: "https://images.pexels.com/photos/5769593/pexels-photo-5769593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5769593.jpg"
 categories: ["floors"]
 slug: "how-to-fix-a-tile-that-has-come-loose"
 affiliate_disclosure: true

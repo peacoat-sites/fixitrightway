@@ -3,7 +3,7 @@ title: "How To Fix A Crack In Plaster Wall Before Painting"
 date: 2026-06-30T10:23:10.460833+00:00
 draft: false
 description: "Learn how to fix a crack in a plaster wall before painting with simple tools and steps to get a smooth, professional finish every time."
-image: "https://images.pexels.com/photos/7794439/pexels-photo-7794439.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7794439.jpg"
 categories: ["Drywall & Walls"]
 tags: ["crack", "plaster", "wall", "before", "painting"]
 author: "Dana Morrison"

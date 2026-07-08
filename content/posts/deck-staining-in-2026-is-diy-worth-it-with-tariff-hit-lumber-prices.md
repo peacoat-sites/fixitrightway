@@ -3,7 +3,7 @@ title: "Deck Staining in 2026: Is DIY Worth It With Tariff-Hit Lumber Prices?"
 date: 2026-07-01T10:33:09.410133+00:00
 draft: false
 description: "Discover if DIY deck staining still saves money in 2026 as tariffs drive up lumber costs. Compare DIY vs pro costs, tips, and what homeowners need to know."
-image: "https://images.pexels.com/photos/221027/pexels-photo-221027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/221027.jpg"
 categories: ["trending"]
 tags: ["deck", "staining", "2026:", "worth", "with"]
 author: "Paul Zhang"

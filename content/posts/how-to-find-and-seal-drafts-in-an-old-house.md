@@ -3,7 +3,7 @@ title: "How To Find And Seal Drafts In An Old House"
 date: 2026-06-24T10:04:38.699266+00:00
 draft: false
 description: "Learn how to find hidden drafts in an old house and seal them effectively to improve comfort and lower your energy bills year-round."
-image: "https://images.pexels.com/photos/10608219/pexels-photo-10608219.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/10608219.jpg"
 categories: ["Energy & Insulation"]
 tags: ["find", "seal", "drafts", "house"]
 author: "Maria Gonzalez"

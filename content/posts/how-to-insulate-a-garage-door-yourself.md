@@ -3,7 +3,7 @@ title: "How To Insulate A Garage Door Yourself"
 date: 2026-06-11T11:18:12.782539+00:00
 draft: false
 description: "Save money and improve energy efficiency by learning how to insulate your garage door yourself with our easy step-by-step guide covering materials, tools, and t"
-image: "https://images.pexels.com/photos/18335929/pexels-photo-18335929.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18335929.jpg"
 categories: ["Energy & Insulation"]
 tags: ["insulate", "garage", "door", "yourself"]
 slug: "how-to-insulate-a-garage-door-yourself"

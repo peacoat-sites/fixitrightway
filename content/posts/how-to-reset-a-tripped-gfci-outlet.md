@@ -3,7 +3,7 @@ title: "How To Reset A Tripped Gfci Outlet"
 date: 2026-06-20T09:55:39.069535+00:00
 draft: false
 description: "Learn how to reset a tripped GFCI outlet in minutes with our simple step-by-step guide. Restore power safely and prevent future electrical issues at home."
-image: "https://images.pexels.com/photos/27523028/pexels-photo-27523028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/27523028.jpg"
 categories: ["Electrical"]
 tags: ["reset", "tripped", "gfci", "outlet"]
 author: "Dana Morrison"

@@ -3,7 +3,7 @@ title: "How Tariffs Are Changing the Cost of Your Next DIY Project"
 date: 2026-06-15T12:54:56.243014+00:00
 draft: false
 description: "Discover how new tariffs are raising prices on lumber, steel, and hardware. Learn smart tips to budget wisely and save money on your next DIY project."
-image: "https://images.pexels.com/photos/30839695/pexels-photo-30839695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30839695.jpg"
 categories: ["trending"]
 tags: ["tariffs", "changing", "cost", "your", "next"]
 author: "Steve Adams"

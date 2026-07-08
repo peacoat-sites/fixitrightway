@@ -3,7 +3,7 @@ title: "Unpermitted DIY Work Is Getting Insurance Claims Denied in 2026"
 date: 2026-06-27T09:16:56.230016+00:00
 draft: false
 description: "Unpermitted DIY repairs are causing insurance claim denials in 2026. Learn what work requires permits, why it matters, and how to protect your coverage."
-image: "https://images.pexels.com/photos/7821670/pexels-photo-7821670.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7821670.jpg"
 categories: ["trending"]
 tags: ["unpermitted", "work", "getting", "insurance", "claims"]
 author: "Maria Gonzalez"

@@ -3,7 +3,7 @@ title: "How To Wire A Three Way Switch For Beginners"
 date: 2026-06-14T10:08:29.287244+00:00
 draft: false
 description: "Learn how to wire a three way switch safely with this beginner-friendly guide. Step-by-step instructions, diagrams, and tips make the process simple and stress-"
-image: "https://images.pexels.com/photos/16888160/pexels-photo-16888160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/16888160.jpg"
 categories: ["Electrical"]
 tags: ["wire", "three", "switch", "beginners"]
 slug: "how-to-wire-a-three-way-switch-for-beginners"

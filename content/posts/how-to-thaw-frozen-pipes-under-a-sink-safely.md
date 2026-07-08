@@ -3,7 +3,7 @@ title: "How To Thaw Frozen Pipes Under A Sink Safely"
 date: 2026-06-26T10:02:03.510619+00:00
 draft: false
 description: "Learn how to safely thaw frozen pipes under a sink using gentle heat methods that prevent bursting and water damage in your home."
-image: "https://images.pexels.com/photos/28887606/pexels-photo-28887606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/28887606.jpg"
 categories: ["Plumbing"]
 tags: ["thaw", "frozen", "pipes", "under", "sink"]
 author: "Kim Reeves"

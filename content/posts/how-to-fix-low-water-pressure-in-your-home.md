@@ -3,7 +3,7 @@ title: "How to fix low water pressure in your home"
 date: 2026-05-21T12:57:21.888586+00:00
 draft: false
 description: "Dealing with low water pressure in your house? Follow these 5 practical steps to diagnose and fix the problem yourself,  from cleaning aerators to adjusting"
-image: "https://images.pexels.com/photos/35395545/pexels-photo-35395545.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35395545.jpg"
 categories: ["plumbing"]
 slug: "how-to-fix-low-water-pressure-in-your-home"
 affiliate_disclosure: true

@@ -3,7 +3,7 @@ title: "Why That Money-Saving DIY Project Could Void Your Insurance"
 date: 2026-07-04T09:08:56.582264+00:00
 draft: false
 description: "Save money on home repairs? DIY projects can backfire badly. Learn which renovations could void your insurance policy and cost you far more than you saved."
-image: "https://images.pexels.com/photos/1917849/pexels-photo-1917849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/1917849.jpg"
 categories: ["trending"]
 tags: ["that", "money-saving", "project", "could", "void"]
 author: "Maria Gonzalez"

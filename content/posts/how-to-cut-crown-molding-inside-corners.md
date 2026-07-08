@@ -3,7 +3,7 @@ title: "How To Cut Crown Molding Inside Corners"
 date: 2026-06-28T09:47:35.388016+00:00
 draft: false
 description: "Learn how to cut crown molding inside corners perfectly using a miter saw or coping method with step-by-step instructions for a flawless finish."
-image: "https://images.pexels.com/photos/3615726/pexels-photo-3615726.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3615726.jpg"
 categories: ["Trim & Molding"]
 tags: ["crown", "molding", "inside", "corners"]
 author: "Dana Morrison"

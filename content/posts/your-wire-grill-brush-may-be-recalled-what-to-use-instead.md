@@ -3,7 +3,7 @@ title: "Your Wire Grill Brush May Be Recalled: What to Use Instead"
 date: 2026-06-25T10:01:07.313832+00:00
 draft: false
 description: "Worried about wire grill brush recalls? Learn why they're dangerous and discover safer alternatives to keep your grill clean without the risk of injury."
-image: "https://images.pexels.com/photos/9203746/pexels-photo-9203746.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9203746.jpg"
 categories: ["trending"]
 tags: ["your", "wire", "grill", "brush", "recalled:"]
 author: "Dana Morrison"

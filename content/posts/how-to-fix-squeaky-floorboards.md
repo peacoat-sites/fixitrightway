@@ -3,7 +3,7 @@ title: "How To Fix Squeaky Floorboards"
 date: 2026-06-27T09:18:52.554726+00:00
 draft: false
 description: "Learn how to fix squeaky floorboards with simple DIY methods. Stop annoying creaks using screws, talcum powder, and wooden shims today."
-image: "https://images.pexels.com/photos/5484020/pexels-photo-5484020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5484020.jpg"
 categories: ["Flooring"]
 tags: ["squeaky", "floorboards"]
 author: "Steve Adams"

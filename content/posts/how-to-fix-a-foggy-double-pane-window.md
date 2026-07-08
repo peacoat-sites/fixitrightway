@@ -3,7 +3,7 @@ title: "How To Fix A Foggy Double Pane Window"
 date: 2026-06-25T09:58:26.004465+00:00
 draft: false
 description: "Learn how to fix a foggy double pane window with simple DIY methods or when to call a pro. Stop condensation and restore clarity fast."
-image: "https://images.pexels.com/photos/35201510/pexels-photo-35201510.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35201510.jpg"
 categories: ["Doors & Windows"]
 tags: ["foggy", "double", "pane", "window"]
 author: "Steve Adams"

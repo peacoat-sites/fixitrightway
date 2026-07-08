@@ -3,7 +3,7 @@ title: "How To Repair Cracks In A Concrete Driveway Yourself"
 date: 2026-06-23T10:26:17.053691+00:00
 draft: false
 description: "Learn how to repair cracks in your concrete driveway yourself with simple tools and step-by-step instructions to restore a smooth, durable surface fast."
-image: "https://images.pexels.com/photos/28713288/pexels-photo-28713288.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/28713288.jpg"
 categories: ["Masonry & Concrete"]
 tags: ["repair", "cracks", "concrete", "driveway", "yourself"]
 author: "Kim Reeves"

@@ -3,7 +3,7 @@ title: "How To Paint Over A Water Stain On Ceiling"
 date: 2026-06-03T14:07:45.750678+00:00
 draft: false
 description: "Learn how to paint over a water stain on your ceiling with our simple step-by-step guide. Get a flawless finish and stop stains from bleeding through for good."
-image: "https://images.pexels.com/photos/6961/wood-water-macro-olivia-henry.jpg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6961.jpg"
 categories: ["Painting"]
 tags: ["paint", "over", "water", "stain", "ceiling"]
 slug: "how-to-paint-over-a-water-stain-on-ceiling"

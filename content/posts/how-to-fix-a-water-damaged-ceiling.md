@@ -3,7 +3,7 @@ title: "How to fix a water damaged ceiling"
 date: 2026-05-24T14:05:46.590722+00:00
 draft: false
 description: "Learn how to complete a water damaged ceiling repair yourself with this step-by-step guide covering leak fixes, drywall replacement, taping, priming, and pai"
-image: "https://images.pexels.com/photos/10252682/pexels-photo-10252682.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/10252682.jpg"
 categories: ["drywall"]
 slug: "how-to-fix-a-water-damaged-ceiling"
 affiliate_disclosure: true

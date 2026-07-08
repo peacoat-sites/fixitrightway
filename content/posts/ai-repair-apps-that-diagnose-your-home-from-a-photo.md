@@ -3,7 +3,7 @@ title: "AI Repair Apps That Diagnose Your Home from a Photo"
 date: 2026-06-16T12:00:03.934690+00:00
 draft: false
 description: "Discover AI repair apps that diagnose home problems from a single photo. Save time and money by identifying issues instantly before calling a professional contr"
-image: "https://images.pexels.com/photos/7415021/pexels-photo-7415021.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7415021.jpg"
 categories: ["trending"]
 tags: ["repair", "apps", "that", "diagnose", "your"]
 author: "Paul Zhang"

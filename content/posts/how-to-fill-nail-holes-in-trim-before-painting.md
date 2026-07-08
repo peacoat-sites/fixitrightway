@@ -3,7 +3,7 @@ title: "How To Fill Nail Holes In Trim Before Painting"
 date: 2026-06-29T11:35:52.225524+00:00
 draft: false
 description: "Learn how to fill nail holes in trim before painting with simple tools and techniques for a smooth, professional finish every time."
-image: "https://images.pexels.com/photos/6654031/pexels-photo-6654031.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6654031.jpg"
 categories: ["Trim & Molding"]
 tags: ["fill", "nail", "holes", "trim", "before"]
 author: "Maria Gonzalez"

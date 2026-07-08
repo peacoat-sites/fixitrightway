@@ -3,7 +3,7 @@ title: "How To Fix A Running Toilet That Won'T Stop"
 date: 2026-06-30T10:25:37.706612+00:00
 draft: false
 description: "Learn how to fix a running toilet that won't stop with simple DIY steps. Identify the cause and repair your flapper, fill valve, or float today."
-image: "https://images.pexels.com/photos/3935352/pexels-photo-3935352.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3935352.jpg"
 categories: ["Plumbing"]
 tags: ["running", "toilet", "that", "won't", "stop"]
 author: "Kim Reeves"

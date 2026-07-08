@@ -3,7 +3,7 @@ title: "How To Patch A Hole In A Concrete Garage Floor"
 date: 2026-06-03T14:10:04.882599+00:00
 draft: false
 description: "Learn how to patch a hole in a concrete garage floor with our step-by-step guide. We cover the tools, materials, and techniques needed for a lasting repair."
-image: "https://images.pexels.com/photos/10451018/pexels-photo-10451018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/10451018.jpg"
 categories: ["Masonry & Concrete"]
 tags: ["patch", "hole", "concrete", "garage", "floor"]
 slug: "how-to-patch-a-hole-in-a-concrete-garage-floor"

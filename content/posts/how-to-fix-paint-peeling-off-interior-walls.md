@@ -3,7 +3,7 @@ title: "How To Fix Paint Peeling Off Interior Walls"
 date: 2026-06-16T11:57:55.446307+00:00
 draft: false
 description: "Learn how to fix paint peeling off interior walls with simple steps. Discover causes, prep tips, and the best way to repaint for lasting results."
-image: "https://images.pexels.com/photos/35931006/pexels-photo-35931006.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35931006.jpg"
 categories: ["Painting"]
 tags: ["paint", "peeling", "interior", "walls"]
 author: "Kim Reeves"

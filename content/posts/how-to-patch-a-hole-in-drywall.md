@@ -3,7 +3,7 @@ title: "How To Patch A Hole In Drywall"
 date: 2026-05-27T05:33:40.290085+00:00
 draft: false
 description: "Learn how to patch a hole in drywall with this step-by-step guide. We cover tools, materials, and techniques for a smooth, professional-looking repair every tim"
-image: "https://images.pexels.com/photos/28380062/pexels-photo-28380062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/28380062.jpg"
 categories: ["Drywall & Walls"]
 tags: ["patch", "hole", "drywall"]
 slug: "how-to-patch-a-hole-in-drywall"

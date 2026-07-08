@@ -3,7 +3,7 @@ title: "Best Primer For Covering Dark Walls In One Coat"
 date: 2026-06-02T12:54:42.837128+00:00
 draft: false
 description: "Discover the best primers for covering dark walls in one coat. Save time and money with our top picks that guarantee full coverage and a flawless finish."
-image: "https://images.pexels.com/photos/12036093/pexels-photo-12036093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12036093.jpg"
 categories: ["Painting"]
 tags: ["best", "primer", "covering", "dark", "walls"]
 slug: "best-primer-for-covering-dark-walls-in-one-coat"

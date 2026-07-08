@@ -3,7 +3,7 @@ title: "How To Install A Dimmer Switch Step By Step"
 date: 2026-06-12T10:53:07.271538+00:00
 draft: false
 description: "Learn how to install a dimmer switch safely with our easy step-by-step guide. Save energy, enhance ambiance, and upgrade your home lighting in under an hour."
-image: "https://images.pexels.com/photos/927546/pexels-photo-927546.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/927546.jpg"
 categories: ["Electrical"]
 tags: ["install", "dimmer", "switch", "step", "step"]
 slug: "how-to-install-a-dimmer-switch-step-by-step"

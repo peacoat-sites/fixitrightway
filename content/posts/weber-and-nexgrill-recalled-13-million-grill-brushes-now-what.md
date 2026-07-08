@@ -3,7 +3,7 @@ title: "Weber and Nexgrill Recalled 13 Million Grill Brushes: Now What?"
 date: 2026-06-29T11:38:25.650711+00:00
 draft: false
 description: "Weber and Nexgrill recalled 13 million grill brushes due to safety hazards. Learn what to do if you own one, how to get a refund, and safer alternatives for cle"
-image: "https://images.pexels.com/photos/10917524/pexels-photo-10917524.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/10917524.jpg"
 categories: ["trending"]
 tags: ["weber", "nexgrill", "recalled", "million", "grill"]
 author: "Steve Adams"
