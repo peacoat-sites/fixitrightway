@@ -1,5 +1,5 @@
 ---
-title: "How To Repair Cracks In A Concrete Driveway Yourself"
+title: "DIY Concrete Crack Repair: A Homeowner's Step-by-Step Guide"
 date: 2026-06-23T10:26:17.053691+00:00
 draft: false
 description: "Learn how to repair cracks in your concrete driveway yourself with simple tools and step-by-step instructions to restore a smooth, durable surface fast."
@@ -23,7 +23,7 @@ faqs:
    a: "If you're in a climate that freezes in winter, yes. A penetrating sealer applied every 3-5 years is the single best preventive maintenance you can do. It dramatically slows the freeze-thaw damage cycle that causes most residential concrete cracks in the first place."
  - q: "Why does my driveway crack near the street or sidewalk connection?"
    a: "This is almost always a control joint issue, or rather the absence of one. Where your driveway meets a public sidewalk or street, there's usually no expansion joint, and the two concrete sections move independently with temperature. These cracks are common, repairable, and worth filling with a flexible polyurethane sealant rather than a rigid filler, since the movement will continue."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Cracks in a concrete driveway feel more urgent than they are. You see a line running across your slab, maybe a few inches, maybe a few feet, and your brain immediately jumps to "the whole thing needs to be replaced." I've watched homeowners quote themselves into $8,000 driveway replacements when a $40 repair and two hours on a Saturday would have been the right answer. Most residential concrete cracks are cosmetic or minor structural issues you can fix yourself. You just need to know which kind you're dealing with.

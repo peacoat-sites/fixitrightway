@@ -1,5 +1,5 @@
 ---
-title: "How To Fix A Crack In Plaster Wall Before Painting"
+title: "Patch Plaster Cracks Like A Pro Before You Paint"
 date: 2026-06-30T10:23:10.460833+00:00
 draft: false
 description: "Learn how to fix a crack in a plaster wall before painting with simple tools and steps to get a smooth, professional finish every time."
@@ -23,7 +23,7 @@ faqs:
    a: "Not necessarily, but flat or matte finishes hide repair work better than eggshell or semi-gloss. The sheen of higher-gloss paints highlights even slight texture differences between the repair and the original plaster. If you're set on eggshell or higher, apply two full coats and expect to do more careful sanding on the transition zones."
  - q: "Is it worth skim coating the whole wall instead of patching individual cracks?"
    a: "If you have more than 5-6 cracks across a single wall, skim coating the entire surface is often faster, cleaner, and more durable than chasing individual cracks. It also gives you a uniform base for paint that eliminates flashing issues. It's not a beginner skill, but it's learnable with practice and a YouTube session or two. The Gardz plus all-purpose compound approach works well for this."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Hairline cracks are lying to you.

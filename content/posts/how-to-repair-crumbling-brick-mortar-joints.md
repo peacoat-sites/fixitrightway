@@ -1,5 +1,5 @@
 ---
-title: "How To Repair Crumbling Brick Mortar Joints"
+title: "Fix Crumbling Mortar Joints Before They Cost You"
 date: 2026-06-04T12:21:39.962305+00:00
 draft: false
 description: "Learn how to repair crumbling brick mortar joints with our step-by-step guide. Restore your brickwork, prevent water damage, and extend the life of your walls."
@@ -23,7 +23,7 @@ author: "Kim Reeves"
 author_slug: "kim-reeves"
 author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Tuck-pointing is one of those repairs that sounds scarier than it is, until you ignore it long enough that it actually becomes scary. I've watched homeowners let soft, crumbling mortar sit for two, three, sometimes five years because they assumed it was a big-ticket masonry job. In a lot of cases, they were right by the time they called me. What started as a weekend afternoon of grinding and patching had turned into spalling brick faces, water intrusion, and in one case a 1920s Chicago bungalow with a basement wall that had started to bow inward. A $200 repair became a $14,000 conversation.
 

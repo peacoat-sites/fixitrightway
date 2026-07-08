@@ -1,5 +1,5 @@
 ---
-title: "Cost To Refinish Hardwood Floors Yourself Vs Hire"
+title: "DIY Floor Refinishing vs. Professional: True Cost Breakdown"
 date: 2026-07-07T10:15:23.309626+00:00
 draft: false
 description: "Compare DIY hardwood floor refinishing costs vs hiring a pro. See average prices, what affects cost, and which option saves you more money."

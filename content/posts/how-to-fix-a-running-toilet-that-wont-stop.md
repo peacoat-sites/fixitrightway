@@ -1,5 +1,5 @@
 ---
-title: "How To Fix A Running Toilet That Won'T Stop"
+title: "Stop Your Running Toilet: The Easy Fix Guide"
 date: 2026-06-30T10:25:37.706612+00:00
 draft: false
 description: "Learn how to fix a running toilet that won't stop with simple DIY steps. Identify the cause and repair your flapper, fill valve, or float today."
@@ -23,7 +23,7 @@ faqs:
    a: "A continuously running toilet loses 200 to 400 gallons per day in a worst-case scenario (EPA WaterSense data). Even a slow phantom flusher cycling a few times per hour can waste 30 to 50 gallons daily. At current average U.S. water rates, that's real money over a full billing cycle."
  - q: "Can I just turn off the toilet's supply valve and leave it until I get to the repair?"
    a: "Yes, totally fine as a short-term fix. The toilet won't run if there's no water supply. Just remember to turn it back on before guests arrive."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 A running toilet costs you roughly $70 to $200 extra per year on your water bill, depending on how bad the leak is. That's not catastrophic, but it's also not nothing, and the fix almost always takes under an hour and less than $20 in parts. Most articles about this bury you in generic "check the flapper" advice and then stop. Let's actually solve it.

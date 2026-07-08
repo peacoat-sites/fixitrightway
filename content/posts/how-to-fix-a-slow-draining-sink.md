@@ -1,5 +1,5 @@
 ---
-title: "How To Fix A Slow Draining Sink"
+title: "Unclog a Slow Drain: 4 Fixes That Actually Work"
 date: 2026-06-22T12:38:42.628006+00:00
 draft: false
 description: "Learn how to fix a slow draining sink fast with simple DIY methods including cleaning the drain, removing clogs, and using basic household tools."
@@ -23,7 +23,7 @@ faqs:
    a: "Remove the P-trap and pour a cup of water directly into the drain pipe opening in the wall. If it flows freely, the trap was the culprit. If it backs up or drains slowly even without the trap in place, the blockage is further down the branch drain, and you need a snake."
  - q: "Is a slow drain in only one sink ever a sign of a bigger plumbing problem?"
    a: "Almost never. One slow sink is almost always a localized clog, a dirty stopper, or grease buildup specific to that fixture. The red flag is multiple fixtures draining slowly, or draining one causes gurgling in another. That's when you start thinking about main line issues."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Your sink drains fine for six months, then one morning you're standing in two inches of soapy water while you brush your teeth. You know it's not a full clog yet. It's just... slow. And it's been slow for a while, and you've been ignoring it, and now here we are.

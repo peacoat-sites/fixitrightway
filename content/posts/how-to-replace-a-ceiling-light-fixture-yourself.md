@@ -1,5 +1,5 @@
 ---
-title: "How To Replace A Ceiling Light Fixture Yourself"
+title: "Replace Your Ceiling Light Fixture in 30 Minutes"
 date: 2026-06-05T12:20:43.199216+00:00
 draft: false
 description: "Learn how to replace a ceiling light fixture yourself with this simple step-by-step guide. Save money on electrician fees and upgrade your home lighting safely."
@@ -23,7 +23,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most electrical guides open with three paragraphs about turning off the breaker. You already know to [turn off the breaker](/how-to-replace-a-light-switch-safely-yourself/). Let's skip to the parts that actually trip people up.
 

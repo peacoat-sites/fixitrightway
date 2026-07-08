@@ -1,5 +1,5 @@
 ---
-title: "How To Insulate A Garage Door Yourself"
+title: "DIY Garage Door Insulation: Stop Heat Loss Today"
 date: 2026-06-11T11:18:12.782539+00:00
 draft: false
 description: "Save money and improve energy efficiency by learning how to insulate your garage door yourself with our easy step-by-step guide covering materials, tools, and t"
@@ -23,7 +23,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 My gas bill last January was $340. The month before I insulated my garage door, that same bill had been $410. Same house, same thermostat settings, same Minnesota winter. That $70 difference sounds modest until you add it up across a heating season and realize I spent about $85 on materials.
 

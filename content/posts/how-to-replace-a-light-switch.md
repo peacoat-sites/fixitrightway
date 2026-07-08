@@ -1,5 +1,5 @@
 ---
-title: "How To Replace A Light Switch"
+title: "Replace A Light Switch In 15 Minutes: A Step-by-Step Guide"
 date: 2026-05-23T10:44:00.717510+00:00
 draft: false
 description: "Learn how to replace a light switch safely with our easy step-by-step guide. Save money on electrician fees and complete this simple DIY job in minutes."

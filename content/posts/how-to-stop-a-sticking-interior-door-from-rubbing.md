@@ -1,5 +1,5 @@
 ---
-title: "How To Stop A Sticking Interior Door From Rubbing"
+title: "Fix A Sticking Interior Door In Minutes"
 date: 2026-06-04T12:19:40.082293+00:00
 draft: false
 description: "Learn how to stop a sticking interior door from rubbing with our simple fixes. Identify the cause, adjust hinges, sand problem areas and get a perfectly fitting"

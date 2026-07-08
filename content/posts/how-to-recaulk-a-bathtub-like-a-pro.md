@@ -1,5 +1,5 @@
 ---
-title: "How To Recaulk A Bathtub Like A Pro"
+title: "Perfect Caulk Every Time: The Pro Bathtub Method"
 date: 2026-06-06T09:12:53.256385+00:00
 draft: false
 description: "Learn how to recaulk a bathtub like a pro with our step-by-step guide. Remove old caulk, prep the surface, and apply fresh caulk for a watertight seal."
@@ -23,7 +23,7 @@ author: "Kim Reeves"
 author_slug: "kim-reeves"
 author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 The old caulk around your tub doesn't fail all at once. It starts with one small section that looks a little gray, a little soft. You peel at it, and suddenly you've got a six-inch gap between the tub and the wall. I've watched homeowners spend $400 on a plumber to investigate what they thought was a mysterious leak, only to trace it back to exactly that: a failed caulk joint they'd been ignoring for two years.
 

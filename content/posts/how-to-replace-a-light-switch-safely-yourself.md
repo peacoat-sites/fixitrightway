@@ -1,5 +1,5 @@
 ---
-title: "How To Replace A Light Switch Safely Yourself"
+title: "Replace Your Own Light Switch in 30 Minutes"
 date: 2026-07-05T09:31:49.720513+00:00
 draft: false
 description: "Learn how to replace a light switch safely yourself with this step-by-step guide covering tools needed, wiring tips, and important safety precautions."
@@ -23,7 +23,7 @@ faqs:
     a: "Usually this happens with dimmer switches when they're not compatible with the type of bulb in the fixture. LED bulbs in particular require dimmers rated for LED loads. Check the dimmer's packaging for compatibility and make sure your bulbs aren't the culprit. A faint buzz from a standard toggle switch can also indicate a loose connection worth re-checking."
   - q: "Can I replace a regular switch with a smart switch myself?"
     a: "Often, yes, but smart switches almost always require a neutral wire in the box, and older homes sometimes don't have one at the switch location. Check whether your box has a white wire connected (not just tucked back unused) before buying. Lutron's Caseta line is one of the few that can work without a neutral, which is why I recommend it for older homes."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Replacing a light switch is one of those repairs that sounds scarier than it is. I'd guess 90% of the homeowners I've talked to over the years who were nervous about it knocked it out in under 30 minutes once I walked them through it. The other 10% had older wiring that threw them a curveball, and we'll cover that too.

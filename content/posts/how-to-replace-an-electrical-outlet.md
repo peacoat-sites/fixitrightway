@@ -1,5 +1,5 @@
 ---
-title: "How To Replace An Electrical Outlet"
+title: "Replace a Broken Outlet in 15 Minutes: DIY Guide"
 date: 2026-05-23T17:12:06.506826+00:00
 draft: false
 description: "Learn how to safely replace an electrical outlet with our step-by-step guide. We cover the tools needed, wiring tips, and safety precautions for a smooth DIY jo"
@@ -23,7 +23,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most homeowners who get zapped replacing an outlet don't get zapped by the outlet. They get zapped because they turned off the wrong breaker, assumed the power was dead, and grabbed a wire. That single mistake sends a few thousand people to the ER every year. The good news: replacing an outlet is legitimately a beginner DIY job. The bad news: the margin for error is exactly zero, and most online tutorials skip straight to the screws without covering the part that actually matters.
 

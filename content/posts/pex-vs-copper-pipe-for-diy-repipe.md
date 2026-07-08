@@ -1,5 +1,5 @@
 ---
-title: "PEX Vs Copper Pipe For DIY Repipe"
+title: "PEX vs Copper: Which Pipe Saves You Money"
 date: 2026-06-17T11:24:29.460705+00:00
 draft: false
 description: "Compare PEX vs copper pipe for your DIY repipe project. Learn costs, durability, installation ease, and which material suits your home best."
@@ -23,7 +23,7 @@ faqs:
     a: "Half-inch handles almost every individual fixture run. Use three-quarter-inch for your main supply line from the street, the line feeding your water heater, and any run serving three or more fixtures off a single branch. If you have a large house with a lot of simultaneous draw (multiple showers running at once), consult a plumber about upsizing your main to one inch."
   - q: "How long does a DIY repipe typically take?"
     a: "A full house repipe done by one person with solid preparation takes four to six days for a 1,500 square foot home. That includes planning, rough-in, pressure testing, and reconnection at fixtures. Budget extra time if you're opening finished walls rather than working in an unfinished space. The rough-in itself is often the fastest part; the demo and patching take longer than most people expect."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Copper still wins in exactly one scenario: you're doing a small repair on an existing copper system and you don't want to deal with transition fittings. That's it. For anything bigger, for a partial repipe or a full house repipe, PEX has made copper look like a stubborn habit more than a smart choice.
 

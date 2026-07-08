@@ -1,5 +1,5 @@
 ---
-title: "How To Caulk A Bathtub Like A Pro"
+title: "Pro Caulking Tips That Stop Bathroom Leaks"
 date: 2026-06-11T11:15:45.012491+00:00
 draft: false
 description: "Learn how to caulk a bathtub like a pro with our step-by-step guide. Get a watertight, clean finish that prevents mold and keeps your tub looking brand new."

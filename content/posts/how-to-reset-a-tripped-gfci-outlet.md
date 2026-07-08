@@ -1,5 +1,5 @@
 ---
-title: "How To Reset A Tripped Gfci Outlet"
+title: "Fix a Tripped GFCI Outlet in 30 Seconds"
 date: 2026-06-20T09:55:39.069535+00:00
 draft: false
 description: "Learn how to reset a tripped GFCI outlet in minutes with our simple step-by-step guide. Restore power safely and prevent future electrical issues at home."
@@ -23,7 +23,7 @@ faqs:
    a: "Once or twice, yes. More than that, stop. Repeatedly pressing the button doesn't fix the underlying fault, and in rare cases with a seriously compromised outlet, it can cause arcing. If it won't reset after two attempts with appliances unplugged, you need to diagnose the cause, not keep pushing the button."
  - q: "How do I know if my GFCI outlet is protecting other outlets on the circuit?"
    a: "Press the TEST button on your GFCI and then use a plug-in outlet tester (about $8 at any hardware store) on the other outlets in the room and adjacent areas. Any that lose power when you hit TEST are being protected by that GFCI. Write it down somewhere useful, like inside the panel door."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people hit the reset button, nothing happens, and they assume the outlet is dead. That's usually wrong. The outlet is probably fine, it's just not ready to reset yet, and there's a specific sequence you have to follow or it won't work. I've watched homeowners replace perfectly good GFCI outlets because they didn't know about that sequence. Expensive mistake.

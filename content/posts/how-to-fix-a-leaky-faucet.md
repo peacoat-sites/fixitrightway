@@ -1,5 +1,5 @@
 ---
-title: "How To Fix A Leaky Faucet"
+title: "Stop Leaky Faucets With These Simple DIY Fixes"
 date: 2026-05-25T15:18:36.683684+00:00
 draft: false
 description: "Learn how to fix a leaky faucet with our simple step-by-step guide. Save water, cut costs, and stop that drip today with basic tools and no plumber needed."

@@ -1,5 +1,5 @@
 ---
-title: "How To Paint Trim Without Brush Strokes Showing"
+title: "Paint Trim Like A Pro: Skip The Brush Marks"
 date: 2026-06-02T12:52:36.600580+00:00
 draft: false
 description: "Learn how to paint trim without brush strokes showing using the right tools, techniques, and paint prep tips for a smooth, professional finish every time."
@@ -23,7 +23,7 @@ author: "Kim Reeves"
 author_slug: "kim-reeves"
 author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You spent the weekend painting your baseboards, stood back to admire the work, and the whole room looks like it was finished with a broom. Brush marks running in every direction, ridges of dried paint catching the light, and that telltale drip you didn't catch in time. I've been there, and I've watched hundreds of homeowners go through the same deflating moment. The good news is that brush strokes on trim aren't a skill problem. They're almost always a product, prep, or technique problem, and every one of those is fixable.
 

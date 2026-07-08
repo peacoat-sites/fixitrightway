@@ -1,5 +1,5 @@
 ---
-title: "How To Repaint Kitchen Cabinets Without Sanding"
+title: "Paint Kitchen Cabinets Like New Without Sanding"
 date: 2026-07-06T11:19:32.846229+00:00
 draft: false
 description: "Learn how to repaint kitchen cabinets without sanding using simple prep steps, the right primer, and paint for a smooth, lasting finish."
@@ -23,7 +23,7 @@ faqs:
     a: "A high-quality 2.5-inch angled sash brush (Purdy XL Glide or Wooster Shortcut) for detail work, paired with a 4-inch foam roller for flat panels. Self-leveling paints like Benjamin Moore Advance dramatically reduce visible brush marks, but the foam roller on flat areas is still better than brushing everything."
   - q: "Is chalk paint a good option for kitchen cabinets without sanding?"
     a: "Chalk paint adhesion is decent without sanding, but it requires sealing with wax or a topcoat to hold up in a kitchen, and even then it's softer than alkyd-based cabinet paint. I've seen chalk-painted cabinets look great for a couple of years and then dull fast in high-traffic kitchens. It's a reasonable choice if you're going for a specific matte look and you're willing to recoat in a few years. Not my first recommendation for a long-term result."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Sanding kitchen cabinets is a lie sold to you by people who've never spent a weekend hunched over forty doors with a random orbital sander and a grudge.

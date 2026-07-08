@@ -1,5 +1,5 @@
 ---
-title: "How To Seal Drafty Windows In Winter"
+title: "Stop Heat Loss: Quick Fixes For Drafty Windows"
 date: 2026-06-08T11:32:55.876740+00:00
 draft: false
 description: "Stop cold air and high heating bills with these easy DIY methods to seal drafty windows this winter using weatherstripping, caulk, and insulating film."
@@ -23,7 +23,7 @@ author: "Kim Reeves"
 author_slug: "kim-reeves"
 author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your windows are probably leaking more heat than [your insulation is saving](/how-to-insulate-an-attic-yourself-to-save-energy/). That's not hyperbole, it's what happens when weatherstripping compresses, caulk cracks, and the glazing compound hasn't been touched since the Clinton administration. Most articles on this topic tell you to feel for drafts with your hand and then recommend one generic product. That approach leaves money on the table. Let me actually walk you through what's happening, what fixes it, and what's a waste of your time.
 

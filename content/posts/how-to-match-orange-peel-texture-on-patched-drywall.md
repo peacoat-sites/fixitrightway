@@ -1,5 +1,5 @@
 ---
-title: "How To Match Orange Peel Texture On Patched Drywall"
+title: "Seamless Drywall Patches: Master Orange Peel Texture Match"
 date: 2026-07-03T09:45:18.569001+00:00
 draft: false
 description: "Learn how to match orange peel texture on patched drywall. Step-by-step guide to blending repairs seamlessly with your existing wall texture."
@@ -23,7 +23,7 @@ faqs:
    a: "Usually 24 hours, but check the specific product. Most drywall texture dries faster than joint compound, but don't rush it. Paint too soon and you can pull the texture off."
  - q: "Will sanding the edges of the texture seam make it more visible or less?"
    a: "Less, because you're breaking the sharp line that light bounces off. Sand lightly with 150 or 180-grit until the edge is smooth and gradual, not sharp."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 The first time I tried to blend a patch into existing orange peel, I thought I could just spray it on and walk away. Five minutes later I was staring at something that looked like it had been attacked by a very small, very angry wasp. It was smooth. The wall was bumpy. They did not match.

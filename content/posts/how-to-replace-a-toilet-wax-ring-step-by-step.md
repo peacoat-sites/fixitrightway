@@ -1,5 +1,5 @@
 ---
-title: "How To Replace A Toilet Wax Ring Step By Step"
+title: "Fix a Leaking Toilet With a New Wax Ring"
 date: 2026-06-18T11:04:09.894438+00:00
 draft: false
 description: "Learn how to replace a toilet wax ring step by step with this easy DIY guide. Stop leaks and odors fast with the right tools and simple instructions."
@@ -23,7 +23,7 @@ faqs:
     a: "The smell is sewer gas, which contains methane and hydrogen sulfide. Low-level exposure from a slow wax ring leak in a ventilated bathroom is generally not dangerous, but it's not something to ignore either. Concentrated sewer gas buildup in an enclosed space can be harmful, so fix it promptly."
   - q: "Do I need to caulk around the base of the toilet after installation?"
     a: "This is genuinely debated. Some codes require it; some plumbers hate it. My position: leave the back half of the base uncaulked so water from a future leak weeps out where you can see it rather than rotting the subfloor silently for months before you notice. A fully caulked base looks clean but hides problems."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most plumbers charge $150 to $300 to replace a wax ring. The ring itself costs $8. That gap tells you almost everything you need to know about this repair.
 

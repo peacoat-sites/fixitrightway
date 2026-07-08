@@ -1,5 +1,5 @@
 ---
-title: "How To Cut Crown Molding Inside Corners"
+title: "Master Inside Corner Crown Molding Cuts"
 date: 2026-06-28T09:47:35.388016+00:00
 draft: false
 description: "Learn how to cut crown molding inside corners perfectly using a miter saw or coping method with step-by-step instructions for a flawless finish."
@@ -23,7 +23,7 @@ faqs:
    a: "Spring angle is the angle at which the crown tilts between the wall and ceiling. Most standard crown is 38 degrees; some is 45 degrees. It affects every miter and bevel angle you'll cut. If you set up your saw for a 38-degree spring profile and your molding is actually 45 degrees, none of your angles will be right."
  - q: "Can I cope polyurethane or MDF crown molding the same way as wood?"
    a: "MDF copes very well, often better than wood because it doesn't have grain to fight. Polyurethane foam crown is trickier: it's soft enough that a coping saw will tear it. For urethane crown, a fine-tooth handsaw works better for the cope cut, followed by careful cleanup with a utility knife and sandpaper."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people assume the coped joint is some ancient dark art that only finish carpenters can pull off. I've taught it to complete beginners in a single afternoon. The compound miter cut, though? That one trips up experienced DIYers every single time, and there's a specific reason why.

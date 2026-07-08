@@ -1,5 +1,5 @@
 ---
-title: "How To Seal Air Leaks Around Electrical Outlets"
+title: "Stop Energy Loss: Seal Air Leaks Around Outlets"
 date: 2026-06-21T10:24:52.100921+00:00
 draft: false
 description: "Stop drafts and cut energy bills by sealing air leaks around electrical outlets with simple foam gaskets, caulk, and weatherstripping in minutes."
@@ -23,7 +23,7 @@ faqs:
    a: "Yes, but use a bit of judgment about moisture. In high-humidity areas, the foam gaskets are still fine, but if you're noticing any moisture issues around outlets in those rooms, have an electrician look at it. Sealing those boxes too tightly in a moisture-problem area can occasionally mask a bigger issue."
  - q: "My house has those old two-prong outlets. Is this project still safe?"
    a: "Two-prong outlets aren't a safety hazard for this particular project, but they're worth upgrading eventually. You can install the foam gaskets the same way. Just use your non-contact voltage tester before removing anything, same as you would with any outlet."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Your heating bill goes up every winter and you've already checked the obvious stuff: weatherstripping around the doors, caulk around the windows, maybe even added attic insulation. But there's a category of air leak that almost everyone misses, and it's responsible for more draft infiltration than most people expect. Electrical outlets and switches on exterior walls are essentially holes punched straight through your wall cavity, and in most homes built before 2010 or so, they're sealed with nothing but the cover plate and a thin plastic box.

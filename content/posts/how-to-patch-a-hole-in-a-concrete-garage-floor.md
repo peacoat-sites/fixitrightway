@@ -1,5 +1,5 @@
 ---
-title: "How To Patch A Hole In A Concrete Garage Floor"
+title: "Repair Concrete Floor Damage Like A Pro"
 date: 2026-06-03T14:10:04.882599+00:00
 draft: false
 description: "Learn how to patch a hole in a concrete garage floor with our step-by-step guide. We cover the tools, materials, and techniques needed for a lasting repair."
@@ -23,7 +23,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've got a hole in your garage floor. Maybe it's been there for months and you've just been stepping around it, or maybe something heavy dropped last week and now there's concrete missing. Either way, you're wondering if this is a Saturday morning fix or if you're calling someone.
 

@@ -1,5 +1,5 @@
 ---
-title: "How To Wire A Three Way Switch For Beginners"
+title: "Wire A Three-Way Switch: The Beginner's Guide"
 date: 2026-06-14T10:08:29.287244+00:00
 draft: false
 description: "Learn how to wire a three way switch safely with this beginner-friendly guide. Step-by-step instructions, diagrams, and tips make the process simple and stress-"
@@ -23,7 +23,7 @@ author: "Paul Zhang"
 author_slug: "paul-zhang"
 author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Three-way switches broke my brain the first time I encountered them. I'd been doing basic electrical work for a couple of years, felt reasonably confident, and then stared at a box with two black wires, a red wire, and a ground, completely baffled about why my hallway light kept staying on no matter which switch I flipped. That was 1998. I've wired probably a few hundred three-way circuits since then, and I still think the instructions that come with most switches are genuinely terrible.
 

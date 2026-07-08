@@ -1,5 +1,5 @@
 ---
-title: "How To Fix A Squeaky Hardwood Floor From Above"
+title: "Silence Squeaky Hardwood Floors Without Refinishing"
 date: 2026-07-04T09:10:50.557313+00:00
 draft: false
 description: "Learn how to fix a squeaky hardwood floor from above with simple DIY methods that stop annoying creaks without removing your flooring or subfloor."
@@ -23,7 +23,7 @@ faqs:
     a: "Yes, and it's almost certainly seasonal wood movement rather than fastener or subfloor failure. Boards shrink as indoor humidity drops and the edges create friction. Running a whole-house humidifier to keep interior RH between 35-50% in winter often reduces these squeaks significantly without any physical repair. Graphite in the seams helps too."
   - q: "How much does professional squeak repair cost?"
     a: "As of 2026, most flooring contractors charge $150-$400 to address a specific squeak problem in one room, depending on scope and whether subfloor repair is needed. If it's subfloor separation over multiple joists requiring sistering or sheathing replacement, you're looking at $800-$2,500 or more. Get two quotes, and make sure the contractor can tell you whether it's subfloor or surface before they start."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Squeaky hardwood floors are almost never a structural problem. Almost. But the internet's full of people reassuring you it's "just cosmetic" without actually explaining what's going on underneath your feet, which means homeowners either ignore a fixable problem or tear up flooring they didn't need to touch.

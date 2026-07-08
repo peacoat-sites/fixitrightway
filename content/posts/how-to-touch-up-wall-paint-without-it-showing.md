@@ -1,5 +1,5 @@
 ---
-title: "How To Touch Up Wall Paint Without It Showing"
+title: "Invisible Wall Paint Touch-Ups: The Pro Trick"
 date: 2026-06-10T10:44:43.188950+00:00
 draft: false
 description: "Learn how to touch up wall paint without it showing using expert blending techniques, the right tools, and colour-matching tips for a flawless, invisible finish"
@@ -23,7 +23,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most touch-up paint jobs look worse than the original damage. I spent years telling homeowners "just dab it on and feather the edges" before I finally understood why that advice produces ghostly patches and mismatched sheen on practically every wall it gets tried on. The problem isn't technique, at least not entirely. The problem is that most people don't know what they're actually fighting against.
 

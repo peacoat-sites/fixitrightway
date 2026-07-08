@@ -1,5 +1,5 @@
 ---
-title: "How To Repair Grout In A Shower"
+title: "Fix Cracked Shower Grout Before Water Damage Spreads"
 date: 2026-06-23T10:24:00.683091+00:00
 draft: false
 description: "Learn how to repair grout in a shower step by step. Remove damaged grout, apply fresh grout, and seal it properly for a clean, waterproof finish."
@@ -23,7 +23,7 @@ faqs:
    a: "Recurring cracks in the same location almost always mean movement in that area. Check whether it's at a change-of-plane joint (if so, use silicone caulk instead). If it's in the field tile, look for a loose tile nearby, a soft spot in the substrate, or a structural issue like a joist running beneath that section. Regrout a spot that keeps cracking without finding the cause and you'll be back doing it again."
  - q: "Do I need to seal grout in a shower?"
    a: "Yes, every time you regrout, and then again once a year or so depending on use. Unsealed grout in a shower absorbs water, grows mold, and deteriorates faster. Penetrating sealers (not surface film sealers) are the right type for floor and wall grout. The test: drop a few beads of water on your existing grout. If they soak in immediately, it needs sealer. If they bead up, you're fine for now."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Shower grout fails in two ways, and most repair guides treat them identically. That's the first mistake.

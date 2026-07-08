@@ -1,5 +1,5 @@
 ---
-title: "How To Stop A Door From Squeaking"
+title: "Silence That Squeaky Door: The Fix Takes Minutes"
 date: 2026-05-23T09:53:52.527164+00:00
 draft: false
 description: "Learn how to stop a door from squeaking with simple fixes using household items. Discover quick lubrication tips and hinge solutions to silence noisy doors for "
@@ -23,7 +23,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people grab a can of WD-40, spray the hinges, and call it done. The squeak comes back in two weeks. I've seen this cycle repeat dozens of times on job sites and in client homes, and the frustrating part is that WD-40 is one of the worst things you can use on a squeaky door hinge. It's a solvent and water displacer, not a lubricant. It cleans out the existing grease, gives you a brief quiet period, and then leaves metal grinding on metal again. If your door squeak has come back multiple times after treatment, this is probably why.
 

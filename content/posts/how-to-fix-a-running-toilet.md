@@ -1,5 +1,5 @@
 ---
-title: "How To Fix A Running Toilet"
+title: "Stop Wasting Water: Fix Your Running Toilet Today"
 date: 2026-05-26T15:08:50.223846+00:00
 draft: false
 description: "Learn how to fix a running toilet with our simple step-by-step guide. Save water, reduce bills, and solve common toilet problems quickly with basic tools."

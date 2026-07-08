@@ -1,5 +1,5 @@
 ---
-title: "How To Patch A Hole In Drywall"
+title: "Fix Drywall Holes Like A Pro In Under An Hour"
 date: 2026-05-27T05:33:40.290085+00:00
 draft: false
 description: "Learn how to patch a hole in drywall with this step-by-step guide. We cover tools, materials, and techniques for a smooth, professional-looking repair every tim"

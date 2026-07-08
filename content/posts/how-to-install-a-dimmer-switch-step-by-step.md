@@ -1,5 +1,5 @@
 ---
-title: "How To Install A Dimmer Switch Step By Step"
+title: "Install A Dimmer Switch In 30 Minutes: The Easy Guide"
 date: 2026-06-12T10:53:07.271538+00:00
 draft: false
 description: "Learn how to install a dimmer switch safely with our easy step-by-step guide. Save energy, enhance ambiance, and upgrade your home lighting in under an hour."
@@ -23,7 +23,7 @@ author: "Paul Zhang"
 author_slug: "paul-zhang"
 author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people are way more scared of this project than they need to be. I'll be honest: the first dimmer switch I ever installed took me about 45 minutes because I kept second-guessing myself, checking and rechecking the wiring. These days I can swap one out in under ten minutes. The work itself isn't hard. What trips people up is not understanding what they're looking at when they open the wall box.
 
