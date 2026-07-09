@@ -7,6 +7,9 @@ categories: ["general"]
 slug: "home-repair-cost-guide"
 affiliate_disclosure: false
 image: "https://images.pexels.com/photos/7217957/pexels-photo-7217957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+author: "Kim Reeves"
+author_slug: "kim-reeves"
+author_title: "Interior Renovator"
 ---
 
 Before you call a contractor, it pays to know what a repair actually costs. This guide gives you national-average price ranges for 30+ common home repairs — both what you'll pay a pro and what the parts cost if you do it yourself.
