@@ -3,7 +3,8 @@ title: "DIY vs. Pro Cost Calculator: Is It Worth Doing Yourself?"
 hide_title: true
 slug: "diy-vs-pro-calculator"
 date: 2026-06-10
-author: "Dave Pruitt"
+author: "Dana Morrison"
+author_slug: "dana-morrison"
 categories: ["DIY Projects"]
 description: "Use this DIY vs. pro cost calculator to decide if tackling a home project yourself makes financial sense compared to hiring a contractor."
 image: "https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

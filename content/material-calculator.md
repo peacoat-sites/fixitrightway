@@ -3,7 +3,8 @@ title: "DIY Material Calculator: Paint, Flooring, Concrete, Drywall, Mulch & Fen
 hide_title: true
 slug: "material-calculator"
 date: 2026-06-10
-author: "Dave Pruitt"
+author: "Paul Zhang"
+author_slug: "paul-zhang"
 categories: ["DIY Projects"]
 description: "Free DIY material quantity calculator for paint, flooring, concrete, drywall, mulch, and fence projects. Get instant estimates so you buy just enough."
 ---
