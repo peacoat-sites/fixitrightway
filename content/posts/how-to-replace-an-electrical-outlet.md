@@ -115,3 +115,13 @@ Replacing a like-for-like outlet in a modern, grounded system is squarely DIY te
 ---
 
 The job itself is simple. The discipline around it, verifying the power is actually dead, documenting before disconnecting, testing after reconnecting, is what separates a clean five-minute task from a hospital visit or a call to an electrician to fix what you started. Do the boring parts right and the rest takes care of itself.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)** (~$199) — 200W panel kit with MPPT charge controller for maximum energy harvest.
+

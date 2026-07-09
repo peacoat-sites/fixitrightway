@@ -106,3 +106,13 @@ The top of the door frame, where it meets the header, often gets missed. Heat lo
 None of this insulation works if you have a broken seal at the bottom or gaps around the frame that let outside air push straight through. Seal the envelope first, then insulate.
 
 *Photo: [Jan van der Wolf](https://www.pexels.com/@jan-van-der-wolf-11680885) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)** (~$199) — 200W panel kit with MPPT charge controller for maximum energy harvest.
+
