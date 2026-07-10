@@ -1,0 +1,17 @@
+{
+  "question": "DIY or call a pro?",
+  "options": [
+    {
+      "label": "Always try DIY first",
+      "votes": 412
+    },
+    {
+      "label": "Depends on the job",
+      "votes": 366
+    },
+    {
+      "label": "Usually call a pro",
+      "votes": 98
+    }
+  ]
+}
