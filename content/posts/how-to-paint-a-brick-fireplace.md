@@ -144,8 +144,6 @@ Photo by [Point3D Commercial Imaging Ltd.](https://unsplash.com/@3dottawa?utm_so
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Lotus Design N Print](https://unsplash.com/@lotusdnp?utm_source=seniorstrength&utm_medium=referral)

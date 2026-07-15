@@ -87,8 +87,6 @@ Pick the project you can actually do well, not the most ambitious one. A properl
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
-## Recommended Resources
-
 ## Sources
 
 - [Kindel Media](https://www.pexels.com/@kindelmedia)

@@ -119,8 +119,6 @@ Interior doors are usually hollow-core and lighter, which means hinges last long
 
 Most sticking doors are a two-hour Saturday fix that costs less than a takeout dinner. The homeowners who pay contractors to handle what should be a DIY job almost always skipped the first step: spending ten minutes figuring out what's actually wrong. Check the hinges. Map the bind. Identify whether it's seasonal or permanent. Then pick the right tool. The door that's been annoying you for three years is usually simpler than you think.
 
-## Recommended Resources
-
 ## Sources
 
 - [PetArmor Plus Flea & Tick Prevention, Small Dogs (6 doses)](https://www.amazon.com/dp/B01N0BZUXO/?tag=contentportfo-20)

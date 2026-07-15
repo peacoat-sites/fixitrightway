@@ -92,8 +92,6 @@ The fix that works is almost always the simplest one: tight hinges, a little pla
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Curtis Adams](https://www.pexels.com/@curtis-adams-1694007)

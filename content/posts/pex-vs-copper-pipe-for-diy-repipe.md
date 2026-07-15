@@ -84,8 +84,6 @@ Pressure test before you close up any walls. For PEX, cap all your open ends, pr
 
 *Photo: [Marcelo Chagas](https://www.pexels.com/@marcelochagas) via Pexels*
 
-## Recommended Resources
-
 ## Sources
 
 - [Marcelo Chagas](https://www.pexels.com/@marcelochagas)

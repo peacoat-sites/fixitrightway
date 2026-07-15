@@ -31,8 +31,6 @@ Wondering if it's worth your time? Here's a breakdown of 30+ repairs with DIY ma
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
