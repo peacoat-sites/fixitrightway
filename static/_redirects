@@ -16,3 +16,7 @@
 
 # 2026-07-18 structural cleanup 301s
 /author/ /about/ 301
+
+# 2026-07-18 duplicate-topic merges
+/how-to-replace-a-light-switch/ /how-to-replace-a-light-switch-safely-yourself/ 301
+/how-to-fix-a-running-toilet/ /how-to-fix-a-running-toilet-that-wont-stop/ 301
