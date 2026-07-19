@@ -4,7 +4,7 @@ date: 2026-07-09T10:15:30.692255+00:00
 draft: false
 description: "Learn how to unclog a bathtub drain fast using tools you already own. From baking soda to drain snakes, these methods really work."
 image: "/img/heroes/8511325.jpg"
-categories: ["How to Fix"]
+categories: ["trending"]
 tags: ["unclog", "bathtub", "drain"]
 author: "Steve Adams"
 author_slug: "steve-adams"

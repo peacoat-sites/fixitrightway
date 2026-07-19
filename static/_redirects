@@ -20,3 +20,13 @@
 # 2026-07-18 duplicate-topic merges
 /how-to-replace-a-light-switch/ /how-to-replace-a-light-switch-safely-yourself/ 301
 /how-to-fix-a-running-toilet/ /how-to-fix-a-running-toilet-that-wont-stop/ 301
+
+# 2026-07-18 thin-category consolidation
+/categories/cost-guides/ /categories/trending/ 301
+/categories/diy/ /categories/trending/ 301
+/categories/home-repair/ /categories/trending/ 301
+/categories/how-to-fix/ /categories/trending/ 301
+/categories/general/ /categories/trending/ 301
+/categories/hvac/ /categories/energy-insulation/ 301
+/categories/outdoor/ /categories/trending/ 301
+/categories/tools/ /categories/trending/ 301

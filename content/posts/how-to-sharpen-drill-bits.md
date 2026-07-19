@@ -4,7 +4,7 @@ date: 2026-05-26T12:16:05.491450+00:00
 draft: false
 description: "Learn how to sharpen drill bits at home with simple tools and step-by-step instructions. Save money, improve safety, and keep your projects running smoothly."
 image: "/img/heroes/37663443.jpg"
-categories: ["tools"]
+categories: ["trending"]
 slug: "how-to-sharpen-drill-bits"
 affiliate_disclosure: true
 faqs:

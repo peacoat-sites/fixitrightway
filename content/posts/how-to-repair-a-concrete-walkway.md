@@ -4,7 +4,7 @@ date: 2026-05-18T02:09:20.283207+00:00
 draft: false
 description: "Learn how to tackle concrete walkway repair with this complete step-by-step guide. Covers tools, crack filling, patching, curing, and sealing for long-lastin"
 image: "/img/heroes/26255834.jpg"
-categories: ["outdoor"]
+categories: ["trending"]
 slug: "how-to-repair-a-concrete-walkway"
 affiliate_disclosure: true
 faqs:

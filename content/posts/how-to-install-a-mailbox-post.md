@@ -4,7 +4,7 @@ date: 2026-05-27T20:06:38.895643+00:00
 draft: false
 description: "Learn how to install a mailbox post step by step with this beginner-friendly guide. Includes tools needed, digging depth tips, concrete setting instructions,"
 image: "/img/heroes/33839274.jpg"
-categories: ["outdoor"]
+categories: ["trending"]
 slug: "how-to-install-a-mailbox-post"
 affiliate_disclosure: true
 faqs:

@@ -4,7 +4,7 @@ date: 2026-05-27T22:41:33.569151+00:00
 draft: false
 description: "Learn how to replace a bathtub drain with this easy step-by-step guide designed for seniors. Includes tools list, safety tips, and a helpful FAQ to get the j"
 image: "/img/heroes/6899351.jpg"
-categories: ["bathroom"]
+categories: ["Bathroom"]
 slug: "how-to-replace-a-bathtub-drain"
 affiliate_disclosure: true
 faqs:

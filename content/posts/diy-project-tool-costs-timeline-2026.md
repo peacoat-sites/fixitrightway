@@ -7,7 +7,7 @@ author_slug: "dana-morrison"
 author_title: "Lead Contractor"
 date: 2026-06-28
 featured_depth: true
-categories: ["Home Repair", "DIY", "Cost Guides"]
+categories: ["trending"]
 keywords: ["diy project costs", "home improvement timeline", "tool costs for home projects", "budget for home repair"]
 faqs:
  - q: "What tools should I buy vs rent?"
