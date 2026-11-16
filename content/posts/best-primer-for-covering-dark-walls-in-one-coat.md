@@ -25,7 +25,7 @@ author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
 lastmod: 2026-07-08
 ---
-Most people buying primer for dark walls just grab whatever the paint store employee suggests, slap it on, and then stand there staring at a wall that still looks vaguely purple underneath the white. I've watched this happen dozens of times. The assumption is that primer is primer, and any decent coat will do the job. What surprised me when I started really digging into this specific problem is how much the *type* of primer matters, not just the quality of it. There's a significant difference between a primer that "helps" with coverage and one that was genuinely engineered to block dark pigments. Getting that wrong costs you time, paint, and real money.
+Most people buying primer for dark walls just grab whatever the paint store employee suggests, slap it on, and then find the wall still looks vaguely purple underneath the white. The assumption is that primer is primer, and any decent coat will do the job. The *type* of primer matters significantly, not just the quality of it. There's a significant difference between a primer that "helps" with coverage and one that was genuinely engineered to block dark pigments. Getting that wrong costs you time, paint, and real money.
 
 ## Why One Coat Is Actually Achievable (But Only With the Right Product)
 
@@ -49,7 +49,7 @@ This is where the conversation gets real.
 
 **Oil-based primer** sits in the middle. Products like Zinsser Cover Stain or Kilz Original offer strong blocking with better smell manageability than shellac, though you still need mineral spirits for cleanup. Oil-based primers are particularly good at blocking [water stains alongside dark pigments](/how-to-paint-over-a-water-stain-on-ceiling/), so if your dark walls also have any ceiling or humidity damage, oil-based does double duty. Dry time is longer, usually 2 to 4 hours before recoating. Cost runs $35 to $55 per gallon.
 
-**Water-based high-hide primer** has improved dramatically. Kilz 2 All-Purpose, Zinsser Bulls Eye 1-2-3, and the newer Behr Premium Plus Primer+Paint combinations aren't the weak cousins they used to be. For walls that are dark but not extreme (think navy blue or charcoal gray rather than fire-engine red or eggplant), a quality water-based primer in a tinted version can absolutely handle the job in one coat. Cleanup is easy, the smell is mild, and dry time is fast. Where they fall short is with highly saturated warm colors. Reds and oranges are notoriously hard to block with water-based products, and I've seen even premium formulas fail on a deep crimson.
+**Water-based high-hide primer** has improved dramatically. Kilz 2 All-Purpose, Zinsser Bulls Eye 1-2-3, and the newer Behr Premium Plus Primer+Paint combinations aren't the weak cousins they used to be. For walls that are dark but not extreme (think navy blue or charcoal gray rather than fire-engine red or eggplant), a quality water-based primer in a tinted version can absolutely handle the job in one coat. Cleanup is easy, the smell is mild, and dry time is fast. Where they fall short is with highly saturated warm colors. Reds and oranges are notoriously hard to block with water-based products.
 
 **My recommendation by situation:**
 - Black, dark red, maroon, or magenta walls: Shellac (Zinsser BIN)
@@ -98,7 +98,6 @@ The product is only part of the equation. Application matters more than most DIY
 
 - [Faruk Tokluoğlu](https://www.pexels.com/@faruktokluoglu)
 
-
 Let me give you real numbers rather than vague ranges.
 
 A 1,500 square foot home with dark walls in four rooms, roughly 800 square feet of wall space to repaint, will use approximately 2 gallons of primer at proper coverage rates. Shellac covers about 300 to 400 square feet per gallon on porous or problem surfaces; water-based high-hide gets you closer to 400 to 450 square feet.
@@ -114,6 +113,6 @@ If you're hiring out the priming, expect to add $1.50 to $2.50 per square foot i
 
 ---
 
-The mistake most people make isn't buying the wrong primer. It's buying primer without understanding what specific problem they're solving. Dark pigment bleed-through and simple opacity are different problems. A wall that's midnight blue needs different chemistry than one that's deep red, and both need something different than a wall that's just a darker version of what you're painting next. Spend ten minutes figuring out exactly what you're dealing with before you're standing in the paint aisle, and you'll make a smarter call. The right primer, properly applied, genuinely does make a one-coat transformation possible. I've seen it happen. It just takes buying the right one.
+The mistake most people make isn't buying the wrong primer. It's buying primer without understanding what specific problem they're solving. Dark pigment bleed-through and simple opacity are different problems. A wall that's midnight blue needs different chemistry than one that's deep red, and both need something different than a wall that's just a darker version of what you're painting next. Spend ten minutes figuring out exactly what you're dealing with before you're standing in the paint aisle, and you'll make a smarter call. The right primer, properly applied, can make a one-coat transformation possible. It just takes buying the right one.
 
 *Photo: [Faruk Tokluoğlu](https://www.pexels.com/@faruktokluoglu) via Pexels*

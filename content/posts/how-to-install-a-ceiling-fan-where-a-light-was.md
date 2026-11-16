@@ -33,7 +33,7 @@ Let me fix that.
 
 This is where most DIYers wreck the project before they even open the fan box. Standard light fixture boxes, the octagonal or round plastic ones stapled to a joist, are rated for about 35 pounds. A ceiling fan, depending on blade span and motor size, weighs anywhere from 15 to 50+ pounds and creates dynamic load (wobble, vibration, torque) that a static light fixture never generates. The National Electrical Code, specifically NEC 314.27(C), requires a fan-rated box for any ceiling fan installation.
 
-I tested this the hard way early in my career. Installed a 42-inch fan in a guest bedroom over an existing plastic box, figured it was fine. Six months later, the homeowner called. The box had cracked at the mounting ears and the fan was visibly tilting. Luckily it didn't come down, but that was luck, not skill. I've never cut that corner since.
+A common mistake is installing a fan over an existing plastic box without checking its rating. The box can crack at the mounting ears under the fan's weight, leaving it visibly tilting or at risk of falling. Always verify that the existing box is rated for fan mounting before proceeding.
 
 So before you do anything else: look up into the canopy of your existing light and identify the box. If it's plastic and just nailed to a joist, it needs to go. Your options:
 
@@ -55,7 +55,7 @@ Your realistic options, roughly in order of preference:
 
 3. Accept a single-switch setup and use the pull chains on the fan for separate control. Not elegant, but functional. Works fine if you're adding a remote anyway.
 
-A reader named Dave from Columbus emailed me after struggling with this: existing 14/2 wire, wanted independent control, didn't want to rewire. He added a $39 Lutron Caseta wireless kit paired with the fan's built-in receiver and solved it in an afternoon without touching the walls. Good call.
+If you have existing 14/2 wire and want independent control without rewiring, a wireless control kit like the Lutron Caseta ($39) paired with the fan's built-in receiver can work well and takes about an afternoon to install without wall modifications.
 
 ## The Actual Installation, Step by Step
 
@@ -89,7 +89,7 @@ Current pricing as of July 2026, based on contractor and retail market data:
 | Rewiring for dual switches (14/3 run) | $110-$200 | $30-$60 | $200-$450 | $340-$710 |
 | Full pro install (fan supplied) | $45-$200 | included | $125-$250 | $170-$450 |
 
-The rewiring scenario is the one that catches people off guard. I've seen homeowners budget for a $79 fan and end up spending $500 because they insisted on separate wall switches and didn't know what was in their walls until an electrician opened things up.
+The rewiring scenario is the one that catches people off guard. Budgeting for a $79 fan can balloon to $500 if you want separate wall switches and need an electrician to assess what's already in your walls. It pays to know your existing wiring before deciding on control options.
 
 ## When to Call an Electrician
 

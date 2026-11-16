@@ -42,7 +42,7 @@ First, scope check. A hole in a garage floor can mean different things. A small 
 | Armor SX5000 WB | Penetrating sealer | $80-$100 | 200-400 sq ft per gallon | Sealing after patch cures (28 days) |
 | Rust-Oleum RockSolid Polycuramine | Epoxy floor coating | $150-$250 | Two-car garage kit | Full floor coating; hides patch |
 
-Don't buy anything until you know what kind of damage you're dealing with. I've watched homeowners spend $60 on the wrong product because they grabbed whatever Home Depot had without reading the label.
+Don't buy anything until you know what kind of damage you're dealing with. A common mistake is buying the wrong product without reading the label, which can waste money on something that won't work for your specific damage.
 
 For small holes, divots, and spalled areas up to an inch deep, grab a **vinyl concrete patcher**. Quikrete's Vinyl Concrete Patcher runs about $12 for 10 pounds, $22 for 25 pounds. It works. It's polymer-modified, bonds better than plain concrete, and applies in thin layers without crumbling out.
 
@@ -83,7 +83,6 @@ Stay off it for 24 hours. Full cure is about 28 days, but you'll have enough str
 ## Sources
 
 - [chickenbunny](https://www.pexels.com/@chickenbunny-102941452)
-
 
 A patched floor has a color difference between old and new concrete. The repair didn't fail. Fresh concrete is lighter and darkens over time, but never fully matches.
 

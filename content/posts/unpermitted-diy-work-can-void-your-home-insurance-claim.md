@@ -17,7 +17,7 @@ lastmod: 2026-07-08
 
 Picture this: it's September, the summer project is done, and you're genuinely proud of the panel upgrade or the bathroom addition you knocked out yourself. Then a kitchen fire happens. The adjuster comes out, starts asking questions, notices the work, pulls the permit history, and your $80,000 claim gets denied. Not because you did the work wrong. Because you never pulled the permit.
 
-I've seen this play out more than once in my career, and it never gets easier to watch. The homeowner did competent work. The wiring was clean. It didn't matter.
+Unpermitted work poses risks even when it's done competently. Clean wiring and careful workmanship don't eliminate the underlying problem.
 
 This summer, that scenario is more likely than ever. A record number of homeowners are taking on substantial projects, and according to Farnsworth Group data from early 2026, the primary motivator has shifted in a meaningful way. It's no longer mainly about saving money. Homeowners are tackling bigger jobs because they genuinely believe they're capable of doing them. That confidence isn't always wrong. But it's creating a specific and expensive blind spot around permits, because capable people assume the work is the hard part.
 
@@ -47,7 +47,7 @@ And here's what most people don't realize: you don't have to file a claim for th
 | Structural modifications | Yes | Integrity failure, collapse, denial almost certain | $5,000-$50,000+ |
 | Plumbing reroutes and additions | Yes | Water damage, code violations | $5,000-$50,000+ |
 
-Not all unpermitted work carries equal risk. In my experience, there are three categories where insurers and inspectors concentrate their attention.
+Not all unpermitted work carries equal risk. Insurers and inspectors tend to concentrate their attention on three main categories.
 
 **Electrical panels and subpanels.** Any service upgrade, panel replacement, or subpanel addition requires a permit in virtually every jurisdiction. Full stop. This is also the work that's surging right now as homeowners add EV chargers and upgrade aging panels to support them.
 

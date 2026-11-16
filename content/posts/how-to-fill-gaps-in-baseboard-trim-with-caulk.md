@@ -59,7 +59,7 @@ Here's a quick comparison of the products I actually use:
 
 One tube covers roughly 35 to 50 linear feet of a standard baseboard gap. For an average 12x14 bedroom, one tube is plenty. Two tubes if you're doing the whole main floor.
 
-Don't buy the cheapest no-name caulk at the discount bin. I've seen it shrink 20% as it cures and leave a visible depression right where you were trying to smooth things over.
+Don't buy the cheapest no-name caulk at the discount bin. Cheap caulk often shrinks noticeably as it cures, leaving a visible depression.
 
 ## The Actual Process
 
@@ -79,11 +79,11 @@ Let it dry completely before painting. DAP Alex Plus says 30 minutes to skin ove
 
 ## Where It Goes Wrong: Three Real Scenarios
 
-*Scenario 1:* A reader emailed me last spring about a 1970s ranch house where the living room baseboards had gaps so large you could see daylight from outside at certain angles. Gap averaged 5/8" at some points. She'd tried caulking it twice and it kept cracking. What she'd skipped was backer rod, so the caulk was bridging a gap with nothing supporting it. Fixed approach: press backer rod into the gap, apply flexible GE Siliconized Latex over it in a smooth bead. Result: two months later, no cracking, and she estimated her heating bill dropped about $22/month that winter.
+For large gaps (5/8" or wider), a common mistake is skipping backer rod. Without it, caulk bridges the gap with no support underneath and will crack. The fix: press backer rod into the gap first, then apply flexible caulk like GE Siliconized Latex over it in a smooth bead. This prevents cracking and also improves the seal's energy efficiency.
 
 *Scenario 2:* New construction townhome, fresh drywall, painter wanted to caulk baseboards before painting. He used 100% silicone (the gun was already loaded from a bathroom job). Paint wouldn't adhere to it. Every spot he'd caulked, the paint beaded and ran. Had to cut out and re-caulk with paintable sealant, adding half a day to the job. Always check the tube. "Paintable" needs to say "paintable."
 
-*Scenario 3:* I tested two approaches on a kitchen renovation a few years back. One side of the room I caulked and painted over within 30 minutes (I was in a hurry). The other side I let cure overnight. Six months later, the rushed side had visible hairline cracks following the caulk line where the paint had dried faster than the caulk underneath. The patient side was still clean. Letting it cure matters.
+Paint applied too quickly over wet caulk can cause visible hairline cracks as the paint dries faster than the caulk underneath. Let caulk cure fully (check the product label, usually overnight) before painting.
 
 ## Sources
 

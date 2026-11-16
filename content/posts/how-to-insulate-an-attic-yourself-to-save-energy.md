@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 My gas bill dropped $74 the first month after I insulated my attic. Not because I did anything fancy. I rented a blower machine from Home Depot for $25, bought 20 bags of Owens Corning PINK fiberglass loose-fill at around $13 a bag, and spent a Saturday crawling around in a respirator. That's it. No contractor, no permits in most jurisdictions, no special skills required. Just the willingness to be uncomfortable for a few hours.
 
-If your house was built before 1990 and nobody's touched the attic insulation since, you're almost certainly losing money through your ceiling every single month. The Department of Energy estimates that heating and cooling accounts for about 46% of a typical home's energy bill, and an underinsulated attic is one of the fastest ways that money disappears. I've been in hundreds of attics over 20 years doing this work, and the most common thing I see is 3 to 4 inches of old compressed fiberglass batts doing almost nothing. Here's the kicker: insulation loses effectiveness as it compresses over time. What was R-13 when it was installed in 1987 might be performing closer to R-7 now.
+If your house was built before 1990 and nobody's touched the attic insulation since, you're almost certainly losing money through your ceiling every single month. The Department of Energy estimates that heating and cooling accounts for about 46% of a typical home's energy bill, and an underinsulated attic is one of the fastest ways that money disappears. A common find in older attics is 3 to 4 inches of compressed fiberglass batts that have lost much of their effectiveness. Insulation loses effectiveness as it compresses over time. What was R-13 when it was installed in 1987 might be performing closer to R-7 now.
 
 The good news? This is one of the most DIY-friendly projects in the whole house. No license needed, materials are at every big-box store, and you'll typically recoup your money in 1 to 3 years. Let's actually do this.
 
@@ -51,7 +51,7 @@ For most of the country, the DOE recommends attics be insulated to R-38 to R-60.
 
 I personally like blown-in cellulose for most DIY attic jobs. It's made from recycled paper, treated with borate as a fire retardant, fills gaps and odd-shaped spaces better than batts, and it's cheaper per R-value than fiberglass. A bag of GreenFiber loose-fill cellulose at Home Depot runs about $11 and covers roughly 40 square feet at R-19. Most stores will also rent you the blower machine for free if you buy a minimum number of bags, usually 10 to 15.
 
-One thing to check before you calculate: is your attic floor accessible? Finished floorboards aren't common in attics, but sometimes there's plywood over part of it for storage. If you've got stored stuff up there and want to keep that space usable, blown-in insulation will make it harder. You could build a raised platform system (2x6 sleepers running perpendicular to the joists, then plywood on top) to preserve storage space while still getting deep insulation. That adds cost and time, but I've done it in my own house and it's worth it if you use the space.
+One thing to check before you calculate: is your attic floor accessible? Finished floorboards aren't common in attics, but sometimes there's plywood over part of it for storage. If you've got stored stuff up there and want to keep that space usable, blown-in insulation will make it harder. You could build a raised platform system (2x6 sleepers running perpendicular to the joists, then plywood on top) to preserve storage space while still getting deep insulation. That adds cost and time, but it's worth considering if you use the space regularly.
 
 ## Air Sealing: The Step Everyone Skips
 
@@ -92,7 +92,6 @@ Total cost for a 1,200 square foot attic going from R-7 to R-38 with blown cellu
 ## Sources
 
 - [Raymond Petrik](https://www.pexels.com/@raymond-petrik-1448389535)
-
 
 Yes, actually. A few situations where I'd hire it out or at minimum get professional advice:
 

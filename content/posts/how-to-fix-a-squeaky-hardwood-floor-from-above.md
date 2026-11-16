@@ -60,15 +60,15 @@ This is where most articles go wrong. They list five methods without telling you
 
 Here's my honest ranking:
 
-**1. Squeeeeek No More screws.** These are purpose-built screws with a snap-off head. You drill through the hardwood, the screw pulls the finish floor down to the subfloor, and the head snaps off below the surface. Sold in kits (the O'Berry Enterprises Squeeeeek No More kit runs about $22-28 at Home Depot or online as of mid-2026). This is the most reliable above-floor fix for subfloor separation or loose fasteners. I've used it on probably a dozen jobs and it works more often than not.
+**1. Squeeeeek No More screws.** These are purpose-built screws with a snap-off head. You drill through the hardwood, the screw pulls the finish floor down to the subfloor, and the head snaps off below the surface. Sold in kits (the O'Berry Enterprises Squeeeeek No More kit runs about $22-28 at Home Depot or online as of mid-2026). This is the most reliable above-floor fix for subfloor separation or loose fasteners. It works reliably in most cases.
 
-**2. Powdered graphite or construction adhesive injection.** For board-to-board seasonal friction, you can puff powdered graphite (like Supra brand, a few bucks) into the seam. It reduces friction, it doesn't damage anything, and it's a legitimate short-term solution. Don't let anyone sell you on it as a permanent fix. In my experience it buys you one to two seasons.
+**2. Powdered graphite or construction adhesive injection.** For board-to-board seasonal friction, you can puff powdered graphite (like Supra brand, a few bucks) into the seam. It reduces friction, it doesn't damage anything, and it's a legitimate short-term solution. Don't let anyone sell you on it as a permanent fix. It typically provides relief for one to two seasons.
 
 **3. The Staircase Fix Kit (FloorMate)** and similar joist-targeting tools. Some kits include a joist-finding bracket so you can angle the screw into the joist for maximum pull-down. Worth it if you're doing a whole room.
 
 **4. Baby powder or baking soda in the seam.** Works temporarily by reducing friction. It's free, it's harmless, and it'll last maybe three months. A legitimate emergency fix before you get the proper materials.
 
-What doesn't work, despite constant recommendations online: toothpicks with wood glue wedged in seams. It sounds clever. The glue doesn't bond to a finished floor edge under movement, and you're essentially jamming a small wooden chunk into a gap that will keep moving. I've seen this fail every single time.
+What doesn't work, despite constant recommendations online: toothpicks with wood glue wedged in seams. It sounds clever. The glue doesn't bond to a finished floor edge under movement, and you're essentially jamming a small wooden chunk into a gap that will keep moving. This approach fails consistently because the glue doesn't bond to a finished floor edge under movement.
 
 ---
 
@@ -125,6 +125,5 @@ Floating floors over concrete squeak when they move laterally across the underla
 - This Old House, "Fix Squeaky Floors" resource pages: Useful overview of above and below approaches with general cost ranges.
 
 ---
-
 
 *Photo: [Digital Buggu](https://www.pexels.com/@digitalbuggu) via Pexels*

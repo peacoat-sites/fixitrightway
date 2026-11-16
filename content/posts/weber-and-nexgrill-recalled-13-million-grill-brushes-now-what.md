@@ -27,7 +27,7 @@ The hazard isn't the brush breaking or the handle cracking. It's the bristles. T
 
 The CPSC received at least 68 reports of bristles detaching from Nexgrill brushes alone. Five of those cases required medical treatment to remove bristles from someone's digestive tract or throat. That's not a rounding error. A wire bristle lodged in soft tissue is a genuine medical emergency, and the insidious part is that neither the cook nor anyone eating the food has any idea it happened until something goes wrong hours later.
 
-I've been around enough job sites to know that "rare but serious" is exactly the risk category worth paying attention to. The everyday probability is low. The consequence when it happens is not.
+"Rare but serious" risks are exactly the category worth paying attention to. The everyday probability is low. The consequence when it happens is not.
 
 ## How to Find Out If Your Brush Is Recalled
 
@@ -60,7 +60,7 @@ The alternatives that work well in practice:
 
 **Wooden scrapers** work best when you use them on a hot grate immediately after cooking, letting the grate's own surface shape the wood's edge over time. They're less effective on really built-up carbon but fine for regular maintenance.
 
-I've used coiled scrapers for the last two seasons and I don't miss the wire brush. The learning curve is about thirty seconds.
+Coiled scrapers work well as a wire brush alternative. The learning curve is about thirty seconds.
 
 ## Don't Just Toss It, Claim Your Remedy First
 

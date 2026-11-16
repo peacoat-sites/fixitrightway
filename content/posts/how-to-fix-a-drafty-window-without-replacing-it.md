@@ -31,7 +31,6 @@ The good news is that most drafty windows don't need to be replaced. That's the 
 
 Here's how to figure out what's actually wrong, and what to do about it.
 
-
 <div class="value-module">
   <div class="vm-head">Draft Fix Options: Cost, Effort & Effectiveness</div>
   <div class="vm-body">
@@ -73,7 +72,7 @@ Here's what I tell people: match the weatherstripping type to where the gap is a
 
 **For casement windows** that have lost their perimeter compression seal, the correct fix is replacing the full perimeter seal. Most casement windows use a bulb-style EPDM gasket that presses into a slot in the frame. The tricky part is matching the profile. Bring the old gasket to a window supply house (not a big-box store, an actual window supply company) and they can usually match it. Replacing it yourself takes about 45 minutes and a utility knife. This is almost never done, and it's a shame, because it works.
 
-One thing to watch: don't layer new foam over old foam. I've seen people do this three or four times over the years until the window won't close properly. Strip everything back to wood, clean it with a damp rag, let it dry, then apply your new weatherstripping.
+Don't layer new foam over old foam. Stacking multiple layers can prevent the window from closing properly. Strip everything back to wood, clean it with a damp rag, let it dry, then apply your new weatherstripping.
 
 ## Glazing Compound: The Repair Nobody Thinks to Make
 
@@ -102,7 +101,6 @@ Neither is permanent. But "temporary and working" beats "perfect solution pendin
 ## Sources
 
 - [Jonathan Cooper](https://www.pexels.com/@theshuttervision)
-
 
 Run your candle test again. A properly sealed window should show essentially no smoke movement around any edge.
 

@@ -83,7 +83,7 @@ The seam will be almost invisible if your replacement plank matches well. The ad
 
 Matching the plank.
 
-I can't tell you how many times I've seen a technically perfect repair ruined by a plank that's even slightly off. The color isn't just about species or stain, it's about the embossing texture, the sheen level, and the wear layer pattern. A plank from the same brand but a different production run can look noticeably different under certain light.
+A technically perfect repair can be ruined by a plank that's even slightly off. Color matching requires attention to embossing texture, sheen level, and wear layer pattern, not just species or stain. A plank from the same brand but a different production run can look noticeably different under certain light.
 
 If you have leftover planks from the original install, use them. Full stop.
 
@@ -96,7 +96,6 @@ If you genuinely can't find a match and the plank is in a visible area, steal a 
 ## Sources
 
 - [Pixabay](https://www.pexels.com/@pixabay)
-
 
 Most single-plank repairs don't require a pro. But a few situations warrant it.
 

@@ -25,13 +25,13 @@ author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
 lastmod: 2026-07-08
 ---
-The old caulk around your tub doesn't fail all at once. It starts with one small section that looks a little gray, a little soft. You peel at it, and suddenly you've got a six-inch gap between the tub and the wall. I've watched homeowners spend $400 on a plumber to investigate what they thought was a mysterious leak, only to trace it back to exactly that: a failed caulk joint they'd been ignoring for two years.
+The old caulk around your tub doesn't fail all at once. It starts with one small section that looks a little gray, a little soft. You peel at it, and suddenly you've got a six-inch gap between the tub and the wall. A failed caulk joint that's been ignored can eventually cause enough water damage that homeowners suspect a serious leak and call in a plumber.
 
 Recaulking a bathtub is one of those jobs that genuinely belongs in the DIY column. It costs about $20 in materials, takes a Saturday morning, and done right lasts five to ten years. The problem is that most people do it wrong, and bad caulk work fails in six months, looks terrible, and convinces them it's harder than it is. It's not hard. It just has a specific process that most YouTube videos skip over.
 
 ## The First Step Most People Completely Skip
 
-Before you buy a single tube of caulk, get all the old stuff out. Every last bit of it. I cannot tell you how many recaulk jobs I've seen fail because someone applied fresh caulk over old caulk. New caulk bonds to the surface. If the surface is old, failing caulk, you've just built your new seal on top of a problem.
+Before you buy a single tube of caulk, get all the old stuff out. Every last bit of it. Applying fresh caulk over old caulk is a common cause of recaulk failure. New caulk bonds to the surface. If the surface is old, failing caulk, you've just built your new seal on top of a problem.
 
 For most tubs, you'll use a combination of a rigid plastic caulk removal tool (Dap makes a good set for around $7 at Home Depot) and a utility knife. Score along both edges of the old caulk bead with your knife, then work the plastic tool underneath and drag it along the joint. Silicone caulk especially has a way of leaving thin, translucent residue that you'll miss if you're not looking for it.
 
@@ -50,7 +50,7 @@ After the bulk is out, hit the joint with a rag soaked in isopropyl alcohol or L
 
 For tub and shower applications, use 100% silicone caulk. Not latex, not "paintable caulk," not "kitchen and bath" blends that are latex-based. Pure silicone.
 
-Latex caulk is easier to work with because it's water-soluble while wet, so you can smooth it with a damp finger. But in a wet area that cycles between soaking wet and bone dry, latex breaks down. It shrinks. It gets that cracked, chalky look. I've seen latex caulk in a tub surround fail in under a year. Silicone stays flexible, bonds tenaciously to non-porous surfaces like porcelain, acrylic, and ceramic tile, and holds up for years in high-moisture environments.
+Latex caulk is easier to work with because it's water-soluble while wet, so you can smooth it with a damp finger. But in a wet area that cycles between soaking wet and bone dry, latex breaks down. It shrinks. It gets that cracked, chalky look. Latex caulk can fail in under a year in a tub surround. Silicone stays flexible, bonds tenaciously to non-porous surfaces like porcelain, acrylic, and ceramic tile, and holds up for years in high-moisture environments.
 
 The catch is that silicone is unforgiving to apply and a pain to clean up. You're working with mineral spirits or denatured alcohol, and the working time before it starts skinning over is maybe 15 minutes, sometimes less in a warm room. You do smaller sections, work deliberately, and have your smoothing tools ready.
 
@@ -79,7 +79,6 @@ Let it cure. Silicone needs 24 hours before light water exposure and a full 72 h
 ## Sources
 
 - [Castorly Stock](https://www.pexels.com/@castorlystock)
-
 
 Mold behind the new bead, within weeks. Almost always means moisture was trapped during application, either the surface wasn't dry, or the caulk was applied over residue that held moisture. Start over, prep better.
 

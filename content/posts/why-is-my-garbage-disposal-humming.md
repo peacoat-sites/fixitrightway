@@ -27,11 +27,9 @@ faqs:
 
 A humming [disposal that](/how-to-fix-a-garbage-disposal-that-wont-turn-on/) won't grind is one of the most common service calls I get, and almost nobody talks about the actual cause breakdown. Here's the number that should reframe how you think about this problem: roughly 80% of "dead" garbage disposals that still hum are not broken at all. They're jammed. The motor is alive, the impellers are stuck, and the whole thing can be fixed in under five minutes with a hex key you probably already own.
 
-The other 20% are worth understanding too, because misdiagnosing them costs people money. I've seen homeowners buy a new $200 disposal because they didn't know about the reset button. I've seen the opposite: someone spend 45 minutes poking at a disposal that had a burned-out motor and needed replacement no matter what. Knowing which situation you're in is the whole game.
-
+The other 20% are worth understanding too, because misdiagnosing them costs people money. A common mistake is buying a new $200 disposal without trying the reset button first. On the flip side, resetting won't help if the motor is burned out and needs replacement anyway. Knowing which situation you're in matters.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A humming disposal that won't spin is jammed ~80% of the time; the motor is fine.</li><li style="margin:5px 0">Fix most jams in under 5 minutes using the 1/4-inch hex (Allen) wrench port on the bottom.</li><li style="margin:5px 0">Always press the red reset button after clearing a jam, or it still won't run.</li><li style="margin:5px 0">If the disposal hums, trips the reset immediately, and won't turn by hand, the motor may be burned out.</li><li style="margin:5px 0">Replacement disposals run $80–$500; a plumber charges $150–$300 installed, parts included.</li></ul></div>
-
 
 ## What's Actually Happening Inside
 
@@ -88,13 +86,11 @@ InSinkErator's Badger series runs about $80–$100 at any big-box store. The Evo
 
 Scenario: A disposal that hums and trips the breaker (not just the reset button, the actual [circuit breaker](/how-to-reset-a-tripped-circuit-breaker/)) every time it runs almost always has a winding short. Homeowner replaces the unit herself with an InSinkErator Badger 5 ($89 at Home Depot), following the existing mounting hardware since it's an InSinkErator-to-InSinkErator swap. Total time: 45 minutes. Cost: $89 plus $0 labor.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical garbage disposal repair vs. replace costs (2026)</div><div class="sc-row"><span class="sc-label">Jam fix (DIY)</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$0</span></div><div class="sc-row"><span class="sc-label">Pro service call (jam)</span><span class="sc-track"><span class="sc-bar" style="width:26%"></span></span><span class="sc-val">$125</span></div><div class="sc-row"><span class="sc-label">Budget replacement unit</span><span class="sc-track"><span class="sc-bar" style="width:19%"></span></span><span class="sc-val">$90</span></div><div class="sc-row"><span class="sc-label">Mid-range unit installed</span><span class="sc-track"><span class="sc-bar" style="width:52%"></span></span><span class="sc-val">$250</span></div><div class="sc-row"><span class="sc-label">Premium unit installed</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$480</span></div><div class="sc-src">Source: Industry service data and retail pricing, August 2026</div></div>
-
 
 ## The Reset Button Is Not a Mystery
 
-I've watched YouTube comments fill up with people confused about why their disposal still hums after "resetting" it. Almost every time, they pushed the button before clearing the jam. The sequence matters: clear the jam first, then reset, then power on. If you reset while the impellers [are still](/ira-rebates-are-still-on-the-table-how-to-claim-them-now/) locked, the overload just trips again the moment the motor tries to spin.
+Many people reset the disposal while a jam is still stuck, which won't solve the problem. The sequence matters: clear the jam first, then reset, then power on. If you reset while the impellers [are still](/ira-rebates-are-still-on-the-table-how-to-claim-them-now/) locked, the overload just trips again the moment the motor tries to spin.
 
 Also: the reset button can wear out over time on an older unit. If you're pushing it and it doesn't click, or clicks but immediately pops back out, the overload protector itself may be faulty. At that age, just replace the unit.
 
@@ -106,6 +102,5 @@ Also: the reset button can wear out over time on an older unit. If you're pushin
 - [Home Innovation Research Labs, Residential Remodeling Report (2025)](https://homeinnovation.com): Data on kitchen appliance replacement rates and average homeowner DIY repair success rates.
 
 ---
-
 
 *Photo: [Sardwim](https://www.pexels.com/@sardwim) via Pexels*

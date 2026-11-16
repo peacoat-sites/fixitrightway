@@ -43,13 +43,13 @@ Clean the stopper with an old toothbrush, get all that gunk off, and reinstall i
 
 If cleaning the stopper didn't fix it, the clog is sitting a bit further down in the trap. This is where the Zip-It (officially the "Cobra Zip-It Drain Cleaning Tool," about $3 at any hardware store) becomes your best friend.
 
-It's a thin plastic strip with barbs along both sides. You feed it into the drain, wiggle it around, and pull it back out. The barbs grab hair like velcro. I've seen one pass with a Zip-It pull out a hair mass the size of a tennis ball. Genuinely disgusting. Completely satisfying.
+It's a thin plastic strip with barbs along both sides. You feed it into the drain, wiggle it around, and pull it back out. The barbs grab hair like velcro. A single pass can pull out a hair mass the size of a tennis ball.
 
 **How to do it:**
 
 Feed the Zip-It into the drain opening until you feel resistance. Rotate it slowly, then pull straight up without yanking hard. Deposit the hair wad directly into a plastic bag (trust me on this). Run hot water. Repeat two or three times until you're pulling the tool out clean.
 
-A wire coat hanger bent into a hook works too, though it's harder to maneuver in a small drain opening. I've used both; the Zip-It is faster.
+A wire coat hanger bent into a hook works too, though it's harder to maneuver in a small drain opening. The Zip-It is faster.
 
 Clog scenario 1: A reader in Portland emailed me last year. She'd had a slow drain for four months and assumed she needed a plumber. Tried the Zip-It first on my recommendation. Pulled out three passes worth of hair. Total time: 8 minutes. Total cost: $3. Drain fully clear.
 
@@ -71,7 +71,7 @@ I'm going to give you my honest opinion here: I'd skip Drano and the other caust
 
 Here's why. Hair clogs are a physical problem. Caustic chemicals dissolve some of the organic material, but they don't actually remove the mass from the pipe. They just break it down partially, which often leaves you with a slower-moving partial blockage and a pipe full of lye or sulfuric acid. And if you then need to snake the drain or have a plumber come, now there's caustic chemical sitting in the pipe that's going to splash. That's a safety problem.
 
-There's also a pipe compatibility issue. Drano Max Gel and similar products say they're safe for PVC, but I've seen older PVC fittings soften after repeated use. And if you have a brass P-trap (common in older homes), prolonged exposure to lye-based chemicals can accelerate corrosion.
+There's also a pipe compatibility issue. Drano Max Gel and similar products say they're safe for PVC, but Older PVC fittings can soften after repeated use with these products. And if you have a brass P-trap (common in older homes), prolonged exposure to lye-based chemicals can accelerate corrosion.
 
 The one chemical I don't mind recommending: an enzyme-based drain treatment like Green Gobbler Enzyme Drain Cleaner or Bio-Clean. These use bacterial enzymes to slowly digest organic material over 6 to 8 hours. They're slower but gentler, and they're good for monthly maintenance to prevent buildup, not necessarily for busting an acute clog.
 
@@ -128,6 +128,5 @@ Here's a straightforward comparison so you know what you're getting into before 
 - Home Depot Rental Center (current pricing, verified July 2026): Equipment rental rates for residential drain snakes.
 
 ---
-
 
 *Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*

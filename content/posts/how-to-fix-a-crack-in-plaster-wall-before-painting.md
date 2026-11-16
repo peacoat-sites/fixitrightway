@@ -46,7 +46,7 @@ Not all cracks are equal, and treating them the same is mistake number one.
 
 **Wide cracks or step cracks** (anything wider than 1/4 inch, especially diagonal cracks running through plaster near corners or windows) can indicate foundation settlement or framing movement. I'll be honest: if you're seeing multiple diagonal cracks appearing together in different rooms, that's a conversation for a structural engineer before you pick up a putty knife.
 
-A reader named Carla from Pittsburgh emailed me last fall with photos of a "cosmetic crack" in her dining room. The crack was 3/8 inch wide, running at a 45-degree angle from a window corner, and she'd already filled it twice in two years. That's a red flag pattern. Before repainting, she had a structural engineer look at it. Turned out there was minor (non-urgent) foundation movement on one corner of her house that explained it. She knew what she was dealing with and patched it accordingly, with a flexible repair that she could monitor.
+If a crack is 3/8 inch wide, running at a 45-degree angle from a window corner, and recurs within two years of filling, that's a red flag pattern worth investigating. Before repainting, have a structural engineer look at it. There may be minor (non-urgent) foundation movement on one corner of the house that's causing it. Once you know what you're dealing with, you can patch it accordingly, using a flexible repair that you can monitor over time.
 
 The other thing to check: is the surrounding plaster still bonded to the lath? Tap along the wall with your knuckles. A hollow sound means the plaster has separated from the wood or metal lath behind it. That section needs to come down and be replastered, not patched from the surface. Patching over hollow plaster is throwing money at a wall that's going to fail anyway.
 
@@ -143,6 +143,5 @@ Scenario 3: A homeowner in suburban Chicago DIY'd crack repairs on 6 medium crac
 - Fine Homebuilding, various issues: contractor-level technique documentation for plaster repair and finishing in residential renovation contexts.
 
 ---
-
 
 *Photo: [Monstera Production](https://www.pexels.com/@gabby-k) via Pexels*

@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most people treat this like a coin flip. Satin or semi-gloss, whatever's on sale, grab a gallon and roll it on. I made that mistake early in my career, and I've watched homeowners make it ever since. The truth is, the finish you pick for your bathroom walls will affect how that room looks and feels every single day, and more practically, how often you're repainting it.
+Most people treat this like a coin flip. Satin or semi-gloss, whatever's on sale, grab a gallon and roll it on. A common mistake is grabbing whatever finish is on sale without considering the room. The finish you pick for your bathroom walls will affect how that room looks and feels every single day, and more practically, how often you're repainting it.
 
 I'll be honest: I came into this topic thinking I already knew the answer. Semi-gloss in bathrooms, full stop, that's what I told clients for years. What surprised me was how much that advice has shifted as paint chemistry has improved, and how the "right" answer now actually depends on details most articles skip entirely.
 
@@ -50,7 +50,7 @@ But here's the part most people don't hear: modern satin paints from the last se
 
 I want to spend real time here because this is where I see the most regret.
 
-Semi-gloss shows wall imperfections with brutal honesty. Every skim coat ridge, every drywall screw dimple, every spot where the tape joint is slightly proud of the surface, semi-gloss light will find it and announce it. I painted my own master bath in semi-gloss about twelve years ago and stood there under the vanity lights feeling like an idiot. The walls looked fine when I was rolling. Under direct light, they looked like a topographical map.
+Semi-gloss shows wall imperfections with brutal honesty. Every skim coat ridge, every drywall screw dimple, every spot where the tape joint is slightly proud of the surface, semi-gloss light will find it and announce it. Semi-gloss can create an unwelcome surprise under vanity or direct lighting. Walls that appear smooth while rolling may reveal every ridge, screw dimple, and tape joint when light hits them at certain angles.
 
 Satin is genuinely more forgiving. That softer sheen diffuses light rather than bouncing it, and it hides surface variation that would otherwise drive you crazy.
 
@@ -60,7 +60,7 @@ Here's a worked example from a project I ran two years ago:
 
 Older 1960s ranch home, master bath, walls had five layers of old paint and a couple of skim-coat patches from where the homeowner had previously hung a mirror → We tested a section of semi-gloss (Sherwin-Williams Pro Classic) and a section of satin (Benjamin Moore Regal Select) on adjacent walls before the full paint → The semi-gloss section showed seven visible imperfections under the vanity lights. The satin section showed two → Homeowner chose satin for the full room, saved themselves what would've been an additional $300-400 skim-coat job.
 
-That outcome repeats constantly in my experience. The "more durable" finish sometimes ends up requiring more prep work to look acceptable.
+The "more durable" finish sometimes ends up requiring more prep work to look acceptable.
 
 ---
 

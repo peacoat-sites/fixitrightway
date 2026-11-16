@@ -16,7 +16,7 @@ affiliate_disclosure: true
 
 If you've been pricing out a backyard deck this summer, you've probably already felt the sticker shock. What surprises most people is that the shock isn't coming from one direction. It's not just lumber. It's not just labor. It's a convergence of tariff policy, supply chain ripple effects, and a construction workforce that's stretched thin, and all of it landed at once, right in the middle of deck season.
 
-Here's the thing most homeowners assume: the DIY savings on a deck are basically fixed. You do the work yourself, you skip the labor markup, you save roughly half. That math used to be reliable. In 2026, it's more complicated. The gap between DIY materials and professional installation is narrowing, the smart material choice has changed, and if you're planning to build before winter, timing your purchase window actually matters now.
+Most homeowners assume the DIY savings on a deck are basically fixed. You do the work yourself, you skip the labor markup, you save roughly half. In 2026, it's more complicated. The gap between DIY materials and professional installation is narrowing, the smart material choice has changed, and if you're planning to build before winter, timing your purchase window actually matters now.
 
 ## What the Tariff Numbers Actually Mean for Your Lumber Bill
 
@@ -26,9 +26,7 @@ Softwood framing lumber futures were sitting above $607 per 1,000 board feet in 
 
 What surprised me was how uneven the damage is across material types. A June 2026 analysis by LDN Decks puts the overall deck material cost increase at 8 to 15%, but that average hides a wide spread.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">2026 Year-Over-Year Material Cost Increase by Type</div><div class="sc-row"><span class="sc-label">Domestic Composites</span><span class="sc-track"><span class="sc-bar" style="width:30%"></span></span><span class="sc-val">6%</span></div><div class="sc-row"><span class="sc-label">Pressure-Treated Softwood</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">12%</span></div><div class="sc-row"><span class="sc-label">Imported Hardwoods (Ipe/Cumaru)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">20%</span></div><div class="sc-src">Source: LDN Decks, June 2026</div></div>
-
 
 Domestic composite products like Trex and TimberTech have seen the smallest hit, around 5 to 8%. Pressure-treated softwood is up 8 to 15%. Imported hardwoods like Ipe and Cumaru are getting hammered the hardest, up 15 to 25% year-over-year. If you had your heart set on an Ipe deck because you priced one out in 2024, you're looking at a materially different project budget today.
 

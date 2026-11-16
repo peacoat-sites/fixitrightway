@@ -25,9 +25,9 @@ faqs:
     a: "In a well-maintained interior with stable humidity, a good latex caulk job on a wall-to-baseboard gap should last 5 to 10 years. Miter joints that are glued and then caulked can last indefinitely if the house isn't settling. The biggest enemies are seasonal humidity swings (common in forced-air heated homes) and any moisture source behind the wall. I've seen caulk repairs in dry climates still looking perfect after 12 years, and I've seen them fail in 18 months in a poorly ventilated bathroom."
 ---
 
-Seventy-three percent of homes built before 2000 have at least one section of baseboard with a visible gap, crack, or separation, and most homeowners don't touch it for years because it looks intimidating and they don't know where to start. I know this because I've watched it happen on job sites where the crew finishes trim work on a Tuesday and by Friday the homeowner is calling asking why there's already a quarter-inch gap opening up at the corner. Wood moves. Walls aren't perfectly flat. Settling happens. None of this is a catastrophe.
+Seventy-three percent of homes built before 2000 have at least one section of baseboard with a visible gap, crack, or separation, and most homeowners don't touch it for years because it looks intimidating and they don't know where to start. Wood moves. Walls aren't perfectly flat. Settling happens. None of this is a catastrophe.
 
-What matters is knowing which kind of gap you're dealing with, because the fix for a gap at a miter joint is completely different from a gap between the baseboard and the wall, which is completely different from a gap where the baseboard meets the floor. I've seen people stuff caulk into a miter joint and wonder why it cracks out in six weeks. (Spoiler: caulk doesn't bond well to painted wood under tension. You need something else there.)
+What matters is knowing which kind of gap you're dealing with, because the fix for a gap at a miter joint is completely different from a gap between the baseboard and the wall, which is completely different from a gap where the baseboard meets the floor. Caulk doesn't bond well to painted wood under tension, so it cracks out in six weeks if applied to a miter joint. You need something else there.
 
 The good news: most baseboard gaps are a two-hour fix with $15 worth of materials. Some of them take 20 minutes. A handful genuinely need a professional, and I'll tell you exactly which ones those are.
 
@@ -55,7 +55,7 @@ I want to be specific here because the hardware store aisle is genuinely confusi
 | Baseboard-to-floor gap | Paintable latex caulk or shoe molding | Caulk gun or nail gun | 24 hr for caulk | $4-$6 caulk, $30-$80 shoe molding |
 | Large separation, board pulling from wall | Construction adhesive (Liquid Nails) + nails | Caulk gun, 2.5" finish nails | 24-48 hr full set | $5-$8/tube |
 
-As of August 2026, a tube of DAP Alex Plus runs about $4.89 at Home Depot. I've used it for 15 years. It's not glamorous but it does the job and it accepts [paint without](/how-to-touch-up-wall-paint-without-it-showing/) fisheye or peeling.
+As of August 2026, a tube of DAP Alex Plus runs about $4.89 at Home Depot. It's not glamorous but it does the job and it accepts [paint without](/how-to-touch-up-wall-paint-without-it-showing/) fisheye or peeling.
 
 One thing most people don't realize: caulk shrinks as it cures. Latex caulk can shrink 8 to 12 percent by volume according to DAP's own technical data sheets. So if you're filling a 3/16" gap, apply it slightly proud of the surface, a little bead that's almost too much, and let it cure before you paint. Otherwise you'll paint it, it'll shrink, and you'll have a visible depression.
 
@@ -70,8 +70,6 @@ Run the bead in one continuous pass if you can. Stopping and starting creates lu
 Wet your finger and smooth immediately. Dip your fingertip in a small cup of water, then run it along the bead in one fluid motion. This presses the caulk into the joint and creates a clean, slightly concave finish. Don't overwork it, one pass is enough. Wipe the excess off your finger onto a paper towel, not back into the joint.
 
 Let it skin over for 30 minutes [before painting](/how-to-fill-nail-holes-in-trim-before-painting/). Full cure is 24 hours, but it's paintable much sooner. Don't rush this on the same day as caulking if you're applying a second coat of paint, the caulk can smear into wet paint and make a mess.
-
-**Worked example:** A reader named Tom from Columbus, Ohio, emailed me last spring about a 1/4" gap that had opened along 14 linear feet of baseboard in his living room after a dry winter. He used one tube of Alex Plus, took about 40 minutes including prep, and reported it looked completely seamless after one coat of trim paint. Total cost: $4.89.
 
 ## Miter Joints: The Fix Most People Get Wrong
 

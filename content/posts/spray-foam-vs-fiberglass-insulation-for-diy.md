@@ -55,7 +55,7 @@ Rim joists are my top call for a small DIY spray foam project. The rim joist is 
 
 Cathedral ceilings and unvented roof assemblies are where closed-cell spray foam has no DIY alternative. You need specific R-values in specific ratios (often half the total R-value in foam closest to the roof deck), and it requires professional equipment and training. Don't try a full roof assembly with DIY kits. Get three contractor quotes. Budget $1.50 to $3.50 per board foot, installed.
 
-Open-cell foam works for interior walls, basement walls in some climates, anywhere you want vapor permeability. But avoid it in humid climates or anywhere with moisture risk. It soaks up water and holds it. I've seen mold issues in crawl spaces where someone used open-cell to save money. Closed-cell in those locations. Full stop.
+Open-cell foam works for interior walls, basement walls in some climates, anywhere you want vapor permeability. But avoid it in humid climates or anywhere with moisture risk. It soaks up water and holds it. Open-cell foam in moisture-prone areas like crawl spaces can absorb water and trap it, creating conditions for mold growth. Closed-cell in those locations. Full stop.
 
 ## The Real DIY Question
 
@@ -92,7 +92,6 @@ Pick the project you can actually do well, not the most ambitious one. A properl
 - [Kindel Media](https://www.pexels.com/@kindelmedia)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

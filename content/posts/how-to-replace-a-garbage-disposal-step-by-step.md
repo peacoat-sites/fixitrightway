@@ -42,7 +42,7 @@ Most disposals mount to the same 3-bolt sink flange system that Emerson (InSinkE
 
 If you're switching brands, say from an InSinkErator to a Moen or a Waste King, you'll swap the whole mounting assembly. It's not complicated, just more steps.
 
-Motor size matters more than people admit. A 1/2 HP disposal (like the Badger 5, currently around $90 at Home Depot) works fine for a single person or a couple who cooks occasionally. The moment you have a family that cooks real food, you want 3/4 HP minimum. The InSinkErator Evolution Compact runs about $170 and handles a lot more without jamming or running hot. I've watched homeowners replace a failed 1/2 HP unit with another 1/2 HP unit and get the exact same grinding problems six months later. Size up if you can.
+Motor size matters more than people admit. A 1/2 HP disposal (like the Badger 5, currently around $90 at Home Depot) works fine for a single person or a couple who cooks occasionally. The moment you have a family that cooks real food, you want 3/4 HP minimum. The InSinkErator Evolution Compact runs about $170 and handles a lot more without jamming or running hot. A common mistake is replacing a failed 1/2 HP unit with another 1/2 HP unit, only to encounter the same grinding problems within months. Size up if you can.
 
 ## Tools and Materials
 
@@ -83,7 +83,6 @@ Here's an opinion you might push back on: I actually prefer hardwired disposals 
 ## Sources
 
 - [Jan van der Wolf](https://www.pexels.com/@jan-van-der-wolf-11680885)
-
 
 Lift the disposal up to the mounting assembly (this is the heavy part -- get help or prop it on a bucket to stage it), align the mounting tabs with the mounting ring slots, and rotate clockwise until it locks. Some units have a set point, others twist until they tighten. InSinkErator models lock with a distinct click.
 

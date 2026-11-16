@@ -38,7 +38,7 @@ A running toilet costs you roughly $70 to $200 extra per year on your water bill
 
 There are exactly three things that cause a toilet to run continuously, and they map to three components inside the tank. You need to know which one you're dealing with before you touch anything.
 
-**The flapper** is the rubber seal at the bottom of the tank. When it wears out, warps, or gets mineral buildup on it, water slowly bleeds from the tank into the bowl. This is the most common culprit, probably 60% of running toilet calls I've seen over the years.
+**The flapper** is the rubber seal at the bottom of the tank. When it wears out, warps, or gets mineral buildup on it, water slowly bleeds from the tank into the bowl. This is the most common culprit in running toilet problems.
 
 **The fill valve** (sometimes called a ballcock in older toilets) controls water entering the tank after each flush. If it's faulty or misadjusted, the tank either overfills until water spills into the overflow tube, or the valve itself doesn't shut off cleanly.
 
@@ -82,7 +82,7 @@ Then clip the small refill tube from the valve to the overflow tube. This is eas
 
 Turn the water on slowly and watch for drips at the supply connection. Let the tank fill and confirm the water level. Done.
 
-**Scenario → Action → Result:** A reader emailed me in April 2026 after replacing her flapper twice in six months with no improvement. Video she sent showed water continuously trickling through a hissing fill valve, not the flapper at all. She replaced the valve with a Fluidmaster 400A ($13 at Home Depot). Running stopped immediately. She estimated the toilet had been wasting water for over a year.
+**When the flapper isn't the problem:** If the flapper has been replaced but water still runs, the fill valve itself may be faulty. Water trickling through a hissing fill valve is a sign. Replacing the valve with a model like the Fluidmaster 400A ($13 at Home Depot) can stop the running.
 
 ## When to Call a Plumber Instead
 
@@ -111,6 +111,5 @@ The second mistake is buying the cheapest no-brand flapper at the dollar store. 
 - [HomeAdvisor / Angi Cost Guides](https://www.angi.com): Plumber service call and toilet repair cost benchmarks, updated 2026
 
 ---
-
 
 *Photo: [Curtis Adams](https://www.pexels.com/@curtis-adams-1694007) via Pexels*

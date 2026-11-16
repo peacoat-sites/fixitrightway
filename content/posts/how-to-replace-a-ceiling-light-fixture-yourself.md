@@ -57,7 +57,7 @@ One thing I'd add to every light swap: grab a can of electrical contact cleaner 
 
 **5. Tuck and mount.** This is where the swearing happens. Getting all that wire folded back into the box while also holding up the fixture and lining up the screws is genuinely awkward. Some fixtures have a "strap" that lets you hang them temporarily while you fiddle with connections. If yours doesn't, a cheap hook screwed into the box or even a coat hanger looped through the bracket can hold the fixture weight while you work. Your arms will thank you.
 
-**6. Install the bulbs, flip the breaker, test.** Don't skip checking that the cover or globe is properly seated before you call it done. I've seen wobbling fixtures that passed the initial "yep it's on" test and fell six weeks later because one mounting screw was barely threaded.
+**6. Install the bulbs, flip the breaker, test.** Don't skip checking that the cover or globe is properly seated before you call it done. Wobbling fixtures can pass an initial check and fall six weeks later if a mounting screw isn't fully threaded.
 
 ## When the Box Is the Problem
 
@@ -65,7 +65,7 @@ This deserves its own section because it's the most common surprise.
 
 Old ceiling boxes were often just a metal octagon box nailed to a joist with two nails. Fine for a light. Not fine if those nails have been slowly working loose for 40 years, or if the box is between joists with no direct support. Get up there and physically push on the box. It should not move. If it wobbles even slightly, you need to address that before any new fixture goes up.
 
-The easiest fix for a wobbly between-joist box is a Westinghouse or Hubbell adjustable brace bar (about $12-18 at Home Depot). It inserts through the existing hole in the drywall, expands to press against the joists from inside the ceiling, and locks into place. Takes about 15 minutes and supports up to 70 lbs. This is genuinely one of the better hardware solutions I've seen for old houses where the original box position doesn't line up with a joist.
+The easiest fix for a wobbly between-joist box is a Westinghouse or Hubbell adjustable brace bar (about $12-18 at Home Depot). It inserts through the existing hole in the drywall, expands to press against the joists from inside the ceiling, and locks into place. Takes about 15 minutes and supports up to 70 lbs. This works well in old houses where the original box position doesn't align with a joist.
 
 If you want to move the fixture location entirely, that's drywall work and fishing wire, and it crosses into a longer project. Still DIY-able, but plan a full afternoon and a YouTube deep-dive on fishing wire through finished ceilings.
 
@@ -82,14 +82,13 @@ Flush mounts and basic pendants: almost any standard box handles these.
 
 A mid-size chandelier, say 15-30 lbs: verify the box is joist-mounted or use a brace bar.
 
-Heavy chandeliers over 35 lbs, or any ceiling fan (even the lightweight ones): you need a fan-rated box. It's a specific requirement. Fans have a rocking torque that normal fixture boxes aren't designed to absorb. This isn't overcaution. I've seen ceiling fans pull boxes right out of drywall. The fan-rated brace bars cost about $25 and handle up to 150 lbs.
+Heavy chandeliers over 35 lbs, or any ceiling fan (even the lightweight ones): you need a fan-rated box. It's a specific requirement. Fans have a rocking torque that normal fixture boxes aren't designed to absorb. Ceiling fans can pull boxes right out of drywall if the box isn't rated for the job. The fan-rated brace bars cost about $25 and handle up to 150 lbs.
 
 ## What to Spend and Where Not to Spend It
 
 ## Sources
 
 - [Thirdman](https://www.pexels.com/@thirdman)
-
 
 The fixture itself is where cost varies wildly, from $25 Home Depot flush-mounts to $400 semi-flush fixtures from Rejuvenation or Visual Comfort. That's a style and budget call, not a difficulty call. The harder-to-find stuff often has better mounting hardware and clearer instructions, which does make the install slightly less annoying.
 

@@ -27,7 +27,6 @@ lastmod: 2026-07-08
 ---
 You already know exactly how it happened. The door swung open a little too hard, maybe the wind caught it, maybe someone wasn't paying attention, and now there's a doorknob-shaped hole punched through your drywall. It's one of the most common wall repairs I get called about, and it's also one of the most unnecessary service calls. This is a repair almost any homeowner can do themselves for under $30 and a Saturday morning. Let me walk you through it the right way so you don't end up with a lumpy, visible patch that bugs you every time you walk past it.
 
-
 <div class="value-module">
   <div class="vm-head">Patch Method Selection by Hole Size</div>
   <div class="vm-body">
@@ -47,7 +46,7 @@ A doorknob hole is typically 2 to 3 inches in diameter. That size puts it in a m
 
 If the hole is larger than about 6 inches, or if the surrounding drywall feels soft, crumbly, or shows signs of water damage, that changes the equation. Soft drywall around an impact hole means there was pre-existing moisture damage. Don't just patch over it. Figure out why the drywall was already compromised before you seal it up.
 
-Also check: is there a wall anchor or door stop missing? If the door swings freely and keeps hitting the wall, your patch will last about two weeks before history repeats itself. [Install a door stop](/how-to-patch-a-hole-in-drywall/) (floor mount or hinge pin style) before or right after the repair. They cost $5 at any hardware store. I've seen people patch the same hole three times without ever fixing the cause.
+Also check: is there a wall anchor or door stop missing? If the door swings freely and keeps hitting the wall, your patch will last about two weeks before history repeats itself. [Install a door stop](/how-to-patch-a-hole-in-drywall/) (floor mount or hinge pin style) before or right after the repair. They cost $5 at any hardware store. Patching the same hole repeatedly without addressing the cause wastes time and materials.
 
 ## What You'll Need (and What to Skip)
 

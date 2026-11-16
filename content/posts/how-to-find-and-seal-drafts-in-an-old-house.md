@@ -51,7 +51,7 @@ I'll be honest, most of the advice you'll read tells you to run your hand along 
 
 The most effective low-tech approach is the incense stick test, done at night during cold weather when there's natural stack pressure working for you. Light an incense stick (or use a smoke pen, which you can get on Amazon for about $12) and hold it near every seam, penetration, and joint you can find. The smoke goes horizontal? You've got air movement. Works better than your hand because you can see the direction of the draft, not just feel it.
 
-What surprised me was how much leakage comes from interior locations most people would never suspect. The top plates of interior walls, especially where they meet the ceiling in older balloon-frame construction, are massive air channels. Cold air from the attic literally waterfall down into the wall cavities and out through electrical outlets. I've had clients who sealed every window in their house and still had a drafty living room, and the problem was an outlet on an interior wall.
+Interior locations are often overlooked sources of leakage. The top plates of interior walls, especially where they meet the ceiling in older balloon-frame construction, are massive air channels. Cold air from the attic can flow down into the wall cavities and out through electrical outlets. A house with sealed windows but a still-drafty living room may have an outlet on an interior wall as the culprit.
 
 Other spots that almost nobody checks:
 
@@ -67,7 +67,7 @@ If you want to go deeper, a blower door test is the professional standard. A cer
 
 There's a sequence here that matters. Don't start with weatherstripping your front door. Start in the attic.
 
-The attic floor is where you get the most return per dollar on air sealing in a two-story house, because warm air rises and exits at the top. If you seal the top before you seal the bottom, you reduce stack effect and the whole house performs better. I've seen attic air sealing alone drop heating bills by 20% before any other work was done.
+The attic floor offers the best return per dollar on air sealing in a two-story house, since warm air rises and exits at the top. Sealing the top before the bottom reduces stack effect and improves whole-house performance. Attic air sealing alone can drop heating bills by 20% before any other work is done.
 
 Get up there with a headlamp and a can of low-expanding spray foam (Great Stuff Big Gap Filler is fine for most gaps over 1/4 inch, but use the Gaps & Cracks formula for smaller ones). You're looking for every place a wire, pipe, or duct penetrates the ceiling below. Every one of those is a hole. Seal them all. Then look at the top of interior partition walls. In balloon-frame construction you'll often see these are completely open to the stud cavities below. That's where rigid foam and construction adhesive come in: cut pieces of 2-inch polyiso to fit, glue them down, foam the edges.
 
@@ -77,7 +77,7 @@ The rim joist is next on my list, not because it's the biggest single source of 
 
 I'll say something that might surprise people who've spent time on energy efficiency forums: replacing old windows for energy savings alone is almost never worth the cost. A new double-pane window saves you roughly 5-10% on heating compared to a reasonably weatherstripped single-pane. At current window replacement costs ($400-800 per window installed, often more), the math doesn't close for 40-60 years in most climates.
 
-[Weatherstrip them instead](/how-to-seal-drafty-windows-in-winter/). For double-hung windows, the biggest leakage point is the meeting rail in the middle where the upper and lower sash meet. There are products designed specifically for this, like V-strip (tension seal) weatherstripping, that you press into the channel and let it spring open against the opposing sash. It's about $8 for a 17-foot roll at any hardware store. I've used this on Victorian-era windows and gotten them sealing as tightly as anything modern.
+[Weatherstrip them instead](/how-to-seal-drafty-windows-in-winter/). For double-hung windows, the biggest leakage point is the meeting rail in the middle where the upper and lower sash meet. There are products designed specifically for this, like V-strip (tension seal) weatherstripping, that you press into the channel and let it spring open against the opposing sash. It's about $8 for a 17-foot roll at any hardware store.
 
 For doors, the threshold sweep is usually the first failure point. If you can see light under your exterior door, you're losing a meaningful amount of conditioned air. Door sweeps cost $15-30 and take about 20 minutes to install. If the door itself is warped or the frame has racked (very common in older homes where the structure has settled), no weatherstrip product is going to compensate. That's when you're looking at a door replacement or, in some cases, a frame rebuild.
 
@@ -90,7 +90,6 @@ One more thing about doors that's almost never discussed: the door to your attac
 - [Ron Lach](https://www.pexels.com/@ron-lach)
 - how much leakage
 
-
 Air sealing is one of the more genuinely DIY-friendly things in home performance work. The materials are cheap, the skills required are basic, and the risk of making things worse is low, with one important exception.
 
 Houses with older combustion appliances (gas furnaces, water heaters, boilers) need combustion air. Seal a house too tight without understanding the mechanical ventilation picture and you can create back-drafting, where flue gases including carbon monoxide are drawn back into the living space. This is a real danger. If your house has any atmospheric-draft combustion appliances and you're planning serious air sealing beyond weatherstripping, get that blower door test first and have an HVAC tech assess your combustion safety afterward.
@@ -98,7 +97,6 @@ Houses with older combustion appliances (gas furnaces, water heaters, boilers) n
 Also: if you find significant rot, failed flashing, or signs of chronic moisture infiltration while you're poking around looking for drafts, stop and get a contractor or building inspector in before you start sealing. Trapping moisture is worse than the drafts.
 
 ---
-
 
 ---
 

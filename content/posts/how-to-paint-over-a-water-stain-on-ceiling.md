@@ -42,9 +42,9 @@ Primer. Not just any primer. Shellac-based or oil-based [stain-blocking primer](
 
 Water stains bleed. The minerals, tannins, and organic material left behind after a leak push right through water-based coatings no matter how many coats you slap on. Shellac-based primer creates a true barrier. Latex doesn't.
 
-I've used two products reliably for years: Zinsser BIN (shellac-based, white, dries in 45 minutes) and Kilz Original (oil-based, slower dry, stronger smell). BIN's my default for ceilings. It dries fast, sands beautifully, and sticks to everything. A quart costs about $20-25 and covers way more ceiling than any single stain you're dealing with.
+Two reliable primer options are Zinsser BIN (shellac-based, white, dries in 45 minutes) and Kilz Original (oil-based, slower dry, stronger smell). BIN is effective for ceilings: it dries fast, sands beautifully, and sticks to everything. A quart costs about $20-25 and covers way more ceiling than any single stain you're dealing with.
 
-Kilz Max is their water-based formula. I want to be direct: it handles light surface stains fine, but I've watched it fail on anything with real tannin content, like stains from a roof leak that sat for weeks. Don't gamble on it for a serious stain.
+Kilz Max is their water-based formula. It handles light surface stains but is not reliable for serious stains with high tannin content, such as stains from an old roof leak.
 
 ## But First: Is the Leak Actually Fixed?
 
@@ -54,7 +54,7 @@ Press on the stained area with your palm. Does it feel soft? Any give? If yes, m
 
 Roof leak? Get on the roof or hire someone before you do anything cosmetic. Upstairs bathroom overflow? Check the subfloor above. Make sure the problem was caulking, a failed wax ring, or a supply line that's already fixed. Plumbing leak from a pipe in the ceiling? That pipe better be repaired and pressure-tested.
 
-I've seen homeowners pay $400 for a beautiful ceiling repair, then watch the stain reappear because a slow drip from a toilet supply line was losing a few ounces of water per day. The painter wasn't wrong. The homeowner just didn't check.
+Stains often reappear after repair when the underlying moisture source remains active, such as a slow drip from a toilet supply line. Check for active leaks before priming and painting.
 
 Dry time matters. A soaked drywall ceiling needs at least 48-72 hours with decent airflow before you prime. Humid climate or winter with the house sealed up? Give it a week. A moisture meter (Ryobi makes a decent one for around $25) removes the guesswork.
 
@@ -89,7 +89,6 @@ On the mineralization issue: heavy calcium or rust deposits from a long-standing
 ## Sources
 
 - [Snapwire](https://www.pexels.com/@snapwire)
-
 
 White ceilings aren't all the same white. Builders use dozens of formulations and they all age differently. A patch of fresh bright white will glow against a slightly yellowed ceiling like a spotlight. This drives people insane.
 

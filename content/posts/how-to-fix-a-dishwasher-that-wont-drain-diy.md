@@ -27,13 +27,11 @@ faqs:
 
 Standing water at the bottom of your dishwasher after a full cycle is one of those problems that looks worse than it usually is. Most of the time, you don't need a technician. You need twenty minutes and a pair of rubber gloves.
 
-The frustrating part is that most online guides send you straight to the drain hose or the pump motor, which are genuinely last-resort checks. Meanwhile the actual culprit, sitting right there under the lower rack, takes about four minutes to clean and fixes the problem probably 60% of the time. I've watched homeowners pay a $150 service call only to watch a tech pull out a chunk of wet food debris from the filter screen. That's the mistake we're going to avoid here.
+The frustrating part is that most online guides send you straight to the drain hose or the pump motor, which are genuinely last-resort checks. Meanwhile the actual culprit, sitting right there under the lower rack, takes about four minutes to clean and fixes the problem probably 60% of the time. A service call to clear a clogged filter screen can cost $150 or more, making it worth checking first. That's the mistake we're going to avoid here.
 
 Before you buy a part, before you call anyone, work through these checks in order. Each one takes less time than the next, and you'll stop the moment the problem's solved.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A clogged filter or debris-blocked sump fixes the drain problem roughly 60% of the time and takes under 10 minutes to check.</li><li style="margin:5px 0">Drain hose clogs and garbage disposal connection errors are the next most common causes; both are DIY-fixable for $0-$25.</li><li style="margin:5px 0">A failed drain pump (the actual motor) runs $35-$120 for the part; replacement is DIY-able on most machines but takes 45-90 minutes.</li><li style="margin:5px 0">Standing water under 1 inch is often just a small trapped pocket, not a true failure, run a short cycle and check again before diagnosing.</li><li style="margin:5px 0">As of July 2026, a plumber or appliance tech charges $85-$200 for a drain-related service call; parts alone almost never justify that cost.</li></ul></div>
-
 
 ## Start with the Filter (Seriously, Start Here)
 
@@ -111,6 +109,5 @@ The machine is more than 12-14 years old and the repair cost approaches $200 or 
 - [Consumer Reports Appliance Reliability Survey](https://www.consumerreports.org): Brand reliability data informing repair-vs-replace thresholds.
 
 ---
-
 
 *Photo: [ClickerHappy](https://www.pexels.com/@clickerhappy) via Pexels*

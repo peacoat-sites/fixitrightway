@@ -67,9 +67,9 @@ For a room with four standard square corners, you'll have:
 
 Inside corners: I coped mine for years before I understood why. The reason is that your walls are almost certainly not 90 degrees. Most interior corners measure between 88 and 92 degrees, and a 45/45 miter at a non-90 corner leaves a gap. Coping, where you cut the profile of the first piece into the end of the second piece with a coping saw, leaves a tight joint regardless of the actual corner angle. For beginners who don't want to cope: butt the first piece into the corner flat, then cut the second piece at the actual corner angle (measure it with a digital angle finder, the Empire Level model 36 runs about $22) and test-fit before nailing. It won't be perfect but it'll be close.
 
-Outside corners are mitered. Measure the actual angle, divide by two, set your saw to that. In my experience, almost no outside corner in a residential house is actually 45 degrees.
+Outside corners are mitered. Measure the actual angle, divide by two, set your saw to that. Outside corners are rarely exactly 45 degrees in residential houses.
 
-A worked example that illustrates the stakes: a reader from Portland named Garrett emailed me after installing baseboard in a 1960s ranch house. He'd measured at 90 degrees everywhere, cut all his miters at 45/45, and ended up with visible gaps at every single inside corner. He went back, measured the actual angles (the worst was 87.3 degrees), recut the pieces, and the joints closed up. Total extra material cost: about $23 in replacement trim. Time lost: half a Saturday.
+For example, if you measure all corners at 90 degrees and cut every miter at 45/45, you may find visible gaps at inside corners. Measuring actual angles (which might be 87.3 degrees instead of 90) and recuting the pieces closes the joints, though it costs extra material and time.
 
 ## The Installation Sequence, Step by Step
 
@@ -83,7 +83,7 @@ Start with the longest, straightest wall in the room. This is your control piece
 
 **Step 4: Fill nail holes, then caulk the top edge.** Not the other way around. Fill holes with lightweight spackle, let it dry, sand lightly. Then run painter's caulk along the top where the baseboard meets the wall. This is the single step beginners skip most often, and it's what separates a professional-looking job from an amateur one. A thin, consistent bead smoothed with a damp finger closes the gap between the trim and the wall surface, which is almost never perfectly flat.
 
-**Step 5: Prime and paint.** If you painted the walls first (and you probably should have), tape the floor and shoot two coats of a high-quality trim paint. I've used Benjamin Moore Advance for years: it levels beautifully and dries hard. A quart runs about $38 and covers roughly 400 square feet of trim surface.
+**Step 5: Prime and paint.** If you painted the walls first (and you probably should have), tape the floor and shoot two coats of a high-quality trim paint. Benjamin Moore Advance levels well and dries hard. A quart runs about $38 and covers roughly 400 square feet of trim surface.
 
 A second worked example: a first-time DIYer named Keisha installed 280 linear feet of 3.5-inch MDF colonial baseboard in a two-bedroom condo. Total material cost: $312 (trim plus nails plus caulk plus paint). Rental of a finish nailer from Home Depot for a weekend: $47. She photographed her results and the joints were tight. Professional quotes she'd received ranged from $1,260 to $1,680. Net savings: roughly $900, in a single weekend.
 

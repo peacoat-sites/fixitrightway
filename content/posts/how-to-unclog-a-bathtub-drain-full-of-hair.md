@@ -56,7 +56,7 @@ Here's how the common methods actually stack up for a hair-specific bathtub clog
 | Compressed air bladder (drain blaster) | $12–$18 | 5 min | Poor on hair specifically | Low |
 | Professional plumber (snake + inspection) | $150–$350 | 30–60 min | Excellent | None |
 
-The Zip-It and its clones are basically a thin plastic stick covered in barbs, about 20 inches long. Rigid enough to push into a drain, flexible enough to navigate the curve. You insert it, twist it, and pull out a horrifying tangle of hair. Home Depot and Lowe's both stock them near the drain cleaning supplies. In my experience, a $4 Zip-It solves around 70% of the bathtub hair clogs I've ever seen before I even need to reach for a real snake.
+The Zip-It and its clones are basically a thin plastic stick covered in barbs, about 20 inches long. Rigid enough to push into a drain, flexible enough to navigate the curve. You insert it, twist it, and pull out a horrifying tangle of hair. Home Depot and Lowe's both stock them near the drain cleaning supplies. A $4 Zip-It solves around 70% of bathtub hair clogs before you even need to reach for a real snake.
 
 ## The Actual Step-by-Step
 
@@ -114,8 +114,6 @@ The DIY ceiling is around $45 including gloves, the Zip-It, and a decent hand sn
 ## Prevention, Which You'll Ignore Until You Do It Once
 
 A stainless mesh drain hair catcher, the OXO Good Grips tub drain protector runs $11.99, sits over your drain and catches hair before it goes anywhere. You pull it out every few showers, toss the hair in the trash, rinse it, and you're done. No clogs. No gross extraction sessions. No drain cleaner.
-
-I thought these were annoying because they slow drainage slightly. Then I tested one for three months in a household with two people with long hair. Zero clogs. Drainage fine. I was wrong.
 
 Worked example: Same household had previously spent $180 on two professional drain cleanings in 18 months. After installing a $12 OXO drain cover: no clogs in 14 months and counting. Payback period on the drain cover: approximately 23 days.
 

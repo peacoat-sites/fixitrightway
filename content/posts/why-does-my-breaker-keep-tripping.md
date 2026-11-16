@@ -37,7 +37,7 @@ A [circuit breaker](/how-to-reset-a-tripped-circuit-breaker/) is a thermal-magne
 
 Why does this matter for diagnosing your problem? Because how the breaker trips tells you a lot. If it trips 10-15 minutes after you turn on a big load, that's thermal, probably an overload. If it snaps off the instant you plug something in or flip a switch, that's usually a short circuit or ground fault. If it trips seemingly at random with no obvious load trigger, that's where things get interesting (and sometimes scary).
 
-What surprised me when I started doing more forensic electrical work was how often homeowners had been resetting the same breaker for months before calling. The NFPA reports that in electrical fires where the investigation could identify a cause, arc faults were involved in roughly 28,000 of those fires annually. Arc faults are exactly the kind of problem that announces itself through random tripping before it becomes a fire.
+A common pattern is homeowners resetting the same breaker for months before calling an electrician. The NFPA reports that in electrical fires where the investigation could identify a cause, arc faults were involved in roughly 28,000 of those fires annually. Arc faults are exactly the kind of problem that announces itself through random tripping before it becomes a fire.
 
 ## The four real reasons your breaker keeps tripping
 
@@ -76,7 +76,7 @@ I get asked about money constantly, so let me just lay this out plainly.
 
 One thing most articles don't tell you: breaker brands are not interchangeable. A Square D Homeline breaker does not go in a Siemens panel. A Cutler-Hammer breaker does not go in a General Electric panel. Using the wrong brand creates arcing inside the panel itself, which is exactly the problem you're trying to solve. This is one of the big reasons I'm cautious about recommending panel work as a DIY task.
 
-These percentages are drawn from NFPA fire investigation data combined with what I've seen in 20 years of service calls. The "failing breaker" number is lower than most people expect. A bad breaker is the exception, not the rule.
+The "failing breaker" number is lower than most people expect. A bad breaker is the exception, not the rule.
 
 ## When to stop resetting and call immediately
 
@@ -90,7 +90,7 @@ Worked example 2: A homeowner in a 1967 ranch-style house called me after his li
 
 These breakers are more sensitive by design, and they trip for reasons a standard breaker ignores. What surprised me, even after years in the field, is how many GFCI nuisance trips are caused by long wire runs. On a circuit where the wire run exceeds 100 feet or so, the capacitance of the wire itself can create a small leakage current that registers as a ground fault. It's not a real fault. But the GFCI can't tell the difference.
 
-The fix in that situation is usually a [GFCI outlet](/how-to-replace-a-gfci-outlet/) at the first outlet in the run instead of a GFCI breaker, which localizes the protection and reduces the sensitivity to that wire capacitance issue. This is genuinely not common knowledge, and I've seen electricians miss it.
+The fix in that situation is usually a [GFCI outlet](/how-to-replace-a-gfci-outlet/) at the first outlet in the run instead of a GFCI breaker, which localizes the protection and reduces the sensitivity to that wire capacitance issue.
 
 AFCI breakers can also nuisance-trip when connected to older wiring [that has](/how-to-fix-a-tile-that-has-come-loose/) slight insulation degradation from age, not enough to be dangerous, but enough to register. The research here is mixed on exactly where that threshold is. What I can tell you from experience is that if a newly installed AFCI breaker trips repeatedly with normal loads on a house with wiring from the 1950s or 1960s, you should have the wiring inspected before assuming the breaker is defective.
 

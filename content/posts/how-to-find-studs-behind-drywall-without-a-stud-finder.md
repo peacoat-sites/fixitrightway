@@ -31,7 +31,6 @@ Most people assume that without a stud finder, you're basically guessing. That's
 
 Here's the real foundation: standard residential framing spaces studs 16 inches on center. Some newer construction and some commercial work uses 24 inches on center, but if you're in a house built between 1950 and today, 16 inches is the overwhelming default. That single fact is your most powerful tool, more reliable than any battery-powered device.
 
-
 <div class="value-module">
  <div class="vm-head">Stud-Finding Methods Comparison Matrix</div>
  <div class="vm-body">
@@ -49,7 +48,7 @@ Same goes for door and window frames. The rough opening on each side of any door
 
 Here's how I actually start. I pick my closest corner or door frame and measure out from there in 16-inch increments. That means 16 inches, 32 inches, 48 inches, 64 inches. Mark them lightly in pencil. Those are your candidates. You won't always be exactly right because the framer might have started their layout from a different anchor point on that wall, but you'll typically be within an inch or two.
 
-Outlets and switches throw people off. They're almost always mounted to the side of a stud, not between them. If you've got a light switch on a wall, there's a stud within an inch of that electrical box, usually on the right side. I've used that trick dozens of times when I needed a reference point fast.
+Outlets and switches throw people off. They're almost always mounted to the side of a stud, not between them. If you've got a light switch on a wall, there's a stud within an inch of that electrical box, usually on the right side. This can be a useful reference point when locating studs quickly.
 
 ## The Knock Test (and Why Most People Do It Wrong)
 
@@ -86,7 +85,6 @@ Probe a half inch to either side of your target if you miss on the first try. On
 ## Sources
 
 - [La Miko](https://www.pexels.com/@lamiko)
-
 
 Old houses complicate everything. Plaster walls, which you'll find in most construction predating the 1950s, don't respond the same way to the knock test because the plaster itself is dense and relatively uniform. The magnet trick also fails here, because original plaster was applied over wood lath strips, meaning there are nails every few inches that will pull at your magnet constantly.
 

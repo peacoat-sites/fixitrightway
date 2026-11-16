@@ -27,15 +27,15 @@ faqs:
 
 Most homeowners look at crumbling mortar joints and assume they need a mason, a scaffold, and a four-figure invoice. I'll be honest: that assumption costs people real money every single year, because the vast majority of repointing jobs on a single-story home or a ground-floor foundation wall are well within DIY range if you understand what you're actually doing.
 
-What surprised me when I first got into this properly (and I mean beyond just slapping new mortar into old joints, which is a mistake I'll come back to) was how much the prep work matters relative to everything else. The mixing, the actual trowel work, none of that is the hard part. The hard part is removing the old mortar correctly and matching your mortar type to the age of the brick. Get those two things wrong and you've made an expensive problem worse.
+The prep work matters more than most people expect. The mixing, the actual trowel work, none of that is the hard part. The hard part is removing the old mortar correctly and matching your mortar type to the age of the brick. Get those two things wrong and you've made an expensive problem worse.
 
 ## Why Old Mortar Fails (And Why It Matters Before You Buy Anything)
 
-Old brick mortar is almost always a softer lime-based mix, especially on anything built before the 1930s. Modern Portland cement mortars are significantly harder than the brick itself. This is a real issue, not just historical trivia: when you repoint old soft brick with a too-hard mortar, the rigid new joints force stress into the brick face during freeze-thaw cycles, and you end up with spalling brick instead of just worn joints. I've seen this exact damage on a 1908 Craftsman bungalow in Milwaukee where a previous owner had repointed with standard Type S mortar. The original brick cost over $4,000 to replace. The repointing job probably cost $600.
+Old brick mortar is almost always a softer lime-based mix, especially on anything built before the 1930s. Modern Portland cement mortars are significantly harder than the brick itself. This is a real issue, not just historical trivia: when you repoint old soft brick with a too-hard mortar, the rigid new joints force stress into the brick face during freeze-thaw cycles, and you end up with spalling brick instead of just worn joints. Using too-hard mortar on old soft brick can lead to expensive damage: spalling brick that costs far more to replace than the repointing job itself would have.
 
 The American Society for Testing and Materials classifies mortar into types M, S, N, O, and K, roughly from hardest to softest. For most residential repointing of pre-1950s brick, you're looking at Type N (a 1:1:6 ratio of Portland cement, lime, and sand) or even a straight lime putty mortar with no Portland at all. Post-1950s brick can generally handle Type S. If you're not sure what era your brick is from, go with Type N. It's the safer choice.
 
-And color matching: this genuinely takes some effort. Hardware store mortar pigment kits from Quikrete or Custom Building Products work, but you'll want to test on a scrap piece of wood, let it cure for 72 hours (not just dry), and compare in natural light. The wet color lies. I've been burned by that more than once.
+Color matching takes effort. Hardware store mortar pigment kits from Quikrete or Custom Building Products work, but test on a scrap piece of wood, let it cure for 72 hours (not just dry), and compare in natural light. Wet mortar color is misleading.
 
 ## What You'll Actually Need (With Real Numbers)
 
@@ -62,7 +62,7 @@ A typical 10x10 section of wall might run you $80-$120 in materials if you're bu
 
 **Step 2: Remove the old mortar to depth.** This is where most DIYers undercut themselves. You need to go back at least 3/4 inch, and 1 inch is better. Any shallower and the new mortar won't bond well and will pop out within a few freeze-thaw cycles. An angle grinder with a mortar raking blade (Bosch makes a good one) handles horizontal joints quickly. Vertical joints are trickier with a grinder; a hammer and cold chisel is safer for staying on course. Work carefully near the brick edges. A slip that chips the brick face is visible forever.
 
-A reader named David from Pittsburgh emailed me last fall about this exact issue: he'd used only a chisel on a 12-foot section, it took him an entire weekend, and he was ready to quit. When he rented an angle grinder for the horizontal joints on the next section, he finished twice the area in three hours. Use the right tool.
+An angle grinder cuts joint removal time dramatically compared to chiseling alone. Using the right tool can let you finish twice the area in a fraction of the time.
 
 **Step 3: Clean the joint.** Blow out debris with compressed air or use a stiff (not wire) brush. Then dampen the joint with water using a spray bottle. This is not optional. Dry masonry sucks moisture out of fresh mortar too fast, killing the cure and weakening the bond significantly. Dampen, don't soak.
 
@@ -80,9 +80,9 @@ I want to be straight with you about this part, because some situations genuinel
 
 Anywhere you've got active water infiltration behind the wall (bubbling paint on interior walls, efflorescence patterns suggesting hydrostatic pressure, or areas near grade where soil is against the brick) needs a diagnostic before you repoint. Repointing over active moisture intrusion just traps the water differently. It doesn't fix the problem.
 
-Structural cracks, meaning diagonal stair-step cracks through the mortar that are wider than about 1/4 inch, or any horizontal cracks in a load-bearing wall, are a structural engineer question, not a repointing question. I've seen homeowners repoint over foundation movement cracks three times in a row before finally calling an engineer who found a drainage issue causing lateral pressure on the foundation wall. The total repair bill was around $18,000 by that point. The engineering consult up front would have run $350-$600.
+Structural cracks, meaning diagonal stair-step cracks through the mortar that are wider than about 1/4 inch, or any horizontal cracks in a load-bearing wall, are a structural engineer question, not a repointing question. Calling a structural engineer for diagonal or horizontal cracks early is far cheaper than repointing over an underlying structural problem multiple times.
 
-High work (anything above 8 feet without solid scaffolding) is also where I tell people to reconsider. I don't mean a ladder for a small chimney flashing joint. I mean renting proper scaffold or hiring someone to handle second-story or gable walls. Falls from ladders are the leading cause of construction fatalities. That's not fear-mongering; it's the BLS data every single year.
+High work (anything above 8 feet without solid scaffolding) is worth reconsidering. I don't mean a ladder for a small chimney flashing joint. I mean renting proper scaffold or hiring someone to handle second-story or gable walls. Falls from ladders are the leading cause of construction fatalities. That's not fear-mongering; it's the BLS data every single year.
 
 ## Worked Examples
 
@@ -101,6 +101,5 @@ Basement foundation wall, 180 linear feet of joints, 1950s construction. → Own
 - Quikrete Mortar Mix Product Data Sheet (current formulation): Specification data on Type N and Type S premixed mortars, curing times, and coverage rates referenced in this article.
 
 ---
-
 
 *Photo: [Vidul Arora](https://www.pexels.com/@vdularora) via Pexels*

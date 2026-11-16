@@ -25,7 +25,7 @@ faqs:
     a: "Penetrating sealers typically last 5 to 10 years before reapplication. Topical acrylic sealers need reapplication every 2 to 4 years. Polyurethane and epoxy topicals fall somewhere in between. The water bead test is your best diagnostic: when water stops beading and starts absorbing, it's time."
 ---
 
-Roughly 45% of unsealed concrete driveways show significant surface deterioration within five years of installation. Not "some wear." Not "minor cracking." Significant, progressive damage that costs real money to repair. I've watched homeowners spend $3,000 to $8,000 on driveway resurfacing jobs that a $120 tube of sealant and a Saturday afternoon could have prevented.
+Roughly 45% of unsealed concrete driveways show significant surface deterioration within five years of installation. Not "some wear." Not "minor cracking." Significant, progressive damage that costs real money to repair. Many homeowners end up spending $3,000 to $8,000 on driveway resurfacing jobs that a $120 tube of sealant and a Saturday afternoon could have prevented.
 
 You might be wondering whether sealing is actually worth the effort, or whether it's one of those things contractors push because it pads the bill. Fair question. Here's what I tell people: the Portland Cement Association estimates that a properly sealed concrete driveway can last 30 or more years, while an unsealed one in a freeze-thaw climate might degrade seriously in half that time. The science behind it isn't complicated. Concrete is porous. Water gets in, freezes, expands by about 9%, and breaks the matrix from the inside. Do that 50 times a winter and you've got spalling, pitting, and cracking that no amount of sealing will fix after the fact.
 
@@ -63,7 +63,7 @@ As of July 2026, prices at Home Depot and Lowe's have ticked up about 12% from t
 
 ## The Prep Work (Don't Skip This)
 
-A reader named Marcus from Columbus emailed me last spring after his brand-new acrylic sealer started peeling in sheets within three months. When I asked what prep he did, he said he swept it and let it dry for a day. That's it. The sealer he used was fine. The prep was the problem.
+A common mistake is minimal surface prep before sealing. Sweeping and letting the concrete dry for a day isn't enough. Poor prep can cause a quality sealer to fail and peel within months, even if the sealer itself is sound.
 
 Here's the actual sequence:
 

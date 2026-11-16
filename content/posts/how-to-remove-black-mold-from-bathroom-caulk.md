@@ -63,7 +63,7 @@ You'll need: household bleach (plain sodium hypochlorite, not "splash-less" or s
 
 **Step 5:** Remove the paper towel or rope, rinse thoroughly with water, and dry with a clean cloth. Inspect. If you're satisfied, let the area dry completely before using the shower again. If there's still visible staining but it's noticeably lighter, repeat once more. If it's not improving after two rounds, the mold is embedded and you need to recaulk.
 
-**Step 6 (often skipped, never should be):** After everything dries, apply a mold-resistant spray like Concrobium Mold Control. It's a dilute sodium carbonate and sodium bicarbonate solution that, as it dries, creates a physical barrier inhibiting regrowth. It's about $12 at Home Depot, it's non-toxic after drying, and it genuinely extends the time before mold comes back. I've been recommending it to clients for years.
+**Step 6 (often skipped, never should be):** After everything dries, apply a mold-resistant spray like Concrobium Mold Control. It's a dilute sodium carbonate and sodium bicarbonate solution that, as it dries, creates a physical barrier inhibiting regrowth. It costs about $12 at Home Depot, is non-toxic after drying, and extends the time before mold returns.
 
 ## When to Replace the Caulk Instead
 
@@ -75,7 +75,7 @@ Once the old caulk is out, inspect the substrate. If the drywall or backer behin
 
 Clean the bare joint with rubbing alcohol and let it dry completely. Bone dry. Overnight if the bathroom has humidity. Silicone doesn't adhere well to damp surfaces, and this is one of the top reasons new caulk fails early.
 
-For product choice: in a wet area like a tub or shower surround, use 100% silicone caulk, not siliconized latex. GE Sealants Advanced Silicone 2 is my standing recommendation. It comes with a 10-year mold-free guarantee, it's available in white, almond, and clear, and at around $9 to $11 a tube it's not even expensive. The mold-free claim isn't marketing fluff. It uses a fungicide built into the silicone itself, and in my experience it meaningfully outperforms standard silicone.
+For product choice: in a wet area like a tub or shower surround, use 100% silicone caulk, not siliconized latex. GE Sealants Advanced Silicone 2 offers a 10-year mold-free guarantee, comes in white, almond, and clear, and costs around $9 to $11 a tube. It uses a fungicide built into the silicone itself, which outperforms standard silicone in preventing regrowth.
 
 Apply with a caulk gun, smooth it with a wet finger or a caulk finishing tool, and don't use the shower for at least 24 hours (48 is better). The biggest application mistake I see is people not taping off the lines first. Blue painter's tape on both sides of the joint gives you a clean edge and keeps you from smearing silicone all over the tile. Pull the tape before the caulk skins over, not after it cures.
 
@@ -84,7 +84,6 @@ Apply with a caulk gun, smooth it with a wet finger or a caulk finishing tool, a
 ## Sources
 
 - [Curtis Adams](https://www.pexels.com/@curtis-adams-1694007)
-
 
 Even if you nail the remediation or replacement, mold will return if you don't address the underlying conditions. Silicone in a shower is constantly wet. That's fine and expected. The problem is when it stays wet.
 

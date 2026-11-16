@@ -54,7 +54,7 @@ First, safety. Get eye protection on before you do anything overhead. Ceiling de
 - 1-5/8" coarse-thread drywall screws (NOT fine thread, NOT nails)
 - Drywall screwdriver or drill with a dimpler bit
 - 6" and 10" drywall knives
-- Pre-mixed all-purpose joint compound (I've used USG Sheetrock All Purpose for years and it's hard to beat)
+- Pre-mixed all-purpose joint compound like USG Sheetrock All Purpose is a reliable choice
 - Mesh tape if there are cracks or gaps
 - Texture product matched to what's on your ceiling
 - Primer (Zinsser BIN shellac-based if there was any moisture, otherwise any drywall primer)

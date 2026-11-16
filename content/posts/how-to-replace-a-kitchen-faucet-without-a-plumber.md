@@ -31,9 +31,7 @@ Here's what I tell people in that moment: replacing a kitchen faucet is one of t
 
 That said, there are a handful of moments in this project where people make expensive mistakes. I want to walk you through all of it before you touch a wrench.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most kitchen faucet replacements take 2-3 hours and cost $80-$400 in parts, no plumber needed.</li><li style="margin:5px 0">Turn off both supply valves under the sink before anything else, skipping this causes the most common water damage.</li><li style="margin:5px 0">A basin wrench (~$25) is the one specialized tool you actually need; everything else you likely own.</li><li style="margin:5px 0">Measure your sink's hole configuration (1-hole, 3-hole, 4-hole) before buying a faucet, mismatches are the #1 return reason.</li><li style="margin:5px 0">If water sprays from connections after installation, tighten a quarter-turn at a time; overtightening cracks plastic fittings.</li></ul></div>
-
 
 ## What You're Actually Getting Into
 
@@ -41,7 +39,7 @@ Let me give you a realistic picture of the full scope. You're disconnecting two 
 
 The miserable part isn't technically hard. It's physical. You'll be lying on your back inside a cabinet that's sized for cookware, not humans, reaching up into a space you can barely see. If you have a bad back, this is the day it will remind you. A good headlamp (not just your phone flashlight) and a thin piece of cardboard to lie on will make this tolerable rather than genuinely awful. Trust me on the cardboard.
 
-One thing almost nobody tells you: older supply line nuts can be corroded to the point where they won't budge. I've had jobs where the faucet removal took forty-five minutes by itself because of frozen nuts. If your faucet is more than ten years old, spray the supply line connections and the mounting nut with Liquid Wrench or PB Blaster the night before you plan to work. Let it sit overnight. That step has saved me hours.
+Older supply line nuts can corrode to the point where they won't budge. If your faucet is more than ten years old, spray the supply line connections and the mounting nut with Liquid Wrench or PB Blaster the night before you plan to work. Let it sit overnight. This advance preparation can prevent significant frustration during removal.
 
 ## Tools and Materials: What You Actually Need
 
@@ -60,11 +58,9 @@ For the faucet itself, as of July 2026, here's a realistic picture of what you'r
 | High-end (solid brass, better warranty) | $280 - $500 | Kohler Artifacts, Delta Trinsic Pro | Long-term, design-forward kitchens |
 | Professional/commercial style | $400 - $850 | Rohl, Brizo Solna | Serious cooks, remodels |
 
-Honest opinion: for most people, the $150-$220 range is the sweet spot. Delta and Moen both offer lifetime warranties on their mid-range lines, and the internal cartridges are genuinely better than budget models. I've seen $60 faucets fail in three years; I've seen $180 Deltas run for fifteen. The math isn't complicated.
+Honest opinion: for most people, the $150-$220 range is the sweet spot. Delta and Moen both offer lifetime warranties on their mid-range lines, and the internal cartridges are genuinely better than budget models. The math isn't complicated.
 
 ## Before You Buy: The Hole Configuration Problem
-
-This is where most first-timers make an expensive mistake, and I'll admit I nearly made it myself on a remodel years ago when I was moving fast.
 
 Kitchen sinks come with either one, two, three, or four pre-drilled holes. Your new faucet needs to match what your sink has, or you need a solution for the extras. Single-handle faucets typically need one hole. Traditional two-handle faucets need three holes (one for each handle, one for the spout). Some faucets include a deck plate that covers a three-hole configuration even when the faucet itself only needs one hole, which is useful if you're switching styles.
 
@@ -108,9 +104,7 @@ Also call if you're switching from a single-hole to a three-hole setup and your 
 
 Everything else? You've got this.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical project cost: DIY vs. plumber (faucet + labor)</div><div class="sc-row"><span class="sc-label">DIY (mid-range faucet)</span><span class="sc-track"><span class="sc-bar" style="width:41%"></span></span><span class="sc-val">$214</span></div><div class="sc-row"><span class="sc-label">Plumber (supply faucet + labor)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$520</span></div><div class="sc-row"><span class="sc-label">Plumber (owner supplies faucet)</span><span class="sc-track"><span class="sc-bar" style="width:72%"></span></span><span class="sc-val">$375</span></div><div class="sc-src">Source: Industry labor averages and retail pricing, July 2026</div></div>
-
 
 ## Sources
 
@@ -121,6 +115,5 @@ Everything else? You've got this.
 - [International Association of Certified Home Inspectors (InterNACHI)](https://www.nachi.org): Reference standards for plumbing inspection and supply valve condition assessment.
 
 ---
-
 
 *Photo: [Nilzo Farías](https://www.pexels.com/@nilzo-farias-421916012) via Pexels*

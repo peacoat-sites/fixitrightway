@@ -66,11 +66,11 @@ So for that 800 square feet: **$2,400 to $8,000 professionally done, versus $700
 
 ## The Part Nobody Warns You About
 
-Here's the thing I wish someone had told me the first time I tried this: drum sanders are genuinely dangerous to wood, and they will punish hesitation.
+Drum sanders are genuinely dangerous to wood, and they will punish hesitation.
 
 A drum sander doesn't stop moving while it's in contact with the floor. You have to keep it rolling at all times. If you pause, even for two seconds, it carves a visible gouge. I learned this the hard way on a rental property I was trying to turn around quickly in 2019. Stopped to look at my phone (I know, I know). Left a 6-inch dish in the middle of the living room that took two extra passes to level out.
 
-The other trap: sanding at the wrong angle. You sand with the grain of the wood. Always. Cross-grain scratches from starting at 45 degrees (which some old tutorials still recommend) can look fine after the first coat and then show up glaringly under certain lighting conditions once the finish cures. I've seen this exact scenario play out on two different jobs where homeowners called me after the fact.
+The other trap: sanding at the wrong angle. You sand with the grain of the wood. Always. Cross-grain scratches from starting at 45 degrees (which some old tutorials still recommend) can look fine after the first coat and then show up glaringly under certain lighting conditions once the finish cures.
 
 Staining is where I honestly get nervous for DIYers. Getting a consistent color across an entire room requires the stain to be applied to uniformly sanded wood, wiped at the same rate, and allowed to penetrate for exactly the same dwell time everywhere. Corners, edges, and areas near doorways are sanded differently by the edge sander than the main field is by the drum sander. The color shows up subtly different. Professional applicators blend these transitions continuously. Most first-timers don't realize the issue until the first coat of finish is down and they can't un-see it.
 
@@ -94,7 +94,7 @@ I'll just be direct here.
 - Your house is occupied with kids, pets, or anyone sensitive to solvents (oil-based poly fumes are serious)
 - The wood is thinner than 3/4 inch, like engineered hardwood. Many engineered floors can't be drum-sanded at all without going through the veneer
 
-A reader from Denver emailed me last winter about a 650-square-foot sunroom with Brazilian cherry. I told her to hire out. Brazilian cherry is extremely hard (2,350 on the Janka scale, compared to red oak at 1,290) and it dulls sandpaper fast. She would've burned through twice the paper, worn out rental equipment, and still risked uneven color. Not the right first project.
+Brazilian cherry is extremely hard (2,350 on the Janka scale, compared to red oak at 1,290) and it dulls sandpaper fast. A large room in this wood would burn through twice the paper, wear out rental equipment, and still risk uneven color. Not the right first project.
 
 ## Three Real Scenarios to Anchor Your Expectations
 
@@ -131,7 +131,6 @@ That last one is where DIY really pays off. But notice the person doing it had r
 - OSHA Hazard Communication guidance on solvent-based floor finishes: Relevant for homeowners using oil-based polyurethane indoors
 
 ---
-
 
 *Photo: [Magda Ehlers](https://www.pexels.com/@magda-ehlers-pexels) via Pexels*
 

@@ -43,7 +43,7 @@ Sticking doors have three root causes, and the fix depends entirely on which one
 
 **Loose or failing hardware.** Sagging hinges cause more sticking doors than most people realize. A 3-pound door on worn hinges pulls the latch side up and the hinge side down. The door binds at the top corner opposite the hinges. Before you touch sandpaper, check whether the hinge screws are snug.
 
-Diagnosing correctly before you pick up a tool saves you hours. I've seen homeowners plane a perfectly good door down to firewood because they never stopped to figure out why it was sticking.
+Diagnosing correctly before you pick up a tool saves you hours. A common mistake is planing a door down to firewood without figuring out why it's sticking in the first place.
 
 ## How to Diagnose the Problem in 10 Minutes
 
@@ -101,7 +101,7 @@ A racking door frame means the structural opening has changed shape. The door is
 
 Signs you're dealing with frame or foundation movement: sticking that developed suddenly, cracks in the drywall above the door corners, doors in multiple rooms sticking at the same time, or a gap that runs diagonally from one corner to another.
 
-If you see one or two of these, call a structural engineer or an experienced contractor for an assessment before you touch the door. In my experience, homeowners spend $200 planing and refinishing a door and then spend $8,000 on foundation work anyway six months later. The door was a warning sign.
+If you see one or two of these, call a structural engineer or an experienced contractor for an assessment before you touch the door. Spending $200 planing and refinishing a door, only to need $8,000 in foundation work six months later, is a costly oversight. The door was a warning sign.
 
 Small, old settlement that has stabilized is different from active movement. A house built in 1920 has usually finished settling. If the sticking is new and progressive, that's the thing to worry about.
 
@@ -123,7 +123,6 @@ Most sticking doors are a two-hour Saturday fix that costs less than a takeout d
 
 - [PetArmor Plus Flea & Tick Prevention, Small Dogs (6 doses)](https://www.amazon.com/dp/B01N0BZUXO/?tag=contentportfo-20)
 - [PetArmor Plus Flea & Tick Prevention, Medium Dogs (6 doses)](https://www.amazon.com/dp/B01N03Q8Q1/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -46,7 +46,7 @@ Let me explain what's actually happening first, because the fix depends entirely
 
 A squeak is friction. Two pieces of wood rubbing against each other, or a nail working against wood grain, or a subfloor panel moving against a joist. That's it. But where and why that friction is happening changes your approach completely.
 
-The most common culprits, in my experience:
+The most common culprits:
 
 - **Nail movement:** Over time, the nails holding your subfloor to the joists can work loose. Every time you step on that spot, the subfloor lifts slightly and drops back down, and the nail drags against the wood. This is extremely common in houses built before the mid-1990s, when pneumatic nailers weren't universal and ring-shank nails weren't as widely used.
 - **Subfloor panel gaps:** Engineered wood subfloor panels (OSB or plywood) expand and contract with humidity changes. If they were installed too tight together, or if the floor system has some flex in it, adjacent panels can rub at the seams.
@@ -61,7 +61,7 @@ If you can get under the floor, this is the best scenario. You have options that
 
 Start by having someone walk the floor above while you're in the basement or crawlspace. Mark the squeaky spots by location relative to the joists. What you're looking for: is the subfloor lifting away from the joist slightly when weight is applied? You can often see it or feel it with your hand pressed against the subfloor while your helper walks.
 
-If there's a gap between the subfloor and the top of the joist, the fix is to drive construction screws up through the joist into the subfloor. Use 1-1/4" or 1-1/2" drywall screws for a subfloor that's 3/4" thick. Do not use longer screws. I've seen this done with 2-1/2" screws and they punched right through the hardwood above, which is an extremely bad day.
+If there's a gap between the subfloor and the top of the joist, the fix is to drive construction screws up through the joist into the subfloor. Use 1-1/4" or 1-1/2" drywall screws for a subfloor that's 3/4" thick. Do not use longer screws. Using screws longer than 1-1/2" risks punching through the hardwood above.
 
 If the subfloor is in solid contact with the joist but still squeaking, the problem is likely the subfloor moving laterally. A bead of construction adhesive (Loctite PL Premium is what I reach for) along the top of the joist on both sides helps here. Squeeze it into any gap you can find, wipe off the excess, and give it 24 hours.
 
@@ -71,7 +71,7 @@ For a wood-to-wood rub you can identify at the bridging or at a subfloor seam, s
 
 No basement. Carpet above, or tile, or hardwood you're not willing to pull up. This is where most homeowners find themselves, and the solutions require a little more care.
 
-**Through carpet:** Squeeeeek No More makes a specialized kit (around $25 at most hardware stores or online) specifically for this situation. The tool lets you drive a break-away screw through carpet and pad, through the subfloor, and into the joist, then snap the head off below the surface so it doesn't poke up through the carpet. It works. I've used it dozens of times. The trick is finding the joist, which you do with a stud finder or by probing with a finish nail until you hit something solid.
+**Through carpet:** Squeeeeek No More makes a specialized kit (around $25 at most hardware stores or online) specifically for this situation. The tool lets you drive a break-away screw through carpet and pad, through the subfloor, and into the joist, then snap the head off below the surface so it doesn't poke up through the carpet. This method is effective. The trick is finding the joist, which you do with a stud finder or by probing with a finish nail until you hit something solid.
 
 **Through hardwood:** This is where I'd tell most people to be careful. You can drive finish nails at an angle through the hardwood and into the subfloor, then set the heads and fill with a color-matched wood filler. But if your hardwood is prefinished with a hard aluminum oxide coating (most of it today is), you're fighting a very tough surface, and you risk splitting boards. The O'Berry Enterprises Counter-Snap kit is worth looking at if you're going this route.
 
@@ -93,7 +93,6 @@ This job takes a few hours in a weekend if you have reasonable basement access a
 
 - [Mike van Schoonderwalt](https://www.pexels.com/@mike-van-schoonderwalt-1884800)
 
-
 Most squeak repairs, done from below or through carpet, are DIY-friendly. I'd say confidently: if you have basement access and basic tools, try it yourself before spending any money on a contractor.
 
 Where I'd call someone: if the subfloor itself is soft or spongy (which can indicate moisture damage or rot), if you suspect a joist is compromised, or if you're dealing with a second-story floor over a finished ceiling and you want the fix to be clean and permanent without opening up drywall.
@@ -101,6 +100,5 @@ Where I'd call someone: if the subfloor itself is soft or spongy (which can indi
 A handyman fixing a localized squeak from above typically runs $75 to $200. A carpenter tackling subfloor issues with blocking or subflooring repairs from below is more in the $250 to $800 range. If a contractor is telling you they need to pull up significant flooring for a squeak repair without a very clear explanation of why, get a second opinion.
 
 ---
-
 
 *Photo: [Mike van Schoonderwalt](https://www.pexels.com/@mike-van-schoonderwalt-1884800) via Pexels*

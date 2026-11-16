@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-You walk into the kitchen at 7 a.m., turn on the faucet, and nothing comes out. Not a trickle. Just that particular silence that means you're about to have a bad morning. I've been on job sites where this happened in houses that were supposedly "winterized," and I've talked homeowners down from panicking at 9 p.m. on a Sunday when no plumber was answering. The good news: frozen pipes under a sink are one of the more manageable cold-weather problems you can handle yourself. The bad news: a lot of people make the situation dramatically worse in the first five minutes.
+A frozen pipe under the kitchen sink means no water flow and a problem that needs immediate attention. Frozen pipes under sinks are one of the more manageable cold-weather problems you can handle yourself. The good news: frozen pipes under a sink are one of the more manageable cold-weather problems you can handle yourself. The bad news: a lot of people make the situation dramatically worse in the first five minutes.
 
 Let's fix that.
 
@@ -55,7 +55,7 @@ Here's what actually works, in order of what I'd reach for first:
 
 A hair dryer on its highest setting is the right tool for most of these situations. Point it at the frozen section and work from the faucet end toward the wall, which lets water escape as it melts rather than trapping steam pressure in the middle. Keep it moving. Don't hold it six inches from one spot for two minutes straight. You're warming the pipe, not soldering it.
 
-A heating pad wrapped around the pipe works especially well for longer frozen sections or copper pipes in tight spaces where you can't maneuver a hair dryer comfortably. Wrap it around, set it to medium, and wait. This takes longer, maybe 20 to 30 minutes, but it's the safest method by a fair margin. I've used this in finished spaces where I absolutely could not risk any heat damage to nearby surfaces.
+A heating pad wrapped around the pipe works especially well for longer frozen sections or copper pipes in tight spaces where you can't maneuver a hair dryer comfortably. Wrap it around, set it to medium, and wait. This takes longer, maybe 20 to 30 minutes, but it's the safest method by a fair margin. This method works well in finished spaces where nearby surfaces could be damaged by direct heat.
 
 Heat lamp or space heater positioned to warm the general area works too, particularly if you can't identify the exact frozen spot. Open the cabinet doors, point a ceramic space heater at the interior from a couple feet away, and give it 30 to 45 minutes. This is slower but hands-off, which has its own appeal at 6 a.m.
 
@@ -64,8 +64,6 @@ One thing that genuinely surprises people: warm (not hot) water poured over the 
 Throughout all of this, keep the faucet open. Even a small drip means water is moving, which means the thaw is working. The pressure release also reduces the risk of the pipe splitting if there's any weak spot you didn't notice.
 
 ## What Not to Do (And Why This List Exists)
-
-I'll be direct about this because I've seen the aftermath in person.
 
 No propane or butane torches under a sink. Ever. Not even "just for a second." The number of house fires that start in kitchen cabinets during pipe thawing is not small. It's also possible to superheat water inside a closed pipe section to the point where it basically explodes. This is not a theoretical risk.
 
@@ -93,12 +91,10 @@ Plug-in pipe heating cables are a legitimate solution for chronic problem spots.
 
 - [Magda Ehlers](https://www.pexels.com/@magda-ehlers-pexels)
 
-
 Most freeze-prevention advice focuses on insulation, and insulation is good, but I'd argue that the more important variable is air movement. A pipe surrounded by still, cold air in a sealed cabinet will freeze faster than a pipe with the same amount of insulation but a crack of warm air getting to it. This is why opening cabinet doors works so well and why closing up every gap in your cabinet's exterior wall backing can sometimes make things worse, not better.
 
 The traditional advice to "seal drafts" under kitchen sinks to keep cold air out is correct when the cold air is coming from outside (around pipe penetrations through the exterior wall, for example). But sometimes homeowners go further and fully seal the cabinet interior from the room, which cuts off the warm indoor air that was keeping the pipe from freezing. The goal is to block outside cold air while allowing indoor warm air to circulate. It's a subtle distinction but it matters.
 
 ---
-
 
 *Photo: [Magda Ehlers](https://www.pexels.com/@magda-ehlers-pexels) via Pexels*

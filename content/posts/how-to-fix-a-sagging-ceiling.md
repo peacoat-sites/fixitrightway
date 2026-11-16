@@ -34,7 +34,7 @@ But moisture isn't the only reason ceilings fail:
   * The house settling or shifting over time, stressing the framing.
   * Burst pipes or roof leaks that went unnoticed for months.
 
-Here's the thing: don't fix the ceiling first. Find the leak and fix it. I've seen people patch a sagging ceiling only to watch the same spot fail six months later because they never touched the water source. You'll just do the job twice.
+Don't fix the ceiling first. Find the leak and fix it. Patching a sagging ceiling without fixing the water source will likely fail within months. You'll just do the job twice.
 
 **⚠️ Safety:** Look at the sagging area before you touch anything. If the drywall is heavily water-damaged, bulging dramatically, or the sag covers more than 4 square feet, call a contractor. A saturated ceiling can drop without warning. Always wear safety glasses and a hard hat when working overhead.
 

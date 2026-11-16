@@ -53,7 +53,7 @@ Caulk choice is where a lot of DIYers get led astray by the hardware store shelf
 
 Pure silicone is the right answer for exterior joints and wet areas. For interior wood-to-drywall? It's actually the wrong call. Silicone doesn't take paint, it yellows over time in interior conditions, and it bonds so aggressively that removing it later tears drywall paper. Paintable latex (sometimes labeled "painter's caulk") or siliconized latex is the correct product. DAP Alex Flex runs about $7 a tube and remains my go-to for trim work. GE's Supreme Paintable Silicone at around $9 is a solid second choice if you want a little more flex in the joint.
 
-One thing almost nobody mentions: let freshly caulked joints dry a minimum of 24 hours [before painting](/how-to-fix-a-crack-in-plaster-wall-before-painting/) over them, even if the tube says "paint in 30 minutes." In my experience, rushing that step leads to paint cracking directly over the joint line within a year.
+One thing almost nobody mentions: let freshly caulked joints dry a minimum of 24 hours [before painting](/how-to-fix-a-crack-in-plaster-wall-before-painting/) over them, even if the tube says "paint in 30 minutes." Rushing that step often leads to paint cracking directly over the joint line within a year.
 
 | Product | Price/Tube | Paintable | Best Use | Flexibility |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ If the gap varies wildly around the room (tight in some spots, 3/4" in others), 
 
 If the gap is worst at corners and you're seeing paint cracking on the wall surface above the baseboard, I'd want someone to look at the foundation before any cosmetic repair. Water infiltration at the base of walls can cause exactly this pattern. That's not a baseboard problem anymore.
 
-Example: A reader named Greg from Columbus emailed me last spring. His gap had appeared suddenly in one room, specifically along the exterior wall, and it was worst after a wet week. Classic early moisture intrusion pattern. He had a contractor check the crawlspace before doing anything cosmetic. Found a drainage issue at the perimeter. Repair cost: $1,100 for the drainage fix plus $200 for a finish carpenter. If he'd just caulked it, he would have hidden the symptom while the damage continued.
+For example, a gap that appears suddenly along an exterior wall and worsens after wet weather can signal early moisture intrusion. Before caulking, have a contractor check the crawlspace and foundation drainage. Addressing a drainage problem at the perimeter costs more than cosmetic fixes, but caulking alone would hide the symptom while damage continued underneath.
 
 ## Costs at a Glance
 

@@ -55,7 +55,7 @@ If water is actually weeping out from under the toilet after a flush, that's a c
 
 **Parts:** wax ring ($6-12 at any hardware store), new flange bolts (about $4 for a set, always replace these), and a toilet bolt cap set if yours are cracked or missing.
 
-Here's my honest take on the wax ring choice: buy the standard wax ring for most situations, not the "extra thick" or "double wax" versions. The jumbo rings are designed for floors where the flange sits below the finished floor level. If your flange is at or above the floor surface, a thick ring can actually prevent you from getting a proper seal because you're compressing the wax unevenly. I've seen this cause more callbacks than standard rings. Measure your flange depth and match accordingly.
+Buy the standard wax ring for most situations, not the "extra thick" or "double wax" versions. The jumbo rings are designed for floors where the flange sits below the finished floor level. If your flange is at or above the floor surface, a thick ring can actually prevent you from getting a proper seal because you're compressing the wax unevenly. Measure your flange depth and match accordingly.
 
 One exception: if you have a significantly recessed flange (more than a half-inch below the finished floor), look at the Fluidmaster 7500 waxless toilet seal or the Fernco toilet seal instead. Waxless rings are more forgiving on depth, easier to reposition if you don't set the toilet perfectly straight the first time, and they've gotten genuinely reliable over the last decade. They run $10-15.
 
@@ -88,7 +88,6 @@ If the flange looks solid, scrape off all the old wax from the flange and from t
 ## Sources
 
 - [Pasi Mämmelä](https://www.pexels.com/@pasi-mammela-2159326540)
-
 
 The repair itself? You can do it. What can tip this job toward professional territory is what you find underneath. A rotted subfloor (soft, spongy, or dark around the flange area) means you're now doing carpentry, not just plumbing. A flange that's completely corroded or broken away from the drain pipe is beyond DIY for most people. And if your toilet has been leaking slowly for a long time and the smell is coming not from under the toilet but from the surrounding floor, you may have a water damage situation that needs a full assessment.
 

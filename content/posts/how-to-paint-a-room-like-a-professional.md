@@ -53,7 +53,7 @@ Here's where people cheap out and regret it: brushes and rollers. A $3 brush she
 
 Photo by [Steven Ungermann](https://unsplash.com/@steveungermann?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Professional painters say prep is 80% of the job. They're right. I've seen too many DIY jobs that looked amateurish only because someone rushed this part.
+Professional painters say prep is 80% of the job, and that wisdom holds up. Rushing the prep work is a common reason DIY jobs end up looking amateurish.
 
 Move your furniture to the center of the room and throw drop cloths over it. Take off outlet covers and switch plates completely. Don't try to paint around them (you'll regret it).
 
@@ -133,7 +133,6 @@ Put outlet covers and switch plates back on. Move furniture back. Touch up any t
 - [Wes Fischer](https://unsplash.com/@ntwrk_img?utm_source=seniorstrength&utm_medium=referral)
 - [Annie Spratt](https://unsplash.com/@anniespratt?utm_source=seniorstrength&utm_medium=referral)
 - [Magic Fan](https://unsplash.com/@magicunsplash?utm_source=seniorstrength&utm_medium=referral)
-
 
 Learning how to paint a room is one of the most rewarding home skills you can pick up. It takes patience and some elbow grease, but the payoff is real: fresh, bright walls that feel entirely new.
 

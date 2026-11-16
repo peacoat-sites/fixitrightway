@@ -59,8 +59,6 @@ Outlets wear out. The internal contacts that grip a plug get loose over time, es
 
 What I'd recommend: before you pull the outlet out, use a non-contact voltage tester (a Klein Tools NCVT-1 is $18 and worth owning) to confirm the outlet has no power with the breaker off. Then remove the cover plate, unscrew the outlet from the box, and look at the wires. You're checking for two things: a wire that has come loose from its terminal, and wire connections that were "back-stabbed" (pushed into the back of the outlet instead of wrapped around a screw). Back-stabbed connections fail constantly. If you see wires in the back holes rather than on the screw terminals, that's probably your problem right there. Move them to the screws, tighten them, and you're done.
 
-The first time I pulled a dead outlet in my own house, I was sure something dramatic was wrong. It was a back-stabbed wire on a 1987 outlet that had finally let go. Five minutes of work.
-
 ## Wiring Problems Deeper in the Wall
 
 This is where it gets less fun.

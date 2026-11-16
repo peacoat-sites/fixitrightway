@@ -27,13 +27,11 @@ faqs:
 
 Sixty percent of tripped breakers in residential homes are caused by something the homeowner could fix in under an hour. That stat comes from NFPA field data, and I find it both encouraging and a little maddening, because most of those homeowners spent days convinced they had a wiring disaster on their hands.
 
-Here's what usually happens: you plug in a space heater, a hair dryer, or a new chest freezer, the breaker trips, you reset it, it trips again, and now you're standing in the dark Googling "electrician near me" at 9pm. I've been on job sites where homeowners had already paid a $250 service call fee before we figured out the problem was a single overloaded 15-amp circuit. I've also been on sites where the answer really was dangerous wiring that needed fixing right away. Knowing the difference is everything.
+A breaker trip after plugging in a space heater, hair dryer, or chest freezer often signals an overloaded 15-amp circuit, but not always. A $250 service call sometimes reveals nothing more than that single overloaded circuit. Other times the breaker trips because of genuinely dangerous wiring that needs immediate repair. Knowing the difference is everything.
 
 The good news is the diagnosis process is actually pretty logical, once you understand what a breaker is actually doing.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A repeatedly tripping breaker usually signals overload (too many devices), a short circuit, or a ground fault, each with a different fix.</li><li style="margin:5px 0">A 15-amp circuit handles roughly 1,440 running watts safely; a 20-amp handles about 1,920 watts.</li><li style="margin:5px 0">Space heaters, hair dryers, and microwaves are the most common overload culprits, each drawing 1,000-1,500 watts alone.</li><li style="margin:5px 0">If the breaker trips immediately when you plug in (before turning anything on), suspect a short or ground fault, not a simple overload.</li><li style="margin:5px 0">A breaker that trips repeatedly and feels warm or smells burnt needs an electrician today, not next week.</li></ul></div>
-
 
 ## What Your Breaker Is Actually Telling You
 
@@ -69,9 +67,7 @@ A standard 15-amp, 120-volt circuit has a maximum capacity of 1,800 watts (15 am
 
 A 20-amp circuit (look for the "T"-shaped neutral slot on the outlet, or the 20 stamped on the breaker) handles 2,400 watts max, and 1,920 watts continuous.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Common appliance wattage vs. 15-amp circuit limit</div><div class="sc-row"><span class="sc-label">Space heater (high)</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">1,500 Watts</span></div><div class="sc-row"><span class="sc-label">Hair dryer (high)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">1,875 Watts</span></div><div class="sc-row"><span class="sc-label">Microwave (mid-size)</span><span class="sc-track"><span class="sc-bar" style="width:59%"></span></span><span class="sc-val">1,100 Watts</span></div><div class="sc-row"><span class="sc-label">15-amp circuit limit (80%)</span><span class="sc-track"><span class="sc-bar" style="width:77%"></span></span><span class="sc-val">1,440 Watts</span></div><div class="sc-row"><span class="sc-label">Electric kettle</span><span class="sc-track"><span class="sc-bar" style="width:64%"></span></span><span class="sc-val">1,200 Watts</span></div><div class="sc-row"><span class="sc-label">Window AC (5,000 BTU)</span><span class="sc-track"><span class="sc-bar" style="width:27%"></span></span><span class="sc-val">500 Watts</span></div><div class="sc-src">Source: U.S. Department of Energy appliance energy use data</div></div>
-
 
 Look at that chart and you'll notice something immediately: a hair dryer on high heat draws 1,875 watts. By itself, on a 15-amp circuit, it's already over the safe continuous load limit. Add a curling iron (roughly 75-150 watts) or a bathroom exhaust fan (30-50 watts) and you've almost certainly exceeded the rated capacity of that circuit. This is why bathroom circuits trip so reliably.
 
@@ -93,7 +89,7 @@ The freezer entry always surprises people. Freezers draw very little power while
 
 This is the part that trips people up (sorry). Sometimes the device is fine, the circuit isn't overloaded, and the breaker still trips. Breakers fail. They wear out. A breaker [that has](/how-to-fix-a-tile-that-has-come-loose/) tripped hundreds of times over 20 years may start nuisance-tripping at loads well below its rated capacity.
 
-As of 2026, a standard single-pole 15-amp or 20-amp breaker runs $8-$20 depending on brand and panel compatibility. Replacing one takes about 20 minutes if you know what you're doing. Square D QO and Eaton BR are the two most common residential panel brands, and you need to match the replacement breaker to the panel brand, they're not interchangeable, despite what the packaging sometimes implies. I've seen people force a Siemens breaker into a Square D QO panel. Don't do that.
+As of 2026, a standard single-pole 15-amp or 20-amp breaker runs $8-$20 depending on brand and panel compatibility. Replacing one takes about 20 minutes if you know what you're doing. Square D QO and Eaton BR are the two most common residential panel brands, and you need to match the replacement breaker to the panel brand, they're not interchangeable, despite what the packaging sometimes implies. Breakers from different manufacturers are not interchangeable, even though packaging sometimes suggests otherwise.
 
 The catch is getting to the breaker requires opening the panel, which means working near live components. The main lugs at the top of the panel stay energized even with the main breaker off. This is a job I genuinely think most homeowners should leave to a licensed electrician. It's not complicated, but the consequences of touching the wrong thing are severe. An electrician will charge $75-$150 for a simple breaker swap, and that's worth it.
 
@@ -107,7 +103,7 @@ If a breaker trips and when you reset it and it trips again immediately with not
 
 If you have flickering lights on the same circuit as the tripping breaker, that suggests a loose connection, which can arc and cause a fire even if the breaker never trips. Arcing faults often don't produce enough current to trip a standard breaker. That's what AFCI (Arc Fault Circuit Interrupter) breakers are designed to catch, and the NEC has required them in most living areas of new construction since 2014.
 
-**Scenario that went right:** A reader from Minneapolis emailed me in early 2026 describing her basement breaker tripping randomly, about twice a week, with no apparent load pattern. I told her to check for any outlets with GFCI protection that might have tripped independently, and to check whether the circuit had any aluminum wiring (common in homes built between the late 1960s and mid-1970s). She found a loose wire nut on an aluminum branch circuit at a junction box. Her electrician tightened the connections and applied anti-oxidant compound, charged her $185, and the random tripping stopped. Had she ignored it another six months, she might have had a different kind of problem.
+If a breaker trips randomly with no clear load pattern, check whether any outlets on that circuit have GFCI protection that may have tripped independently. Also check whether the circuit uses aluminum wiring, common in homes built between the late 1960s and mid-1970s. Loose connections at aluminum wire nuts can cause intermittent tripping. An electrician can tighten these connections and apply anti-oxidant compound to prevent oxidation. Ignoring random tripping on an aluminum circuit risks a fire hazard.
 
 ## Sources
 
@@ -118,6 +114,5 @@ If you have flickering lights on the same circuit as the tripping breaker, that 
 - Electrical Safety Foundation International (ESFI): Home electrical fire statistics and safety guidance for residential circuits.
 
 ---
-
 
 *Photo: [ranjeet .](https://www.pexels.com/@ranjeet-860714737) via Pexels*

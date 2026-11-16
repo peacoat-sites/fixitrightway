@@ -14,15 +14,13 @@ slug: "when-ai-home-repair-advice-goes-wrong-and-how-to-catch-it"
 affiliate_disclosure: true
 ---
 
-More homeowners than most people realize are now asking ChatGPT how to fix their plumbing. A survey from early 2026 found that 26% of homeowners are using AI tools to help with [DIY projects](/how-2026-tariffs-are-changing-the-cost-of-common-diy-projects/), with nearly half of those users pulling up step-by-step instructions before they ever touch a tool. That number surprised me when I first saw it. What surprised me more was the number sitting right next to it: 26% of those same AI-using homeowners have already run into real problems. That's not a rounding error. That's roughly one in four people who tried this and got burned.
+More homeowners than most people realize are now asking ChatGPT how to fix their plumbing. A survey from early 2026 found that 26% of homeowners are using AI tools to help with [DIY projects](/how-2026-tariffs-are-changing-the-cost-of-common-diy-projects/), with nearly half of those users pulling up step-by-step instructions before they ever touch a tool. The concerning number is the one sitting alongside it: 26% of those same AI-using homeowners have already run into real problems. That's not a rounding error. That's roughly one in four people who tried this and got burned.
 
-I've spent the last few weeks going through the documented failure cases, talking to what the industry research is actually saying, and thinking hard about this from a contractor's perspective. What I found is messier than the "AI is great, just be careful" takes you'll see most places. The problems aren't random. They follow patterns. And if you know the patterns, you can actually use these tools without wrecking your house.
+Documented failure cases and industry research paint a messier picture than the "AI is great, just be careful" takes you'll see most places. The problems follow patterns, and understanding them lets you use these tools safely.
 
 The failures that keep showing up aren't about AI being generally dumb. They're specific. Handyman Connection documented cases in July 2026 of AI tools suggesting homeowners cut into walls without flagging load-bearing risks, recommending wiring methods that violate local electrical codes, and misidentifying tile or wood species in ways that sent people to the store for completely wrong materials. Those aren't edge cases. Those are three of the most common places homeowners spend money they didn't need to spend.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">26% of homeowners using AI for DIY have already encountered problems, per a July 2026 survey</li><li style="margin:5px 0">AI tools have suggested cutting into load-bearing walls and wiring methods that violate local codes</li><li style="margin:5px 0">Retail AI tools like Home Depot's Magic Apron optimize purchasing, not diagnosis</li><li style="margin:5px 0">Some UK homeowners spent up to £500 correcting AI-guided mistakes on plumbing and electrical jobs</li><li style="margin:5px 0">No major AI tool is designed to answer: "Is this even serious?" before recommending a fix</li></ul></div>
-
 
 ## Why AI Gets Structural and Electrical Wrong More Than Anything Else
 
@@ -36,7 +34,7 @@ Electrical code violations are where this gets most dangerous. Local codes diffe
 
 I'll be honest, this one caught me off guard. A July 2026 industry analysis identified something I hadn't thought to frame this way: the two main categories of AI home repair tools have built-in biases that have nothing to do with your actual problem.
 
-Retail-aligned AI, like Home Depot's Magic Apron (which launched with over a dozen AI-powered capabilities as of March 2026) and Lowe's Mylow (built with OpenAI, launched in early 2025), is optimized for purchasing outcomes. That's not a conspiracy theory, it's just product design. The tool exists inside a store. Its job, ultimately, is to help you buy the right thing. That's useful when you already know you need something. It's a real problem when your first question should be "do I actually need anything at all?"
+Retail-aligned AI, like Home Depot's Magic Apron (which launched with over a dozen AI-powered capabilities as of March 2026) and Lowe's Mylow (built with OpenAI, launched in early 2025), is optimized for purchasing outcomes. It's simply product design. The tool exists inside a store. Its job, ultimately, is to help you buy the right thing. That's useful when you already know you need something. It's a real problem when your first question should be "do I actually need anything at all?"
 
 Expert-session AI, the kind that connects you with a professional through an AI interface, skews the other direction. It's biased toward escalation. Toward "you should probably have someone come look at that." Again, not sinister, just incentive structure.
 
@@ -60,7 +58,7 @@ The Aviva research from February 2026 found that 50% of UK homeowners had used A
 
 ## How to Verify Before You Pick Up a Tool
 
-The verification habit that's saved my clients the most money is simple: never act on AI advice for anything inside a wall, ceiling, or panel without a second source that knows your local conditions.
+Never act on AI advice for anything inside a wall, ceiling, or panel without a second source that knows your local conditions.
 
 That second source doesn't have to be a paid contractor visit. Your local building department will often tell you over the phone whether a permit is required and what code applies. That five-minute call has stopped more expensive mistakes than anything else I can point to. If a permit is required and you skip it, you're looking at insurance complications, sale disclosure problems, and potentially having to tear out finished work.
 

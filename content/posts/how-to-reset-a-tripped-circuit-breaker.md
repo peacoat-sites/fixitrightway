@@ -29,9 +29,7 @@ About 2,400 house fires per year trace back to electrical failures that started 
 
 Resetting a tripped breaker takes about 30 seconds. Understanding *why* it tripped, and whether it's safe to reset at all, takes a few minutes more. That's the part most coverage skips.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A tripped breaker sits visibly between ON and OFF; reset it by pushing fully to OFF first, then to ON.</li><li style="margin:5px 0">Never reset a breaker more than twice without finding the cause, repeated trips signal a real problem.</li><li style="margin:5px 0">A breaker that trips immediately after reset, or feels warm to the touch, means call an electrician today.</li><li style="margin:5px 0">AFCI and GFCI breakers have a TEST button and require a slightly different reset sequence (described below).</li><li style="margin:5px 0">Electrician service calls run $75-$200 for diagnosis; a panel replacement runs $1,800-$4,500 depending on amperage and location.</li></ul></div>
-
 
 ## What a Tripped Breaker Actually Looks Like
 
@@ -63,17 +61,15 @@ A short circuit is different. That's when a hot wire touches a neutral or ground
 
 A ground fault is a variation: hot wire contacts a grounded surface, like a wet floor or a faulty appliance casing. GFCI protection exists specifically for this. The 2026 NEC (current as of July 2026) requires GFCI protection in a long and growing list of locations, and for good reason: ground faults are how people get electrocuted.
 
-How do you tell the difference in the field? Honestly, sometimes you can't without testing, and that's where a $15 outlet tester from Klein Tools or Ideal Industries pays for itself immediately. Plug it into each outlet on the circuit, read the indicator lights, and you'll know in 30 seconds whether you have an open ground, reversed polarity, or normal wiring.
-
+How do you tell the difference in the field? Sometimes you can't without testing, and that's where a $15 outlet tester from Klein Tools or Ideal Industries pays for itself immediately. Plug it into each outlet on the circuit, read the indicator lights, and you'll know in 30 seconds whether you have an open ground, reversed polarity, or normal wiring.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Common circuit breaker trip causes (% of residential service calls)</div><div class="sc-row"><span class="sc-label">Overload</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">52%</span></div><div class="sc-row"><span class="sc-label">Short circuit</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">21%</span></div><div class="sc-row"><span class="sc-label">GFCI/AFCI fault trip</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">17%</span></div><div class="sc-row"><span class="sc-label">Faulty breaker</span><span class="sc-track"><span class="sc-bar" style="width:13%"></span></span><span class="sc-val">7%</span></div><div class="sc-row"><span class="sc-label">Other/Unknown</span><span class="sc-track"><span class="sc-bar" style="width:6%"></span></span><span class="sc-val">3%</span></div><div class="sc-src">Source: NECA 2024 residential electrical service data</div></div>
-
 
 Overloads are the majority, which is good news. Most are fixable without an electrician.
 
 ## The Cost Side of This Decision
 
-Here's where I'll be direct, because I've watched homeowners throw money in the wrong direction. If your breaker resets cleanly and holds, your cost is zero dollars. If it trips again under normal load, you're into diagnosis territory.
+If your breaker resets cleanly and holds, your cost is zero dollars. If it trips again under normal load, you're into diagnosis territory.
 
 | Problem | DIY Fixable? | Typical Cost (2026) |
 |---|---|---|
@@ -120,6 +116,5 @@ One thing I see constantly: homeowners call an electrician for a tripped breaker
 - [International Association of Certified Home Inspectors (InterNACHI)](https://www.nachi.org/): Panel identification guides for Federal Pacific, Zinsco, and other flagged equipment.
 
 ---
-
 
 *Photo: [AV](https://www.pexels.com/@av-49217877) via Pexels*

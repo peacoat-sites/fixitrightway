@@ -39,7 +39,7 @@ And it's not just lumber. Tariffs on imported kitchen cabinets and vanities rose
 | Electrical/plumbing systems | High | High | Very High | Not recommended |
 | Demo work (contractor-supervised) | N/A | High | Low | Recommended |
 
-I've seen a lot of homeowners make the same mistake in high-material-cost environments: they absorb the price shock on materials but then try to claw back savings by cutting corners on labor, permits, or both. That's exactly backwards.
+A common mistake in high-material-cost environments is absorbing the price shock on materials but then trying to claw back savings by cutting corners on labor, permits, or both. That's exactly backwards.
 
 When materials are expensive, waste and rework become catastrophic. A framing mistake that costs you two studs in a normal market costs you two studs at a significant premium right now. If you're not genuinely comfortable with the skill set a project requires, this is not the market to learn on the job. The YouTube confidence that the Farnsworth Group flagged in their February 2026 research is real: the primary DIY motivator has actually shifted from saving money to "I'm able to do it myself," even as financial stress among homeowners hit a five-quarter high in 2026. Those two things together are a setup for expensive mistakes.
 
@@ -59,11 +59,11 @@ Pull the permit. Pay the fee. Schedule the inspection. If the work passes, you'v
 
 ## Where to Actually Find the Savings Right Now
 
-If you want to stretch a home improvement budget in this environment, the real leverage isn't in avoiding permits or DIYing things you're not ready for. It's in being strategic about scope and sequencing.
+To stretch a home improvement budget in this environment, focus on being strategic about scope and sequencing rather than avoiding permits or DIYing things you're not ready for.
 
 First, prioritize projects that use domestic materials or materials with lower tariff exposure. Concrete, domestic hardwood flooring, domestic tile, and insulation products are all less tariff-affected than imported cabinet lines or Canadian framing lumber.
 
-Second, do your own demo when a contractor is involved. Demo is almost always billable labor, it's low-skill, and it rarely requires a permit on its own. I've seen homeowners save $800 to $1,500 on a mid-size bathroom just by handling tearout themselves before the tile contractor shows up.
+Second, do your own demo when a contractor is involved. Demo is almost always billable labor, it's low-skill, and it rarely requires a permit on its own. Handling tearout yourself before the tile contractor shows up can save $800 to $1,500 on a mid-size bathroom.
 
 Third, if you're buying cabinets or vanities, buy now and store them rather than waiting for prices to come down. The tariff structure that took effect January 1, 2026 isn't going anywhere fast, and summer demand is only going to keep prices elevated through the next few months.
 

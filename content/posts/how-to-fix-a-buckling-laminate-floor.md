@@ -29,9 +29,7 @@ Buckling laminate is one of those problems where most of the advice you'll find 
 
 Here's what actually matters: laminate buckles because it has nowhere to go. The floor is expanding, and something is stopping it. Fix the constraint, or you fix nothing.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most buckling is caused by missing or insufficient expansion gaps, not damaged planks.</li><li style="margin:5px 0">Moisture under the floor causes permanent buckling; address the source before replacing anything.</li><li style="margin:5px 0">Fixing expansion gaps costs $0-$150 in materials; full floor replacement runs $3-$9 per square foot installed.</li><li style="margin:5px 0">A buckled plank over a wet subfloor will re-buckle within weeks no matter what you do to the surface.</li><li style="margin:5px 0">You can often fix a single buckled section without touching the rest of the floor.</li></ul></div>
-
 
 ## Why Laminate Buckles (And Why It Keeps Coming Back)
 
@@ -41,7 +39,7 @@ The gap gets blocked in a few common ways: quarter-round or baseboard installed 
 
 The second cause is moisture. A slow leak under a dishwasher, a vapor barrier that was skipped on a concrete slab, a basement floor with seasonal humidity swings. Moisture makes laminate swell. Swollen planks in a tight space buckle. If you fix the gap but the moisture source is still there, you're on a timer.
 
-I've seen both situations misdiagnosed by contractors who should've known better. A reader named Dale from Columbus emailed me last spring after paying $800 to have "warped planks replaced" under his kitchen island, and watching them buckle again within a month. When he finally pulled the island out and checked underneath, the plank edges had visible white haze from moisture vapor coming through an unprotected concrete slab. Nobody had looked there the first time.
+Contractors sometimes miss the real cause of buckling. For example, planks replaced due to visible warping under an island can buckle again within weeks if the underlying concrete slab isn't properly protected. The plank edges may show white haze from moisture vapor, a sign that nobody checked underneath the first time.
 
 ## Diagnosing Your Specific Problem
 
@@ -51,7 +49,7 @@ Press down on the buckled section. If it compresses at all, you're dealing with 
 
 Walk the perimeter of the room and look at the gap between the flooring and the wall, under the baseboards. If you've got quarter-round covering it, get a thin putty knife and gently pry it away from the baseboard (not from the floor) at the nearest point to the buckle. If the flooring is visibly touching the wall or the baseboard, you've found your problem.
 
-Check for moisture next. Pull up the closest floor register or pop out a plank near the buckle if you can access one. Look at the back of the plank and the underlayment below it. Moisture damage leaves white or grayish discoloration on the back of the plank, and the underlayment may feel damp or show dark spots. In my experience, a $20 pin-type moisture meter from Harbor Freight will tell you more in 30 seconds than an hour of visual inspection. Stick the pins into the subfloor through the register opening. Anything above 14% moisture content on a wood subfloor is a problem; on concrete, you want to use a calcium chloride test or a surface-mount digital meter for a more accurate read.
+Check for moisture next. Pull up the closest floor register or pop out a plank near the buckle if you can access one. Look at the back of the plank and the underlayment below it. Moisture damage leaves white or grayish discoloration on the back of the plank, and the underlayment may feel damp or show dark spots. A $20 pin-type moisture meter will give you a reading in 30 seconds. Stick the pins into the subfloor through the register opening. Anything above 14% moisture content on a wood subfloor is a problem; on concrete, you want to use a calcium chloride test or a surface-mount digital meter for a more accurate read.
 
 ## The Fix, Ranked by What You're Actually Dealing With
 
@@ -113,6 +111,5 @@ Otherwise? Most buckling repairs are well within DIY range. The diagnostic step 
 - [Pergo / Mohawk Flooring Installation Technical Bulletins](https://www.pergo.com): Manufacturer-specific guidance on locking system release, acceptable moisture conditions, and gap requirements for current product lines.
 
 ---
-
 
 *Photo: [Engin Akyurt](https://www.pexels.com/@enginakyurt) via Pexels*

@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Cracks in a concrete driveway feel more urgent than they are. You see a line running across your slab, maybe a few inches, maybe a few feet, and your brain immediately jumps to "the whole thing needs to be replaced." I've watched homeowners quote themselves into $8,000 driveway replacements when a $40 repair and two hours on a Saturday would have been the right answer. Most residential concrete cracks are cosmetic or minor structural issues you can fix yourself. You just need to know which kind you're dealing with.
+Cracks in a concrete driveway feel more urgent than they are. You see a line running across your slab, maybe a few inches, maybe a few feet, and your brain immediately jumps to "the whole thing needs to be replaced." Many homeowners end up quoting themselves into $8,000 driveway replacements when a $40 repair and two hours on a Saturday would have been the right answer. Most residential concrete cracks are cosmetic or minor structural issues you can fix yourself. You just need to know which kind you're dealing with.
 
 Let me walk you through how to actually do this.
 
@@ -89,7 +89,7 @@ Optional but genuinely worth doing: once the repair is fully cured, apply a conc
 
 ## One Thing People Get Wrong (And It's Expensive)
 
-People reach for concrete resurfacer too quickly. If you've got a driveway with multiple cracks and some surface spalling, it's tempting to just skim the whole thing with a product like Quikrete Concrete Resurfacer and call it done. I've seen this go badly more times than I can count.
+People reach for concrete resurfacer too quickly. If you've got a driveway with multiple cracks and some surface spalling, it's tempting to just skim the whole thing with a product like Quikrete Concrete Resurfacer and call it done. This approach often fails.
 
 Resurfacer is a thin-coat product, typically 1/8 to 1/4 inch. It bonds to the existing concrete and gives you a fresh surface. What it cannot do is bridge active cracks. Any crack that's still moving at all, even seasonally, will telegraph right back through the resurfacer within a year or two. If you're going to resurface, fill every crack first with a flexible sealant, let it cure, then resurface. Don't let anyone convince you the resurfacer alone will handle it.
 
@@ -101,8 +101,7 @@ Also: concrete resurfacer is not beginner-friendly. It sets fast, it requires co
 
 - [Roman Biernacki](https://www.pexels.com/@szafran)
 
-
-Honestly, most residential driveway cracks don't require a professional. But here are the situations where I'd tell a homeowner to put the trowel down:
+Most residential driveway cracks don't require a professional. But here are the situations where I'd tell a homeowner to put the trowel down:
 
 One or more slabs have settled more than an inch below adjacent slabs. You might want to get a mudjacking or polyurethane foam lifting estimate before you do any surface work. Mudjacking (pumping a grout slurry under the slab to lift it) runs $500-1,200 depending on how many slabs and your region. Poly foam lifting is typically a bit more. Either way, it's pointless to repair the surface before you fix the grade.
 
@@ -111,7 +110,6 @@ If water is visibly pooling toward your foundation after rain and a sunken slab 
 And if your cracks are accompanied by crumbling concrete (not just cracking, but actual disintegration of the material), you may have carbonation or alkali-silica reaction issues. Those are beyond DIY territory.
 
 ---
-
 
 *Photo: [Roman Biernacki](https://www.pexels.com/@szafran) via Pexels*
 

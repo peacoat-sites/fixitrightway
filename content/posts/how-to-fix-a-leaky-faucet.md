@@ -45,7 +45,7 @@ To figure out which you have: look at the handle configuration and movement. Two
 
 ## Where Is the Faucet Actually Leaking From?
 
-The location of the leak tells you almost everything. I've had clients spend an hour fixing the wrong part because they didn't stop to look carefully.
+The location of the leak tells you almost everything.
 
 **Drip from the spout when the faucet is off.** The internal valve or seal is worn. This is the classic scenario, the 2 a.m. drip.
 

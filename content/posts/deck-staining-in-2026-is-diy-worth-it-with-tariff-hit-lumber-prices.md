@@ -46,13 +46,13 @@ What changes the math is the condition of your deck. If you've got boards that n
 
 DIY staining makes sense when your deck is in decent shape, you've kept up with it in recent years, and you're doing a maintenance coat rather than a rescue mission. A semi-transparent stain on clean, dry wood is genuinely one of the more forgiving DIY projects out there. You need a pump sprayer or a good brush, a quality stain, and patience.
 
-July is actually one of the better months for it, which is part of why you're probably thinking about this right now. The ideal application window is between 50°F and 90°F with no rain in the forecast for at least 24 to 48 hours. The catch in July, depending on where you live, is afternoon heat. In Texas, Arizona, or anywhere the afternoon sun is baking the wood above 90°F, you're looking at early morning application. Hot wood causes stain to dry too fast and leaves lap marks. Start at 7 a.m., not noon.
+July is actually one of the better months for it, which is part of why you're probably thinking about this right now. The ideal application window is between 50°F and 90°F with no rain in the forecast for at least 24 to 48 hours. The catch in July, depending on where you live, is afternoon heat. In hot climates where the afternoon sun heats the wood above 90°F, plan for early morning application. Hot wood causes stain to dry too fast and leaves lap marks. Start at 7 a.m., not noon.
 
 DIY gets harder when you're dealing with a two-story deck with awkward angles, a deck that's fully enclosed and requires moving furniture and navigating tight spaces, or a finish that requires full strip-and-restart. At that point, the time investment starts to rival what a pro would charge.
 
 ## What to Do If You're Getting Contractor Quotes Right Now
 
-If you've already called a couple of contractors and the quotes surprised you, ask them to break out the line items. A quote that bundles power washing, prep, stain, and any board replacement into one number makes it hard to know where the cost is actually coming from. In a tariff-pressured materials environment, some contractors are also padding estimates anticipating further price movement. That's not dishonest, it's risk management, but it's worth understanding.
+When reviewing contractor quotes, ask them to break out the line items. A quote that bundles power washing, prep, stain, and any board replacement into one number makes it hard to know where the cost is actually coming from. In a tariff-pressured materials environment, some contractors are also padding estimates anticipating further price movement. This reflects risk management in a tariff-pressured materials environment.
 
 If the quote includes board replacement, ask specifically which boards, why, and whether any of them are structural versus cosmetic. A soft spot in a decking board is a staining problem only until someone steps through it, but a cosmetically weathered board that's still structurally sound doesn't need to come out before a stain job.
 

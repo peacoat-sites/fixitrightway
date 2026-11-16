@@ -54,7 +54,7 @@ This is the meaty part, and where people skip steps they shouldn't.
 
 **What you need:** A grout saw or oscillating tool with a grout removal blade, new sanded or unsanded grout (more on which in a second), a rubber grout float, a bucket, clean sponges, grout sealer, and patience. The Dewalt oscillating kit with grout blades runs about $80 at any big-box store. The manual grout saw is $8 and works fine for small areas; it's just slower. For anything over about 20 square feet, the oscillating tool pays for itself in time saved.
 
-**Sanded vs. unsanded grout:** If your grout joints are wider than 1/8 inch, use sanded. Narrower than that, unsanded. Most shower tile is unsanded territory. I've seen homeowners use sanded grout in a 1/16-inch joint and wonder why it crumbles within a year. The sand particles can't compress into a tight joint properly.
+**Sanded vs. unsanded grout:** If your grout joints are wider than 1/8 inch, use sanded. Narrower than that, unsanded. Most shower tile is unsanded territory. Using sanded grout in a 1/16-inch joint will likely crumble within a year. The sand particles can't compress into a tight joint properly.
 
 The step most DIYers skip: remove enough old grout. You need to get down to at least 1/8 inch deep, preferably 1/4 inch, before applying new material. Grinding off just the surface and laying fresh grout on top of old is how you get repairs that look fine for six weeks and then crack off in sheets. The new grout has nothing to bond to.
 
@@ -82,7 +82,6 @@ A common objection: "but the silicone never matches the grout perfectly." True. 
 
 - [Max Vakhtbovych](https://www.pexels.com/@artbovich)
 
-
 There's a version of this repair that goes beyond DIY territory. If you remove grout and find tiles that move when you press them, the tile has debonded from the substrate. That means water has already been underneath. Removing those tiles will likely reveal damaged drywall or cement board, and at that point you're doing a full wet area repair, not a grout touchup.
 
 Mushy drywall, black staining on the substrate, or any give in the floor tiles near the drain all mean water intrusion that has to be addressed structurally before new grout or caulk goes in. Covering that with new grout is like putting a fresh bandage on an infected wound. You're buying yourself maybe a year before the tile falls off the wall on its own.
@@ -92,6 +91,5 @@ My rule of thumb: if more than about 20 percent of your grout is failing, or if 
 A full shower regrout by a professional currently runs $300 to $700 for a standard 3x3 shower stall, depending on your market. If it needs new backer board, add $400 to $900. Those numbers hurt, but they're a fraction of what water damage to the floor structure costs.
 
 ---
-
 
 *Photo: [Max Vakhtbovych](https://www.pexels.com/@artbovich) via Pexels*

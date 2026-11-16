@@ -27,7 +27,7 @@ faqs:
 
 Most coverage of duct sealing spends three paragraphs telling you [air leaks](/how-to-seal-air-leaks-around-electrical-outlets/) are bad, then hands you a tube of caulk and wishes you luck. That's not enough. Duct leakage is one of the most consequential hidden problems in residential buildings, and it's also one of the most frequently botched DIY repairs because people use the wrong materials, seal the wrong spots, or skip a pressure test that would tell them whether any of it worked.
 
-Here's the uncomfortable number: the U.S. Department of Energy estimates that the average home loses 20 to 30 percent of conditioned air through duct leaks. On a $250/month cooling bill, that's $50 to $75 a month leaving through gaps in your attic or crawlspace. Every month. I've seen homes where the real figure was closer to 40 percent, usually because the original installer used cloth duct tape (which fails completely within a few years) and nobody touched it again.
+Here's the uncomfortable number: the U.S. Department of Energy estimates that the average home loses 20 to 30 percent of conditioned air through duct leaks. On a $250/month cooling bill, that's $50 to $75 a month leaving through gaps in your attic or crawlspace. Every month. Leakage can reach closer to 40 percent, often because cloth duct tape (which fails completely within a few years) was used and never replaced.
 
 The fix is straightforward. The execution is where people go wrong.
 
@@ -39,7 +39,7 @@ Duct systems leak in predictable places. The joints between duct sections, the c
 
 The reason location matters: ducts in conditioned space (inside your thermal envelope, basically inside the house) that leak are annoying and wasteful. Ducts in unconditioned space, like a vented attic in Phoenix or a crawlspace in Georgia, are genuinely expensive. You're dumping 75-degree air into a 130-degree attic and paying your HVAC system to pump it there. That's where the real money bleeds out.
 
-Before you buy anything, walk your attic or crawlspace with a flashlight on a day when your HVAC is running. Hold your hand near every joint, every collar, every flex duct connection. You'll feel the leaks. Some will be dramatic. I did this in my own house after we moved in, found a 4-inch gap at the plenum where the previous owner had disconnected a duct and simply never reconnected it. That single gap was costing us roughly $80/month in wasted cooling. Found it in five minutes with my hand.
+Before you buy anything, walk your attic or crawlspace with a flashlight on a day when your HVAC is running. Hold your hand near every joint, every collar, every flex duct connection. You'll feel the leaks. Some will be dramatic. For example, a 4-inch gap at the plenum where a duct is disconnected can waste roughly $80/month in cooling. Such gaps are often found within minutes of checking joints by hand.
 
 ## Mastic vs. Foil Tape: Take a Position
 

@@ -25,7 +25,7 @@ author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
 lastmod: 2026-07-08
 ---
-Your shower drain is slow. Not standing-in-water slow, but that creeping ankle-deep puddle that collects every time you wash your hair. You've been ignoring it for two weeks. I know, because I've seen this exact situation in probably a third of the homes I've walked into for unrelated work over the years.
+Your shower drain is slow. Not standing-in-water slow, but that creeping ankle-deep puddle that collects every time you wash your hair.
 
 The good news: you can almost certainly fix this yourself in under an hour, with tools you already own, for free. No Drano. No plumber. Here's how.
 
@@ -88,9 +88,9 @@ Reassemble in reverse. Wrap any threaded connections you disturbed with two wrap
 
 ## One Thing Most People Skip
 
-Clean the drain cover itself before you put it back. Soap scum and mineral deposits on the cover's openings can reduce flow enough to matter, especially in homes with hard water. A 30-minute soak in white vinegar dissolves most of it. For stubborn deposits, a stiff nylon brush and some Bar Keepers Friend works better than anything else I've tried.
+Clean the drain cover itself before you put it back. Soap scum and mineral deposits on the cover's openings can reduce flow enough to matter, especially in homes with hard water. A 30-minute soak in white vinegar dissolves most of it. For stubborn deposits, a stiff nylon brush and some Bar Keepers Friend work well on tough buildup.
 
-While you're at it, check that the cover is seating properly and not sitting slightly crooked, which can partially block the drain opening. Sounds minor, but I've seen this cause a noticeably slow drain.
+While you're at it, check that the cover is seating properly and not sitting slightly crooked, which can partially block the drain opening. A misaligned cover can partially block the drain opening and noticeably slow water flow.
 
 ## Preventing It From Coming Back
 
@@ -98,10 +98,8 @@ While you're at it, check that the cover is seating properly and not sitting sli
 
 - [Zulfugar Karimov](https://www.pexels.com/@zulfugarkarimov)
 
-
 The single most effective thing is a hair catcher. The OXO Good Grips Shower Drain Protector (about $10) sits in the drain opening and catches hair before it enters the pipe. You pull it out and clean it after every few showers. Not glamorous, but it reduces shower drain calls to near zero in homes that use one consistently.
 
 For soap scum buildup, a monthly flush of boiling water helps. Pour a full kettle's worth slowly down the drain. The heat melts and flushes the soap residue that accumulates on pipe walls. Skip this if you have PVC pipe that's less than 1.5 inches in diameter or joints you're unsure about, since boiling water can soften some plastic fittings. Very hot tap water (not boiling) is fine for PVC.
-
 
 *Photo: [Zulfugar Karimov](https://www.pexels.com/@zulfugarkarimov) via Pexels*

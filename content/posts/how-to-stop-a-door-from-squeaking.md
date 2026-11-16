@@ -25,7 +25,7 @@ author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
 lastmod: 2026-07-08
 ---
-Most people grab a can of WD-40, spray the hinges, and call it done. The squeak comes back in two weeks. I've seen this cycle repeat dozens of times on job sites and in client homes, and the frustrating part is that WD-40 is one of the worst things you can use on a squeaky door hinge. It's a solvent and water displacer, not a lubricant. It cleans out the existing grease, gives you a brief quiet period, and then leaves metal grinding on metal again. If your door squeak has come back multiple times after treatment, this is probably why.
+Most people grab a can of WD-40, spray the hinges, and call it done. The squeak comes back in two weeks. WD-40 is one of the worst things you can use on a squeaky door hinge. It's a solvent and water displacer, not a lubricant. It cleans out the existing grease, gives you a brief quiet period, and then leaves metal grinding on metal again. If your door squeak has come back multiple times after treatment, this is probably why.
 
 ## Why Doors Actually Squeak (It's Not Always the Hinges)
 
@@ -90,7 +90,7 @@ If the squeak comes back within a few days, you're dealing with worn hinge barre
 
 ## When Lubrication Won't Fix It
 
-What surprised me when I started paying attention to recurring squeak complaints was how often the real problem was structural, not lubrication. Here's when you need a different approach.
+Often the real problem behind recurring squeaks is structural rather than lubrication alone.
 
 **Loose hinge screws.** Extremely common in older homes. The screws have been turned in and out over decades, or the original ones were too short, and the hole is stripped. The hinge wiggles, the door sags slightly, and you get a rubbing squeak that lubricant won't touch.
 

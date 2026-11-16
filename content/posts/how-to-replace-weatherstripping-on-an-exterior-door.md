@@ -71,7 +71,7 @@ I'll walk through a full replacement here, sides and top first, then the sweep.
 
 **Step 1: Remove the old weatherstripping.** Peel foam tape off carefully. If it's been there for years, use the hair dryer on low heat for about 20 seconds on each section, then pull slowly. Rushing this leaves adhesive residue that prevents the new tape from sticking. For nailed-on vinyl or rubber gasket, use the pry bar gently against the stop molding. For kerf-insert strips, grip the end with pliers and pull straight out. If a kerf strip breaks off inside the slot, a thin-blade chisel works to hook it out.
 
-**Step 2: Clean the surface.** Wipe down the door stop with a damp cloth, let it dry, then go over any adhesive residue with Goo Gone or isopropyl alcohol. This step takes five extra minutes and makes the new weatherstripping last twice as long. I've seen brand-new installs fail within a season because someone stuck new foam tape over the old adhesive ghost.
+**Step 2: Clean the surface.** Wipe down the door stop with a damp cloth, let it dry, then go over any adhesive residue with Goo Gone or isopropyl alcohol. This step takes five extra minutes and makes the new weatherstripping last twice as long. Brand-new installs can fail within a season if new foam tape is applied over old adhesive residue.
 
 **Step 3: Measure and cut your new material.** Measure each side of the door stop, not the door frame. The stop is the narrower strip the door closes against. Cut your strips 1/4 inch long and trim to fit. Better to cut a tiny bit long and trim than to leave a gap at the corner.
 
@@ -93,7 +93,7 @@ Another one: An older aluminum-frame door on a rental property I manage had a 1/
 
 I want to save you from one specific mistake I see constantly. A homeowner calls me because their door is drafty, I drive over, and the weatherstripping looks fine. What I actually find: the door has settled and the latch-side stop has opened up 1/4 inch of daylight. No weatherstripping in the world fixes a misaligned door. You need to either adjust the hinges (sometimes adding a longer screw to the middle hinge pulls the door back into plane) or move the door stop itself.
 
-The test: look at your closed [door from](/how-to-stop-a-sticking-interior-door-from-rubbing/) the hinge side. The gap between the door edge and the frame should be roughly uniform, top to bottom. If it's wider at the top or bottom on the latch side, that's a hinge or frame issue, not a weatherstripping issue. Fix the alignment first, then do the weatherstripping. I thought for years that throwing enough foam at a misaligned door would eventually work. It does not.
+The test: look at your closed [door from](/how-to-stop-a-sticking-interior-door-from-rubbing/) the hinge side. The gap between the door edge and the frame should be roughly uniform, top to bottom. If it's wider at the top or bottom on the latch side, that's a hinge or frame issue, not a weatherstripping issue. Fix the alignment first, then do the weatherstripping. A common mistake is assuming that extra weatherstripping will compensate for a misaligned door. It won't.
 
 ## Sources
 

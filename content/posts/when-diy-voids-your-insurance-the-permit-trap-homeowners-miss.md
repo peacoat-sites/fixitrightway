@@ -38,7 +38,7 @@ California has been moving in the same direction. [LA Construction Compliance (u
 
 If you already have unpermitted work and you're thinking about cleaning it up, brace yourself. Retroactive permitting and remediation, meaning bringing the work up to code so a building official will sign off on it, runs $5,000 on the low end and climbs past $50,000 depending on scope. An unpermitted room addition is a very different animal than a single unpermitted outlet, but even small electrical fixes can require opening walls for inspection before a permit gets closed out.
 
-And it's not just an insurance problem. Mortgage lenders in 2026 are flagging [unpermitted work during underwriting](/unpermitted-diy-work-can-void-your-home-insurance-claim/). If you're selling your house, refinancing, or the buyer is getting a conventional loan, unpermitted additions show up as a liability on the title. Deals fall apart over this. I've watched it happen on houses where the owners genuinely didn't know the work was unpermitted because it was done before they bought the place. That's not a defense your lender or insurer is especially moved by.
+And it's not just an insurance problem. Mortgage lenders in 2026 are flagging [unpermitted work during underwriting](/unpermitted-diy-work-can-void-your-home-insurance-claim/). If you're selling your house, refinancing, or the buyer is getting a conventional loan, unpermitted additions show up as a liability on the title. Deals fall apart over this. Unpermitted work done by previous owners can still create problems during a sale or refinance, even if current owners didn't authorize it. That's not a defense your lender or insurer is especially moved by.
 
 ## Where DIY Is Fine and Where It Isn't
 
@@ -55,7 +55,7 @@ None of this means you shouldn't do your own work. I've done plenty myself over 
 
 What triggers permit requirements almost everywhere: new electrical circuits or panel work, moving or adding plumbing, structural changes including removing walls, adding square footage, and in many jurisdictions, replacing a roof or HVAC system. The specific rules vary by municipality. Your local building department's website will tell you, usually in about five minutes of reading. That's worth doing before you buy materials.
 
-The other thing worth knowing: permits aren't just bureaucratic friction. An inspector catching a wiring error before you close the wall is the whole system working correctly. I've seen amateur electrical work that would have started a fire within a year. The inspector is on your side, even when it doesn't feel that way.
+The other thing worth knowing: permits aren't just bureaucratic friction. An inspector catching a wiring error before you close the wall is the whole system working correctly. Faulty electrical work can create serious fire hazards that inspections are designed to catch. The inspector is on your side, even when it doesn't feel that way.
 
 ## Before You Start That Summer Project
 
@@ -63,7 +63,7 @@ If you're planning anything beyond cosmetic work this summer, spend twenty minut
 
 If you already have work you're worried about, talk to a licensed contractor about a compliance assessment before you sell, refinance, or file a claim for anything unrelated. Fixing it proactively on your timeline is a lot cheaper than fixing it reactively under pressure.
 
-The money you save doing it yourself disappears fast if one denied claim leaves you covering a $60,000 repair out of pocket. I've seen it happen. Don't let it happen to you.
+The money you save doing it yourself disappears fast if one denied claim leaves you covering a $60,000 repair out of pocket. Don't let it happen to you.
 
 ## Sources
 

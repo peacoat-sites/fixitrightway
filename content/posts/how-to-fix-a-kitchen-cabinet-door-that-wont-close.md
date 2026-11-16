@@ -25,7 +25,7 @@ faqs:
     a: "Standard is 35mm diameter, 13mm deep, with the center set 22.5mm from the door edge. A 35mm Forstner bit is the right tool. Get the Freud brand version if you can ($18 to $22); the cheap ones wobble and tear grain."
 ---
 
-Seventy-three percent of kitchen cabinet service calls I've seen over the years come down to one of three fixable problems, and not one of them requires a carpenter.
+Many kitchen cabinet problems fall into three categories, and none requires a carpenter.
 
 That number stuck with me because I used to assume misaligned cabinet doors meant something structural was wrong. Bad installation. Warped face frame. Cabinet box shifting. I'd mentally brace for a big job before I'd even opened my toolbox. What I found, again and again, was a loose hinge screw or a hinge that just needed a quarter-turn adjustment. The first time I fixed a door in under four minutes while a homeowner watched with disbelief, I realized how badly this topic is under-explained.
 
@@ -55,15 +55,15 @@ One thing that trips people up: push on the door itself, near each hinge, and fe
 
 ## Fix #1: Stripped Screw Holes (the Most Common Problem Nobody Fixes Correctly)
 
-I've watched homeowners tighten a loose hinge screw with a screwdriver, feel it snug up, and call it done. Then two weeks later the door is drooping again. Here's why: the screw hole in the cabinet's face frame or door stile is stripped. The screw spins freely in the wood. Tightening it just compresses whatever's left of the wood fiber temporarily.
+A common mistake is tightening a loose hinge screw and stopping there. The door droops again days or weeks later because the screw hole in the cabinet's face frame or door stile is stripped. The screw spins freely in the wood. Tightening it just compresses whatever's left of the wood fiber temporarily.
 
 The actual fix takes about eight minutes.
 
-Remove the screw. Stuff the hole with wooden toothpicks and a drop of wood glue. I've used Elmer's Carpenter's Wood Glue and Titebond III for this; both work fine. Let it cure for a minimum of an hour (I leave it overnight when I can). Snap off the toothpick flush with a utility knife or just break them by hand. Drive the screw back in. You now have fresh wood for the screw threads to bite.
+Remove the screw. Stuff the hole with wooden toothpicks and a drop of wood glue (Elmer's Carpenter's Wood Glue or Titebond III both work well). Let it cure for a minimum of an hour, or overnight if possible. Snap off the toothpick flush with a utility knife or break it by hand. Drive the screw back in. You now have fresh wood for the screw threads to bite.
 
 For really blown-out holes, go up one screw size. A #8 x 1-1/4 inch screw instead of the original #6 often gives you all the bite you need without any toothpick gymnastics.
 
-Worked example: A reader in Minneapolis emailed me last fall about a lower cabinet door that had dropped so far it was hitting the drawer below it. She'd already tightened the screws twice. Action: toothpick-and-glue repair on both lower hinge mounting points, plus an afternoon cure time before re-hanging. Result: door realigned within 1/8 inch and has held through one full winter heating season (low indoor humidity), which is when wood cabinets move the most.
+For example, a lower cabinet door that has dropped so far it hits the drawer below may have had its hinge screws tightened before without success. The toothpick-and-glue repair on both lower hinge mounting points, followed by adequate cure time before re-hanging, can realign the door and keep it stable through seasonal wood movement.
 
 ## Fix #2: Adjusting European Cup Hinges
 

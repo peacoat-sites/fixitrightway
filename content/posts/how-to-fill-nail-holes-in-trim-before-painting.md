@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most people overthink this. A nail hole in trim is about as low-stakes as a repair gets, and yet I've seen fresh paint jobs look terrible because someone grabbed the wrong filler, skipped sanding, or didn't prime. Twenty years in, I still see it on jobsites from guys who should know better.
+Most people overthink this. A nail hole in trim is about as low-stakes as a repair gets, and yet fresh paint jobs often look terrible because the wrong filler was used, sanding was skipped, or primer was left out.
 
 So let's get this right. Whether you've got a single doorframe to touch up or you're painting every piece of trim in a 2,400 square foot house, the process is the same and it's genuinely not hard once you know what actually matters.
 
@@ -108,6 +108,5 @@ Worked example: Contractor on a flip property skipped spot-priming on 40+ nail h
 - Fine Homebuilding magazine, trim painting technique coverage: Industry-validated guidance on priming wood fillers before topcoating
 
 ---
-
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

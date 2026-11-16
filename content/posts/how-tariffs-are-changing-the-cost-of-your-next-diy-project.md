@@ -16,7 +16,6 @@ lastmod: 2026-07-08
 ---
 Most DIY coverage right now is still telling you to "shop around for deals" and "consider alternatives." That's not a materials strategy. That's a shrug. Here's what's actually happening to prices, and what it means for the deck, fence, or cabinet project you're planning this summer.
 
-
 <div class="value-module">
  <div class="vm-head">DIY Project Tariff Impact Calculator</div>
  <div class="vm-body">
@@ -50,7 +49,7 @@ That matters for subpanel additions, running circuits to a detached garage, or a
 
 Cushman & Wakefield's April 2026 report used a phrase that deserves more attention than it got: "policy remains in flux." That's not boilerplate hedging. It's a real warning that the tariff structure you're pricing against today could change mid-project.
 
-For a weekend fence build, that risk is minimal. For a [multi-week deck or kitchen project](/deck-staining-in-2026-is-diy-worth-it-with-tariff-hit-lumber-prices/) where you're buying lumber in stages, or ordering cabinets with a 6- to 8-week lead time, a mid-project tariff adjustment can blow up your budget in either direction. The AGC-NCCER survey found 43% of general contractors reported at least one project canceled, postponed, or scaled back in the past six months due to higher material costs from tariffs. Contractors have purchasing leverage and supplier relationships that most homeowners don't. If nearly half of them are deferring projects, a DIYer with a tighter margin for error should be paying attention.
+For a weekend fence build, that risk is minimal. For a [multi-week deck or kitchen project](/deck-staining-in-2026-is-diy-worth-it-with-tariff-hit-lumber-prices/) where you're buying lumber in stages, or ordering cabinets with a 6- to 8-week lead time, a mid-project tariff adjustment can blow up your budget in either direction. According to the AGC-NCCER survey, 43% of general contractors reported at least one project canceled, postponed, or scaled back in the past six months due to higher material costs from tariffs. Contractors have purchasing leverage and supplier relationships that most homeowners don't. If nearly half of them are deferring projects, a DIYer with a tighter margin for error should be paying attention.
 
 The practical response isn't freezing up. It's front-loading your materials procurement. Buy your lumber, hardware, and fasteners before you break ground, not in stages. Get a firm written quote on cabinets and ask explicitly whether it's price-protected through your expected delivery date. If a supplier won't hold a price for 30 days, that tells you something about how volatile their own supply chain is right now.
 

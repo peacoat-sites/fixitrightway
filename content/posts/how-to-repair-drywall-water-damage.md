@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Most homeowners assume drywall water damage is a cosmetic problem. It's not. The water you can see is usually the least of your worries.
 
-I've been in thousands of homes over the last two decades, and I'll be honest: the jobs that ended up costing the most weren't the ones with dramatic flooding. They were the slow, quiet leaks. The drip under the bathroom sink that nobody noticed for six months. The ice dam that pushed water through a ceiling seam for two or three winters before the paint started bubbling. By the time the drywall looks bad, there's almost always something worse hiding behind it.
+The jobs that end up costing the most often aren't dramatic flooding but slow, quiet leaks. A drip under a bathroom sink that goes unnoticed for months, or an ice dam that pushes water through a ceiling seam over multiple winters, can cause damage that's far more expensive to repair than the initial water intrusion. By the time the drywall looks bad, there's almost always something worse hiding behind it.
 
 That said, not every water-stained ceiling is a disaster. Plenty of water damage is genuinely straightforward to fix yourself, and I don't want you calling a contractor for a $40 repair. So let me walk you through how to actually assess what you're dealing with, what the repair involves, and where the line is between a DIY job and a "put the phone down and call someone" situation.
 
@@ -106,6 +106,5 @@ The DIY line is genuinely clear: small patch, confirmed dry, no mold, visible so
 - [Zinsser BIN Shellac-Based Primer technical data sheet](https://www.rustoleum.com): Manufacturer specs confirming stain-blocking performance on water and smoke stains prior to topcoat application.
 
 ---
-
 
 *Photo: [Pablo Fernandez](https://www.pexels.com/@pupeno) via Pexels*

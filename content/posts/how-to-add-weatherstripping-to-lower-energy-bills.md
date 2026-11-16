@@ -31,15 +31,13 @@ You might be wondering whether it's actually that dramatic. I had the same skept
 
 Here's what I tell people: weatherstripping is the single highest return-on-investment home improvement you can do. Not new windows. Not a smart thermostat. Weatherstripping. The math is almost embarrassingly good once you know what you're looking for.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The DOE estimates air leaks waste 25-30% of heating/cooling energy in a typical home.</li><li style="margin:5px 0">Most exterior doors need full replacement weatherstripping every 5-7 years; windows, 7-10.</li><li style="margin:5px 0">Total materials for a single door run $15-$45; a full house job rarely exceeds $200.</li><li style="margin:5px 0">V-strip (tension seal) outperforms foam tape on high-traffic doors by lasting 3-5x longer.</li><li style="margin:5px 0">Payback period on a whole-house weatherstripping project is typically under 12 months.</li></ul></div>
-
 
 ## What You're Actually Losing (And Where)
 
 The Lawrence Berkeley National Laboratory has been tracking residential air infiltration for decades. Their data shows the average American home has the equivalent of a 14-square-inch hole in it from all the combined gaps and cracks. That's roughly the size of a brick. For context, the Energy Information Administration's Residential Energy Consumption Survey found that space heating and cooling account for about 43% of household energy bills. So you're hemorrhaging nearly a third of nearly half your energy bill through gaps a tube of foam and some metal strips could fix.
 
-The worst offenders, in my experience, are almost always the same: the bottom of the front door (door sweeps compress and fail silently), the sides of older double-hung windows, attic hatches (wildly neglected), and sliding glass doors. Pet doors are their own disaster category, but that's a whole separate article.
+Common air leak spots are the bottom of the front door (door sweeps compress and fail silently), the sides of older double-hung windows, attic hatches (often neglected), and sliding glass doors. Pet doors are their own disaster category, but that's a whole separate article.
 
 One thing most DIY guides won't tell you: the seal you're checking for isn't just about wind. In humid climates like the Gulf Coast or Pacific Northwest, air infiltration brings moisture, which feeds mold. The energy savings matter, but the moisture control matters just as much.
 
@@ -60,9 +58,7 @@ Here's the breakdown on the main types, because the wrong choice can mean doing 
 
 V-strip is the one product I'd push hard for anyone doing a front or back door. It's the springy folded strip that tucks into the channel between the door stop and the jamb. It's nearly invisible when installed, doesn't compress the way foam does, and when I've pulled it out of doors after a decade, it still had meaningful spring to it. 3M makes a decent vinyl version; the Frost King V38H is probably the most widely available, running about $7 for 17 feet at most hardware stores. For the door bottom, an automatic door sweep (the kind that rises slightly when the door opens, then drops to seal when it closes) is worth the extra $12-$15 over a basic sweep. You'll stop sweeping debris through it every time the door opens.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Weatherstripping lifespan by type (years)</div><div class="sc-row"><span class="sc-label">Felt</span><span class="sc-track"><span class="sc-bar" style="width:15%"></span></span><span class="sc-val">1.5 yrs</span></div><div class="sc-row"><span class="sc-label">Foam tape</span><span class="sc-track"><span class="sc-bar" style="width:20%"></span></span><span class="sc-val">2 yrs</span></div><div class="sc-row"><span class="sc-label">EPDM rubber</span><span class="sc-track"><span class="sc-bar" style="width:70%"></span></span><span class="sc-val">7 yrs</span></div><div class="sc-row"><span class="sc-label">V-strip vinyl</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">10 yrs</span></div><div class="sc-row"><span class="sc-label">Magnetic strip</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">10 yrs</span></div><div class="sc-row"><span class="sc-label">Auto door sweep</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">6 yrs</span></div><div class="sc-src">Source: DOE Building Technologies Office / industry durability data</div></div>
-
 
 ## How to Actually Do This
 
@@ -101,6 +97,5 @@ A blower door test from an energy auditor (typically $250-$450 for a full home a
 - Oak Ridge National Laboratory, "Measured Air Leakage Performance of Weatherstrips": durability and performance testing data for common weatherstripping materials
 
 ---
-
 
 *Photo: [Wallace Silva](https://www.pexels.com/@wsilvasjb) via Pexels*

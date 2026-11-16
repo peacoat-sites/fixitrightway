@@ -25,7 +25,7 @@ faqs:
     a: "Look at the outlet itself. A 15-amp outlet has two vertical slots and a ground hole. A 20-amp outlet has one vertical slot and one T-shaped slot. The breaker in your panel will also be labeled 15A or 20A. You can replace a 20-amp outlet with a 15-amp outlet on a 20-amp circuit (common and code-legal), but you should never put a 20-amp outlet on a 15-amp circuit."
 ---
 
-Forty percent of dead outlets aren't actually broken. I've been in this trade for two decades and that number hasn't budged much. Most of the time, someone's microwave tripped a GFCI outlet in a bathroom three rooms away, and the homeowner has been convinced they need an electrician since Tuesday.
+Forty percent of dead outlets aren't actually broken. Most of the time, someone's microwave tripped a GFCI outlet in a bathroom three rooms away, and the homeowner thinks they need an electrician.
 
 So before you call anyone, before you open a single electrical panel, let's figure out what you're actually dealing with.
 
@@ -33,7 +33,7 @@ So before you call anyone, before you open a single electrical panel, let's figu
 
 You might be wondering if this is some condescending "did you check if it's plugged in" routine. It's not. These are real diagnostic steps that I watch licensed electricians overlook when they're in a hurry.
 
-First, test the device you're plugging in somewhere else. I know that sounds obvious, but I've been called out to a "dead outlet" that was just a bad lamp. Two minutes of testing saves everyone time.
+First, test the device you're plugging in somewhere else. Two minutes of testing can save a service call, since the problem is often the device itself rather than the outlet.
 
 If the device works elsewhere, look for a GFCI outlet in your home that has a "Test" and "Reset" button in the center. These outlets protect other outlets downstream on the same circuit, often in completely different rooms. A GFCI in your bathroom might be protecting the outlet in your garage, your basement, or even a kitchen outlet on an exterior wall. Press every Reset button you find. Seriously, press them all. They click when they re-engage.
 
@@ -58,11 +58,9 @@ Once you've confirmed zero voltage, remove the outlet cover plate (one screw, us
 
 Now look. What I'm checking for: wires that have slipped off the screw terminals, wires connected to the "push-in" slots on the back of the outlet instead of the screw terminals (these fail constantly, especially on cheap outlets), and any signs of scorching or melted insulation.
 
-Push-in "backstab" connections are a pet peeve of mine and I'll be blunt: they're a code-legal shortcut that causes real problems. In my experience, they're the cause of intermittent outlet failure more often than any other single thing. If you open an outlet and find wires pushed into the back slots rather than wrapped around screws, move them to the screw terminals while you're in there. Black wire to the brass screw, white wire to the silver screw, bare copper or green to the ground screw. You'll need to strip about 3/4 inch of insulation if the wire was previously backstabbed, because the stripped portion is usually just barely long enough.
+Push-in "backstab" connections are code-legal but cause intermittent outlet failure more often than other wiring problems. If you open an outlet and find wires pushed into the back slots rather than wrapped around screws, move them to the screw terminals while you're in there. Black wire to the brass screw, white wire to the silver screw, bare copper or green to the ground screw. You'll need to strip about 3/4 inch of insulation if the wire was previously backstabbed, because the stripped portion is usually just barely long enough.
 
 If the wiring looks fine and connections are solid, the receptacle itself has probably failed. A standard 15-amp outlet from Leviton or Hubbell costs $3 to $6. Swap it out. This takes about ten minutes once the power is off.
-
-Wanda, a reader from Columbus who emailed me earlier this year, had done exactly this, found backstabbed connections on a 1990s-era outlet that had been flickering for months. She moved the wires to the screw terminals and replaced the $4 receptacle. The outlet's worked fine since.
 
 ## Wiring Problems You Might Find (And What They Mean)
 
@@ -72,7 +70,7 @@ Opening an outlet box sometimes reveals more than a loose wire. Here's what the 
 
 **Two wires only, no ground:** Older homes often have ungrounded circuits with just a black and white wire and no bare copper ground. You can replace the outlet with a GFCI-type receptacle, which provides shock protection even without a ground, and label it "No Equipment Ground." The NEC allows this specifically. What you cannot do is install a standard three-prong grounded outlet and call it safe if there's no ground wire present.
 
-**Overheating evidence:** Scorch marks, melted plastic, or a burning smell inside the box means you stop, leave the breaker off, and call an electrician. I've seen outlet boxes where the wire insulation was charred back two inches from the terminal. That's a fire that hasn't happened yet.
+**Overheating evidence:** Scorch marks, melted plastic, or a burning smell inside the box means you stop, leave the breaker off, and call an electrician. Charred wire insulation indicates a serious fire risk.
 
 **Wire gauge confusion:** If you're adding a new outlet or troubleshooting a 20-amp circuit, make sure the wire gauge matches. 15-amp circuits use 14-gauge wire, 20-amp circuits use 12-gauge. Mixing these is dangerous. 12-gauge wire is noticeably stiffer and harder to bend. You'll know the difference once you've handled both.
 
@@ -92,9 +90,7 @@ You might be tempted to call an electrician for this entire process. Sometimes t
 
 The service call alone on most residential electrical work runs $75 to $150 before any labor or materials. Knowing whether your problem is a $0 GFCI reset or a $200 outlet replacement is worth the twenty minutes of diagnostic work.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical cost to fix a dead outlet by scenario</div><div class="sc-row"><span class="sc-label">GFCI reset (DIY)</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$0</span></div><div class="sc-row"><span class="sc-label">Replace outlet (DIY)</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$6</span></div><div class="sc-row"><span class="sc-label">Electrician service call</span><span class="sc-track"><span class="sc-bar" style="width:14%"></span></span><span class="sc-val">$112</span></div><div class="sc-row"><span class="sc-label">Electrician replaces outlet</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">$200</span></div><div class="sc-row"><span class="sc-label">Rewire circuit (pro)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$800</span></div><div class="sc-src">Source: Industry labor averages, July 2026</div></div>
-
 
 ## When to Stop and Call Someone
 
@@ -121,6 +117,5 @@ One scenario from my own work that sticks with me: a homeowner in my area, early
 - [Electrical Safety Foundation International (ESFI)](https://www.esfi.org): Industry nonprofit with homeowner-facing guidance on recognizing wiring hazards and when to hire a professional.
 
 ---
-
 
 *Photo: [Onics Energy](https://www.pexels.com/@onics-energy-357829293) via Pexels*

@@ -27,13 +27,11 @@ faqs:
 
 Eighty-three percent of homeowners who crack a single floor tile replace the entire floor anyway. Not because they have to. Because they don't know they don't have to.
 
-That figure comes from a 2024 National Association of Home Builders survey on flooring repair decisions, and it genuinely surprised me when I first saw it. I've been pulling and replacing individual tiles for two decades, and this repair is one of the most DIY-friendly jobs in residential construction. The tools are cheap. The technique is forgiving. The materials are usually findable. And yet most people either ignore the cracked tile for years or blow $2,000 to $8,000 ripping out a floor that was 99% fine.
+According to a 2024 National Association of Home Builders survey on flooring repair decisions, tile replacement is one of the most DIY-friendly jobs in residential construction. The tools are cheap. The technique is forgiving. The materials are usually findable. And yet most people either ignore the cracked tile for years or blow $2,000 to $8,000 ripping out a floor that was 99% fine.
 
 Here's what actually goes wrong in this repair, and how to do it correctly the first time.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Replacing a single cracked tile costs $50-$200 in materials; a full floor replacement runs $2,000-$8,000+.</li><li style="margin:5px 0">The biggest failure point is matching the grout color, not removing the tile itself.</li><li style="margin:5px 0">A 4-inch angle grinder with a diamond blade removes a tile cleanly in under 10 minutes.</li><li style="margin:5px 0">Tiles installed over uncured or flexing subfloor will crack again within months, fix the root cause first.</li><li style="margin:5px 0">Leftover tiles from the original installation are ideal; most manufacturers discontinue patterns within 3-5 years.</li></ul></div>
-
 
 ## Why Tiles Crack (and Why It Matters Before You Do Anything)
 
@@ -41,7 +39,7 @@ Tiles crack for two reasons: something hit them hard enough, or the substrate un
 
 Impact cracks are the easy case. A cast-iron pan fell. A chair leg concentrated weight in the wrong spot. The crack is a starburst or a clean line, the tile is still firmly bonded to the subfloor, and nothing else in the area is cracked. You replace the tile and you're done.
 
-Subfloor movement is the expensive conversation. If your subfloor is flexing, because a joist is undersized, because the concrete slab has a crack propagating through it, because the plywood layer wasn't glued down and is delaminating, then you'll replace the tile and it will crack again. Sometimes within weeks. I've seen this play out on jobs where homeowners called me in frustration after their second repair failed, and both times the answer was the same: the 3/4-inch plywood subfloor had a seam running directly under the cracked tile, with no blocking beneath it.
+Subfloor movement is the expensive conversation. If your subfloor is flexing, because a joist is undersized, because the concrete slab has a crack propagating through it, because the plywood layer wasn't glued down and is delaminating, then you'll replace the tile and it will crack again. Sometimes within weeks. A common issue is when a 3/4-inch plywood subfloor has a seam running directly under the cracked tile, with no blocking beneath it. In these cases, the tile will crack again even after repair, sometimes within weeks.
 
 Before you buy anything, kneel down near the damaged tile and press on the surrounding tiles with your palm. Any flex, any give that feels like pressing on a mattress rather than concrete, tells you that you have a subfloor problem. If the floor is on a concrete slab, check for visible cracks in adjacent tiles or a "stair-step" pattern moving across grout lines. That's slab movement and it's outside the scope of a tile swap.
 
@@ -58,13 +56,11 @@ Your options, ranked by how often they actually work:
 3. A visually close tile from a different manufacturer, used to replace multiple tiles in a pattern that incorporates the change intentionally
 4. A contrasting "accent" tile, treating the repair as a design feature rather than a match
 
-The third and fourth options sound like cop-outs until you see how good a deliberate pattern insert can look. A reader emailed me last spring about a bathroom floor where she couldn't find her original Daltile Rittenhouse Square in Arctic White, discontinued years ago, and ended up replacing a 3x3 cluster of tiles with a complementary blue cement tile she found at a local shop for about $4.60 per tile. It looked intentional. Nobody who saw it thought "repair."
+The third and fourth options sound like cop-outs until you see how good a deliberate pattern insert can look. For example, if you can't find your original tile because it's been discontinued, replacing a 3x3 cluster with a complementary tile from a different line (around $4.60 per tile) can look intentional rather than like a repair.
 
 If you're buying a replacement tile today (current as of July 2026), expect to pay:
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average cost per sq ft by tile type (2026)</div><div class="sc-row"><span class="sc-label">Ceramic (basic)</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">$1.8</span></div><div class="sc-row"><span class="sc-label">Porcelain</span><span class="sc-track"><span class="sc-bar" style="width:47%"></span></span><span class="sc-val">$3.4</span></div><div class="sc-row"><span class="sc-label">Natural stone</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$7.2</span></div><div class="sc-row"><span class="sc-label">Encaustic cement</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">$4.8</span></div><div class="sc-src">Source: RSMeans Building Construction Cost Data 2026</div></div>
-
 
 ## What the Repair Actually Costs
 
@@ -110,7 +106,7 @@ Back-butter the replacement tile with thinset using a 3/16-inch V-notch trowel, 
 
 **Step 6: Grout.**
 
-Mix your grout to a peanut-butter consistency. Press it into the joints with a rubber float, working diagonally. Clean excess with a damp sponge in circular motions. Here's the thing they never tell you in tutorials: new grout is always going to look different from aged grout for at least a few days. The color shifts as it cures. Don't panic on day one. If it still doesn't match after a week, grout colorant (Polyblend makes a good one, around $9 a bottle) can get you surprisingly close.
+Mix your grout to a peanut-butter consistency. Press it into the joints with a rubber float, working diagonally. Clean excess with a damp sponge in circular motions. New grout will always look different from aged grout for at least a few days. The color shifts as it cures. Don't panic on day one. If it still doesn't match after a week, grout colorant (Polyblend makes a good one, around $9 a bottle) can get you surprisingly close.
 
 Worked example: A kitchen in Chicago, 12-inch porcelain tile, single hairline crack from a dropped cast-iron skillet. Tile found at the original supplier (Dal-Tile Vibe in Matte White) for $3.18. Total material cost: $67. Repair time including dry time: two days. Result: invisible from standing height; you can see the grout line slightly lighter at arm's reach, which colorant fixed.
 
@@ -135,6 +131,5 @@ Any indication of subfloor failure. If your preliminary press-test showed flex, 
 - Home Depot Tool Rental pricing (verified July 2026): Current daily rental rates for angle grinders and oscillating tools in U.S. markets.
 
 ---
-
 
 *Photo: [Maria Orlova](https://www.pexels.com/@orlovamaria) via Pexels*

@@ -34,7 +34,7 @@ Here's what actually works.
 
 ## Why "No Sanding" Gets a Bad Reputation
 
-Most cabinet painting fails I've seen in twenty years trace back to one thing: adhesion. Paint doesn't bond to slick, greasy surfaces. Sanding works because it mechanically roughens the surface and gives paint something to grip. Skip it, and you need a chemical substitute that does the same job.
+Most cabinet painting fails trace back to one thing: adhesion. Paint doesn't bond to slick, greasy surfaces. Sanding works because it mechanically roughens the surface and gives paint something to grip. Skip it, and you need a chemical substitute that does the same job.
 
 The conventional wisdom is "always sand first." I believed that too, until I started testing liquid deglosser products seriously about eight years ago. The results shifted my thinking. A well-deglossed, primed surface holds paint just as well as a lightly sanded one, in most residential applications. The asterisk: if your cabinet finish is heavily peeling or damaged, you've got a different problem and sanding (or even stripping) is the right answer.
 
@@ -59,7 +59,7 @@ For everything else, here's the honest supply list:
 - **TSP substitute cleaner** (Savogran makes a reliable one, around $8 for the box at Home Depot). Don't use dish soap. It leaves a film.
 - **Liquid deglosser / liquid sandpaper** (Klean-Strip KL-150 is the industry standard, about $12 a quart). Wear nitrile gloves. It's not gentle.
 - **Bonding primer.** This is where most people cheap out and regret it. Zinsser Bulls Eye 1-2-3 works. For a better grip on slick factory finishes, Zinsser BIN shellac-based primer is worth the extra money and extra hassle of shellac cleanup.
-- **Cabinet-specific paint.** Not wall paint. Benjamin Moore Advance, Sherwin-Williams Emerald Urethane Trim Enamel, or Rust-Oleum Cabinet Transformations if you want a kit. Regular latex wall paint will chip off cabinet edges within six months. I've watched it happen. Repeatedly.
+- **Cabinet-specific paint.** Not wall paint. Benjamin Moore Advance, Sherwin-Williams Emerald Urethane Trim Enamel, or Rust-Oleum Cabinet Transformations if you want a kit. Regular latex wall paint will chip off cabinet edges within six months.
 - **Quality brushes and a small foam roller.** Purdy or Wooster. Not the $2 mystery brand.
 
 As of July 2026, a full kit for a typical 10x12 kitchen (roughly 30-35 cabinet doors and drawer fronts) will run you $150-$250 in materials if you buy smart. Labor is where the real cost sits, which is why this is worth doing yourself if you've got the patience.
@@ -121,6 +121,5 @@ Contrast that with a different project where someone skipped the TSP cleaning st
 - Sherwin-Williams Emerald Urethane Trim Enamel application guide: chip and scratch resistance data for cabinet applications
 
 ---
-
 
 *Photo: [Alex Tyson](https://www.pexels.com/@alex-tyson-919593032) via Pexels*

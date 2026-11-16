@@ -31,7 +31,6 @@ The problem is that most coverage of drain snakes splits everything into "manual
 
 Here's what actually works.
 
-
 <div class="value-module">
   <div class="vm-head">Drain Snake Selection by Clog Type</div>
   <div class="vm-body">
@@ -53,7 +52,7 @@ That physical reality should drive your tool choice. You don't need power. You d
 
 **1. Husky 1/4-inch, 15-foot hand spinner, around $25 at Home Depot**
 
-This is the one I keep in my own house. Small drum-style manual snake with a pistol grip and hand crank. Fifteen feet of 1/4-inch cable is overkill for a bathroom sink, but it means you'll never run out of reach. The head is a small auger tip that drills into clogs and lets you pull them back rather than pushing them deeper.
+A small drum-style manual snake with a pistol grip and hand crank works well for bathroom sinks. Fifteen feet of 1/4-inch cable is overkill for a bathroom sink, but it means you'll never run out of reach. The head is a small auger tip that drills into clogs and lets you pull them back rather than pushing them deeper.
 
 The Husky won't win any design awards. It works. It's easy to clean. At $25, you're paying roughly one-third of what a plumber charges just to show up.
 
@@ -71,7 +70,7 @@ I used to dismiss these. Then a reader emailed saying she'd tried every product 
 
 Slightly less commonly stocked but worth knowing about. A 12-foot, 1/4-inch cable with simple hand drill-style operation. More awkward to use than the Husky, but it gets the job done.
 
-**What to skip:** Any electric drum snake for a bathroom sink. A Ryobi or Milwaukee power snake is right for a [kitchen drain](/how-to-unclog-a-drain-without-chemicals/), a floor drain, or a main line. Running one into a bathroom sink P-trap is like using a sledgehammer to hang a picture. You can crack old chrome P-traps, strip out plastic fittings, and drive the clog deeper into the wall line where you've now created a bigger problem. I've seen it happen. Save the power snake for something that deserves it.
+**What to skip:** Any electric drum snake for a bathroom sink. A Ryobi or Milwaukee power snake is right for a [kitchen drain](/how-to-unclog-a-drain-without-chemicals/), a floor drain, or a main line. Running one into a bathroom sink P-trap is like using a sledgehammer to hang a picture. You can crack old chrome P-traps, strip out plastic fittings, and drive the clog deeper into the wall line where you've now created a bigger problem. Save the power snake for something that deserves it.
 
 ## How to Actually Use a Hand Snake on a Bathroom Sink
 
@@ -104,7 +103,6 @@ You've snaked it, it cleared, and it came back within a week. This pattern usual
 ## Sources
 
 - [Thomas Shockey](https://www.pexels.com/@thomas-shockey-14125561)
-
 
 A plumber will charge $150 to $300 to snake a bathroom sink drain, depending on your market and whether it's a weekend call. In major metro areas, that low end is often $200 now. The Husky hand snake is $25, handles bathroom sinks, laundry standpipes, and tub drains, and lasts ten-plus years with basic care. Even if you only use it twice, the math is obvious.
 

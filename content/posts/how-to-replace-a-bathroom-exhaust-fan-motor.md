@@ -27,7 +27,7 @@ faqs:
 
 Most bathroom exhaust fan motors don't die all at once. They slow down first, get louder, start smelling faintly of something burning if you hold your hand near the grille. I've replaced probably 60 or 70 of these over the years, and I'll be honest: the first time I did one, I pulled the whole fan housing out of the ceiling because I assumed you had to. Completely wrong. Half the time you can swap just the motor and blower wheel assembly without touching the housing, without cutting any drywall, without even turning off a [circuit breaker](/how-to-reset-a-tripped-circuit-breaker/) for more than 20 minutes. That's the version most articles skip straight past.
 
-What surprised me, though, was how many motors I've seen that didn't need replacing at all. Worn-out bearings that just needed a drop of 3-in-1 oil on the shaft. Blower wheels clogged so badly with lint that the motor was working against itself for years. Worth ruling those out first before you spend $18 to $65 on a new motor assembly.
+Many motors don't actually need replacing. Worn-out bearings often just need a drop of 3-in-1 oil on the shaft. Blower wheels clogged with lint can make the motor work against itself for years. Worth ruling those out first before you spend $18 to $65 on a new motor assembly.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Replacing just the motor/blower assembly costs $18-$65 in parts and takes about 45 minutes.</li><li style="margin:5px 0">Most motors pop out after removing 2-3 screws, no drywall work required if the housing stays.</li><li style="margin:5px 0">Match your replacement by the fan brand AND the model number stamped inside the housing.</li><li style="margin:5px 0">Always shut off the circuit breaker, not just the wall switch, fan circuits are often shared.</li><li style="margin:5px 0">A noisy fan that's otherwise moving air well may only need bearing lubrication, not replacement.</li></ul></div>
 
@@ -39,7 +39,7 @@ The model number is the thing. It's stamped or printed inside the housing on a l
 
 ## The Actual Replacement Process
 
-Kill the power at the breaker. I can't tell you how many times I've watched homeowners flip the wall switch and call it good. Fan circuits frequently share a breaker with bathroom lights or outlet circuits, and the switch itself doesn't isolate everything in the box. Use a non-contact voltage tester (the Klein Tools NCVT-3 runs about $22 and is what I carry) before you touch any wires.
+Kill the power at the breaker. Many homeowners flip the wall switch and assume that's enough. Fan circuits frequently share a breaker with bathroom lights or outlet circuits, and the switch itself doesn't isolate everything in the box. Use a non-contact voltage tester (the Klein Tools NCVT-3 runs about $22) before you touch any wires.
 
 Pull the grille off the ceiling. It either snaps off spring clips or unscrews from a center screw hidden under a cap. Once it's down, look at how the motor assembly is mounted. On most Broan/NuTone fans, you'll see a metal bracket holding the motor against one side of the housing. There are usually two or three screws. Remove those.
 

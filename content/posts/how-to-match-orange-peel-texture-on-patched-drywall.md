@@ -48,7 +48,7 @@ Orange peel comes in a few flavors. Fine orange peel looks almost smooth until l
 
 Here's the approach I always use: I get a small can of the same texture product I'm planning to use, find an inconspicuous spot on the wall (inside a closet, or honestly just the back of a closet door works great), and I test-spray it. I adjust the spray gun pressure and the distance from the wall until it matches. This takes maybe 20 minutes and it saves hours of mistake-making later.
 
-When I tested this approach on a 2,400 square foot home in Colorado with three repair patches across different walls, the homeowner caught one small section that didn't quite match until I pointed it out. That's the standard I'm aiming for, and it's achievable. The alternative is pretending you'll match it blind, which almost never works.
+For example, a repair across multiple walls might have one small section that doesn't quite match until it's pointed out. That's the standard to aim for, and it's achievable. The alternative is pretending you'll match it blind, which almost never works.
 
 Get a sample of the existing texture if you can. Some people think this is cheating. I think it's professional. Many drywall suppliers can match texture from a sample, or you can bring it to a paint store and they'll help identify the product line and approximate spray pressure settings.
 
@@ -111,7 +111,6 @@ A competent drywall crew will charge you $150 to $400 for a texture job, dependi
 I say this as someone who thinks DIY is great. But I also know the things worth doing yourself and the things worth paying for. This one's in the middle. Small patch in a utility room? Do it yourself and save the money. Huge patch in your master bedroom? Hire someone who does it constantly.
 
 ---
-
 
 ---
 

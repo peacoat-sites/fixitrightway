@@ -27,17 +27,15 @@ faqs:
 
 Most homeowners who end up regrouting their shower put it off for way too long. Not because they're lazy. Because they look at that cracked, moldy grout and genuinely don't know if they're looking at a $15 fix or a $1,500 tile replacement job. Here's what I tell people when they describe it to me: if your tile is solid and your grout is just ugly or deteriorating, you can almost certainly handle this yourself for under $60 in materials and a weekend afternoon.
 
-I've regrouted more showers than I can count, both professionally and on my own houses. The work itself isn't complicated. The part people get wrong is preparation, specifically not removing enough of the old grout before they start applying new product over the top of it. I've watched that mistake turn a $60 project into a $400 do-over. This article is going to walk you through doing it right the first time.
+The work itself isn't complicated. The part people get wrong is preparation, specifically not removing enough of the old grout before they start applying new product over the top of it. Skipping this step can turn a $60 project into a $400 do-over. This article is going to walk you through doing it right the first time.
 
 One thing worth knowing upfront: not all grout failure looks the same, and the cause matters. Cracked grout in a straight line usually means substrate movement or a crack in the mortar bed underneath. Grout that's just soft, powdery, or stained is normal wear. If you see cracks running through the tile itself, or if tiles feel hollow when you tap them (that dull thud versus a solid ring), stop and call a tile contractor. But if your tile is tight and the problem is just the grout, you're in good shape.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Regrouting a standard shower costs $40-$80 in materials and takes 4-6 hours of actual work time.</li><li style="margin:5px 0">Removing at least 2mm of old grout depth before applying new grout is what separates a lasting repair from one that fails in months.</li><li style="margin:5px 0">Unsanded grout for joints under 1/8"; sanded grout for joints 1/8" and wider. Using the wrong type causes cracking.</li><li style="margin:5px 0">Caulk, not grout, belongs in all corner joints and the perimeter where tile meets tub or pan.</li><li style="margin:5px 0">New grout needs 24-72 hours before water exposure, depending on the product.</li></ul></div>
-
 
 ## What You're Actually Dealing With
 
-Grout is porous. Even sealed, it absorbs water vapor over years of daily showers, and eventually it breaks down. Most residential shower grout that sees regular use starts showing real wear somewhere between 8 and 15 years, though I've seen cheap sanded grout on a busy household shower look rough at 5. The good news is that regrouting doesn't require removing tile. You're pulling out the old grout to a sufficient depth and pressing in fresh material.
+Grout is porous. Even sealed, it absorbs water vapor over years of daily showers, and eventually it breaks down. Most residential shower grout that sees regular use starts showing real wear somewhere between 8 and 15 years, though cheap sanded grout in high-traffic showers can deteriorate faster. The good news is that regrouting doesn't require removing tile. You're pulling out the old grout to a sufficient depth and pressing in fresh material.
 
 Here's the part I wish someone had told me 20 years ago: you don't need to remove every trace of old grout. You need to remove enough that the new grout has depth to bond and won't just pop out. The rule of thumb is 2mm minimum. In a typical 3/16" joint, that's roughly two-thirds of the depth. A lot of DIY guides skip that number entirely, which is why so many regrouting jobs look good for three months and then start crumbling again.
 
@@ -47,7 +45,7 @@ You're also going to need to decide whether to use sanded or unsanded grout. The
 
 You don't need much, but what you use matters.
 
-The single most important tool is a grout saw or oscillating multi-tool with a grout removal blade. For a small shower, a $12 manual grout saw from Home Depot works fine, though it's tedious. For anything larger than about 25 square feet of joints, rent or buy an oscillating tool. Fein makes excellent blades (around $18 for a 2-pack), and the Dremel MM50 oscillating kit runs about $79 at big box stores and makes the removal stage dramatically faster. The first time I tried to do a full shower surround by hand, it took me four hours just on removal. With an oscillating tool, same job: under 90 minutes.
+The single most important tool is a grout saw or oscillating multi-tool with a grout removal blade. For a small shower, a $12 manual grout saw from Home Depot works fine, though it's tedious. For anything larger than about 25 square feet of joints, rent or buy an oscillating tool. Fein makes excellent blades (around $18 for a 2-pack), and the Dremel MM50 oscillating kit runs about $79 at big box stores. An oscillating tool can cut removal time on a full shower surround to under 90 minutes.
 
 | Item | DIY Cost | Notes |
 |---|---|---|
@@ -64,7 +62,7 @@ The single most important tool is a grout saw or oscillating multi-tool with a g
 
 Total for a typical full shower surround: **$45-$80** if you already have an oscillating tool, or **$80-$160** if you're buying or renting one.
 
-One product opinion worth stating directly: Mapei Ultracolor Plus FA is genuinely excellent grout. It's a fast-setting, polymer-modified sanded grout that resists staining better than standard portland-based grouts right out of the bag. Costs maybe $3 more per bag. Worth every cent for a shower application. I've been recommending it to homeowners since it became widely available, and as of July 2026, it's stocked at most Lowes and Home Depot locations.
+Mapei Ultracolor Plus FA is a fast-setting, polymer-modified sanded grout that resists staining better than standard portland-based grouts. It costs about $3 more per bag and is worth the extra expense for shower applications. As of July 2026, it's stocked at most Lowes and Home Depot locations.
 
 ## The Removal Stage (Don't Rush This)
 
@@ -102,7 +100,7 @@ Cement-based grout (which is what almost everyone is using) is porous and needs 
 
 Aqua Mix Sealer's Choice Gold is a penetrating sealer that soaks into the grout rather than forming a surface film. Apply it with a small foam brush or applicator bottle directly to the grout joints, let it sit for 5 minutes, and wipe the excess off the tile. You'll usually want two coats. It's not expensive (around $16 for a pint), and it genuinely makes the grout easier to clean for years afterward.
 
-One thing I don't have perfect data on: how often you need to reseal. I've seen recommendations ranging from annually to every 3-5 years. My honest take is that it depends heavily on shower traffic and cleaning products used. A single-person household using mild cleaners might go 3-4 years. A family with daily heavy use might want to reseal every 12-18 months. The water bead test tells you: drip water on the grout, and if it soaks in rather than beading, it's time.
+How often to reseal depends heavily on shower traffic and cleaning products used. A single-person household using mild cleaners might go 3-4 years between seals. A family with daily heavy use might want to reseal every 12-18 months. The water bead test tells you: drip water on the grout, and if it soaks in rather than beading, it's time.
 
 ## Sources
 
@@ -113,6 +111,5 @@ One thing I don't have perfect data on: how often you need to reseal. I've seen 
 - Custom Building Products Application Guides: Installation standards for caulk versus grout joint placement, particularly for corner and perimeter applications.
 
 ---
-
 
 *Photo: [Curtis Adams](https://www.pexels.com/@curtis-adams-1694007) via Pexels*

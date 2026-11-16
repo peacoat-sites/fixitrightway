@@ -25,7 +25,7 @@ author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
 lastmod: 2026-07-08
 ---
-Your windows are probably leaking more heat than [your insulation is saving](/how-to-insulate-an-attic-yourself-to-save-energy/). That's not hyperbole, it's what happens when weatherstripping compresses, caulk cracks, and the glazing compound hasn't been touched since the Clinton administration. Most articles on this topic tell you to feel for drafts with your hand and then recommend one generic product. That approach leaves money on the table. Let me actually walk you through what's happening, what fixes it, and what's a waste of your time.
+Your windows are probably leaking more heat than [your insulation is saving](/how-to-insulate-an-attic-yourself-to-save-energy/). Weatherstripping compresses, caulk cracks, and glazing compound deteriorates over time, all of which increase heat loss. Most articles suggest feeling for drafts with your hand and recommend one generic product. A better approach is to identify which specific problems your windows have, then match them to the right fixes.
 
 ## Why Windows Leak (And Why It's Not Always Obvious)
 
@@ -90,7 +90,6 @@ If a double-hung window has a real gap at the bottom rail, a door-style draft st
 ## Sources
 
 - [Alexas Fotos](https://www.pexels.com/@alexasfotos)
-
 
 Secondary glazing, either storm windows or interior acrylic panel systems like Indow inserts, is legitimately worth it if you have original wood windows you want to preserve but need real performance. Indow inserts run $150 to $500 per window depending on size, and they're fantastic. Real improvement, no permanent modification, they pop out in summer.
 

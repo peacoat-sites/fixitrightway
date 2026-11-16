@@ -18,9 +18,7 @@ Nearly 7 in 10 American homeowners are sitting on a pile of unfinished repairs [
 
 The answer is not "whatever's cheapest." I'll be honest: that instinct is how a $400 plumbing fix becomes a $12,000 subfloor replacement. Urgency and cost are different axes entirely, and treating your backlog like a to-do list you can just work through top to bottom is one of the most expensive mistakes I see homeowners make.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">69% of homeowners have deferred maintenance tasks, with plumbing (25%), roofing (22%), and electrical (21%) topping the list.</li><li style="margin:5px 0">Nearly half of homeowners (45%) estimate $5,000+ to get fully caught up; 15% say $20,000+.</li><li style="margin:5px 0">Deferred water-related repairs (plumbing, roof) escalate faster than almost any other category ,  weeks matter.</li><li style="margin:5px 0">94% of homeowners plan DIY projects in 2026, but 87% are sticking to cosmetic work and avoiding the structural stuff.</li><li style="margin:5px 0">Average DIY spend hit $5,368 in Q1 2026, up 35% from a year ago ,  small backlogs are getting expensive fast.</li></ul></div>
-
 
 ## The Urgency Tier You Actually Need
 
@@ -36,9 +34,7 @@ Tier 3 is everything else: HVAC tune-ups, caulking, deck refinishing, cosmetic d
 
 The Hippo data tells a clear story about what homeowners are dodging. Plumbing tops the list at 25%, followed by roof or foundation work at 22%, and electrical at 21%. What's striking is that these three categories, the ones people are most likely to put off, are also the three where delay causes the most catastrophic cost escalation.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Top deferred repair categories (% of homeowners)</div><div class="sc-row"><span class="sc-label">Plumbing</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">25%</span></div><div class="sc-row"><span class="sc-label">Roof/Foundation</span><span class="sc-track"><span class="sc-bar" style="width:88%"></span></span><span class="sc-val">22%</span></div><div class="sc-row"><span class="sc-label">Electrical</span><span class="sc-track"><span class="sc-bar" style="width:84%"></span></span><span class="sc-val">21%</span></div><div class="sc-src">Source: Hippo 2026 Homeowner Anxiety Report</div></div>
-
 
 There's a psychological reason plumbing leads. A lot of plumbing problems are invisible or intermittent. The toilet runs. The [water pressure](/how-to-fix-low-water-pressure-in-your-home/)'s a little low. Nothing is flooding. So it waits. But slow leaks under slabs, inside walls, or at supply connections are doing continuous damage. I've pulled drywall on "minor plumbing issues" and found studs that looked like wet cardboard.
 
@@ -67,7 +63,7 @@ The DIY win zone is real, but it's narrower than most people think when they're 
 
 ## The Stress Factor Is Real, and It's Costing You
 
-More than 1 in 3 homeowners say their home's repair state is either their biggest source of stress or a major contributor to it. That's from the Hippo report, and I believe it completely. I've seen homeowners paralyzed by a list of 15 things, doing none of them, because they can't figure out where to start. The backlog becomes a psychological object, not a repair list.
+More than 1 in 3 homeowners say their home's repair state is either their biggest source of stress or a major contributor to it. That's from the Hippo report. A common pattern is homeowners facing a long repair list and becoming paralyzed by not knowing where to start. The backlog becomes a psychological object, not a repair list.
 
 The fix for this, practically speaking, is triage over perfection. You do not need to resolve everything this summer. You need to neutralize your Tier 1 threats before fall, when weather closes the window on exterior work and heating season starts. Get one roofing contractor out for a real inspection, not a free "estimate" that's really a sales call. Get a licensed plumber to assess the issues you've been ignoring. Electrical: if you have an older panel, aluminum wiring, or any signs of heat at outlets, that's a phone call this week.
 

@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Three coats of fresh paint and the stain is still grinning back at you. I've seen grown adults nearly cry at that point, and honestly, I don't blame them.
+Three coats of fresh paint and the stain is still grinning back at you. It's a frustrating situation.
 
 Bleed-through is one of those home repair problems that feels like it should be simple and keeps proving you wrong. The reason most people get stuck is that they're treating it as a paint problem when it's actually a chemistry problem. Once you understand that, the fix becomes obvious and you stop wasting $40 cans of premium latex on a battle you can't win that way.
 
@@ -36,7 +36,7 @@ Let me walk you through what's actually happening, what products actually work, 
 
 ## Why Paint Alone Can Never Fix This
 
-Here's the thing nobody tells you clearly at the store: latex paint is porous. It dries to a film, but that film breathes. Tannins from water stains, smoke residue, grease, rust, Sharpie, crayon, pet urine, and certain wood knots all contain compounds that are either oil-soluble or water-soluble, and they migrate. They literally move up through fresh paint as it dries, pulled by capillary action and the solvent chemistry of the paint itself.
+Latex paint is porous. It dries to a film, but that film breathes. Tannins from water stains, smoke residue, grease, rust, Sharpie, crayon, pet urine, and certain wood knots all contain compounds that are either oil-soluble or water-soluble, and they migrate. They literally move up through fresh paint as it dries, pulled by capillary action and the solvent chemistry of the paint itself.
 
 So when you roll on a second coat hoping to bury the stain, you're actually giving it fresh liquid to travel through. I made this exact mistake on a flip house I was working on in 2022, a ceiling with a old water ring above a bathroom. Four coats of a quality Benjamin Moore latex and it came back every single time, a little lighter each round but still there, still mocking me.
 
@@ -62,7 +62,7 @@ This is where I see a lot of DIYers get confused by conflicting advice online, s
 
 **Oil-based primer (Zinsser Bulls Eye 1-2-3, Kilz Original)** handles most everyday stains well: typical water stains, light smoke, general grime. Cleanup requires mineral spirits. Dry time is longer, usually 1-2 hours before recoating. Kilz Original is around $18-$22 per quart as of mid-2026, depending on your region.
 
-**Water-based stain-blocking primers** have improved a lot in recent years. Zinsser Bulls Eye 1-2-3 and Kilz 2 fall into this category. They're low-odor, clean up with water, and they're fine for mild stains. Honest answer: they're not reliable for stubborn or heavily saturated stains. I've seen them fail on smoke-damaged walls and on ceiling stains that had been there for years.
+**Water-based stain-blocking primers** have improved a lot in recent years. Zinsser Bulls Eye 1-2-3 and Kilz 2 fall into this category. They're low-odor, clean up with water, and they're fine for mild stains. They're not reliable for stubborn or heavily saturated stains, particularly on smoke-damaged walls or long-standing ceiling stains.
 
 My rule of thumb: if you can faintly smell the stain, or if it's smoke or fire-related, go straight to shellac. For a light water ring or minor surface stain, a quality oil-based primer will probably do the job.
 
@@ -72,7 +72,7 @@ My rule of thumb: if you can faintly smell the stain, or if it's smoke or fire-r
 
 A lot of articles give you the product list and stop there. The application sequence matters as much as the product choice, especially for ceiling stains and large wall areas.
 
-**1. Address the source first.** This is non-negotiable. If the stain came from a water leak, fix the leak before you prime anything. Primer over an active moisture problem is a temporary patch that'll fail, and you'll be back in the same spot in six months. I've watched homeowners re-prime the same ceiling spot four times because they kept skipping this step.
+**1. Address the source first.** This is non-negotiable. If the stain came from a water leak, fix the leak before you prime anything. Primer over an active moisture problem is a temporary patch that'll fail, and you'll be back in the same spot in six months.
 
 **2. Clean the surface.** For grease stains, wipe the area with a TSP (trisodium phosphate) substitute and water, then let it dry completely. For soot or smoke, wipe down with a dry sponge first to remove loose particles, then clean with a TSP substitute solution. Skipping this step can compromise adhesion.
 
@@ -120,6 +120,5 @@ If you're unsure which one you're dealing with, a professional inspection (most 
 - Paint Quality Institute (industry research body): Published guidance on primer selection by substrate condition, including stain-blocking chemistry.
 
 ---
-
 
 *Photo: [Alfredo Marco Pradil](https://www.pexels.com/@marcologous) via Pexels*

@@ -25,10 +25,9 @@ author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
 lastmod: 2026-07-08
 ---
-Your garbage disposal is silent when you hit the switch. No hum, no grind, nothing. Most articles will send you straight to "call a plumber." That's almost always wrong. In my experience, a disposal that won't turn on at all is usually fixable in under ten minutes without touching a single tool.
+Your garbage disposal is silent when you hit the switch. No hum, no grind, nothing. Most articles will send you straight to "call a plumber." That's almost always wrong. A disposal that won't turn on at all is usually fixable in under ten minutes without touching a single tool.
 
 Let me walk you through this the right way.
-
 
 <div class="value-module">
  <div class="vm-head">Disposal Won't Start: Diagnostic Checklist</div>
@@ -106,7 +105,6 @@ Installing a new disposal yourself is doable if your old one uses a standard thr
 ## Sources
 
 - [Dmax Tran](https://www.pexels.com/@dmax-tran-1398585)
-
 
 If your disposal's hardwired (no plug, just wires in a junction box or into the unit directly) and you've already ruled out the breaker, GFCI, and reset button, open that junction box and check the wire connections. Power the circuit OFF at the breaker first. Remove the plate and look for a loose wire nut. This happens more than it should, especially in older homes where insulation gets brittle. A wire that's not fully seated in the nut kills power partially or completely.
 

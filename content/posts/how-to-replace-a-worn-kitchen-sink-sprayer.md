@@ -27,13 +27,11 @@ faqs:
 
 The sprayer head snapped off in my hand on a Tuesday morning, mid-rinse, with a sink full of greasy pans. Not a dramatic failure. Just the cheap plastic collar cracked, the head dangled from the hose, and suddenly I had a slow drip I couldn't ignore. Happens all the time. In fact, kitchen sink sprayers are one of the highest-failure points in any residential kitchen, mostly because people use them constantly but never think about them until something breaks.
 
-The good news: replacing a sprayer is genuinely one of the easiest plumbing repairs you can do yourself. No soldering. No special licenses. I'd put it at about 30 minutes for a first-timer, less if you've done it once before. The less-good news is that there are a few ways to buy the wrong part or create a worse problem than you started with, and I've watched homeowners do exactly that.
+The good news: replacing a sprayer is genuinely one of the easiest plumbing repairs you can do yourself. No soldering. No special licenses. Plan on about 30 minutes for a first-timer, less if you've done it once before. The less-good news is that there are a few ways to buy the wrong part or create a worse problem than you started with.
 
 What most people don't realize is that the sprayer hose and the sprayer head are often sold separately, and whether you need to replace both depends on where the failure actually is. Worth figuring that out before you order anything.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most sprayer replacements cost $15–$55 in parts and take under an hour with basic tools.</li><li style="margin:5px 0">Replace both head and hose if the hose is kinked, cracked, or older than 8–10 years.</li><li style="margin:5px 0">Shut off both supply valves under the sink before disconnecting anything.</li><li style="margin:5px 0">A diverter valve inside the faucet body is the #1 overlooked cause of weak sprayer pressure.</li><li style="margin:5px 0">Standard hose connections are 3/8" female threads; confirm before buying a replacement.</li></ul></div>
-
 
 ## What You're Actually Dealing With
 
@@ -45,7 +43,7 @@ If the head is cracked, leaking at the collar, or just spraying in all direction
 
 ## The Replacement Process
 
-Turn off the hot and cold supply valves under the sink first. I can't tell you how many times I've watched someone skip this step because they thought they could work fast enough. You can't. Just turn them off.
+Turn off the hot and cold supply valves under the sink first. A common mistake is skipping this step because it seems possible to work fast enough. You can't. Just turn them off.
 
 With the valves closed, turn on the faucet to bleed the remaining pressure. Then get under the sink.
 
@@ -82,7 +80,7 @@ Before you buy a replacement: try cleaning it first. Remove the faucet spout (us
 
 If that doesn't work, bring the old diverter to a plumbing supply house or photograph it clearly for an online order. This is one case where I'd say go to an actual plumbing supply store rather than the big-box, because they can identify the part on sight and save you two return trips.
 
-A reader named Michelle from Minneapolis emailed me last spring about exactly this situation: no sprayer pressure, replaced the head twice, still weak flow. Scenario: assumed the heads were defective. Action taken: pulled the diverter, found it was coated in scale, soaked it in vinegar overnight, reinstalled. Result: full pressure restored, total cost $0 and about 45 minutes.
+For example, if you replace the sprayer head twice and still have weak flow, the problem may not be the head itself. Pull the diverter and check for scale buildup. Soaking it in vinegar overnight and reinstalling it can restore full pressure at no cost and take about 45 minutes.
 
 ## When to Call a Pro
 
@@ -90,7 +88,7 @@ Honestly? Almost never for a sprayer replacement alone. If the supply valves und
 
 If you open up the faucet body to get at the diverter and find significant corrosion or the body is cracked, stop and get a plumber's opinion. Forcing a corroded fitting is how small jobs become expensive ones.
 
-For the straightforward sprayer swap, though: an actual plumber visit for this repair, if you called one, would run you $95–$175 for the service call plus parts, for a job that costs $20 in parts and half an hour of your time. I've seen people spend [that money](/why-that-money-saving-diy-project-could-void-your-insurance/) because they were intimidated. Don't be.
+For the straightforward sprayer swap, though: an actual plumber visit for this repair, if you called one, would run you $95–$175 for the service call plus parts, for a job that costs $20 in parts and half an hour of your time. Some people spend [that money](/why-that-money-saving-diy-project-could-void-your-insurance/) on a service call out of intimidation. Don't be.
 
 ## Sources
 
@@ -101,6 +99,5 @@ For the straightforward sprayer swap, though: an actual plumber visit for this r
 - BrassCraft Manufacturing product data (current as of 2026): Thread specifications and hose material ratings for residential sprayer hoses.
 
 ---
-
 
 *Photo: [Max Vakhtbovych](https://www.pexels.com/@artbovich) via Pexels*

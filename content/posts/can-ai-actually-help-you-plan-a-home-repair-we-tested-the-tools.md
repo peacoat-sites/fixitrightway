@@ -18,11 +18,9 @@ You're standing in your bathroom staring at a brown [water stain](/how-to-paint-
 
 This spring alone, a new generation of AI home repair tools scaled up to millions of users. Home Depot and Google Cloud announced an expanded agentic AI partnership at NRF on January 11, 2026, rolling out new capabilities for their Magic Apron assistant and launching an AI-powered materials list builder that went national that same month. Apps like Fixy now let you photograph a cracked pipe or broken appliance and get back a step-by-step repair guide, tool list, and materials breakdown in seconds. And with 94% of U.S. homeowners planning at least one [DIY project](/why-that-money-saving-diy-project-could-void-your-insurance/) this year, according to a February 2026 survey from The Farnsworth Group, there are a lot of people looking for exactly this kind of help.
 
-But I've seen too many homeowners get burned by advice that sounded authoritative and turned out to be incomplete, wrong about local code, or conveniently pointed toward a $400 product they didn't need. So let's get into what these tools actually do, where they fall short, and how to use them without getting yourself into a worse situation than when you started.
-
+Homeowners can get burned by advice that sounds authoritative but turns out to be incomplete, wrong about local code, or conveniently pointed toward an expensive product they don't need. So let's get into what these tools actually do, where they fall short, and how to use them without getting yourself into a worse situation than when you started.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">94% of homeowners plan DIY projects in 2026, making AI planning tools more relevant than ever.</li><li style="margin:5px 0">Three AI categories exist: retail-aligned, expert-session-aligned, and planning-aligned, each with built-in biases.</li><li style="margin:5px 0">Home Depot's Magic Apron can auto-generate materials lists by voice, cutting estimating time significantly.</li><li style="margin:5px 0">Photo-diagnosis apps like Fixy give step-by-step guides but can't assess structural or code issues.</li><li style="margin:5px 0">The $313.6 billion DIY market means these tools are built partly to sell products, not just help you.</li></ul></div>
-
 
 ## The Three Types of Tools, and Why the Difference Matters
 
@@ -40,7 +38,7 @@ What most people don't realize is that a retail AI giving you a materials list i
 
 ## Where Photo Diagnosis Actually Works (and Where It Doesn't)
 
-Apps like Fixy are the most impressive thing to come out of this wave, and I mean that genuinely. You snap a photo of a leaky valve under your sink or a cracked section of drywall and you get back a diagnosis, a tool list, and a repair sequence. For straightforward visible problems, this is legitimately good. I've seen it correctly identify a failing wax ring under a toilet, suggest the right fix, and list the exact parts. That used to require either knowing what you were looking for or paying a plumber $150 to tell you what you already suspected.
+Apps like Fixy can work well for straightforward visible problems. Snap a photo of a leaky valve under your sink or a cracked section of drywall and you get back a diagnosis, a tool list, and a repair sequence. For example, such an app might correctly identify a failing wax ring under a toilet, suggest the right fix, and list the exact parts. Without the app, you'd either need to know what you were looking for or pay a plumber $150 to tell you what you could discover yourself.
 
 The real limitation is that photos show surfaces. They don't show what's behind them. A brown stain on drywall might be a slow roof leak, a condensation problem, a plumbing drip from the floor above, or an HVAC condensate line that's clogged. An AI can give you probabilities. It cannot give you certainty without knowing your roof age, your climate, your plumbing layout, or whether the previous owner DIY'd the bathroom addition without pulling a permit. For anything involving water intrusion, electrical symptoms, or structural cracks, treat AI diagnosis as a starting hypothesis, not a final answer.
 
@@ -56,7 +54,7 @@ Where I'd push back: double-check quantities yourself for anything structural. A
 
 The honest answer is that AI planning tools are excellent for the 70% of a project that's predictable and terrible for the 30% that isn't. Use them to build your shopping list, understand the repair sequence for a standard fix, estimate rough costs before you get quotes, and learn which tools a job actually requires. That's real, genuine value.
 
-Close the app when you're dealing with anything involving your electrical panel, load-bearing walls, permit requirements, gas lines, or a problem you can't fully see and understand. No photo app can read your local building code. No materials list builder knows your municipality requires a licensed electrician for panel work even if you're capable of doing it. I've watched homeowners spend $4,000 correcting unpermitted work that an AI cheerfully helped them plan step by step.
+Close the app when you're dealing with anything involving your electrical panel, load-bearing walls, permit requirements, gas lines, or a problem you can't fully see and understand. No photo app can read your local building code. No materials list builder knows your municipality requires a licensed electrician for panel work even if you're capable of doing it. Unpermitted work planned with AI assistance can cost thousands of dollars to correct later.
 
 The tariff-driven material cost increases hitting in 2026 are pushing more people toward DIY to save money, which I understand completely. Just don't let a digital tool give you a false sense of confidence on a job that needs a licensed set of eyes first.
 

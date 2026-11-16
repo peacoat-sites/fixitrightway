@@ -20,7 +20,7 @@ author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
 lastmod: 2026-07-08
 ---
-Your kitchen countertop is cracked, stained, or just dated, the kind of thing that makes you wince a little every time you walk in. Here's the thing: replacing it isn't actually that hard. You don't need years of DIY experience or a contractor's license. With the right tools, some patience, and this guide, you can pull this off and actually add real value to your home in a weekend or two.
+Your kitchen countertop is cracked, stained, or just dated, the kind of thing that makes you wince a little every time you walk in. Replacing it isn't actually that hard. You don't need years of DIY experience or a contractor's license. With the right tools, some patience, and this guide, you can pull this off and actually add real value to your home in a weekend or two.
 
 Whether you're going granite, laminate, butcher block, or something else entirely, the core steps stay the same. Let's walk through exactly what you need to do.
 

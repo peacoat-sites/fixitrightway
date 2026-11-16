@@ -37,9 +37,9 @@ The good news: replacing weatherstripping is genuinely a DIY job for most door t
 
 This is where most guides skip straight to "buy foam tape and stick it on," which is why so many people end up doing this job twice. The type you need depends on where you're sealing and how big the gap is.
 
-The door frame sides and top (the "doorstop" area) are best handled with either V-strip (also called tension seal), felt, or foam with a backing. V-strip is my go-to for wood doors with small-to-medium gaps. It's a folded strip of plastic or metal that presses open against two surfaces simultaneously, and it holds up well. 3M makes a version (their Heavy Duty Weatherstrip Seal, around $8-12 for a 10-foot roll) that I've had solid luck with. The real test is whether the strip can compress enough to seal without creating so much drag that the door won't latch properly.
+The door frame sides and top (the "doorstop" area) are best handled with either V-strip (also called tension seal), felt, or foam with a backing. V-strip works well for wood doors with small-to-medium gaps. It's a folded strip of plastic or metal that presses against two surfaces simultaneously. 3M makes a version (their Heavy Duty Weatherstrip Seal, around $8-12 for a 10-foot roll). The real test is whether the strip can compress enough to seal without creating so much drag that the door won't latch properly.
 
-The door bottom is a different animal. A door sweep mounts directly to the bottom edge of the door itself. Pemko and M-D Building Products both make quality automatic door bottoms (these lift as the door opens, drop as it closes) for around $28-45. If your bottom gap is big, like more than 3/8 of an inch, you want an automatic bottom rather than a simple brush sweep. A reader emailed me last spring about a sliding draft under her 1960s ranch-style door, and what she'd missed was that the door had settled and the gap at one corner was nearly 5/8 inch, a sweep alone wasn't going to cut it.
+The door bottom is a different animal. A door sweep mounts directly to the bottom edge of the door itself. Pemko and M-D Building Products both make quality automatic door bottoms (these lift as the door opens, drop as it closes) for around $28-45. If your bottom gap is big, like more than 3/8 of an inch, you want an automatic bottom rather than a simple brush sweep. If a door has settled and the gap at one corner is nearly 5/8 inch, a sweep alone won't seal it adequately.
 
 Door thresholds are the underside piece the sweep presses against. If yours is worn, pitted, or cracked, replace it at the same time or the new sweep won't seal cleanly.
 
@@ -67,7 +67,7 @@ Measure the two side jambs and the top. Add about 2 inches to each measurement a
 
 For the doorstop channel (most modern exterior doors have a routed groove), you're pressing the new bulb seal in by hand, starting at a corner and working your way around. The satisfying click you feel when it seats is real, if you're not feeling any resistance at all, the profile might be wrong for your channel width. Worth knowing: the most common channel widths are 3/16" and 5/16", and mixing them up is a mistake I made on my first door. The seal just falls out when the door closes.
 
-The bottom sweep goes on last. With a screw-on sweep, close the door, hold the sweep snug against the threshold with light pressure (not compressing it hard), and mark your screw holes. Drill pilot holes first, especially on hollow-core doors where the bottom rail can be narrow. I've seen screws go right through the face of a door bottom rail that was only 3/4 inch wide. Pilot holes avoid that.
+The bottom sweep goes on last. With a screw-on sweep, close the door, hold the sweep snug against the threshold with light pressure (not compressing it hard), and mark your screw holes. Drill pilot holes first, especially on hollow-core doors where the bottom rail can be narrow. Screws can go right through the face of a door bottom rail that is only 3/4 inch wide. Pilot holes avoid that.
 
 Work through the full perimeter, close the door, and run your hand along the edge. You'll feel immediately if there's still a gap somewhere. On an old wood [door that](/how-to-fix-a-kitchen-cabinet-door-that-wont-close/)'s racked or warped, you might not get a perfect seal everywhere without also adjusting the hinges or strike plate, but that's a separate job.
 
@@ -79,7 +79,7 @@ If the door itself is badly warped, the frame is rotted, or the threshold has he
 
 A properly spec'd contractor for a straightforward weatherstripping job runs $75-$175 per door [right now](/how-to-shop-for-materials-right-now-and-beat-tariff-price-hikes/), with most of that being labor. If they're quoting you over $200 for a single standard door with no frame damage, ask what's included. It might be legitimate if they're replacing the threshold too. It might not be.
 
-I'd also say: if you have a steel or fiberglass entry door with a compression seal in a factory-routed channel and that seal is damaged, sometimes it's easier to buy the manufacturer's OEM replacement seal than to figure out the third-party equivalent. Therma-Tru and Pella both sell replacement seals by door model. The research here is mixed on whether third-party seals match as well, but in my experience the fit is tighter with OEM parts on newer doors.
+I'd also say: if you have a steel or fiberglass entry door with a compression seal in a factory-routed channel and that seal is damaged, sometimes it's easier to buy the manufacturer's OEM replacement seal than to figure out the third-party equivalent. Therma-Tru and Pella both sell replacement seals by door model. OEM seals tend to fit more tightly on newer doors.
 
 ## Sources
 

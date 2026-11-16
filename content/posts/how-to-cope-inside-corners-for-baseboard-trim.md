@@ -31,9 +31,7 @@ Let's fix that.
 
 Coping is the professional's answer to inside corners. The beginner move is mitering both pieces at 45 degrees and hoping the walls are square. They almost never are. A coped joint, where one piece of baseboard runs flat into the corner and the second piece is cut to ride over its face, adjusts for out-of-square walls, doesn't gap when wood moves seasonally, and looks tighter ten years out than any miter ever will.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Coping beats mitering inside corners because walls are rarely square; cope joints self-correct for up to 5-8 degrees of error.</li><li style="margin:5px 0">The first piece runs flat into the corner; only the second piece gets coped.</li><li style="margin:5px 0">A coping saw or oscillating multi-tool with a wood blade both work; coping saws give more control on complex profiles.</li><li style="margin:5px 0">Gaps under 3/16" can be caulked invisibly; larger gaps need a redo or a back-bevel adjustment.</li><li style="margin:5px 0">Material and labor to cope a typical 12x15 room's baseboard runs $180-$340 DIY, $550-$900 hired out (as of August 2026).</li></ul></div>
-
 
 ## Why One Piece Goes Straight
 
@@ -59,9 +57,7 @@ Go slow around the curves. The coping saw wants to wander. Let the blade do the 
 
 **Step 5: Nail and caulk.** Nail into studs, pre-drill near ends to avoid splits, and run a thin bead of paintable latex caulk along the cope line before painting. The caulk fills any hairline gap and becomes invisible under paint. Don't skip this step even on a perfect cope.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Cope cut gap tolerance by filler method</div><div class="sc-row"><span class="sc-label">Paintable latex caulk</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">0.2 inches (</span></div><div class="sc-row"><span class="sc-label">Wood filler (painted)</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">0.1 inches (</span></div><div class="sc-row"><span class="sc-label">No filler (paint only)</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">0.1 inches (</span></div><div class="sc-src">Source: Industry finish carpentry standards, 2024</div></div>
-
 
 ## Tools and What They Actually Cost
 
@@ -81,7 +77,7 @@ The miter saw you already have for squaring pieces works for setting up the 45-d
 
 Six months after install, you come back and the joint has opened up a hair. Two causes, almost always.
 
-First: wood movement. Paint-grade MDF baseboard moves almost zero with humidity. Real pine or poplar can shift noticeably, especially in climates with dry winters. In my experience, solid wood baseboards in non-climate-controlled spaces like garages or three-season rooms need a slightly tighter cope than you think, because they'll open up come January.
+First: wood movement. Paint-grade MDF baseboard moves almost zero with humidity. Real pine or poplar can shift noticeably, especially in climates with dry winters. Solid wood baseboards in non-climate-controlled spaces like garages or three-season rooms need a slightly tighter cope than you might expect, since they'll open up as humidity drops in winter.
 
 Second: the back-bevel wasn't steep enough. If the cope sits on its full thickness rather than its front edge, any compression in the wall or slight nail movement pushes the joint open. The fix after the fact is to pull the piece, deepen the back-bevel with a file, and re-nail. Or just caulk it if it's under 3/16".
 
@@ -109,6 +105,5 @@ The math is straightforward. The skill ceiling isn't particularly high. Unless y
 - Home Innovation Research Labs, Residential Construction Trends (2025): Labor rate benchmarks for finish carpentry by region
 
 ---
-
 
 *Photo: [Max Vakhtbovych](https://www.pexels.com/@artbovich) via Pexels*

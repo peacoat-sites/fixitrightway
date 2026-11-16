@@ -25,7 +25,7 @@ author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
 lastmod: 2026-07-08
 ---
-My gas bill last January was $340. The month before I insulated my garage door, that same bill had been $410. Same house, same thermostat settings, same Minnesota winter. That $70 difference sounds modest until you add it up across a heating season and realize I spent about $85 on materials.
+Insulating a garage door can reduce heating costs noticeably. In one example, a homeowner saved $70 in a single month after adding insulation, with material costs of about $85, suggesting the investment can pay back within a heating season.
 
 If your garage shares a wall with your living space, or if there's a bedroom above it, or if you use it for anything beyond parking and hoping, insulating that door is probably the highest-return weekend project you're not doing.
 
@@ -51,7 +51,7 @@ I'd go foam board for cold climates and mixed climates, batt kits if you want si
 
 ## What You'll Need Before You Start
 
-Measure your door panels, not just the overall door. Most raised-panel doors have a frame rail around each panel, and the recessed area you're filling is smaller than the panel itself. I've watched people cut stacks of foam boards to the wrong dimension because they measured the outside of the panel instead of the recess. Measure each panel separately because they're not always identical, especially on older doors.
+Measure your door panels, not just the overall door. Most raised-panel doors have a frame rail around each panel, and the recessed area you're filling is smaller than the panel itself. A common mistake is measuring the outside of the panel instead of the recess, which leads to cutting boards that won't fit. Measure each panel separately because they're not always identical, especially on older doors.
 
 For a foam board install you'll need:
 
@@ -87,7 +87,7 @@ A two-car door takes most people 2-3 hours. I've done it in under 90 minutes on 
 
 ## The Weight Problem Nobody Talks About
 
-I keep coming back to weight because I've seen this bite people. A 16x7 door running two inches of polyiso on every panel adds roughly 8-12 pounds depending on foam density. Generally fine. Two-inch fiberglass batts across the same door add 25-30 pounds. Suddenly your torsion spring (or extension springs on older doors) does significantly more work on every open cycle.
+Weight is an important factor. A 16x7 door running two inches of polyiso on every panel adds roughly 8-12 pounds depending on foam density. Generally fine. Two-inch fiberglass batts across the same door add 25-30 pounds. Suddenly your torsion spring (or extension springs on older doors) does significantly more work on every open cycle.
 
 If you go with heavier insulation, have your springs adjusted after the install. This is a $75-$150 job at most garage door shops and worth it. Don't try adjusting torsion springs yourself. These are under extreme tension and can cause serious injury if you release them wrong. Extension springs on the sides are less dangerous but still require caution. Let a pro handle the tension adjustment.
 
@@ -97,7 +97,6 @@ If you go with heavier insulation, have your springs adjusted after the install.
 
 - [Jan van der Wolf](https://www.pexels.com/@jan-van-der-wolf-11680885)
 - on foil bubble products is not kind
-
 
 Insulating the panels is the big move, but the door frame is leaking too. Check the weatherstripping around all four sides. The bottom seal takes a beating. A new vinyl bottom seal for a 16-foot door runs about $20-$30 and takes 20 minutes to replace. The side seals (called stop molding) should compress against the door face when closed. If you see daylight through a gap, replace them. A full weatherstrip kit from Frost King runs $15-$25.
 

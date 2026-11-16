@@ -29,7 +29,6 @@ Three years ago I watched a homeowner hang a 65-pound antique mirror using a sin
 
 So let's talk about doing this right, because most of the advice floating around online about drywall anchors is either dangerously vague or written by someone who's never actually put a 50-pound mirror on a wall in their life.
 
-
 <div class="value-module">
  <div class="vm-head">Mirror Weight to Anchor Selection Guide</div>
  <div class="vm-body">
@@ -57,7 +56,7 @@ Most of the cheaper anchors aren't worth your time for anything heavy. Here's wh
 
 **Wingits.** These are genuinely underrated. A Wingit anchor uses a different expansion mechanism and is rated up to 150 pounds per anchor in hollow walls. The installation is a little fussier and requires a specific drill bit size (they include it), but the holding power is real. I've recommended these for full-length leaning mirrors when someone wanted to mount them partially anchored to the wall. Good product.
 
-**Screw-in plastic anchors (EZ-Ancor, Hillman, etc.).** Fine for items under 15 pounds. Not appropriate for heavy mirrors. I know they're rated higher on the packaging. I've seen them fail anyway under sustained load, particularly when there's any vibration in the house from doors slamming or kids running. Pass.
+**Screw-in plastic anchors (EZ-Ancor, Hillman, etc.).** Fine for items under 15 pounds. Not appropriate for heavy mirrors. Manufacturer ratings can be optimistic; plastic anchors tend to fail under sustained load, especially with vibration from doors or foot traffic.
 
 **Molly bolts.** I find them more finicky than SnapToggles for the same holding power. They can also crack drywall if you overtighten. If you're comfortable installing them, go for it, but SnapToggles are easier to get right on the first try.
 
@@ -90,10 +89,9 @@ One more thing: if your drywall feels soft or spongy around where you're drillin
 - [Nic Wood](https://www.pexels.com/@nic-scrollstoppingphotos)
 - TOGGLER's own testing
 
-
 OOK and Hillman both make mirror-specific hanging hardware, usually a J-hook or D-ring system with multiple anchor points built into a plate. These work fine for mirrors with a dedicated wire or French cleat back, and they spread the load better than a single anchor point. I'd use them for mid-weight mirrors (20-50 pounds) where I can't hit studs and want a clean look. They're not magic, though. They're still relying on the same drywall anchor principles.
 
-The other product worth knowing about is the Monkey Hook. Cheap, fast, no drill needed. Rated for up to 35 pounds. I've used them for lightweight framed prints and small mirrors (under 15 pounds) and they're genuinely clever. For a 40-pound mirror? No.
+Monkey Hooks are another option: inexpensive, quick to install, and require no drill. They're rated for up to 35 pounds and work well for lightweight framed prints and small mirrors under 15 pounds. For heavier items like a 40-pound mirror, they're not suitable.
 
 ---
 

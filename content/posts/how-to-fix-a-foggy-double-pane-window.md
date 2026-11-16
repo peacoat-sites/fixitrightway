@@ -74,7 +74,7 @@ One thing I'd tell you from my own experience: the first IGU swap I ever watched
 
 Don't attempt IGU replacement on windows above the first floor without staging or a helper. Working off a ladder with a piece of glass is genuinely dangerous, and the glass alone is an awkward load. On upper-story windows, hire it out. The labor isn't expensive, and it's not the place to prove a point.
 
-Also, if your window is under a manufacturer warranty (some vinyl windows carry 20-year warranties on the IGU seal specifically), call the manufacturer before you touch anything. A failed IGU seal on a window that's only eight years old might be a warranty replacement. I've seen homeowners void their warranty by drilling defogging holes before they even checked.
+Also, if your window is under a manufacturer warranty (some vinyl windows carry 20-year warranties on the IGU seal specifically), call the manufacturer before you touch anything. A failed IGU seal on a window that's only eight years old might be a warranty replacement. Drilling defogging holes can void the warranty, so check the terms before attempting any repairs.
 
 Skylights are a separate conversation entirely. The access, angle, and waterproofing considerations make those a pro job in almost every case.
 
@@ -84,12 +84,10 @@ Skylights are a separate conversation entirely. The access, angle, and waterproo
 
 - [Rino Adamo](https://www.pexels.com/@rinoadamo)
 
-
 If the fogging only appears on the outside surface of the glass on cold mornings, that's not a failed seal. That's exterior condensation, which means your windows are actually performing well, keeping the glass surface cold relative to the outdoor dew point. It'll burn off when the sun hits it. Nothing to repair.
 
 Interior condensation on the room-side surface, same thing, usually means your indoor humidity is high, not that the window is failing. A failed seal fogs the inside face of the inner pane or the inside face of the outer pane, the surfaces you physically cannot touch. If you can wipe the moisture off, the seal is fine.
 
 ---
-
 
 *Photo: [Rino Adamo](https://www.pexels.com/@rinoadamo) via Pexels*

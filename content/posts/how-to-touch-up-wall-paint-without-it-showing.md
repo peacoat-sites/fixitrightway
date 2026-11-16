@@ -46,7 +46,7 @@ The texture thing is subtler but equally brutal in raking light. Roller texture,
 
 ## Start With the Right Paint
 
-Ideally, you saved the original paint. If you have a labeled can from the original job, that's your best-case scenario. But open it and look. If there's a rubbery skin on top, skim it off carefully. If it smells sour or has chunks that won't break up when stirred, it's dead. Toss it. Don't try to use it hoping for the best. I've watched homeowners apply curdled paint to a wall and it dries blotchy every single time.
+Ideally, you saved the original paint. If you have a labeled can from the original job, that's your best-case scenario. But open it and look. If there's a rubbery skin on top, skim it off carefully. If it smells sour or has chunks that won't break up when stirred, it's dead. Toss it. Don't try to use it hoping for the best. Curdled paint will dry blotchy and won't adhere properly.
 
 If you don't have the original paint, you've got two options. First, check if the color is a standard formula. Many builders use stock colors like Sherwin-Williams Accessible Beige (SW 7036) or Benjamin Moore Chantilly Lace (OC-65). Any store can remix it if you know the brand and color name. Second, take a chip. Most paint stores, Benjamin Moore dealers especially, have spectrophotometers that can read a painted chip and match it with reasonable accuracy. Cut a 2x2 inch piece of drywall or scrape a chip off an inconspicuous spot behind a door. The match won't be perfect because of the aging issue, but it gets you close.
 
@@ -81,7 +81,6 @@ For flat paint, you're in luck. Flat hides sheen variation better than any other
 ## Sources
 
 - [Blue Bird](https://www.pexels.com/@blue-bird)
-
 
 Sometimes the honest answer is that a touch-up won't work. If the wall paint is more than eight years old, has been repainted over several different products, or the original color is significantly faded from sun exposure, no amount of careful technique will make a small patch disappear. You're better off repainting the entire wall, floor to ceiling, corner to corner.
 

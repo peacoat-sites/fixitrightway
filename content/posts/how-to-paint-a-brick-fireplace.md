@@ -20,7 +20,7 @@ author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
 lastmod: 2026-07-08
 ---
-Your brick fireplace used to look great. Now it just looks tired, dirty, maybe out of sync with everything else you've done to the living room. Here's the thing: painting it is doable over a weekend, and it can completely change how that room feels. No contractor needed, no special skills required.
+Your brick fireplace used to look great. Now it just looks tired, dirty, maybe out of sync with everything else you've done to the living room. Painting it is doable over a weekend, and it can completely change how that room feels. No contractor needed, no special skills required.
 
 ## Why Painting Your Brick Fireplace Is Worth It
 

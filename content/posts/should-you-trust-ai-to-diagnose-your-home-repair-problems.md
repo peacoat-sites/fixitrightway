@@ -19,11 +19,11 @@ Something interesting is happening in the home repair world right now, and most 
 
 ## The AI Isn't Neutral, and That's the Part Nobody Mentions
 
-Here's what surprised me when I started looking at this more carefully. The three dominant categories of home repair AI in 2026 are structured around completely different business outcomes. You have retail-aligned tools like Home Depot's Magic Apron and the new Material List Builder. You have expert-session-aligned tools like Frontdoor, which wants to connect you with a technician. And you have planning-aligned platforms like HomeZada, which is more about asset tracking and project budgeting. Each one is optimized for something specific, and that something is not necessarily getting you to the right answer.
+The three dominant categories of home repair AI in 2026 are structured around completely different business outcomes. You have retail-aligned tools like Home Depot's Magic Apron and the new Material List Builder. You have expert-session-aligned tools like Frontdoor, which wants to connect you with a technician. And you have planning-aligned platforms like HomeZada, which is more about asset tracking and project budgeting. Each tool is optimized for a specific business outcome, which may not align with getting you the right repair answer.
 
 The retail AI problem is the clearest example. Industry analysts have pointed out that tools like Magic Apron "optimize the cart, not the diagnosis." Think about what that means structurally. You come in having already decided you want to fix the thing yourself, you describe the project, and the AI builds you a parts list. That is genuinely useful. But the AI enters the conversation *after* the triage decision has already been made. It has no incentive, and arguably no design mandate, to tell you that what you're describing sounds like a load-bearing wall issue that you should absolutely not touch without an engineer. The blind spot isn't a bug. It's built into the business model.
 
-Frontdoor's AI has the opposite bias. Their tool wants to route you toward a service call. That's not sinister, it's just commerce. But you should know that going in.
+Frontdoor's AI has the opposite bias. Their tool wants to route you toward a service call. That reflects the company's business model. But you should know that going in.
 
 ## Where These Tools Actually Shine
 

@@ -53,7 +53,7 @@ Turn off the water to the house and dry everything out as best you can. Then wat
 
 Assuming it is the valve: the most common culprits are a worn cartridge, a failed O-ring on the valve body, a cracked valve body itself, or a loose connection on the supply lines. Cartridges and O-rings can often be replaced without cutting any wall. A cracked valve body or a loose sweated copper connection almost always means you're opening something up.
 
-Here's the thing: if you can access the valve through a panel (some builders put access doors on the opposite side of the shower wall, in a bedroom closet or hallway), you've got a much easier job ahead of you. Go check right now before you do anything else.
+If you can access the valve through a panel (some builders put access doors on the opposite side of the shower wall, in a bedroom closet or hallway), you've got a much easier job ahead of you. Go check right now before you do anything else.
 
 ## The No-Demo Fix: Replacing the Cartridge
 

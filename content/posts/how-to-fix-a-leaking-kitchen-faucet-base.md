@@ -60,7 +60,7 @@ You won't need much, but having the right stuff before you shut off the water ma
 
 At minimum: an adjustable wrench, a basin wrench (non-negotiable for reaching the mounting nuts under the sink), pliers, a utility knife, plumber's grease (silicone-based, not petroleum-based, which destroys rubber), and replacement O-rings.
 
-This is where people get tripped up on parts. Do not buy a generic "faucet O-ring kit" at the hardware store and hope something fits. I've watched homeowners try this and end up with close-but-not-right rings that fail in weeks. Go to the manufacturer's website, find your model number (usually on the handle escutcheon or on the original paperwork), and order the actual OEM O-ring repair kit. Moen's equivalent is part 100427, Kohler has the GP857990 spout O-ring kit for their single-handle designs, Delta sells specific kits by faucet series. These run $8 to $20, and they're the right size and durometer for your specific faucet.
+This is where people get tripped up on parts. Do not buy a generic "faucet O-ring kit" at the hardware store and hope something fits. Generic rings often fail in weeks because they're not the right size or durometer for your specific faucet. Go to the manufacturer's website, find your model number (usually on the handle escutcheon or on the original paperwork), and order the actual OEM O-ring repair kit. Moen's equivalent is part 100427, Kohler has the GP857990 spout O-ring kit for their single-handle designs, Delta sells specific kits by faucet series. These run $8 to $20, and they're the right size and durometer for your specific faucet.
 
 If you can't find the model number, take the O-rings you remove to a plumbing supply house (not a big-box store) and have them match the ID, OD, and cross-section with a proper O-ring reference chart. Close enough will fail.
 
@@ -102,12 +102,10 @@ Once the faucet comes up, you'll see the old gasket stuck to the sink deck. Scra
 
 - [Max Vakhtbovych](https://www.pexels.com/@artbovich)
 
-
 The repair I've described above is legitimately DIY-able for most homeowners. Where I'd say hire it out: if your shutoff valves won't close fully and you have no main house shutoff that actually works. Turning off a leaking faucet repair while water is flowing freely is a recipe for a much more expensive day. A plumber can replace those valves (usually $150 to $300 per valve including labor, depending on your market) while they're there. That's money well spent.
 
 Also, if you've done the O-ring replacement correctly and the base is still leaking after 48 hours, don't keep replacing O-rings. Have a plumber look at it. Sometimes the faucet body itself is cracked, and at that point you're better off budgeting $200 to $600 for a new faucet and installation rather than chasing a crack around a $100 faucet.
 
 ---
-
 
 *Photo: [Max Vakhtbovych](https://www.pexels.com/@artbovich) via Pexels*

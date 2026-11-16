@@ -22,7 +22,7 @@ author_bio: "Kim Reeves renovated three houses herself before deciding to share 
 ---
 You've patched a hole, installed new drywall, or finished a renovation, and now you're staring at bare seams, screw dimples, and rough edges. Learning **how to tape and mud drywall** is one of the most rewarding skills you can pick up as a DIY person. With the right tools, patience, and the steps in this article, you'll get results that look professional without paying a contractor.
 
-Here's the thing: this process is forgiving. Beginners routinely nail it by taking their time between coats and not rushing the drying. Let's walk through everything.
+This process is forgiving. Beginners routinely nail it by taking their time between coats and not rushing the drying. Let's walk through everything.
 
 ## What Is Taping and Mudding, and Why Does It Matter?
 

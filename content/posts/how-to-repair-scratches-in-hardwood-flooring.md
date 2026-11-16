@@ -27,7 +27,7 @@ faqs:
 
 Three years ago, a homeowner called me in a panic because her golden retriever had turned a 200-square-foot section of Brazilian cherry flooring into what looked like a topographic map. She wanted to know if she needed to refinish the whole floor. The answer was no, and it cost her about $23 in supplies to fix 90% of it herself. That's what I want to talk about today.
 
-[Hardwood floor](/how-to-fix-a-squeaky-hardwood-floor-from-above/) scratches are one of those things that look catastrophic up close and completely invisible from six feet away, once you've addressed them correctly. But I've seen people spend $1,200 on professional refinishing jobs that weren't necessary, and I've also seen people use the wrong product and permanently cloud their finish. The difference usually comes down to understanding what kind of scratch you're actually dealing with before you reach for anything.
+[Hardwood floor](/how-to-fix-a-squeaky-hardwood-floor-from-above/) scratches are one of those things that look catastrophic up close and completely invisible from six feet away, once you've addressed them correctly. Unnecessary professional refinishing jobs can cost $1,200 or more, and using the wrong product can permanently cloud your finish. The difference usually comes down to understanding what kind of scratch you're actually dealing with before you reach for anything.
 
 The single most important diagnostic step is figuring out whether the scratch is in the finish or in the wood itself. Drag your fingernail across it. If your nail catches, the wood fiber is damaged. If it glides right over, you're dealing with a surface scratch in the polyurethane or oil finish, and your life just got a lot easier.
 

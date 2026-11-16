@@ -40,7 +40,7 @@ The screws are small and usually Phillips, sometimes Torx on higher-end Grass hi
 
 ## The Three Adjustments, One at a Time
 
-**Side-to-side adjustment.** This is the most commonly needed one. If your door is crooked relative to the neighboring door, or there's a gap on one side and an overlap on the other, this is your fix. On a Blum Clip top hinge (the most common hinge in North America), there's a screw on the mounting plate, the part that attaches to the cabinet wall. It usually has a small plus/minus symbol molded next to it. Turning it clockwise moves the door toward the hinge side. Counterclockwise moves it away. Do this in small increments, maybe a quarter turn at a time, and check after each adjustment. I've seen homeowners make three full rotations on this screw and then wonder why the door won't close at all.
+**Side-to-side adjustment.** This is the most commonly needed one. If your door is crooked relative to the neighboring door, or there's a gap on one side and an overlap on the other, this is your fix. On a Blum Clip top hinge (the most common hinge in North America), there's a screw on the mounting plate, the part that attaches to the cabinet wall. It usually has a small plus/minus symbol molded next to it. Turning it clockwise moves the door toward the hinge side. Counterclockwise moves it away. Do this in small increments, maybe a quarter turn at a time, and check after each adjustment. Avoid making more than a quarter turn at a time, as over-adjusting can prevent the door from closing.
 
 **Up-and-down adjustment.** This one isn't available on the hinge itself, it's controlled by slotted holes on the mounting plate. Loosen the mounting screws slightly (don't remove them), slide the plate up or down in the slot, then retighten. On a standard Blum hinge the slot gives you about 2mm of travel, which is more than enough for most gaps. If you need more than that, something else is going on, either the cabinet box is out of square, or a screw pulled out and needs to be reset.
 
@@ -79,12 +79,10 @@ If there's no catch and the door won't stay shut, the hinge spring tension is pr
 
 - [Max Vakhtbovych](https://www.pexels.com/@artbovich)
 
-
 Honestly? Almost never for hinge adjustment alone. This is true DIY territory.
 
 The exceptions are if the hinge cup pulled out of the door, meaning the wood around the cup hole is blown out and there's nothing for the screw to grip. That needs wood repair before anything else, either a plug-and-redrill approach or a larger cup. It's doable yourself but fiddly. The other exception is if the cabinet box itself is racked or out of square, which no amount of hinge adjustment will overcome. You'd need to pull the cabinet and re-set it, and if that's what's happening, a pro is worth the call.
 
 ---
-
 
 *Photo: [Max Vakhtbovych](https://www.pexels.com/@artbovich) via Pexels*

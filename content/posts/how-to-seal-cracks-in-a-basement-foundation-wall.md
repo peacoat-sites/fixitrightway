@@ -31,9 +31,7 @@ You might be wondering whether your crack is the kind you can handle yourself ov
 
 I've sealed hundreds of foundation cracks over the past two decades, in basements from Chicago suburb colonials to Pacific Northwest split-levels. Most of them were straightforward. A handful were not. The difference between those two categories is almost always something a homeowner could have identified early, before a $200 repair turned into a $12,000 excavation.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Horizontal cracks are a structural red flag; stop and call an engineer before DIY repair.</li><li style="margin:5px 0">Hairline cracks under 1/8 inch wide are typically cosmetic and safe to seal yourself.</li><li style="margin:5px 0">Polyurethane foam injection seals active water leaks; epoxy injection restores structural integrity.</li><li style="margin:5px 0">Current DIY repair kits cost $50–$150; professional hydraulic injection runs $500–$2,500 per crack.</li><li style="margin:5px 0">Cracks wider than 1/4 inch or showing displacement (one side higher than the other) need professional assessment.</li></ul></div>
-
 
 ## What Your Crack Is Actually Telling You
 
@@ -51,11 +49,11 @@ One detail that rarely makes it into online guides: run your finger along the cr
 
 ## The Products That Actually Work (And the Ones That Don't)
 
-I made a mistake on my third basement job, back when I was still learning. I used hydraulic cement to fill an active seeping crack, packed it tight, and called it done. Six months later the homeowner called me back. The water had found a path around the patch. Hydraulic cement stops active gushing water temporarily, but it doesn't bond well to wet concrete and it's not flexible. For a static, dry crack it's fine as a filler. For a leaking crack, you need something that bonds to damp surfaces and moves with the concrete.
+A common mistake is using hydraulic cement to fill an active seeping crack. The water finds a path around the patch within months. Hydraulic cement stops active gushing water temporarily, but it doesn't bond well to wet concrete and it's not flexible. For a static, dry crack it's fine as a filler. For a leaking crack, you need something that bonds to damp surfaces and moves with the concrete.
 
 There are three products you'll actually be choosing between:
 
-**Polyurethane foam injection** is the gold standard for active water leaks. It expands on contact with water (some formulas expand 20 to 30 times their volume), fills every void in the crack, and stays flexible. It does not restore structural strength. Sika's Injection-201 and Simpson Strong-Tie's ET-HP are both products I've used with good results. Expect to pay $80–$130 for a DIY kit that covers a crack up to about 8 feet.
+**Polyurethane foam injection** is the gold standard for active water leaks. It expands on contact with water (some formulas expand 20 to 30 times their volume), fills every void in the crack, and stays flexible. It does not restore structural strength. Sika's Injection-201 and Simpson Strong-Tie's ET-HP are both widely used products for this application. Expect to pay $80–$130 for a DIY kit that covers a crack up to about 8 feet.
 
 **Epoxy injection** bonds the two sides of a crack together under pressure and, once cured, is actually stronger than the surrounding concrete. It's the right call for dry, dormant cracks where you want to restore structural integrity. It does not work in actively wet conditions. United States Concrete Repair's Epoxy Injection System and Rhino Carbon Fiber's crack repair kits are solid options. These kits run $90–$150.
 
@@ -69,7 +67,7 @@ This is the method for a leaking vertical crack. It's the repair most homeowners
 
 You'll need: the polyurethane injection kit (comes with ports, surface paste, injection gun, and cartridges), a wire brush, shop vac, acetone or denatured alcohol, and safety glasses. The entire process takes about 3–4 hours including cure time before injection.
 
-Start by cleaning the crack aggressively. Wire brush out any loose concrete, vacuum the dust, then wipe the surface with acetone. The surface paste won't bond to a dusty wall, and I've seen homeowners skip this step only to have the whole port system pull off during injection. Takes ten minutes. Don't skip it.
+Start by cleaning the crack aggressively. Wire brush out any loose concrete, vacuum the dust, then wipe the surface with acetone. The surface paste won't bond to a dusty wall, and skipping this step can cause the entire port system to pull off during injection. Takes ten minutes. Don't skip it.
 
 Space your injection ports every 8 to 12 inches along the crack, centered over it. Wider spacing for shallow cracks; closer for cracks you can see are deep. Mix the surface paste (two-part epoxy, usually) and seal the crack between ports entirely, leaving just the port connections open. Let that cure for the manufacturer-specified time, usually 20 to 30 minutes.
 
@@ -100,9 +98,7 @@ As of July 2026, here's how the cost landscape actually breaks down, from DIY to
 
 The numbers that catch people off guard are always at the top and bottom of that range. A DIY polyurethane kit for $112 genuinely handles most leaking vertical cracks. But if you've got a horizontal crack and a contractor tells you carbon fiber straps are needed, $1,400 to $3,500 per strap is real, and there's often more than one.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average professional crack repair cost by method</div><div class="sc-row"><span class="sc-label">Epoxy injection</span><span class="sc-track"><span class="sc-bar" style="width:5%"></span></span><span class="sc-val">$650</span></div><div class="sc-row"><span class="sc-label">Polyurethane injection</span><span class="sc-track"><span class="sc-bar" style="width:6%"></span></span><span class="sc-val">$850</span></div><div class="sc-row"><span class="sc-label">Hydraulic cement patch</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$225</span></div><div class="sc-row"><span class="sc-label">Carbon fiber strap</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">$2,400</span></div><div class="sc-row"><span class="sc-label">Exterior excavation</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$14,000</span></div><div class="sc-src">Source: HomeAdvisor national cost data, 2026</div></div>
-
 
 ## When to Stop and Call Someone
 
@@ -123,6 +119,5 @@ The American Concrete Institute (ACI) publishes guidance in ACI 224.1R on concre
 - Sika Corporation technical data sheets: Product specifications for Sika Injection-201 polyurethane foam injection system
 
 ---
-
 
 *Photo: [Jessica Lewis 🦋 thepaintedsquare](https://www.pexels.com/@thepaintedsquare) via Pexels*

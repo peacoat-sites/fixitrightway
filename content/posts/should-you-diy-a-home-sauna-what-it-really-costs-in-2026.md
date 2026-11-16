@@ -20,9 +20,7 @@ Here's the honest version of that conversation.
 
 The $12,800 quote I mentioned? That homeowner built a custom indoor sauna for $2,847 instead. Great story. But they also said outright that basic construction skills and real guidance were non-negotiable prerequisites. That caveat does a lot of work, and it's the part that tends to get buried in the Pinterest inspiration posts.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Professional sauna installs run $3,000–$10,000 for most homes in 2026; custom builds can exceed $30,000.</li><li style="margin:5px 0">DIY prefab kits cost $3,000–$9,000+, but electrical work alone adds $500–$2,500 on top.</li><li style="margin:5px 0">Plug-and-play 120V infrared units are the only true DIY option ,  no electrician required.</li><li style="margin:5px 0">A dedicated 240V circuit is required for traditional heaters; most homeowners must hire a licensed electrician.</li><li style="margin:5px 0">Operating costs for infrared saunas run just $5–$15/month, making them cheap to run once installed.</li></ul></div>
-
 
 ## What Professional Installation Actually Costs Right Now
 
@@ -47,7 +45,7 @@ The moment you go traditional, you need heat. Real heat. A 9 kW heater pulls ser
 
 ## The Costs That Ambush People
 
-I've seen budgets fall apart on three things that don't make it into the headline kit price.
+Budgets often fall apart on three things that don't make it into the headline kit price.
 
 **Electrical.** Already covered, but worth repeating: if you assumed the kit price was the whole number, recalculate. Add at least $500, and budget $1,500 to be comfortable.
 
@@ -55,9 +53,7 @@ I've seen budgets fall apart on three things that don't make it into the headlin
 
 **Ventilation.** Traditional saunas need fresh air supply and an exhaust path. Getting that wrong causes moisture damage, mold, and performance problems. If you're converting an interior room, cutting a proper ventilation solution through an exterior wall (or into an adjacent space) can add several hundred dollars in materials and labor you didn't plan for.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Sauna type vs. typical installed cost</div><div class="sc-row"><span class="sc-label">Plug-in Infrared (small)</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">$4,500</span></div><div class="sc-row"><span class="sc-label">Large Infrared Kit</span><span class="sc-track"><span class="sc-bar" style="width:39%"></span></span><span class="sc-val">$7,000</span></div><div class="sc-row"><span class="sc-label">Traditional Kit (pro install)</span><span class="sc-track"><span class="sc-bar" style="width:53%"></span></span><span class="sc-val">$9,500</span></div><div class="sc-row"><span class="sc-label">Custom Build (DIY)</span><span class="sc-track"><span class="sc-bar" style="width:19%"></span></span><span class="sc-val">$3,500</span></div><div class="sc-row"><span class="sc-label">Custom Build (pro)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$18,000</span></div><div class="sc-src">Source: Angi, homesauna.com, Haven of Heat, 2026</div></div>
-
 
 ## Who Should Actually DIY This
 

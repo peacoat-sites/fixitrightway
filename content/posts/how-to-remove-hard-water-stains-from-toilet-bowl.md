@@ -55,11 +55,11 @@ Let me get specific, because generic "use an acid cleaner" advice skips the part
 
 **Lime-A-Way** and similar products (glycolic acid is the typical active ingredient) work fine for moderate stains and regular maintenance, but they underperform on stains built up over a year or more. Good as a follow-up treatment to keep things clear.
 
-**CLR (Calcium, Lime & Rust Remover)** is what's changed my approach for severe cases. Undiluted, applied directly to stained surfaces with the water level lowered, it can dissolve deposits that would take 30 minutes of scrubbing with a pumice stone. Around $8-10 for a 28-ounce bottle. There's a bleach-based version marketed for toilets. Skip it. Bleach doesn't dissolve mineral deposits at all. It whitens organic stains, which is completely different. If you mix CLR and bleach, you create toxic gases. I've seen homeowners do this accidentally.
+**CLR (Calcium, Lime & Rust Remover)** works well for severe cases. Undiluted, applied directly to stained surfaces with the water level lowered, it can dissolve deposits that would take 30 minutes of scrubbing with a pumice stone. Around $8-10 for a 28-ounce bottle. There's a bleach-based version marketed for toilets. Skip it. Bleach doesn't dissolve mineral deposits at all. It whitens organic stains, which is completely different. If you mix CLR and bleach, you create toxic gases.
 
 **White vinegar** is the DIY recommendation promoted constantly, and it works, but only if you're patient and the stains are light. Grocery store vinegar (typically 5% acetic acid) is relatively weak. For a mild ring that's a few weeks old, soaking with undiluted white vinegar for several hours or overnight handles it. For the gnarly brown deposits built up since the last time someone lived in the house? You need something stronger.
 
-**Borax plus vinegar** gets recommended a lot. The research is mixed. There's some logic to the combination, but in my experience borax mostly acts as a mild abrasive. If you don't want commercial cleaners, this combo plus a pumice stone works reasonably well. Just expect more effort.
+**Borax plus vinegar** gets recommended a lot. Borax acts primarily as a mild abrasive. If you don't want commercial cleaners, this combo plus a pumice stone works reasonably well. Just expect more effort.
 
 ## The Step-by-Step That Actually Gets Results
 
@@ -79,7 +79,7 @@ Wear rubber gloves through all of this. If you're using CLR in an unventilated b
 
 ## When You've Got Rust Specifically
 
-Iron staining is a different beast. CLR handles it reasonably well because rust is soluble in acid, but if iron is your primary problem, try Iron Out or its toilet-specific version, Iron Out Toilet Bowl Cleaner. It uses sodium hydrosulfite, specifically targeting iron and manganese staining. I've seen toilets that were orange-brown from top to bottom turn completely white after one treatment.
+Iron staining is a different beast. CLR handles it reasonably well because rust is soluble in acid, but if iron is your primary problem, try Iron Out or its toilet-specific version, Iron Out Toilet Bowl Cleaner. It uses sodium hydrosulfite, specifically targeting iron and manganese staining.
 
 If you've got severe rust staining throughout your house, not just the toilet, that's a water quality issue worth addressing at the source. A whole-house iron filter or water softener costs several hundred to a couple thousand dollars depending on the system, but it stops the cycle instead of just cleaning up after it repeatedly.
 
@@ -88,7 +88,6 @@ If you've got severe rust staining throughout your house, not just the toilet, t
 ## Sources
 
 - [Markus Spiske](https://www.pexels.com/@markusspiske)
-
 
 Prevention is boring to write about and I know you probably want to skip this section. Don't.
 

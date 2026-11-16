@@ -51,7 +51,7 @@ Nail holes and small dings under about half an inch barely count as repairs. A t
 
 Holes from 1/2 inch to about 4 inches fall into "California patch" or mesh patch territory. Most drywall repairs you'll actually encounter live here: door handle impacts, [doorknobs punched through the wall](/how-to-fix-a-hole-in-the-wall-from-a-doorknob/), picture hooks that went catastrophically wrong.
 
-Holes larger than 4 to 6 inches require cutting out drywall and installing backing. There's no shortcut that holds up. I've seen people try to fill a 6-inch hole with three layers of joint compound. It always fails, usually within a year.
+Holes larger than 4 to 6 inches require cutting out drywall and installing backing. There's no shortcut that holds up. Attempting to fill a 6-inch hole with three layers of joint compound will fail, usually within a year.
 
 ## Tools and Materials That Actually Matter
 
@@ -83,7 +83,7 @@ Setting-type compound like Durabond is different again. It hardens through a che
 
 ### Medium Holes (1 to 6 Inches): The California Patch Method
 
-What surprised me when I first learned this technique was how clean it is. No backing required. You cut a piece of drywall slightly larger than the hole and use the paper face as a built-in flange.
+This technique is notably clean. No backing required. You cut a piece of drywall slightly larger than the hole and use the paper face as a built-in flange.
 
 1. Cut a patch piece from scrap drywall a couple inches larger than your hole on all sides.
 2. Score and snap the back gypsum so you're left with just paper extending about an inch beyond the gypsum core on all four sides. You want a gypsum center with paper wings.

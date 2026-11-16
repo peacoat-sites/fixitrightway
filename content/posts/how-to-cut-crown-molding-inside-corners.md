@@ -43,7 +43,7 @@ There are two ways to cut an inside corner in crown molding: the coped joint and
 
 Here's what most people don't realize: walls are almost never perfectly square. A corner that reads 90 degrees on your framing square might actually be 88 or 93 degrees once drywall and paint are layered on. Crown molding is also a compound shape, meaning it sits at two angles simultaneously (the spring angle against the wall and the spring angle against the ceiling). That compounding geometry is why even a small error in your setup gets multiplied into a visible gap.
 
-I've seen homeowners spend $400 on a quality 3.5-inch paint-grade colonial crown, install it beautifully along two walls, and then blow the inside corner so badly they had to buy another 16-foot stick. That's an expensive mistake on a material that's roughly $3.50 to $5.00 per linear foot for paint-grade MDF, or $7 to $12 per linear foot for solid poplar.
+Inside corners are where mistakes get expensive. A single bad cope on a quality 3.5-inch paint-grade colonial crown can mean buying another 16-foot stick. That's an expensive mistake on a material that's roughly $3.50 to $5.00 per linear foot for paint-grade MDF, or $7 to $12 per linear foot for solid poplar.
 
 Marcus Webb, a finish carpenter with 24 years of experience and instructor at the North Carolina community college carpentry program in Asheville, puts it this way: "The inside corner is really a geometry test disguised as a carpentry task. If you don't understand spring angle, you're going to fight the miter saw forever and never know why."
 
@@ -85,7 +85,7 @@ For a 90-degree corner with a standard 38-degree spring angle crown, your miter 
 
 For a corner that's not 90 degrees, you'll need to measure the actual corner angle with a digital angle finder (the Bosch DAF220 runs about $35 and is worth every dollar), then halve that angle and calculate from there. There are free compound miter calculators online that handle this math instantly.
 
-Jennifer Castillo, a finish carpenter and licensed contractor in Phoenix with 17 years in high-end residential work, offers a sobering take: "I see the compound miter fail more often than it succeeds in older homes. Walls move, corners drift. Coping forgives all of that. Mitering does not."
+The compound miter fails more often than it succeeds in older homes. Walls move and corners drift. Coping tolerates these shifts; mitering does not.
 
 **Worked example:** Installer attempts compound miter on a corner measuring 91.5 degrees (not 90), using the standard 90-degree miter settings. Result: visible gap of approximately 3/16 inch on the ceiling line. Same corner, re-measured, settings adjusted to match actual angle: joint closes to hairline. Time added: 8 minutes.
 
@@ -95,11 +95,11 @@ Build your miter settings from the actual corner angle measurement, not the assu
 
 Before either cut, your saw setup is everything. I'm going to be direct: if you're borrowing a cheap sliding compound miter saw with a loose bevel lock, you're going to have a bad time. The bevel setting has to hold. Period. Wobble in the bevel by even half a degree and your crown will rock on the wall.
 
-Check your saw's detents (the positive-stop positions for common angles). Many saws have slight inaccuracies at 45 degrees that never get corrected at the factory. Take a piece of scrap and make a cut, then check the actual angle with a digital angle finder. I've had saws that were 0.7 degrees off at the 45-degree detent, which sounds minor until you're trying to close an inside miter.
+Check your saw's detents (the positive-stop positions for common angles). Many saws have slight inaccuracies at 45 degrees that never get corrected at the factory. Take a piece of scrap and make a cut, then check the actual angle with a digital angle finder. Even 0.7 degrees off at the 45-degree detent will throw off inside miters.
 
 Also: work with the crown nested against the fence at its spring angle, not flat on the table, unless you're specifically using a flat-table compound angle setup. Nesting the crown correctly means your blade angle can stay simple. Crown sitting flat on the table requires compound angle calculations for every cut. Pick one method and stick with it for the whole job.
 
-"Consistent stock positioning is the thing most DIYers skip," says Tom Reardon, a licensed general contractor based in Columbus, Ohio, with 22 years in residential finish work. "You can't nest the crown at the spring angle for some cuts and lay it flat for others. You'll never be able to reproduce your angles when something needs to be redone."
+Consistent stock positioning matters. Don't nest the crown at the spring angle for some cuts and lay it flat for others. You won't be able to reproduce your angles when something needs to be redone.
 
 Save yourself a ruined piece by test-cutting in pine or MDF scraps that match your molding's thickness before touching the real material. [Save on scrap material costs by reading our guide to crown molding estimating.](/crown-molding-material-calculator)
 
@@ -112,7 +112,6 @@ Save yourself a ruined piece by test-cutting in pine or MDF scraps that match yo
 - BuildingAdvisor.com: Practical guidance on interior trim installation, including crown molding corner techniques for non-square walls.
 
 ---
-
 
 ---
 

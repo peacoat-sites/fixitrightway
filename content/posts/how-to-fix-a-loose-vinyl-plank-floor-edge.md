@@ -31,9 +31,7 @@ Don't be that person. Loose vinyl plank edges are fixable. But they have a windo
 
 What most people don't realize is that there are actually three completely different reasons a vinyl plank edge comes loose, and the fix for each one is different. Treating them all the same is why people end up either wasting money on adhesive that doesn't hold, or pressing the floor back down only to watch it pop up again in two weeks.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A loose edge caught early can be fixed in under 30 minutes with no special tools.</li><li style="margin:5px 0">Three root causes: failed locking tab, missing/wrong expansion gap, or adhesive failure on glue-down floors.</li><li style="margin:5px 0">Replacing one damaged plank costs $40-$180 depending on material and labor; early repair costs almost nothing.</li><li style="margin:5px 0">Transition strips and quarter-round molding hide gaps but don't fix the underlying problem, identify the cause first.</li><li style="margin:5px 0">Never re-glue a floating floor edge. It will buckle worse in summer.</li></ul></div>
-
 
 ## Figure Out Why It's Loose First
 
@@ -41,7 +39,7 @@ Kneel down and actually look at it. I mean get your face close to the floor. Wha
 
 Press the loose plank down firmly and then release it. If it springs back up, that's usually a buckling problem caused by insufficient expansion gap, meaning the floor has nowhere to expand in heat and it's pushing upward at the edges. If it stays down but wobbles or rocks, you've probably got a broken locking tab or a failed adhesive bond. These feel completely different once you know what to look for.
 
-There's a third scenario that catches people off guard: the subfloor underneath has developed a high spot, a low spot, or has gotten wet. I've seen brand-new floors start lifting at the edges within six months simply because someone's refrigerator had a slow drip that soaked the subfloor underneath the adjacent planks. Before you do anything else, check for moisture. Press on the plank. If you hear any squishing or feel any give that suggests softness underneath, stop and call a pro. That's a different problem entirely.
+There's a third scenario that catches people off guard: the subfloor underneath has developed a high spot, a low spot, or has gotten wet. A slow refrigerator drip can soak the subfloor underneath adjacent planks, causing brand-new floors to start lifting at the edges within months. Before you do anything else, check for moisture. Press on the plank. If you hear any squishing or feel any give that suggests softness underneath, stop and call a pro. That's a different problem entirely.
 
 ## The Expansion Gap Fix (Most Common Cause)
 
@@ -93,6 +91,5 @@ The wide range on the full subfloor repair reflects real variation: a small wet 
 - Pergo/Mohawk/Shaw product installation manuals: Manufacturer-specific expansion gap requirements (all major brands specify 1/4-inch minimum as of current editions).
 
 ---
-
 
 *Photo: [Digital Buggu](https://www.pexels.com/@digitalbuggu) via Pexels*

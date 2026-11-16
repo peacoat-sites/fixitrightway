@@ -25,7 +25,7 @@ author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
 lastmod: 2026-07-08
 ---
-Tuck-pointing is one of those repairs that sounds scarier than it is, until you ignore it long enough that it actually becomes scary. I've watched homeowners let soft, crumbling mortar sit for two, three, sometimes five years because they assumed it was a big-ticket masonry job. In a lot of cases, they were right by the time they called me. What started as a weekend afternoon of grinding and patching had turned into spalling brick faces, water intrusion, and in one case a 1920s Chicago bungalow with a basement wall that had started to bow inward. A $200 repair became a $14,000 conversation.
+Tuck-pointing is one of those repairs that sounds scarier than it is, until you ignore it long enough that it actually becomes scary. Many homeowners delay because they assume it's a big-ticket masonry job, but the longer soft, crumbling mortar sits, the worse it gets. A small repair that could take a weekend can turn into spalling brick faces, water intrusion, and structural problems like bowing walls. Catching it early can mean the difference between a couple hundred dollars and many thousands.
 
 So here's what you actually need to know about repointing mortar joints: what it takes, where you can DIY it, what it costs, and the mistakes that derail this job fast.
 
@@ -81,7 +81,7 @@ Mist the finished work lightly for a day or two. Mortar curing too fast in heat 
 
 Labor rates for tuck-pointing run from about $5 to $25 per square foot depending on your region, the accessibility of the wall, and how extensive the deterioration is. A single chimney repoint in the Midwest typically runs $300-800. A full exterior wall on a two-story brick home can easily hit $3,000-8,000. Get at least three quotes, and ask specifically whether they'll be grinding to the right depth or just skim-coating over existing mortar. Skim-coating is faster and cheaper and will fail in a few years. Any mason worth hiring shouldn't hesitate to answer that directly.
 
-What surprised me when I started asking around more systematically: a lot of homeowners overpay significantly because they don't realize how localized this market is. A mason doing primarily chimney work often charges more than a general masonry contractor who does walls all day. For big wall areas, I'd specifically look for residential masonry contractors rather than chimney-only specialists.
+Homeowners often overpay because they don't realize how localized the masonry market is. A mason doing primarily chimney work typically charges more than a general masonry contractor who does walls all day. For big wall areas, seek out residential masonry contractors rather than chimney-only specialists.
 
 The other thing worth knowing: experience matters a lot more than licensing here. Most states don't require a specific masonry license for tuck-pointing work. Ask for photos of past repointing jobs, not just general masonry. Mixing mortar consistency and packing technique are learned skills, and the difference between someone who's done it for 15 years and someone who's done it twice shows up within two or three winters.
 
@@ -109,7 +109,6 @@ If you're looking at more than about 50-60 square feet of deteriorated joints, e
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - [Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)
 - [Blue Arauz](https://www.pexels.com/@blue)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

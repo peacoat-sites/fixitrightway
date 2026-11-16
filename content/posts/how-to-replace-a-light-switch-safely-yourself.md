@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Replacing a light switch is one of those repairs that sounds scarier than it is. I'd guess 90% of the homeowners I've talked to over the years who were nervous about it knocked it out in under 30 minutes once I walked them through it. The other 10% had older wiring that threw them a curveball, and we'll cover that too.
 
-Here's what you're probably thinking right now: "Is this actually safe to do myself, or is this one of those things where I watch a video, feel confident, and then electrocute myself?" Completely fair question. And here's what I tell people: swapping a standard light switch is one of the most beginner-friendly electrical tasks you can do, as long as you follow one absolute rule. We'll get to that rule in about 30 seconds.
+Swapping a standard light switch is one of the most beginner-friendly electrical tasks you can do, as long as you follow one absolute rule. We'll get to that rule in about 30 seconds.
 
 ---
 
@@ -36,7 +36,7 @@ Here's what you're probably thinking right now: "Is this actually safe to do mys
 
 Turn off the breaker. Not the switch. The breaker.
 
-I know that sounds obvious, but I've seen experienced people skip this step because they're "just doing something quick." A homeowner I spoke with last spring had done a dozen switch swaps over the years, got comfortable, and reached into a box without killing the breaker first. He got a jolt that knocked him back a step. He was fine, thankfully, but shaken. Complacency is where people get hurt on jobs like this.
+Experienced electricians and homeowners often skip this step because they're "just doing something quick." Complacency is where people get hurt on jobs like this.
 
 Go to your electrical panel, find the breaker that controls the room or circuit you're working on, and flip it off. Then go back to the switch and try to turn the light on. If nothing happens, you're good. If it still works, you've got the wrong breaker. Don't touch anything in that box until the light is dead.
 
@@ -127,6 +127,5 @@ And if anything makes you uncomfortable, call someone. An electrical service cal
 - International Association of Certified Home Inspectors (InterNACHI): Guidance on identifying aluminum wiring and older electrical systems in residential inspections
 
 ---
-
 
 *Photo: [Vladimir Srajber](https://www.pexels.com/@vladimirsrajber) via Pexels*

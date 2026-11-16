@@ -50,7 +50,7 @@ Before you touch the door, close it slowly and watch where it catches. Mark the 
 
 This should be the first thing anyone tries. It solves the problem probably 40% of the time with almost zero effort.
 
-Open the door and look at the top and middle hinge. More often than not, you'll find screws that have stripped out of the door jamb. They'll turn endlessly without biting. The hole is just wallowed out. Here's the fix that actually holds: pull the screw out, stuff the hole with wooden toothpicks and a dab of wood glue (or a golf tee cut to length for bigger holes), let it dry for an hour, then drive the screw back in. I've been doing this for 20 years and it holds indefinitely. The wood gives the screw something real to grip.
+Open the door and look at the top and middle hinge. More often than not, you'll find screws that have stripped out of the door jamb. They'll turn endlessly without biting. The hole is just wallowed out. Here's the fix that actually holds: pull the screw out, stuff the hole with wooden toothpicks and a dab of wood glue (or a golf tee cut to length for bigger holes), let it dry for an hour, then drive the screw back in. This method holds indefinitely. The wood gives the screw something real to grip.
 
 While you're at it, replace the top hinge screws with 3-inch screws instead of the standard 3/4-inch ones the manufacturer used. Drive them through the jamb and into the actual stud behind it. This is the most bulletproof hinge repair there is, and a box of 3-inch #8 wood screws costs $4 at any hardware store.
 
@@ -86,7 +86,7 @@ Paint buildup is a genuine and underdiagnosed cause of sticking doors, especiall
 
 If you see paint buildup, the right call is to strip the edge back to bare wood with a heat gun or chemical stripper, then reprime and repaint. Just sanding over existing paint makes a mess and rarely gets you back to square. Citristrip gel (about $12 a quart) is low-odor enough to use indoors with windows open, which matters for an interior door you can't easily move outside.
 
-The fix that works is almost always the simplest one: tight hinges, a little planing, a coat of paint on the exposed edge. I've seen homeowners spend $400 on a new door when $6 in toothpicks and wood glue would have solved the problem. Take twenty minutes to actually diagnose it before you do anything else. That's the whole trick.
+The fix that works is almost always the simplest one: tight hinges, a little planing, a coat of paint on the exposed edge. Sometimes $6 in toothpicks and wood glue can solve what seems like a $400 problem. Take twenty minutes to actually diagnose it before you do anything else. That's the whole trick.
 
 *Photo: [Curtis Adams](https://www.pexels.com/@curtis-adams-1694007) via Pexels*
 
@@ -97,7 +97,6 @@ The fix that works is almost always the simplest one: tight hinges, a little pla
 - [Curtis Adams](https://www.pexels.com/@curtis-adams-1694007)
 - [PetArmor Plus Flea & Tick Prevention, Small Dogs (6 doses)](https://www.amazon.com/dp/B01N0BZUXO/?tag=contentportfo-20)
 - [PetArmor Plus Flea & Tick Prevention, Medium Dogs (6 doses)](https://www.amazon.com/dp/B01N03Q8Q1/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -29,7 +29,7 @@ About 93% of homeowner [water damage](/how-to-repair-drywall-water-damage/) clai
 
 If you're here [right now](/how-to-shop-for-materials-right-now-and-beat-tariff-price-hikes/), you're probably staring at a valve under your sink that's either weeping rust, seized up so tight you can't turn it, or leaking at the packing nut. Maybe a plumber quoted you $200-$350 to swap one out and you're wondering if that's reasonable or if you can just do it yourself. Both are fair questions, and I'll answer both honestly.
 
-Here's the thing about shut-off valves: most homeowners have never thought about them until the moment they desperately need one to work. The average valve under a kitchen or [bathroom sink](/best-drain-snake-for-a-clogged-bathroom-sink/) is expected to last 10-25 years according to the International Association of Certified Home Inspectors (InterNACHI), but if yours was installed before 2005 and nobody's touched it since, I'd trust that estimate about as far as I could throw it. Old compression valves especially have a way of failing the moment you actually try to use them.
+Most homeowners never think about shut-off valves until the moment they desperately need one to work. The average valve under a kitchen or [bathroom sink](/best-drain-snake-for-a-clogged-bathroom-sink/) is expected to last 10-25 years according to the International Association of Certified Home Inspectors (InterNACHI), but valves installed before 2005 that have never been serviced often fail well before that window closes. Old compression valves especially have a way of failing the moment you actually try to use them.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most shut-off valve replacements take 45-90 minutes and cost $15-$65 in parts depending on valve type.</li><li style="margin:5px 0">You must shut water off at the main before starting, there is no workaround.</li><li style="margin:5px 0">Quarter-turn ball valves outlast older compression/globe valves and are worth the $5 upgrade.</li><li style="margin:5px 0">Flexible supply lines corrode and should be replaced at the same time; they cost $8-$14 each.</li><li style="margin:5px 0">Call a plumber if you find galvanized pipe, the main won't shut off fully, or the valve is soldered copper.</li></ul></div>
 
@@ -41,7 +41,7 @@ The three valve types you'll commonly encounter under a residential sink are com
 
 The outlet side, where your supply line attaches, is almost universally 3/8-inch compression in modern installs.
 
-If your valve connects to soldered copper pipe, stop. That's a job for someone with a torch and experience. The risk of cracking or torching through the wall behind it is real, and I've seen homeowners turn a $40 repair into a $1,800 drywall situation. Compression-fit inlets, though? Totally manageable.
+If your valve connects to soldered copper pipe, stop. That's a job for someone with a torch and experience. The risk of cracking or torching through the wall behind it is real, and a simple repair can become expensive drywall damage. Compression-fit inlets, though? Totally manageable.
 
 ## The Replacement Walkthrough
 
