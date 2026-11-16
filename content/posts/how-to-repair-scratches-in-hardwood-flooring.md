@@ -31,9 +31,7 @@ Three years ago, a homeowner called me in a panic because her golden retriever h
 
 The single most important diagnostic step is figuring out whether the scratch is in the finish or in the wood itself. Drag your fingernail across it. If your nail catches, the wood fiber is damaged. If it glides right over, you're dealing with a surface scratch in the polyurethane or oil finish, and your life just got a lot easier.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Finish-only scratches (nail glides over) fix with a $12-18 touch-up kit; wood-fiber damage needs a different approach.</li><li style="margin:5px 0">Wax sticks and wood filler markers work for isolated scratches; whole-floor damage warrants professional screening and recoating.</li><li style="margin:5px 0">Never use a polyurethane touch-up product on an oil-finished floor ,  it won't bond and will look worse than the scratch.</li><li style="margin:5px 0">Deep gouges on floors over 3/4" thick can usually be spot-repaired without full refinishing.</li><li style="margin:5px 0">Professional refinishing runs $3-8 per square foot in most U.S. markets as of July 2026.</li></ul></div>
-
 
 ## What You're Actually Looking At
 
@@ -74,10 +72,6 @@ For the fill itself, two-part epoxy wood fillers like LiquidWood from Abatron or
 
 Here's the worked example: a homeowner in Phoenix dropped a cast-iron skillet in the kitchen, put a gouge about 5/16" deep and 1.5" long in her hickory floor. We used PC-Woody, color-matched with two drops of Mixol #10 tint stirred into the mix before application, sanded flush after curing, and applied a single coat of Bona Traffic HD finish with a small foam brush. Standing result: nearly invisible. Total supplies: $31. Time: about two hours spread over two days for cure times.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average pro refinishing cost per sq ft by method (2026)</div><div class="sc-row"><span class="sc-label">Screen &amp; Recoat</span><span class="sc-track"><span class="sc-bar" style="width:15%"></span></span><span class="sc-val">$1.1</span></div><div class="sc-row"><span class="sc-label">Spot Refinish</span><span class="sc-track"><span class="sc-bar" style="width:39%"></span></span><span class="sc-val">$2.8</span></div><div class="sc-row"><span class="sc-label">Full Sand &amp; Refinish</span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">$5.4</span></div><div class="sc-row"><span class="sc-label">Dustless Refinish Premium</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$7.2</span></div><div class="sc-src">Source: NWFA 2025 Cost Survey / contractor market data</div></div>
-
-
 ## When to Call a Professional
 
 There are situations where DIY repair genuinely doesn't make sense. If the scratches are widespread enough that you're looking at more than 15-20% of the floor's surface area, a screen-and-recoat job (where a pro lightly abrades the entire surface and applies fresh finish coats [without sanding](/how-to-repaint-kitchen-cabinets-without-sanding/) down to bare wood) will look dramatically better than spot repairs and costs significantly less than full refinishing. As of July 2026, screen-and-recoat typically runs $0.75-$1.50 per square foot in most markets, so a 400-square-foot living room runs $300-$600 installed.
@@ -95,6 +89,5 @@ One scenario where I always recommend a pro: floors finished with aluminum oxide
 - Forest Products Laboratory (USDA), "Wood as an Engineering Material": reference data on wood fiber compression and moisture response in solid vs. engineered flooring
 
 ---
-
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*

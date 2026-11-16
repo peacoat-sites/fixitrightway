@@ -31,9 +31,7 @@ Knowing which situation you're in is the whole ballgame.
 
 The textured part makes this more interesting than a smooth ceiling repair, because once you fix the sag, you have to match what's there. Knockdown, [orange peel](/how-to-match-orange-peel-texture-on-patched-drywall/), popcorn, skip trowel, each one has its own quirks, and a repair that's structurally solid but visually wrong is genuinely maddening. I'll be honest: I've redone texture patches more than once just because I rushed the matching step.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most sagging textured ceilings are a fastener or moisture issue, not structural, diagnose before demoing anything.</li><li style="margin:5px 0">Reattaching drywall with 1-5/8" coarse-thread drywall screws (not nails) is the correct fix in most cases; budget $80-$350 for materials.</li><li style="margin:5px 0">Matching existing ceiling texture is the hardest part; always test on a cardboard sample before touching the ceiling.</li><li style="margin:5px 0">If the sag covers more than 32 square feet or the drywall feels wet and spongy, call a pro before proceeding.</li><li style="margin:5px 0">Popcorn ceilings installed before 1980 may contain asbestos, test before disturbing.</li></ul></div>
-
 
 ## What's Actually Causing It
 
@@ -99,10 +97,6 @@ For smaller areas, here's what actually works:
 
 Current as of August 2026, based on national average labor rates. Regional variation can push these figures 20-40% in either direction.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated DIY material cost by repair type</div><div class="sc-row"><span class="sc-label">Fastener reattach only</span><span class="sc-track"><span class="sc-bar" style="width:19%"></span></span><span class="sc-val">$65</span></div><div class="sc-row"><span class="sc-label">Medium sag + texture</span><span class="sc-track"><span class="sc-bar" style="width:37%"></span></span><span class="sc-val">$130</span></div><div class="sc-row"><span class="sc-label">Full panel replace</span><span class="sc-track"><span class="sc-bar" style="width:49%"></span></span><span class="sc-val">$170</span></div><div class="sc-row"><span class="sc-label">Popcorn removal + skim</span><span class="sc-track"><span class="sc-bar" style="width:64%"></span></span><span class="sc-val">$225</span></div><div class="sc-row"><span class="sc-label">Water-damaged section</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$350</span></div><div class="sc-src">Source: Contractor field estimates, August 2026</div></div>
-
-
 A few real-world scenarios from my own work:
 
 Older ranch-style home in Phoenix, 2023: 18 sq ft of sagging kitchen ceiling from a refrigerator water line that had been slowly seeping for months. Leak fixed first, ceiling dried three weeks, then reattached with 32 screws, two coats of compound, orange peel texture. Total materials: $94. Time: one full day plus touch-up the next morning.
@@ -128,6 +122,5 @@ Also: if the joists themselves look dark, stained, or soft when you get the ceil
 - [Home Innovation Research Labs: Annual Builder Practices Survey](https://www.homeinnovation.com): Data on residential construction practices and materials use across U.S. housing stock.
 
 ---
-
 
 *Photo: [Laurie Shaw](https://www.pexels.com/@shawlw) via Pexels*

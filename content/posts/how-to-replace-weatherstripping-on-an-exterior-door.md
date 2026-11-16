@@ -31,9 +31,7 @@ I've replaced weatherstripping on probably a hundred doors at this point, from d
 
 So let's make sure that doesn't happen to you.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Faulty door weatherstripping can account for up to 40% of home energy loss (U.S. DOE).</li><li style="margin:5px 0">Most exterior door weatherstripping jobs cost $15-$65 in materials and take 1-3 hours.</li><li style="margin:5px 0">There are four distinct weatherstripping zones on an exterior door; each uses different material.</li><li style="margin:5px 0">V-strip (tension seal) outlasts foam tape by 5-10 years and costs only slightly more.</li><li style="margin:5px 0">You do not need to remove the door to replace weatherstripping on the sides or top.</li></ul></div>
-
 
 ## What You're Actually Dealing With
 
@@ -52,10 +50,6 @@ The fastest way to diagnose a failure: on a windy day, hold a lit stick of incen
 ## Types of Weatherstripping (and What I Actually Recommend)
 
 This is where most DIY guides go wrong. They give you a list of types and then leave you to figure out which one you need. Here's my actual opinion after years of doing this.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated lifespan by weatherstripping type (years)</div><div class="sc-row"><span class="sc-label">Foam tape (open-cell)</span><span class="sc-track"><span class="sc-bar" style="width:8%"></span></span><span class="sc-val">1 years</span></div><div class="sc-row"><span class="sc-label">Foam tape (closed-cell)</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">3 years</span></div><div class="sc-row"><span class="sc-label">V-strip (tension seal)</span><span class="sc-track"><span class="sc-bar" style="width:83%"></span></span><span class="sc-val">10 years</span></div><div class="sc-row"><span class="sc-label">Bulb/tube rubber</span><span class="sc-track"><span class="sc-bar" style="width:58%"></span></span><span class="sc-val">7 years</span></div><div class="sc-row"><span class="sc-label">Door sweep (vinyl)</span><span class="sc-track"><span class="sc-bar" style="width:42%"></span></span><span class="sc-val">5 years</span></div><div class="sc-row"><span class="sc-label">Door sweep (stainless)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">12 years</span></div><div class="sc-src">Source: National Association of Home Builders, Remodeling Market Index guidance and contractor field data</div></div>
-
 
 | Type | Best for | Approximate cost (2026) | DIY difficulty | Lifespan |
 |---|---|---|---|---|
@@ -110,6 +104,5 @@ The test: look at your closed [door from](/how-to-stop-a-sticking-interior-door-
 - Therma-Tru Doors: Door weatherseal replacement specifications and part compatibility documentation (thermatru.com)
 
 ---
-
 
 *Photo: [Field Cottage](https://www.pexels.com/@field-cottage-161730020) via Pexels*

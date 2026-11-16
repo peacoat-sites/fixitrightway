@@ -29,9 +29,7 @@ Roughly 51,000 home electrical fires happen in the United States every year, acc
 
 So let's talk about what's actually happening when your breaker won't stay reset, because the answer is almost never "bad breaker."
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A breaker that trips repeatedly signals overload, a short circuit, a ground fault, or (rarely) a failing breaker itself.</li><li style="margin:5px 0">Most tripping is caused by overloaded circuits; the average kitchen circuit is rated for 20 amps but modern appliances routinely pull 15-18 amps each.</li><li style="margin:5px 0">A breaker that trips AND feels hot, smells burnt, or shows scorch marks is a fire risk, stop resetting it and call an electrician.</li><li style="margin:5px 0">GFCI and AFCI breakers trip for different reasons than standard breakers; replacing them with standard breakers to "fix" tripping is a serious mistake.</li><li style="margin:5px 0">Expect to pay $75-$350 for a pro diagnosis and breaker repair; a full panel replacement runs $1,800-$4,500 as of 2026.</li></ul></div>
-
 
 ## What a breaker actually does (and why that matters for diagnosis)
 
@@ -78,10 +76,6 @@ I get asked about money constantly, so let me just lay this out plainly.
 
 One thing most articles don't tell you: breaker brands are not interchangeable. A Square D Homeline breaker does not go in a Siemens panel. A Cutler-Hammer breaker does not go in a General Electric panel. Using the wrong brand creates arcing inside the panel itself, which is exactly the problem you're trying to solve. This is one of the big reasons I'm cautious about recommending panel work as a DIY task.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Most common causes of repeated breaker trips (% of service calls)</div><div class="sc-row"><span class="sc-label">Overloaded circuit</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">42%</span></div><div class="sc-row"><span class="sc-label">Loose connection/arc fault</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">28%</span></div><div class="sc-row"><span class="sc-label">Short circuit</span><span class="sc-track"><span class="sc-bar" style="width:38%"></span></span><span class="sc-val">16%</span></div><div class="sc-row"><span class="sc-label">Failing breaker</span><span class="sc-track"><span class="sc-bar" style="width:21%"></span></span><span class="sc-val">9%</span></div><div class="sc-row"><span class="sc-label">GFCI/AFCI nuisance trip</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">5%</span></div><div class="sc-src">Source: NFPA Electrical Fire Statistics / industry field data</div></div>
-
-
 These percentages are drawn from NFPA fire investigation data combined with what I've seen in 20 years of service calls. The "failing breaker" number is lower than most people expect. A bad breaker is the exception, not the rule.
 
 ## When to stop resetting and call immediately
@@ -109,6 +103,5 @@ AFCI breakers can also nuisance-trip when connected to older wiring [that has](/
 - [International Association of Certified Home Inspectors (InterNACHI)](https://www.nachi.org): Field data and inspection standards for residential electrical panels, including Zinsco and FPE identification guides.
 
 ---
-
 
 *Photo: [Srattha Nualsate](https://www.pexels.com/@srattha-nualsate-2695613) via Pexels*

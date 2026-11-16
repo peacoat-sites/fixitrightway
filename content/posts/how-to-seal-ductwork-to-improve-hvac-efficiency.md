@@ -31,9 +31,7 @@ Here's the uncomfortable number: the U.S. Department of Energy estimates that th
 
 The fix is straightforward. The execution is where people go wrong.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Homes lose 20-30% of conditioned air through duct leaks; sealing can cut HVAC bills by $400-$700/year in a typical 2,000 sq ft home.</li><li style="margin:5px 0">Mastic sealant outlasts foil tape by decades; never use standard cloth duct tape on ductwork.</li><li style="margin:5px 0">Accessible attic and crawlspace ducts are DIY-friendly; interior wall cavities and plenums near the air handler need a pro.</li><li style="margin:5px 0">A blower door or duct blaster test before and after gives you actual proof the work made a difference.</li><li style="margin:5px 0">Aeroseal is worth the $1,500-$2,500 cost when leaks are inside walls or inaccessible, not for standard exposed ductwork.</li></ul></div>
-
 
 ## What You're Actually Sealing (and Why Location Matters)
 
@@ -86,10 +84,6 @@ Call a pro, not DIY, if:
 - Your ducts run through finished ceilings or interior walls with no access panels
 - You've already sealed everything visible and still have high energy bills
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated annual HVAC savings after duct sealing by home size</div><div class="sc-row"><span class="sc-label">1,000 sq ft</span><span class="sc-track"><span class="sc-bar" style="width:27%"></span></span><span class="sc-val">$210</span></div><div class="sc-row"><span class="sc-label">1,500 sq ft</span><span class="sc-track"><span class="sc-bar" style="width:44%"></span></span><span class="sc-val">$340</span></div><div class="sc-row"><span class="sc-label">2,000 sq ft</span><span class="sc-track"><span class="sc-bar" style="width:63%"></span></span><span class="sc-val">$490</span></div><div class="sc-row"><span class="sc-label">2,500 sq ft</span><span class="sc-track"><span class="sc-bar" style="width:79%"></span></span><span class="sc-val">$620</span></div><div class="sc-row"><span class="sc-label">3,000 sq ft</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$780</span></div><div class="sc-src">Source: DOE Building Technologies Office, industry estimates</div></div>
-
-
 ## Proving It Worked
 
 Here's the part most DIY guides leave out entirely: verification. You can spend a weekend in a dusty attic and have no idea whether your work moved the needle. A duct blaster test (performed by an energy auditor or HVAC tech with the right equipment) measures total duct leakage as a percentage of system airflow. Expect to pay $150 to $300 for a standalone test, or it's often included in a full home energy audit.
@@ -109,6 +103,5 @@ One small detail that'll save you frustration: mastic takes 24 to 48 hours to fu
 - Oak Ridge National Laboratory: Field studies on duct system efficiency in U.S. residential buildings, including before/after duct blaster measurements
 
 ---
-
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*

@@ -29,9 +29,7 @@ Most articles about clogged drains tell you to try a plunger. That's fine advice
 
 I've pulled hair clogs out of drains that weighed more than a golf ball and smelled like a wet dog had died in there. The first time I ran a wire hanger into a client's tub drain and dragged out a fist-sized wad of hair, grease, and soap scum, I genuinely gagged. Now I keep a dedicated [drain snake](/best-drain-snake-for-a-clogged-bathroom-sink/) in the van. This is a solvable problem, and in most cases it takes about fifteen minutes once you know the right sequence.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A hair clog requires physical removal, not just chemical treatment, skip straight to a drain snake or Zip-It tool.</li><li style="margin:5px 0">The Zip-It ($3–$5 at any hardware store) clears most bathtub hair clogs in under 10 minutes.</li><li style="margin:5px 0">Chemical drain cleaners like Drano rarely fully dissolve hair clogs and can damage older pipes with repeated use.</li><li style="margin:5px 0">If water still drains slowly after clearing the visible hair, the clog is deeper, rent a 25-ft drum auger, or call a plumber.</li><li style="margin:5px 0">A $12 mesh drain cover prevents 95% of future clogs, which is the only advice that actually saves you the trouble permanently.</li></ul></div>
-
 
 ## Why Your Drain Looks Fine But Still Drains Slowly
 
@@ -113,10 +111,6 @@ As of July 2026, here's what things cost if you're buying or hiring:
 
 The DIY ceiling is around $45 including gloves, the Zip-It, and a decent hand snake you'll use for years. That's the case for doing it yourself, in numbers.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated cost to clear a bathtub hair clog</div><div class="sc-row"><span class="sc-label">Zip-It tool (DIY)</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$5</span></div><div class="sc-row"><span class="sc-label">Hand auger rental (DIY)</span><span class="sc-track"><span class="sc-bar" style="width:5%"></span></span><span class="sc-val">$18</span></div><div class="sc-row"><span class="sc-label">Hand auger purchase (DIY)</span><span class="sc-track"><span class="sc-bar" style="width:9%"></span></span><span class="sc-val">$34</span></div><div class="sc-row"><span class="sc-label">Pro drain cleaning</span><span class="sc-track"><span class="sc-bar" style="width:59%"></span></span><span class="sc-val">$212</span></div><div class="sc-row"><span class="sc-label">Pro with camera</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$362</span></div><div class="sc-src">Source: Industry pricing estimates, July 2026</div></div>
-
-
 ## Prevention, Which You'll Ignore Until You Do It Once
 
 A stainless mesh drain hair catcher, the OXO Good Grips tub drain protector runs $11.99, sits over your drain and catches hair before it goes anywhere. You pull it out every few showers, toss the hair in the trash, rinse it, and you're done. No clogs. No gross extraction sessions. No drain cleaner.
@@ -134,6 +128,5 @@ Worked example: Same household had previously spent $180 on two professional dra
 - Consumer Reports plumbing tools and chemical drain cleaner testing (various years): Independent performance testing of drain cleaning products
 
 ---
-
 
 *Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*

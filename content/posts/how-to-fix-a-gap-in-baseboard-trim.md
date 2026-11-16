@@ -31,9 +31,7 @@ What matters is knowing which kind of gap you're dealing with, because the fix f
 
 The good news: most baseboard gaps are a two-hour fix with $15 worth of materials. Some of them take 20 minutes. A handful genuinely need a professional, and I'll tell you exactly which ones those are.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most baseboard gaps cost under $20 to fix and take under 2 hours.</li><li style="margin:5px 0">Miter joint gaps need wood glue + finishing nails, NOT caulk alone.</li><li style="margin:5px 0">Gap between baseboard and wall: paintable latex caulk, smoothed wet with your finger.</li><li style="margin:5px 0">Gaps at the floor often signal settling or moisture; check subfloor before patching.</li><li style="margin:5px 0">Paintable caulk shrinks up to 10% as it cures, apply slightly proud of the surface.</li></ul></div>
-
 
 ## What Kind of Gap Is It?
 
@@ -83,10 +81,6 @@ Get a syringe-style applicator (they're $2 at any hardware store) and work Titeb
 
 **Worked example:** Dining room corner on a 1962 craftsman house I rehabbed in 2023, both outside miter corners had opened nearly 3/16" after the original carpenter's caulk failed. I glued, nailed, filled, and caulked all four corners in about 90 minutes. The corners are still tight as of today.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average time to fix baseboard gaps by type (minutes)</div><div class="sc-row"><span class="sc-label">Caulk: wall gap</span><span class="sc-track"><span class="sc-bar" style="width:14%"></span></span><span class="sc-val">25 min</span></div><div class="sc-row"><span class="sc-label">Miter joint (small)</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">60 min</span></div><div class="sc-row"><span class="sc-label">Miter joint (large)</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">90 min</span></div><div class="sc-row"><span class="sc-label">Floor gap, caulk</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">30 min</span></div><div class="sc-row"><span class="sc-label">Full board replacement</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">180 min</span></div><div class="sc-src">Source: Contractor field estimates, industry average 2026</div></div>
-
-
 ## When to Call a Pro
 
 I'll be honest with you: most baseboard gap fixes are DIY territory. But there are three situations where I'd call someone.
@@ -108,6 +102,5 @@ A general contractor visit to assess (not repair) a suspicious gap typically run
 - U.S. Census Bureau, American Housing Survey: Data on housing stock age distribution and maintenance deferral patterns.
 
 ---
-
 
 *Photo: [Erik Mclean](https://www.pexels.com/@introspectivedsgn) via Pexels*

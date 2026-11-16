@@ -31,9 +31,7 @@ Gaps between baseboard and wall are almost universal in residential construction
 
 The size of the gap determines everything: what product you use, whether you need to re-nail first, and whether this is a 20-minute solo job or a two-hour project that requires a helper and a pry bar.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Gaps under 3/8" are a straight caulk job; gaps wider than that need backer rod first.</li><li style="margin:5px 0">Re-nail loose baseboard before caulking or the joint will crack again within weeks.</li><li style="margin:5px 0">Paintable latex caulk (not silicone) is correct for interior wood-to-drywall joints.</li><li style="margin:5px 0">Budget $12-$35 in materials for a typical room; pro labor runs $150-$400 per room.</li><li style="margin:5px 0">Seasonal gaps that open every winter usually mean the underlying framing needs shimming, not just re-caulking.</li></ul></div>
-
 
 ## Read the Gap First
 
@@ -52,10 +50,6 @@ I made the backer rod mistake myself on a flip house in 2019. Had a kitchen with
 ## The Right Materials
 
 Caulk choice is where a lot of DIYers get led astray by the hardware store shelf.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Caulk type performance for baseboard gaps</div><div class="sc-row"><span class="sc-label">Paintable Latex</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">9 score (1</span></div><div class="sc-row"><span class="sc-label">Siliconized Latex</span><span class="sc-track"><span class="sc-bar" style="width:78%"></span></span><span class="sc-val">7 score (1</span></div><div class="sc-row"><span class="sc-label">Pure Silicone</span><span class="sc-track"><span class="sc-bar" style="width:44%"></span></span><span class="sc-val">4 score (1</span></div><div class="sc-row"><span class="sc-label">Acrylic Latex</span><span class="sc-track"><span class="sc-bar" style="width:89%"></span></span><span class="sc-val">8 score (1</span></div><div class="sc-row"><span class="sc-label">Polyurethane</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">6 score (1</span></div><div class="sc-src">Source: This Old House / industry contractor surveys, 2025</div></div>
-
 
 Pure silicone is the right answer for exterior joints and wet areas. For interior wood-to-drywall? It's actually the wrong call. Silicone doesn't take paint, it yellows over time in interior conditions, and it bonds so aggressively that removing it later tears drywall paper. Paintable latex (sometimes labeled "painter's caulk") or siliconized latex is the correct product. DAP Alex Flex runs about $7 a tube and remains my go-to for trim work. GE's Supreme Paintable Silicone at around $9 is a solid second choice if you want a little more flex in the joint.
 
@@ -113,6 +107,5 @@ Figures are national averages as of August 2026. Labor costs in high-cost metros
 - [International Residential Code (IRC) 2021: Section R702, interior wall finish and trim standards](https://codes.iccsafe.org)
 
 ---
-
 
 *Photo: [𝗛&𝗖𝗢 　](https://www.pexels.com/@hngstrm) via Pexels*

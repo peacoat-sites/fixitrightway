@@ -79,10 +79,6 @@ Here's the key insight that makes this approachable: the three adjustment screws
 
 Blum publishes a hinge adjustment diagram on their website that I've handed to more homeowners than I can count. It's clearer than anything I could draw. But honestly, the physical process is: turn screw, close door, look at gap, repeat. Takes five minutes once you're not scared of it.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Avg. time to fix cabinet door by repair type (minutes)</div><div class="sc-row"><span class="sc-label">Tighten loose screw</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">3 min</span></div><div class="sc-row"><span class="sc-label">Toothpick hole repair</span><span class="sc-track"><span class="sc-bar" style="width:58%"></span></span><span class="sc-val">70 min</span></div><div class="sc-row"><span class="sc-label">Hinge adjustment</span><span class="sc-track"><span class="sc-bar" style="width:7%"></span></span><span class="sc-val">8 min</span></div><div class="sc-row"><span class="sc-label">Replace hinge</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">15 min</span></div><div class="sc-row"><span class="sc-label">Reface/plane door</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">120 min</span></div><div class="sc-src">Source: Estimated from 20 years field experience, Paul Zhang</div></div>
-
-
 ## Fix #3: Replacing a Damaged or Worn Hinge
 
 Sometimes the hinge itself is bent, corroded, or the arm's spring tension is gone and it won't hold the door in position. This happens more with cheap builder-grade hinges on 10- to 15-year-old cabinets.
@@ -123,6 +119,5 @@ Warped doors are the other dead end. Hold the door on a flat surface and sight d
 - KCMA (Kitchen Cabinet Manufacturers Association): Standards for cabinet box construction, face frame tolerances, and door clearance specs; kcma.org
 
 ---
-
 
 *Photo: [Max Vakhtbovych](https://www.pexels.com/@artbovich) via Pexels*

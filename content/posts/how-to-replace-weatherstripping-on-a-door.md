@@ -31,9 +31,7 @@ What surprised me was how many different types of weatherstripping exist, and ho
 
 The good news: replacing weatherstripping is genuinely a DIY job for most door types. No special tools, no permits, no subcontractors. The only real skill is patience and getting the right material for your specific door situation.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Full weatherstripping replacement typically costs $15-60 in materials and takes under 2 hours.</li><li style="margin:5px 0">Foam tape fails within 1-2 seasons; V-strip or door sweeps last 5-10 years with proper installation.</li><li style="margin:5px 0">Measure the gap between door and frame before buying, different gaps need different weatherstripping profiles.</li><li style="margin:5px 0">Bottom of the door (the sweep) is almost always the worst leak point and should be replaced first.</li><li style="margin:5px 0">As of July 2026, a contractor-installed replacement runs $75-$175 per door depending on your region.</li></ul></div>
-
 
 ## What Type of Weatherstripping Do You Actually Need?
 
@@ -75,10 +73,6 @@ Work through the full perimeter, close the door, and run your hand along the edg
 
 **A useful comparison:** Typical scenario on a 1970s exterior wood door, full perimeter foam tape replacement done every two years costs roughly $9 x 10 years = $90 over a decade with constant redoing. Switching to V-strip sides plus a screw-on sweep averages $38 total, lasts 7+ years, and insulates better. The energy math matters too: according to the U.S. Department of Energy, drafts around doors and windows can account for 25-30% of heating and cooling losses in older homes.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Weatherstripping lifespan by type (years)</div><div class="sc-row"><span class="sc-label">Foam tape</span><span class="sc-track"><span class="sc-bar" style="width:15%"></span></span><span class="sc-val">1.5 years</span></div><div class="sc-row"><span class="sc-label">Pile/brush</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">4 years</span></div><div class="sc-row"><span class="sc-label">V-strip (plastic)</span><span class="sc-track"><span class="sc-bar" style="width:70%"></span></span><span class="sc-val">7 years</span></div><div class="sc-row"><span class="sc-label">Door sweep (screw-on)</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">6 years</span></div><div class="sc-row"><span class="sc-label">Automatic door bottom</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">10 years</span></div><div class="sc-row"><span class="sc-label">Bulb seal (rubber)</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">8 years</span></div><div class="sc-src">Source: DOE Building Technologies Office + industry averages</div></div>
-
-
 ## When to Call a Pro
 
 If the door itself is badly warped, the frame is rotted, or the threshold has heaved (common in freeze-thaw climates), weatherstripping alone won't fix the problem. You're putting new seals on a bad frame, and the seals will fail again within a year. That's worth having a carpenter or door installer assess first.
@@ -96,6 +90,5 @@ I'd also say: if you have a steel or fiberglass entry door with a compression se
 - [This Old House, technical library]: Field-tested installation guidance for residential weatherstripping types
 
 ---
-
 
 *Photo: [Ksenia Chernaya](https://www.pexels.com/@kseniachernaya) via Pexels*

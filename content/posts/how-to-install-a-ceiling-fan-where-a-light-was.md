@@ -91,10 +91,6 @@ Current pricing as of July 2026, based on contractor and retail market data:
 
 The rewiring scenario is the one that catches people off guard. I've seen homeowners budget for a $79 fan and end up spending $500 because they insisted on separate wall switches and didn't know what was in their walls until an electrician opened things up.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average total install cost by scenario</div><div class="sc-row"><span class="sc-label">Basic DIY</span><span class="sc-track"><span class="sc-bar" style="width:15%"></span></span><span class="sc-val">$78</span></div><div class="sc-row"><span class="sc-label">Mid-range + brace</span><span class="sc-track"><span class="sc-bar" style="width:35%"></span></span><span class="sc-val">$183</span></div><div class="sc-row"><span class="sc-label">Add smart remote</span><span class="sc-track"><span class="sc-bar" style="width:42%"></span></span><span class="sc-val">$220</span></div><div class="sc-row"><span class="sc-label">Rewire + dual switch</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$525</span></div><div class="sc-row"><span class="sc-label">Full pro install</span><span class="sc-track"><span class="sc-bar" style="width:59%"></span></span><span class="sc-val">$310</span></div><div class="sc-src">Source: Contractor market data, July 2026</div></div>
-
-
 ## When to Call an Electrician
 
 Two situations make this a pro job, not a DIY.
@@ -114,6 +110,5 @@ A quick scenario from my files: older home in a Chicago suburb, homeowner instal
 - [Westinghouse Lighting Installation Specifications, 2025]: Load and torque ratings for fan-rated brace bar products.
 
 ---
-
 
 *Photo: [Calvin McWilliams](https://www.pexels.com/@calvin-mcwilliams-290995) via Pexels*

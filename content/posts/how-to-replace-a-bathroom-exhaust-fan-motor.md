@@ -29,9 +29,7 @@ Most bathroom exhaust fan motors don't die all at once. They slow down first, ge
 
 What surprised me, though, was how many motors I've seen that didn't need replacing at all. Worn-out bearings that just needed a drop of 3-in-1 oil on the shaft. Blower wheels clogged so badly with lint that the motor was working against itself for years. Worth ruling those out first before you spend $18 to $65 on a new motor assembly.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Replacing just the motor/blower assembly costs $18-$65 in parts and takes about 45 minutes.</li><li style="margin:5px 0">Most motors pop out after removing 2-3 screws, no drywall work required if the housing stays.</li><li style="margin:5px 0">Match your replacement by the fan brand AND the model number stamped inside the housing.</li><li style="margin:5px 0">Always shut off the circuit breaker, not just the wall switch, fan circuits are often shared.</li><li style="margin:5px 0">A noisy fan that's otherwise moving air well may only need bearing lubrication, not replacement.</li></ul></div>
-
 
 ## What You're Actually Replacing
 
@@ -74,10 +72,6 @@ One clear tell: if the motor turns freely and the blower wheel spins without wob
 
 Also worth knowing: any fan rated at less than 1.0 sone that you're trying to repair with an aftermarket motor may just run louder than the original spec. Panasonic's WhisperSeries motors are specifically engineered for near-silent operation. The motor drives the sound rating. A generic replacement motor in a Panasonic housing will work, but it'll be louder. That may or may not matter to you.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical fan motor replacement cost by scenario</div><div class="sc-row"><span class="sc-label">Motor kit (budget)</span><span class="sc-track"><span class="sc-bar" style="width:10%"></span></span><span class="sc-val">$32</span></div><div class="sc-row"><span class="sc-label">Motor kit (mid-range)</span><span class="sc-track"><span class="sc-bar" style="width:20%"></span></span><span class="sc-val">$62</span></div><div class="sc-row"><span class="sc-label">Full fan DIY</span><span class="sc-track"><span class="sc-bar" style="width:38%"></span></span><span class="sc-val">$118</span></div><div class="sc-row"><span class="sc-label">Full fan + pro labor</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$310</span></div><div class="sc-src">Source: Industry pricing survey, August 2026</div></div>
-
-
 ## Sources
 
 - [Broan-NuTone product documentation](https://www.broan-nutone.com): Motor kit compatibility guides and housing model cross-reference data
@@ -87,6 +81,5 @@ Also worth knowing: any fan rated at less than 1.0 sone that you're trying to re
 - Klein Tools NCVT-3 voltage tester product specs (current as of August 2026): Referenced for non-contact voltage testing during electrical isolation
 
 ---
-
 
 *Photo: [Optical Chemist](https://www.pexels.com/@optical-chemist-340351297) via Pexels*

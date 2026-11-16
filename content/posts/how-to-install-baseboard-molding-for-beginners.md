@@ -89,10 +89,6 @@ A second worked example: a first-time DIYer named Keisha installed 280 linear fe
 
 ## What This Actually Costs, Start to Finish
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">DIY vs. Pro baseboard cost (350 linear feet)</div><div class="sc-row"><span class="sc-label">DIY materials only</span><span class="sc-track"><span class="sc-bar" style="width:18%"></span></span><span class="sc-val">$420</span></div><div class="sc-row"><span class="sc-label">DIY with tool rental</span><span class="sc-track"><span class="sc-bar" style="width:21%"></span></span><span class="sc-val">$490</span></div><div class="sc-row"><span class="sc-label">Pro labor only</span><span class="sc-track"><span class="sc-bar" style="width:82%"></span></span><span class="sc-val">$1,925</span></div><div class="sc-row"><span class="sc-label">Pro full install</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$2,345</span></div><div class="sc-src">Source: HomeAdvisor 2025, NAHB 2023, Steve Adams field estimates</div></div>
-
-
 These numbers reflect a 350-linear-foot house, which is typical for a 3-bedroom home. The DIY material figure assumes MDF baseboard at around $1.20 per linear foot average, plus nails, caulk, sandpaper, and two quarts of trim paint. If you already own a finish nailer, your out-of-pocket drops further.
 
 One honest caveat on the pro-cost figures: in high cost-of-living metros (Seattle, Boston, the Bay Area), professional trim carpenter rates run higher than the national average HomeAdvisor tracks. I don't have current 2026 localized data for every market, so check multiple local quotes if you're trying to benchmark your own area.
@@ -112,6 +108,5 @@ Also: if the room involves door and window casings that need to integrate with t
 - Fine Homebuilding Magazine, "Coping vs. Mitering Interior Trim" (2022): Technical comparison of joint methods for non-square interior corners
 
 ---
-
 
 *Photo: [Lisa Anna](https://www.pexels.com/@lisa-anna-901356985) via Pexels*

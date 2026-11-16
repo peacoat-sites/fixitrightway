@@ -31,9 +31,7 @@ The main sewer line is the big pipe that carries waste from every drain in your 
 
 Here's the thing most homeowners don't know: a main line clog is something you can sometimes clear yourself, for well under $100, if you catch it before it turns into a root intrusion or a collapsed pipe situation. You just need to know what you're doing before you start.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Multiple drains backing up simultaneously almost always means a main sewer line clog, not individual fixture clogs.</li><li style="margin:5px 0">A rented electric sewer auger (roughly $75-$100/day) clears most soft blockages that DIY snake tools can't reach.</li><li style="margin:5px 0">Hydro-jetting, which costs $350-$600 professionally, is the only reliable fix for grease and root-heavy blockages.</li><li style="margin:5px 0">Always locate your cleanout access point before you do anything else, skipping this step wastes hours.</li><li style="margin:5px 0">If sewage is backing up into the lowest fixtures in your home, stop using all water immediately to prevent overflow damage.</li></ul></div>
-
 
 ## Find Your Cleanout First
 
@@ -83,10 +81,6 @@ If you've run 75 feet of cable and haven't found a blockage, or you've broken th
 
 This is where you need to make a decision, and I'll be straight with you: this is often the point where you should call a plumber. Not because you can't handle it emotionally, but because the next diagnostic step is a camera inspection, and the fix may require hydro-jetting or pipe repair.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">DIY vs. Pro Cost by Blockage Type</div><div class="sc-row"><span class="sc-label">DIY auger rental</span><span class="sc-track"><span class="sc-bar" style="width:5%"></span></span><span class="sc-val">$87</span></div><div class="sc-row"><span class="sc-label">Pro augering</span><span class="sc-track"><span class="sc-bar" style="width:20%"></span></span><span class="sc-val">$375</span></div><div class="sc-row"><span class="sc-label">Hydro-jetting (pro)</span><span class="sc-track"><span class="sc-bar" style="width:26%"></span></span><span class="sc-val">$475</span></div><div class="sc-row"><span class="sc-label">Camera inspection</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">$225</span></div><div class="sc-row"><span class="sc-label">Pipe section repair</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$1,850</span></div><div class="sc-src">Source: Industry estimates, July 2026</div></div>
-
-
 | Method | Best for | Approx. cost | DIY possible? |
 |---|---|---|---|
 | Hand snake (25 ft) | Fixture-level clogs | $15-$30 to buy | Yes |
@@ -115,6 +109,5 @@ Don't pour anything into a completely blocked line. It just sits there, corrodes
 - [This Old House plumbing guides](https://www.thisoldhouse.com): Cleanout location identification methods and pipe age identification by material type.
 
 ---
-
 
 *Photo: [Nothing Ahead](https://www.pexels.com/@ian-panelo) via Pexels*

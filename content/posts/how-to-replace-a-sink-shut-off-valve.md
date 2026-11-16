@@ -31,9 +31,7 @@ If you're here [right now](/how-to-shop-for-materials-right-now-and-beat-tariff-
 
 Here's the thing about shut-off valves: most homeowners have never thought about them until the moment they desperately need one to work. The average valve under a kitchen or [bathroom sink](/best-drain-snake-for-a-clogged-bathroom-sink/) is expected to last 10-25 years according to the International Association of Certified Home Inspectors (InterNACHI), but if yours was installed before 2005 and nobody's touched it since, I'd trust that estimate about as far as I could throw it. Old compression valves especially have a way of failing the moment you actually try to use them.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most shut-off valve replacements take 45-90 minutes and cost $15-$65 in parts depending on valve type.</li><li style="margin:5px 0">You must shut water off at the main before starting, there is no workaround.</li><li style="margin:5px 0">Quarter-turn ball valves outlast older compression/globe valves and are worth the $5 upgrade.</li><li style="margin:5px 0">Flexible supply lines corrode and should be replaced at the same time; they cost $8-$14 each.</li><li style="margin:5px 0">Call a plumber if you find galvanized pipe, the main won't shut off fully, or the valve is soldered copper.</li></ul></div>
-
 
 ## What You're Actually Dealing With
 
@@ -72,10 +70,6 @@ As of August 2026, here's what realistic parts pricing looks like:
 
 I'd steer you toward Watts or BrassCraft brand valves over generic hardware store house brands. They run $14-$22 at most home centers and I've installed hundreds of them without a callback. The cheap pot-metal valves at the low end of the bin feel identical in the hand but the stems corrode faster. It's not a meaningful upcharge.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical project cost: DIY vs. hiring out</div><div class="sc-row"><span class="sc-label">DIY (parts only)</span><span class="sc-track"><span class="sc-bar" style="width:7%"></span></span><span class="sc-val">$28</span></div><div class="sc-row"><span class="sc-label">DIY (parts + tools)</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">$65</span></div><div class="sc-row"><span class="sc-label">Plumber (1 valve)</span><span class="sc-track"><span class="sc-bar" style="width:59%"></span></span><span class="sc-val">$230</span></div><div class="sc-row"><span class="sc-label">Plumber (2 valves + lines)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$390</span></div><div class="sc-src">Source: Industry estimates, August 2026</div></div>
-
-
 ## The Mistakes That Cost People Money
 
 Three scenarios from my own work, because I think they're instructive:
@@ -107,6 +101,5 @@ Any one of those conditions changes what's needed. The first two especially can 
 - [BrassCraft product specification sheets](https://www.brasscraft.com): Compression ferrule sizing and compatibility charts for 1/2" and 3/8" fittings
 
 ---
-
 
 *Photo: [Zulfugar Karimov](https://www.pexels.com/@zulfugarkarimov) via Pexels*

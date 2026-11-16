@@ -45,10 +45,6 @@ One more thing that matters: is the source fixed? If whatever caused the water i
 
 Prices below reflect national averages as of July 2026. Regional variation is real: labor in San Francisco runs roughly 40% above these figures; rural Midwest runs about 20% below.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average repair cost by damage severity</div><div class="sc-row"><span class="sc-label">Cosmetic stain only</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$225</span></div><div class="sc-row"><span class="sc-label">Small patch (under 2 sq ft)</span><span class="sc-track"><span class="sc-bar" style="width:7%"></span></span><span class="sc-val">$475</span></div><div class="sc-row"><span class="sc-label">Medium patch (2-10 sq ft)</span><span class="sc-track"><span class="sc-bar" style="width:13%"></span></span><span class="sc-val">$950</span></div><div class="sc-row"><span class="sc-label">Large section (10-50 sq ft)</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">$2,400</span></div><div class="sc-row"><span class="sc-label">Full room ceiling replacement</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">$4,800</span></div><div class="sc-row"><span class="sc-label">Full replacement + mold remediation</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$7,200</span></div><div class="sc-src">Source: RS Means Construction Data &amp; contractor estimates, 2026</div></div>
-
-
 | Damage Type | DIY Cost | Pro Cost | Notes |
 |---|---|---|---|
 | Cosmetic stain, no structural damage | $15–$40 | $150–$350 | Primer + paint; 1–2 hours |
@@ -106,7 +102,6 @@ Scenario: Burst supply line to an upstairs toilet in a home in Atlanta. Action: 
 - [IICRC S500 Standard for Professional Water Damage Restoration]: Industry standard governing water damage assessment and drying protocols used by certified restoration contractors.
 
 ---
-
 
 *Photo: [Krakograff Textures](https://www.pexels.com/@krakograff-textures-124842124) via Pexels*
 

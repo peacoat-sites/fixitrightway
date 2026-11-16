@@ -85,10 +85,6 @@ Let it dry completely before painting. DAP Alex Plus says 30 minutes to skin ove
 
 *Scenario 3:* I tested two approaches on a kitchen renovation a few years back. One side of the room I caulked and painted over within 30 minutes (I was in a hurry). The other side I let cure overnight. Six months later, the rushed side had visible hairline cracks following the caulk line where the paint had dried faster than the caulk underneath. The patient side was still clean. Letting it cure matters.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated time before paint cracking by cure time allowed</div><div class="sc-row"><span class="sc-label">Painted in under 1 hr</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">3 months</span></div><div class="sc-row"><span class="sc-label">Painted after 2-3 hrs</span><span class="sc-track"><span class="sc-bar" style="width:38%"></span></span><span class="sc-val">9 months</span></div><div class="sc-row"><span class="sc-label">Painted after 24 hrs</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">24 months</span></div><div class="sc-src">Source: Field observation across 12 residential projects</div></div>
-
-
 ## Sources
 
 - DAP Products Technical Data Sheet (current): Application and cure time guidelines for Alex Plus Acrylic Latex Caulk, available at dap.com
@@ -98,6 +94,5 @@ Let it dry completely before painting. DAP Alex Plus says 30 minutes to skin ove
 - Building Science Corporation: Research on air sealing at interior trim lines and energy impact of gaps along baseboard penetrations
 
 ---
-
 
 *Photo: [Curtis Adams](https://www.pexels.com/@curtis-adams-1694007) via Pexels*
