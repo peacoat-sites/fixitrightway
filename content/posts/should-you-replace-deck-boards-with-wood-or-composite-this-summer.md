@@ -69,9 +69,9 @@ The tariffs didn't flip this decision overnight, but they did make it closer tha
 ## Sources
 
 - [Gordian Lumber Price Updates (Q2 2026)](https://www.gordian.com/resources/lumber-price-updates/) (May 5, 2026)
-- [Deck Replacement Cost Breakdown For 2026 , Premium Decking Supply](https://www.premiumdeckingsupply.com/deck-replacement-cost/) (June 2026)
-- [Composite Deck Cost 2026: Real Prices by Brand and Tier , Ergeon](https://www.ergeon.com/blog/post/composite-deck-cost) (May 14, 2026)
-- [How Much Does Deck Replacement or Repair Cost? , Angi](https://www.angi.com/articles/how-much-does-it-cost-repair-deck.htm) (June 2026)
-- [Lumber Prices in 2026: What Builders and Homeowners Need to Know , Lumber Capital](https://www.lumbercapital.com/post/lumber-prices-in-2026-what-builders-and-homeowners-need-to-know-now) (December 15, 2025)
+- [Deck Replacement Cost Breakdown For 2026, Premium Decking Supply](https://www.premiumdeckingsupply.com/deck-replacement-cost/) (June 2026)
+- [Composite Deck Cost 2026: Real Prices by Brand and Tier, Ergeon](https://www.ergeon.com/blog/post/composite-deck-cost) (May 14, 2026)
+- [How Much Does Deck Replacement or Repair Cost?, Angi](https://www.angi.com/articles/how-much-does-it-cost-repair-deck.htm) (June 2026)
+- [Lumber Prices in 2026: What Builders and Homeowners Need to Know, Lumber Capital](https://www.lumbercapital.com/post/lumber-prices-in-2026-what-builders-and-homeowners-need-to-know-now) (December 15, 2025)
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

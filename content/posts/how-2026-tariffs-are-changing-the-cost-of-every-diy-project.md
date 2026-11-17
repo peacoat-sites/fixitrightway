@@ -47,7 +47,7 @@ Not everything got hammered equally. Here's where things actually stand:
 | Framing Lumber | +45% (Canadian), less for domestic | Sourcing matters; ask your yard |
 | Steel | +18% | Affects brackets, beams, posts |
 | Aluminum | +22% | Railings, flashing, gutters |
-| Drywall | Flat ,  but $14.50/sheet | 42% above pre-pandemic baseline |
+| Drywall | Flat, but $14.50/sheet | 42% above pre-pandemic baseline |
 | Imported Hardwood Decking (Ipe, Cumaru) | +15–25% | Significant for deck builds |
 | Aluminum Railings | +10–20% | Consider vinyl or wood alternatives |
 | Domestic Composite Decking (Trex, TimberTech) | Minimal impact | Made in U.S.; tariffs largely bypass these |
@@ -73,11 +73,11 @@ The tariff environment in 2026 isn't punishing every project equally. It's punis
 
 ## Sources
 
-- [How Tariffs Impact the Home Building Industry ,  NAHB](https://www.nahb.org/advocacy/top-priorities/building-materials-trade-policy/how-tariffs-impact-home-building) (March 2026)
-- [Lumber Price Updates (Q2–Q3 2026) ,  Gordian RSMeans](https://www.gordian.com/resources/lumber-price-updates/) (July 2026)
-- [2026 Construction Tariffs: Steel +25%, Cement +25% ,  CostFlowAI](https://costflowai.com/blog/2026-construction-tariffs-what-they-actually-mean-for-your-project-budget/) (March 2026)
-- [How Tariffs Affect Deck Prices in 2026 ,  LDN Decks](https://ldndecks.com/how-tariffs-affect-deck-prices-2026) (June 2026)
-- [Lumber Prices 2026: Forecast, Tariff Impact & Buying Guide ,  Buildermuse](https://buildermuse.com/economy/lumber-at-487mbf--the-2026-price/) (April 2026)
-- [Recent Tariffs Threaten Residential Construction ,  Brookings Institution](https://www.brookings.edu/articles/recent-tariffs-threaten-residential-construction/) (October 2025)
+- [How Tariffs Impact the Home Building Industry, NAHB](https://www.nahb.org/advocacy/top-priorities/building-materials-trade-policy/how-tariffs-impact-home-building) (March 2026)
+- [Lumber Price Updates (Q2–Q3 2026), Gordian RSMeans](https://www.gordian.com/resources/lumber-price-updates/) (July 2026)
+- [2026 Construction Tariffs: Steel +25%, Cement +25%, CostFlowAI](https://costflowai.com/blog/2026-construction-tariffs-what-they-actually-mean-for-your-project-budget/) (March 2026)
+- [How Tariffs Affect Deck Prices in 2026, LDN Decks](https://ldndecks.com/how-tariffs-affect-deck-prices-2026) (June 2026)
+- [Lumber Prices 2026: Forecast, Tariff Impact & Buying Guide, Buildermuse](https://buildermuse.com/economy/lumber-at-487mbf--the-2026-price/) (April 2026)
+- [Recent Tariffs Threaten Residential Construction, Brookings Institution](https://www.brookings.edu/articles/recent-tariffs-threaten-residential-construction/) (October 2025)
 
 *Photo: [Ono  Kosuki](https://www.pexels.com/@ono-kosuki) via Pexels*

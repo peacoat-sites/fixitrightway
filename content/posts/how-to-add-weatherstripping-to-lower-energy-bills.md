@@ -90,7 +90,7 @@ A blower door test from an energy auditor (typically $250-$450 for a full home a
 
 ## Sources
 
-- U.S. Department of Energy, Building Technologies Office: [energy.gov/energysaver/weatherstripping](https://www.energy.gov/energysaver/weatherstripping) ,  air leakage estimates and product guidance
+- U.S. Department of Energy, Building Technologies Office: [energy.gov/energysaver/weatherstripping](https://www.energy.gov/energysaver/weatherstripping), air leakage estimates and product guidance
 - Lawrence Berkeley National Laboratory, "Residential Air Leakage Database": long-term infiltration data for U.S. housing stock
 - U.S. Energy Information Administration, Residential Energy Consumption Survey (RECS): household energy expenditure breakdowns by end use
 - ENERGY STAR Program, "Sealing Air Leaks" technical guide: field-tested infiltration reduction estimates

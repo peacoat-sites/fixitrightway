@@ -14,7 +14,7 @@ slug: "is-your-shower-valve-quote-fair-what-to-diy-vs-pay-for"
 affiliate_disclosure: true
 ---
 
-If you landed here after seeing that viral r/HomeImprovement post, you're not alone. A thread titled "Contractor quoted me $2,800 to fix my shower valve ,  is that normal or am I getting fleeced?" has been lighting up the 4.7-million-member community this month, and the reason it resonated so hard is simple: most of us have no idea what a shower valve job should cost, which makes us easy targets for a bad quote. You might be wondering if your own dripping showerhead or temperature-spiking water is a sign of the same problem. Here's what I tell people in that exact situation: slow down before you write any checks.
+If you landed here after seeing that viral r/HomeImprovement post, you're not alone. A thread titled "Contractor quoted me $2,800 to fix my shower valve, is that normal or am I getting fleeced?" has been lighting up the 4.7-million-member community this month, and the reason it resonated so hard is simple: most of us have no idea what a shower valve job should cost, which makes us easy targets for a bad quote. You might be wondering if your own dripping showerhead or temperature-spiking water is a sign of the same problem. Here's what I tell people in that exact situation: slow down before you write any checks.
 
 ## What's Actually Wrong With Your Shower (and Why It Matters)
 
@@ -70,11 +70,11 @@ Here's what I'll leave you with. The homeowner in that Reddit thread probably do
 
 ## Sources
 
-- [r/HomeImprovement ,  Subreddit Stats & Active Threads](https://gummysearch.com/r/HomeImprovement/) (July 2026, live)
-- [Cost to Replace a Shower Valve [2026] ,  Plumbing By The Book](https://plumbingbythebook.com/cost-to-replace-a-shower-valve/) (July 6, 2026)
-- [How Much Does a Shower Valve Replacement Cost? (2026) ,  HomeGuide](https://homeguide.com/costs/shower-valve-replacement-cost) (2026)
-- [Average Shower Cartridge Replacement Costs: 2026 Guide ,  Angi](https://www.angi.com/articles/how-much-should-it-cost-change-shower-cartridge.htm) (May 30, 2026)
-- [Cost to Repair Shower Valve ,  Homewyse 2026 Calculator](https://www.homewyse.com/services/cost_to_repair_shower_valve.html) (May 2026)
+- [r/HomeImprovement, Subreddit Stats & Active Threads](https://gummysearch.com/r/HomeImprovement/) (July 2026, live)
+- [Cost to Replace a Shower Valve [2026], Plumbing By The Book](https://plumbingbythebook.com/cost-to-replace-a-shower-valve/) (July 6, 2026)
+- [How Much Does a Shower Valve Replacement Cost? (2026), HomeGuide](https://homeguide.com/costs/shower-valve-replacement-cost) (2026)
+- [Average Shower Cartridge Replacement Costs: 2026 Guide, Angi](https://www.angi.com/articles/how-much-should-it-cost-change-shower-cartridge.htm) (May 30, 2026)
+- [Cost to Repair Shower Valve, Homewyse 2026 Calculator](https://www.homewyse.com/services/cost_to_repair_shower_valve.html) (May 2026)
 
 *Photo: [Anıl Karakaya](https://www.pexels.com/@anilkarakaya) via Pexels*
 

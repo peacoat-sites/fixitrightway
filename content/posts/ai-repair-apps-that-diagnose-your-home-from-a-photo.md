@@ -68,11 +68,11 @@ This category keeps improving. The version available right now, June 2026, is al
 
 ## Sources
 
-- [Best AI Home Repair Tools in 2026: A Comparison , HomeMD.ai](https://homemd.ai/guides/best-ai-home-repair-tools-2026-comparison) (April 17, 2026)
-- [Phones Diagnose Home Repairs: Photos Win The Call , Marketing Code](https://www.marketingcode.com/visual-intelligence-mobile-ai-contractors-photo-funnel-may-2026/) (May 4, 2026)
-- [SnapFix, AI Home Repair Help App , App Store](https://apps.apple.com/us/app/snapfix-ai-home-repair-help/id6758781226) (March 3, 2026)
-- [FixMynd: DIY Home Repair AI App , App Store](https://apps.apple.com/us/app/fixmynd-diy-home-repair-ai/id6766394491) (June 2026)
-- [What the Data Says: Lumber Price Updates , Gordian](https://www.gordian.com/resources/lumber-price-updates/) (May 5, 2026)
-- [Recent Tariffs Threaten Residential Construction , Brookings](https://www.brookings.edu/articles/recent-tariffs-threaten-residential-construction/) (October 9, 2025)
+- [Best AI Home Repair Tools in 2026: A Comparison, HomeMD.ai](https://homemd.ai/guides/best-ai-home-repair-tools-2026-comparison) (April 17, 2026)
+- [Phones Diagnose Home Repairs: Photos Win The Call, Marketing Code](https://www.marketingcode.com/visual-intelligence-mobile-ai-contractors-photo-funnel-may-2026/) (May 4, 2026)
+- [SnapFix, AI Home Repair Help App, App Store](https://apps.apple.com/us/app/snapfix-ai-home-repair-help/id6758781226) (March 3, 2026)
+- [FixMynd: DIY Home Repair AI App, App Store](https://apps.apple.com/us/app/fixmynd-diy-home-repair-ai/id6766394491) (June 2026)
+- [What the Data Says: Lumber Price Updates, Gordian](https://www.gordian.com/resources/lumber-price-updates/) (May 5, 2026)
+- [Recent Tariffs Threaten Residential Construction, Brookings](https://www.brookings.edu/articles/recent-tariffs-threaten-residential-construction/) (October 9, 2025)
 
 *Photo: [MART PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*

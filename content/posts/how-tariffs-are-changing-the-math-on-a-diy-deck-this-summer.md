@@ -73,7 +73,7 @@ The deck math changed this year. Working with the new numbers rather than the ol
 ## Sources
 - [How Tariffs Affect Deck Prices in 2026 | LDN Decks](https://ldndecks.com/how-tariffs-affect-deck-prices-2026) (June 2026)
 - [How Tariffs Impact the Home Building Industry | NAHB](https://www.nahb.org/advocacy/top-priorities/building-materials-trade-policy/how-tariffs-impact-home-building) (March 2026)
-- [2026 Tariffs: Steel +25%, Cement +25% ,  Your Budget Impact | CostFlowAI](https://costflowai.com/blog/2026-construction-tariffs-what-they-actually-mean-for-your-project-budget/) (March 2026)
+- [2026 Tariffs: Steel +25%, Cement +25%, Your Budget Impact | CostFlowAI](https://costflowai.com/blog/2026-construction-tariffs-what-they-actually-mean-for-your-project-budget/) (March 2026)
 - [Labor Cost to Build a Deck Per Square Foot in 2026 | LumberEstimator](https://lumberestimator.us/labor-cost-to-build-a-deck-per-square-foot/) (February 2026)
 - [Deck Cost 2026: Real Installed Prices by Material | Ergeon](https://www.ergeon.com/blog/post/how-much-does-a-deck-cost) (May 2026)
 - [Commodity Price Volatility Hits Homebuilders as Tariffs Reshape Costs | HousingWire](https://www.housingwire.com/articles/builder-material-costs-tariffs/) (February 2026)

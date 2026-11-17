@@ -64,11 +64,11 @@ The broader shift here is worth naming plainly. For the first time, homeowners h
 
 ## Sources
 
-- [Philadelphia Inquirer ,  FiXA AI home repair app launch](https://www.inquirer.com/real-estate/home/fixa-app-ai-home-repairs-contractors-diy-20260412.html) (April 12, 2026)
-- [Fast Company ,  Thumbtack's new AI diagnoses home repairs](https://www.fastcompany.com/91534514/thumbtacks-new-ai-wants-to-diagnose-your-leaky-eiling) (April 30, 2026)
-- [Toolbox Repair ,  Best Home Repair Apps in 2026](https://toolbox.repair/best-home-repair-apps) (March 25, 2026)
-- [HomeMD.ai ,  Best AI Home Repair Tools in 2026 Comparison](https://homemd.ai/guides/best-ai-home-repair-tools-2026-comparison) (April 17, 2026)
-- [Farnsworth Group ,  10 DIY Statistics Shaping Home Improvement 2026-2028](https://www.thefarnsworthgroup.com/blog/10-diy-statistics-shaping-home-improvement) (February 12, 2026)
-- [Geartor ,  Whole Home Battery Backup Systems 2026 Guide](https://geartor.com/whole-home-battery-backup-systems) (December 21, 2025)
+- [Philadelphia Inquirer, FiXA AI home repair app launch](https://www.inquirer.com/real-estate/home/fixa-app-ai-home-repairs-contractors-diy-20260412.html) (April 12, 2026)
+- [Fast Company, Thumbtack's new AI diagnoses home repairs](https://www.fastcompany.com/91534514/thumbtacks-new-ai-wants-to-diagnose-your-leaky-eiling) (April 30, 2026)
+- [Toolbox Repair, Best Home Repair Apps in 2026](https://toolbox.repair/best-home-repair-apps) (March 25, 2026)
+- [HomeMD.ai, Best AI Home Repair Tools in 2026 Comparison](https://homemd.ai/guides/best-ai-home-repair-tools-2026-comparison) (April 17, 2026)
+- [Farnsworth Group, 10 DIY Statistics Shaping Home Improvement 2026-2028](https://www.thefarnsworthgroup.com/blog/10-diy-statistics-shaping-home-improvement) (February 12, 2026)
+- [Geartor, Whole Home Battery Backup Systems 2026 Guide](https://geartor.com/whole-home-battery-backup-systems) (December 21, 2025)
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*

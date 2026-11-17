@@ -67,11 +67,11 @@ The DIY mini-split category has genuinely matured. Zone Air entering the market 
 ## Sources
 
 - [Zone Air Unveils Next-Generation DIY Mini Split Heat Pump Line](https://markets.financialcontent.com/stocks/article/abnewswire-2026-6-11-zone-air-unveils-next-generation-diy-mini-split-heat-pump-line-usabuilt-comfort-made-for-easy-install) (June 11, 2026)
-- [3 Best Mini-Splits of 2026, Lab-Tested and Reviewed ,  Consumer Reports](https://www.consumerreports.org/appliances/air-conditioners/best-mini-splits-a2047810087/) (June 2026)
-- [2026 HVAC Rules: How Smart Systems, SEER2 & New Refrigerants Save You Money ,  The Furnace Outlet](https://thefurnaceoutlet.com/blogs/news/2026-hvac-rules-how-smart-systems-seer2-amp-new-refrigerants-save-you-money) (July 2025, rules effective January 2026)
-- [What Should You Know Before a Heat Pump Installation in 2026? ,  Charles & Hudson](https://charlesandhudson.com/heat-pump-installation/) (April 17, 2026)
-- [Lumber Price Updates ,  Gordian](https://www.gordian.com/resources/lumber-price-updates/) (May 2026)
-- [Lumber ,  Trading Economics](https://tradingeconomics.com/commodity/lumber) (July 3, 2026)
+- [3 Best Mini-Splits of 2026, Lab-Tested and Reviewed, Consumer Reports](https://www.consumerreports.org/appliances/air-conditioners/best-mini-splits-a2047810087/) (June 2026)
+- [2026 HVAC Rules: How Smart Systems, SEER2 & New Refrigerants Save You Money, The Furnace Outlet](https://thefurnaceoutlet.com/blogs/news/2026-hvac-rules-how-smart-systems-seer2-amp-new-refrigerants-save-you-money) (July 2025, rules effective January 2026)
+- [What Should You Know Before a Heat Pump Installation in 2026?, Charles & Hudson](https://charlesandhudson.com/heat-pump-installation/) (April 17, 2026)
+- [Lumber Price Updates, Gordian](https://www.gordian.com/resources/lumber-price-updates/) (May 2026)
+- [Lumber, Trading Economics](https://tradingeconomics.com/commodity/lumber) (July 3, 2026)
 
 *Photo: [Sergey  Meshkov](https://www.pexels.com/@19x14) via Pexels*
 

@@ -21,7 +21,7 @@ The National Association of Home Builders has put a real number on the pain: cur
 The most time-sensitive situation involves [kitchen cabinets](/how-to-repaint-kitchen-cabinets-without-sanding/). A 25% tariff on imported cabinets took effect in October 2025, and that already showed up in quotes most homeowners got this spring. The planned increase to 30% has been pushed to January 2027, which sounds like good news. It is, but only if you act on it. According to Design and Biz's April 2026 analysis of renovation costs, importers facing 25-46% tariff exposure are already narrowing product selections, meaning specific door styles, finishes, and hardware configurations may simply stop being available within the next six to twelve months, regardless of price.
 
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">NAHB estimates tariffs add ~$10,900 to a typical 2026 home project cost.</li><li style="margin:5px 0">Cabinet tariffs jump from 25% to 30% in January 2027 ,  order by October 2026 to land safely.</li><li style="margin:5px 0">Metal roofing is up 15–25%; asphalt shingles up 8–15% over 2024 prices.</li><li style="margin:5px 0">Landscaping and hardscaping are the most tariff-resistant categories right now.</li><li style="margin:5px 0">19% of homeowners have already delayed DIY plans due to tariff-driven cost increases.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">NAHB estimates tariffs add ~$10,900 to a typical 2026 home project cost.</li><li style="margin:5px 0">Cabinet tariffs jump from 25% to 30% in January 2027, order by October 2026 to land safely.</li><li style="margin:5px 0">Metal roofing is up 15–25%; asphalt shingles up 8–15% over 2024 prices.</li><li style="margin:5px 0">Landscaping and hardscaping are the most tariff-resistant categories right now.</li><li style="margin:5px 0">19% of homeowners have already delayed DIY plans due to tariff-driven cost increases.</li></ul></div>
 
 
 ## The Cabinet Window Is Real, and It's Short
@@ -68,11 +68,11 @@ The tariff environment through early 2027 is not going to simplify itself. But t
 
 ## Sources
 
-- [How 2026 Tariffs Are Raising Renovation Costs ,  Design and Biz](https://www.designandbiz.com/learn/how-2026-tariffs-are-changing-what-your-renovation-will-actually-cost) (April 9, 2026)
-- [New Data: Half of Homeowners Can't Afford Necessary Renovations ,  Clever Offers](https://cleveroffers.com/research/home-renovation-trends-2026/) (February 16, 2026)
-- [2026 Tariffs: Steel +25%, Cement +25% ,  Your Budget Impact ,  CostflowAI](https://costflowai.com/blog/2026-construction-tariffs-what-they-actually-mean-for-your-project-budget/) (March 3, 2026)
-- [Will Home Improvement Costs Drop in 2026? ,  DaBella](https://dabella.us/2026/01/will-home-improvement-costs-drop-in-2026/) (July 2026)
-- [6 Home Features That Are About to Get a Lot More Expensive in 2026 ,  AOL](https://www.aol.com/articles/6-home-features-lot-more-143100333.html) (2026)
-- [Home Renovation Forecast 2026 ,  2-10 Home Buyers Warranty](https://www.2-10.com/blog/home-renovation-forecast/) (May 26, 2026)
+- [How 2026 Tariffs Are Raising Renovation Costs, Design and Biz](https://www.designandbiz.com/learn/how-2026-tariffs-are-changing-what-your-renovation-will-actually-cost) (April 9, 2026)
+- [New Data: Half of Homeowners Can't Afford Necessary Renovations, Clever Offers](https://cleveroffers.com/research/home-renovation-trends-2026/) (February 16, 2026)
+- [2026 Tariffs: Steel +25%, Cement +25%, Your Budget Impact, CostflowAI](https://costflowai.com/blog/2026-construction-tariffs-what-they-actually-mean-for-your-project-budget/) (March 3, 2026)
+- [Will Home Improvement Costs Drop in 2026?, DaBella](https://dabella.us/2026/01/will-home-improvement-costs-drop-in-2026/) (July 2026)
+- [6 Home Features That Are About to Get a Lot More Expensive in 2026, AOL](https://www.aol.com/articles/6-home-features-lot-more-143100333.html) (2026)
+- [Home Renovation Forecast 2026, 2-10 Home Buyers Warranty](https://www.2-10.com/blog/home-renovation-forecast/) (May 26, 2026)
 
 *Photo: [Littlehampton Bricks](https://www.pexels.com/@littlehampton-bricks-2717960) via Pexels*

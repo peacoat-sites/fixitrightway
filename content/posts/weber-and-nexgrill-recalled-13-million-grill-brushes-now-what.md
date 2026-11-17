@@ -79,7 +79,7 @@ The timing here is genuinely terrible for consumers. Grilling season in full swi
 - [CPSC: Nexgrill Recalls Over 10.2 Million Metal Wire Bristle Grill Brushes](https://www.cpsc.gov/Recalls/2026/Nexgrill-Recalls-Over-10-2-Million-Metal-Wire-Bristle-Grill-Brushes-Due-to-Ingestion-Hazard-Sold-at-Home-Depot) (March 26, 2026)
 - [CPSC: Weber Recalls Over 3.2 Million Metal Wire Bristle Grill Brushes](https://www.cpsc.gov/Recalls/2026/Weber-Recalls-Over-3-2-Million-Metal-Wire-Bristle-Grill-Brushes-Due-to-Ingestion-Hazard) (February 26, 2026)
 - [Today.com: 10 Million Wire Grill Brushes Sold at Home Depot Recalled](https://www.today.com/health/recall/grill-brush-recall-nexgrill-home-depot-rcna265276) (March 26, 2026)
-- [Bob Vila: Nexgrill Grill Brush Recall ,  What to Do If You Own One](https://www.bobvila.com/reviews/nexgrill-brush-recall-2026/) (April 24, 2026)
-- [AWKO Law: Weber & Nexgrill Grill Brush Recall ,  Hidden Dangers](https://www.awkolaw.com/wire-grill-brush-recall-injury-risks-and-legal-rights/) (April 7, 2026)
+- [Bob Vila: Nexgrill Grill Brush Recall, What to Do If You Own One](https://www.bobvila.com/reviews/nexgrill-brush-recall-2026/) (April 24, 2026)
+- [AWKO Law: Weber & Nexgrill Grill Brush Recall, Hidden Dangers](https://www.awkolaw.com/wire-grill-brush-recall-injury-risks-and-legal-rights/) (April 7, 2026)
 
 *Photo: [Alexey Demidov](https://www.pexels.com/@alexeydemidov) via Pexels*

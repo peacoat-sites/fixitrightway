@@ -21,7 +21,7 @@ This isn't a "prices might go up" story. Framing lumber hit $916.62 per thousand
 Average [DIY project](/diy-project-tool-costs-timeline-2026/) spend hit $5,368 in Q1 2026, up roughly 35% from Q1 2025, per the Farnsworth Group. That number is going higher.
 
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Canadian softwood now carries a 35.9% combined tariff; August 2026 is when suppliers formally adjust.</li><li style="margin:5px 0">Framing lumber hit $916.62/thousand board feet in Q2 2026, up 5.11% from Q1.</li><li style="margin:5px 0">Southern Pine 2x12 jumped 10.7% in July alone ,  buy structural lumber before August if you can.</li><li style="margin:5px 0">Deck hardwoods like Ipe and Cumaru are 15–25% more expensive than early 2025 quotes.</li><li style="margin:5px 0">Average DIY project spend is up 35% year-over-year; material timing now materially affects your budget.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Canadian softwood now carries a 35.9% combined tariff; August 2026 is when suppliers formally adjust.</li><li style="margin:5px 0">Framing lumber hit $916.62/thousand board feet in Q2 2026, up 5.11% from Q1.</li><li style="margin:5px 0">Southern Pine 2x12 jumped 10.7% in July alone, buy structural lumber before August if you can.</li><li style="margin:5px 0">Deck hardwoods like Ipe and Cumaru are 15–25% more expensive than early 2025 quotes.</li><li style="margin:5px 0">Average DIY project spend is up 35% year-over-year; material timing now materially affects your budget.</li></ul></div>
 
 
 ## What the Tariff Actually Does to Your Material List
@@ -79,10 +79,10 @@ Suppliers are already adjusting. The formal August tariff date gives this a head
 If your project is real, your plans are done, and your permits are in hand or in process, buy your lumber now. If you're still in the planning phase, move faster than you normally would. The cost of hesitating on material timing is not hypothetical this summer.
 
 ## Sources
-- [Why Lumber Prices Are Climbing Again in 2026 ,  Builders Supply & Home Center](https://bldrsupply.com/why-lumber-prices-are-climbing-again-in-2026-and-what-it-means-for-your-next-project/) (July 18, 2026)
+- [Why Lumber Prices Are Climbing Again in 2026, Builders Supply & Home Center](https://bldrsupply.com/why-lumber-prices-are-climbing-again-in-2026-and-what-it-means-for-your-next-project/) (July 18, 2026)
 - [July 2026 RoMac Whole House Commodity Index Report](https://www.romacfl.com/post/romac-whole-house-commodity-index-july-2026) (July 17, 2026)
-- [What the Data Says: Lumber Price Updates ,  Gordian](https://www.gordian.com/resources/lumber-price-updates/) (July 16, 2026)
-- [How Tariffs Affect Deck Prices in 2026 ,  LDN Decks](https://ldndecks.com/how-tariffs-affect-deck-prices-2026) (June 2026)
-- [DIY Trends Impacting the Home Improvement Industry in 2026 ,  Farnsworth Group](https://www.thefarnsworthgroup.com/blog/diy-trends-home-improvement) (May 8, 2026)
+- [What the Data Says: Lumber Price Updates, Gordian](https://www.gordian.com/resources/lumber-price-updates/) (July 16, 2026)
+- [How Tariffs Affect Deck Prices in 2026, LDN Decks](https://ldndecks.com/how-tariffs-affect-deck-prices-2026) (June 2026)
+- [DIY Trends Impacting the Home Improvement Industry in 2026, Farnsworth Group](https://www.thefarnsworthgroup.com/blog/diy-trends-home-improvement) (May 8, 2026)
 
 *Photo: [Mathias Reding](https://www.pexels.com/@matreding) via Pexels*

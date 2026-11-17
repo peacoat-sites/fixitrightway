@@ -20,7 +20,7 @@ But "you could" and "you should" are very different sentences. The decision is m
 
 The short version: MiniSplitReview.com just published its updated Best DIY Mini Splits 2026 rankings in June 2026, and the community is buzzing because Zone Air knocked MrCool out of the top spot for the first time in years. That ranking shift is real signal. It means the product landscape for DIY installs has genuinely matured, and your options are better than they were even 18 months ago. Here's how to think through the full picture.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Professional single-zone mini split installation averages nearly $5,000 in 2026, with labor alone at $1,000–$3,500.</li><li style="margin:5px 0">DIY pre-charged kits can cut that by $3,000–$5,000 and typically install in 3–6 hours without specialized tools.</li><li style="margin:5px 0">The federal Section 25C tax credit gives you 30% back (up to $2,000) on qualifying heat pump mini splits in 2026.</li><li style="margin:5px 0">Many manufacturers void the full warranty without licensed installation ,  verify before you buy.</li><li style="margin:5px 0">A2L refrigerants (R-32 or R-454B) in most 2026 systems are mildly flammable; local codes may restrict DIY handling.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Professional single-zone mini split installation averages nearly $5,000 in 2026, with labor alone at $1,000–$3,500.</li><li style="margin:5px 0">DIY pre-charged kits can cut that by $3,000–$5,000 and typically install in 3–6 hours without specialized tools.</li><li style="margin:5px 0">The federal Section 25C tax credit gives you 30% back (up to $2,000) on qualifying heat pump mini splits in 2026.</li><li style="margin:5px 0">Many manufacturers void the full warranty without licensed installation, verify before you buy.</li><li style="margin:5px 0">A2L refrigerants (R-32 or R-454B) in most 2026 systems are mildly flammable; local codes may restrict DIY handling.</li></ul></div>
 
 ## What the Numbers Actually Look Like Right Now
 
@@ -72,9 +72,9 @@ The contractor quote sitting on your kitchen counter might still be the right an
 
 ## Sources
 
-- [Mini Split Installation Cost 2026: Pro vs. DIY Price Breakdown ,  MiniSplitSizer](https://minisplitsizer.com/mini-split-installation-cost-why-are-quotes-so-high-pro-vs-diy/) (January 2026)
-- [Best DIY Mini Splits 2026 ,  MiniSplitReview.com Rankings via OpenPR](https://www.openpr.com/news/4563251/best-diy-mini-splits-2026-minisplitreview-com-releases-2026-rankings-reveals-new-diy-hvac-king) (June 2026)
-- [How Much Does It Cost to Install a Mini Split in 2026? ,  Budget Heating](https://www.budgetheating.com/how-much-does-it-cost-to-install-a-mini-split-in6/) (January 2026)
-- [Mini Split Installation Cost in 2026 ,  FilterBuy](https://filterbuy.com/heating-cooling/mini-splits/cost/mini-split-installation-cost/) (April 2026)
+- [Mini Split Installation Cost 2026: Pro vs. DIY Price Breakdown, MiniSplitSizer](https://minisplitsizer.com/mini-split-installation-cost-why-are-quotes-so-high-pro-vs-diy/) (January 2026)
+- [Best DIY Mini Splits 2026, MiniSplitReview.com Rankings via OpenPR](https://www.openpr.com/news/4563251/best-diy-mini-splits-2026-minisplitreview-com-releases-2026-rankings-reveals-new-diy-hvac-king) (June 2026)
+- [How Much Does It Cost to Install a Mini Split in 2026?, Budget Heating](https://www.budgetheating.com/how-much-does-it-cost-to-install-a-mini-split-in6/) (January 2026)
+- [Mini Split Installation Cost in 2026, FilterBuy](https://filterbuy.com/heating-cooling/mini-splits/cost/mini-split-installation-cost/) (April 2026)
 
 *Photo: [Max Vakhtbovych](https://www.pexels.com/@artbovich) via Pexels*

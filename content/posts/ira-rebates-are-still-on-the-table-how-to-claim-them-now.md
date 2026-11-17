@@ -74,10 +74,10 @@ The homeowners who leave this money behind aren't the ones who tried and failed.
 
 ## Sources
 
-- [State-by-State HVAC Rebates in 2026: Where Homeowners Are Leaving Money on the Table ,  ACDirect](https://www.acdirect.com/blog/state-hvac-rebates-2026/) (March 18, 2026)
-- [Federal Tax Credits for HVAC in 2026: What's Still Available After the IRA Changes ,  ACDirect](https://www.acdirect.com/blog/federal-hvac-tax-credits-2026/) (March 9, 2026)
-- [IRA Residential Energy Rebate Programs ,  California Energy Commission](https://www.energy.ca.gov/programs-and-topics/programs/inflation-reduction-act-residential-energy-rebate-programs) (Updated February 2026)
-- [Water Heater Tax Credits as of May 2026 ,  Barnett Plumbing & Water Heaters](https://philbarnettplumbing.com/water-heater-tax-credit/) (May 17, 2026)
-- [What the Data Says: Lumber Price Updates ,  Gordian](https://www.gordian.com/resources/lumber-price-updates/) (May 5, 2026)
+- [State-by-State HVAC Rebates in 2026: Where Homeowners Are Leaving Money on the Table, ACDirect](https://www.acdirect.com/blog/state-hvac-rebates-2026/) (March 18, 2026)
+- [Federal Tax Credits for HVAC in 2026: What's Still Available After the IRA Changes, ACDirect](https://www.acdirect.com/blog/federal-hvac-tax-credits-2026/) (March 9, 2026)
+- [IRA Residential Energy Rebate Programs, California Energy Commission](https://www.energy.ca.gov/programs-and-topics/programs/inflation-reduction-act-residential-energy-rebate-programs) (Updated February 2026)
+- [Water Heater Tax Credits as of May 2026, Barnett Plumbing & Water Heaters](https://philbarnettplumbing.com/water-heater-tax-credit/) (May 17, 2026)
+- [What the Data Says: Lumber Price Updates, Gordian](https://www.gordian.com/resources/lumber-price-updates/) (May 5, 2026)
 
 *Photo: [Josh Withers](https://www.pexels.com/@hellojoshwithers) via Pexels*

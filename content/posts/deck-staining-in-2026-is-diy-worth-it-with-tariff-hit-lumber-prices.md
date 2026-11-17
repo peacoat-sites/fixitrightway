@@ -64,7 +64,7 @@ The bottom line is this: summer 2026 is genuinely a moment where the DIY math on
 
 - [Gordian RSMeans: Lumber Price Updates Q2 2026](https://www.gordian.com/resources/lumber-price-updates/) (May 2026)
 - [NAHB: New Tariffs on Lumber and Wood Product Imports](https://www.nahb.org/advocacy/top-priorities/building-materials-trade-policy/how-tariffs-impact-home-building) (April 2026)
-- [CostFlow AI: 2026 Tariffs , Your Budget Impact](https://costflowai.com/blog/2026-construction-tariffs-what-they-actually-mean-for-your-project-budget/) (March 2026)
+- [CostFlow AI: 2026 Tariffs, Your Budget Impact](https://costflowai.com/blog/2026-construction-tariffs-what-they-actually-mean-for-your-project-budget/) (March 2026)
 - [Angi: How Much Does It Cost to Stain a Deck? 2026 Data](https://www.angi.com/articles/how-much-does-it-cost-stain-deck.htm) (May 2026)
 - [FacadeColorizer: Deck Restoration vs Replacement Cost 2026](https://facadecolorizer.com/us/blog/deck-restoration-vs-replacement-cost-2026) (June 2026)
 - [HomeGuide: 2026 Cost To Stain A Deck](https://homeguide.com/costs/cost-to-stain-a-deck) (2026)

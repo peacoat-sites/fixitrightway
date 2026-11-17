@@ -69,10 +69,10 @@ The question to ask before following any AI repair instruction: what's the failu
 AI home repair tools are real, they're improving, and they're not going away. But right now, in mid-2026, they're better at helping you shop and imagine than at helping you diagnose. Knowing that distinction before you start a project is worth more than any single piece of advice they'll give you.
 
 ## Sources
-- [Home Renovation Trends and Forecast 2026 ,  MeckTimes](https://mecktimes.com/news/2026/07/16/home-renovation-trends-and-forecast-2026/) (July 16, 2026)
-- [When AI Goes Rogue: DIY Mistakes AI Can't Help You Avoid ,  Handyman Connection](https://handymanconnection.com/2026/07/when-not-to-listen-to-your-ai-bestie-for-diy-projects/) (July 5, 2026)
-- [Best AI Home Repair Tools in 2026: A Comparison and the Gap Most Tools Miss ,  HomeMD.ai](https://homemd.ai/guides/best-ai-home-repair-tools-2026-comparison) (April 17, 2026)
-- [AI Meets DIY ,  Aviva Newsroom](https://www.aviva.com/newsroom/news-releases/2026/02/ai-meets-diy/) (February 2, 2026)
-- [AI at The Home Depot: A Look at the Future of Home Improvement ,  Home Depot Corporate](https://corporate.homedepot.com/node/1968) (March 30, 2026)
+- [Home Renovation Trends and Forecast 2026, MeckTimes](https://mecktimes.com/news/2026/07/16/home-renovation-trends-and-forecast-2026/) (July 16, 2026)
+- [When AI Goes Rogue: DIY Mistakes AI Can't Help You Avoid, Handyman Connection](https://handymanconnection.com/2026/07/when-not-to-listen-to-your-ai-bestie-for-diy-projects/) (July 5, 2026)
+- [Best AI Home Repair Tools in 2026: A Comparison and the Gap Most Tools Miss, HomeMD.ai](https://homemd.ai/guides/best-ai-home-repair-tools-2026-comparison) (April 17, 2026)
+- [AI Meets DIY, Aviva Newsroom](https://www.aviva.com/newsroom/news-releases/2026/02/ai-meets-diy/) (February 2, 2026)
+- [AI at The Home Depot: A Look at the Future of Home Improvement, Home Depot Corporate](https://corporate.homedepot.com/node/1968) (March 30, 2026)
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*

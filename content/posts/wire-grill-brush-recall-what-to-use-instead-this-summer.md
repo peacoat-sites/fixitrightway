@@ -67,10 +67,10 @@ Find your model number, claim your refund, and grab a coil brush or stone before
 
 ## Sources
 
-- [CPSC , Nexgrill Recalls Over 10.2 Million Metal Wire Bristle Grill Brushes](https://cpsc.gov/Recalls/2026/Nexgrill-Recalls-Over-10-2-Million-Metal-Wire-Bristle-Grill-Brushes-Due-to-Ingestion-Hazard-Sold-at-Home-Depot) (March 26, 2026)
-- [CPSC , Chairman Feldman Statement on Weber Metal Wire Bristle Grill Brush Recall](https://www.cpsc.gov/About-CPSC/Chairman/Peter-A-Feldman/Statement/Chairman-Feldman-Statement-on-Weber-Metal-Wire-Bristle-Grill-Brush-Recall-Manufacturers-Must-Address-Known-Hazards-in-Metal-Wire-Bristle-Grill-Brushes) (February 26, 2026)
-- [TODAY , 10 Million Wire Grill Brushes Sold at Home Depot Recalled: Full Product List](https://www.today.com/health/recall/grill-brush-recall-nexgrill-home-depot-rcna265276) (March 26, 2026)
-- [HGTV , More Than 10 Million Metal Wire Bristle Grill Brushes Have Been Recalled](https://www.hgtv.com/gardening/gardening-tips/metal-wire-bristle-grill-brush-recall) (March 31, 2026)
-- [AWKO Law , Weber & Nexgrill Grill Brush Recall: Hidden Dangers](https://www.awkolaw.com/wire-grill-brush-recall-injury-risks-and-legal-rights/) (April 7, 2026)
+- [CPSC, Nexgrill Recalls Over 10.2 Million Metal Wire Bristle Grill Brushes](https://cpsc.gov/Recalls/2026/Nexgrill-Recalls-Over-10-2-Million-Metal-Wire-Bristle-Grill-Brushes-Due-to-Ingestion-Hazard-Sold-at-Home-Depot) (March 26, 2026)
+- [CPSC, Chairman Feldman Statement on Weber Metal Wire Bristle Grill Brush Recall](https://www.cpsc.gov/About-CPSC/Chairman/Peter-A-Feldman/Statement/Chairman-Feldman-Statement-on-Weber-Metal-Wire-Bristle-Grill-Brush-Recall-Manufacturers-Must-Address-Known-Hazards-in-Metal-Wire-Bristle-Grill-Brushes) (February 26, 2026)
+- [TODAY, 10 Million Wire Grill Brushes Sold at Home Depot Recalled: Full Product List](https://www.today.com/health/recall/grill-brush-recall-nexgrill-home-depot-rcna265276) (March 26, 2026)
+- [HGTV, More Than 10 Million Metal Wire Bristle Grill Brushes Have Been Recalled](https://www.hgtv.com/gardening/gardening-tips/metal-wire-bristle-grill-brush-recall) (March 31, 2026)
+- [AWKO Law, Weber & Nexgrill Grill Brush Recall: Hidden Dangers](https://www.awkolaw.com/wire-grill-brush-recall-injury-risks-and-legal-rights/) (April 7, 2026)
 
 *Photo: [Caio](https://www.pexels.com/@caio) via Pexels*

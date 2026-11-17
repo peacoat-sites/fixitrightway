@@ -65,10 +65,10 @@ The homeowners who come out ahead in this environment aren't the ones who wait f
 ## Sources
 
 - [AGC Tariff Resource Center for Contractors](https://www.agc.org/tariff-resources-contractors) (updated June 30, 2026)
-- [2026 Construction Tariffs: Steel +25%, Cement +25% ,  Your Budget Impact (CostFlowAI)](https://costflowai.com/blog/2026-construction-tariffs-what-they-actually-mean-for-your-project-budget/) (published March 3, 2026)
+- [2026 Construction Tariffs: Steel +25%, Cement +25%, Your Budget Impact (CostFlowAI)](https://costflowai.com/blog/2026-construction-tariffs-what-they-actually-mean-for-your-project-budget/) (published March 3, 2026)
 - [How Tariffs Impact the Home Building Industry (NAHB)](https://www.nahb.org/advocacy/top-priorities/building-materials-trade-policy/how-tariffs-impact-home-building) (published March 23, 2026)
 - [Recent Tariffs Threaten Residential Construction (Brookings Institution)](https://www.brookings.edu/articles/recent-tariffs-threaten-residential-construction/) (published October 9, 2025)
-- [2026 U.S. Construction Costs ,  Q2 Update (Tax Credit Advisor)](https://www.taxcreditadvisor.com/articles/2026-us-construction-cost-outlook-q2-update/) (published April 16, 2026)
+- [2026 U.S. Construction Costs, Q2 Update (Tax Credit Advisor)](https://www.taxcreditadvisor.com/articles/2026-us-construction-cost-outlook-q2-update/) (published April 16, 2026)
 - [Tariffs and Construction Costs in 2026: What LA Homeowners Should Budget (CCS Inc.)](https://www.laconstructioncompliance.com/tariffs-construction-costs-2026-la-adu-remodeling-budget/) (published April 27, 2026)
 
 *Photo: [Mark Stebnicki](https://www.pexels.com/@nc-farm-bureau-mark) via Pexels*

@@ -21,7 +21,7 @@ Here's where things stand [right now](/how-to-shop-for-materials-right-now-and-b
 The math isn't complicated. A tariff doesn't replace the old price. It layers on top. And this one, at 35.9%, is one of the steepest single-rate increases in recent memory.
 
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Canadian softwood lumber tariffs jump to 35.9% in August 2026, one of the steepest recent single increases.</li><li style="margin:5px 0">Framing lumber already up ~4.4% month-over-month in July 2026 as suppliers pre-price the tariff.</li><li style="margin:5px 0">Deck and fence material costs are 8–15% higher in 2026 vs. early 2025; buy before August if you can.</li><li style="margin:5px 0">Domestic composites (Trex, TimberTech) face only 5–8% increases ,  significantly better than imported hardwoods at 15–25%.</li><li style="margin:5px 0">1 in 5 homeowners are already delaying renovation plans due to tariff-driven material cost increases.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Canadian softwood lumber tariffs jump to 35.9% in August 2026, one of the steepest recent single increases.</li><li style="margin:5px 0">Framing lumber already up ~4.4% month-over-month in July 2026 as suppliers pre-price the tariff.</li><li style="margin:5px 0">Deck and fence material costs are 8–15% higher in 2026 vs. early 2025; buy before August if you can.</li><li style="margin:5px 0">Domestic composites (Trex, TimberTech) face only 5–8% increases, significantly better than imported hardwoods at 15–25%.</li><li style="margin:5px 0">1 in 5 homeowners are already delaying renovation plans due to tariff-driven material cost increases.</li></ul></div>
 
 
 ## What the 35.9% Rate Actually Means at the Lumberyard
@@ -75,10 +75,10 @@ The window is July. It's not wide, but it's real. Price your project, pull the t
 
 ## Sources
 
-- [Why Lumber Prices Are Climbing Again in 2026 ,  Builders Supply & Home Center](https://bldrsupply.com/why-lumber-prices-are-climbing-again-in-2026-and-what-it-means-for-your-next-project/) (July 2026)
-- [How Tariffs Impact the Home Building Industry ,  NAHB](https://www.nahb.org/advocacy/top-priorities/building-materials-trade-policy/how-tariffs-impact-home-building) (March 2026)
-- [How Tariffs Affect Deck Prices in 2026 ,  LDN Decks](https://ldndecks.com/how-tariffs-affect-deck-prices-2026) (June 2026)
-- [2026 Tariffs: Steel +25%, Cement +25% ,  Your Budget Impact ,  CostFlow AI](https://costflowai.com/blog/2026-construction-tariffs-what-they-actually-mean-for-your-project-budget/) (March 2026)
-- [Home Renovation Trends and Forecast 2026 ,  Meck Times / 2-10 Home Warranty](https://mecktimes.com/news/2026/07/16/home-renovation-trends-and-forecast-2026/) (July 16, 2026)
+- [Why Lumber Prices Are Climbing Again in 2026, Builders Supply & Home Center](https://bldrsupply.com/why-lumber-prices-are-climbing-again-in-2026-and-what-it-means-for-your-next-project/) (July 2026)
+- [How Tariffs Impact the Home Building Industry, NAHB](https://www.nahb.org/advocacy/top-priorities/building-materials-trade-policy/how-tariffs-impact-home-building) (March 2026)
+- [How Tariffs Affect Deck Prices in 2026, LDN Decks](https://ldndecks.com/how-tariffs-affect-deck-prices-2026) (June 2026)
+- [2026 Tariffs: Steel +25%, Cement +25%, Your Budget Impact, CostFlow AI](https://costflowai.com/blog/2026-construction-tariffs-what-they-actually-mean-for-your-project-budget/) (March 2026)
+- [Home Renovation Trends and Forecast 2026, Meck Times / 2-10 Home Warranty](https://mecktimes.com/news/2026/07/16/home-renovation-trends-and-forecast-2026/) (July 16, 2026)
 
 *Photo: [Mark Stebnicki](https://www.pexels.com/@nc-farm-bureau-mark) via Pexels*

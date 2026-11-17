@@ -77,11 +77,11 @@ The confidence driving this summer's DIY boom is genuinely good. People are capa
 
 ## Sources
 
-- [Home Inspectors Say This DIY Fix Is Behind Many Denied Insurance Claims ,  Homedit](https://www.homedit.com/home-inspectors-say-this-diy-fix-is-behind-many-denied-insurance-claims/) (April 10, 2026)
-- [Can Electrical Work Affect Home Insurance? ,  Nexum Electric](https://nexumelectric.com/2026/03/04/can-electrical-work-affect-home-insurance-what-homeowners-should-know-before-diy-or-upgrades/) (March 4, 2026)
-- [Does Homeowners Insurance Cover Unpermitted Work? ,  Econosurance](https://econosurance.com/property-insurance/does-homeowners-insurance-cover-unpermitted-work/) (April 4, 2026)
-- [Unpermitted Additions in 2026: Should You Walk Away? ,  PLHH](https://www.plhh.com/unpermitted-home-additions-2026-buyer-guide.html) (March 22, 2026)
-- [10 DIY Statistics Shaping Home Improvement (2026-2028) ,  Farnsworth Group](https://www.thefarnsworthgroup.com/blog/10-diy-statistics-shaping-home-improvement) (February 12, 2026)
+- [Home Inspectors Say This DIY Fix Is Behind Many Denied Insurance Claims, Homedit](https://www.homedit.com/home-inspectors-say-this-diy-fix-is-behind-many-denied-insurance-claims/) (April 10, 2026)
+- [Can Electrical Work Affect Home Insurance?, Nexum Electric](https://nexumelectric.com/2026/03/04/can-electrical-work-affect-home-insurance-what-homeowners-should-know-before-diy-or-upgrades/) (March 4, 2026)
+- [Does Homeowners Insurance Cover Unpermitted Work?, Econosurance](https://econosurance.com/property-insurance/does-homeowners-insurance-cover-unpermitted-work/) (April 4, 2026)
+- [Unpermitted Additions in 2026: Should You Walk Away?, PLHH](https://www.plhh.com/unpermitted-home-additions-2026-buyer-guide.html) (March 22, 2026)
+- [10 DIY Statistics Shaping Home Improvement (2026-2028), Farnsworth Group](https://www.thefarnsworthgroup.com/blog/10-diy-statistics-shaping-home-improvement) (February 12, 2026)
 
 *Photo: [tnfeez desgin](https://www.pexels.com/@tanfeez) via Pexels*
 

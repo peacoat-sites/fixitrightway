@@ -79,7 +79,7 @@ The tariff pressure is real. The cost savings from DIY are real. But the risk of
 - [Recent Tariffs Threaten Residential Construction](https://www.brookings.edu/articles/recent-tariffs-threaten-residential-construction/) (October 2025)
 - [How Tariffs Impact the Home Building Industry](https://www.nahb.org/advocacy/top-priorities/building-materials-trade-policy/how-tariffs-impact-home-building) (March 2026)
 - [Does Homeowners Insurance Cover Unpermitted Work?](https://legalclarity.org/does-homeowners-insurance-cover-unpermitted-work/) (April 2026)
-- [2026 Tariffs: Steel +25%, Cement +25% ,  Your Budget Impact](https://costflowai.com/blog/2026-construction-tariffs-what-they-actually-mean-for-your-project-budget/) (March 2026)
+- [2026 Tariffs: Steel +25%, Cement +25%, Your Budget Impact](https://costflowai.com/blog/2026-construction-tariffs-what-they-actually-mean-for-your-project-budget/) (March 2026)
 - [Unpermitted Additions in 2026: Should You Walk Away?](https://www.plhh.com/unpermitted-home-additions-2026-buyer-guide.html) (March 2026)
 
 *Photo: [Craig Adderley](https://www.pexels.com/@thatguycraig000) via Pexels*

@@ -66,7 +66,7 @@ The deal isn't closed yet, and the UK CMA could still require additional remedie
 ## Sources
 - [European Commission approves AkzoNobel and Axalta merger of equals (SEC Form 425 filing)](https://www.sec.gov/Archives/edgar/data/0001616862/000119312526452070/d62396d425.htm) (November 6, 2026)
 - [Update on the UK CMA's review of the AkzoNobel-Axalta merger (SEC Form 425 filing)](https://www.sec.gov/Archives/edgar/data/0001616862/000119312526457032/d841059d425.htm) (November 11, 2026)
-- [Paint Industry Merger Approved: AkzoNobel Sells EU Business ,  Collision Repair Magazine](https://www.collisionrepairmag.com/business/article/16424926/axalta-paint-industry-merger-approved-akzonobel-sells-eu-business) (November 9, 2026)
-- [AkzoNobel name to vanish in merger with US paint maker rival Axalta ,  NL Times](https://nltimes.nl/2026/08/09/akzonobel-name-vanish-merger-us-paint-maker-rival-axalta) (August 9, 2026)
+- [Paint Industry Merger Approved: AkzoNobel Sells EU Business, Collision Repair Magazine](https://www.collisionrepairmag.com/business/article/16424926/axalta-paint-industry-merger-approved-akzonobel-sells-eu-business) (November 9, 2026)
+- [AkzoNobel name to vanish in merger with US paint maker rival Axalta, NL Times](https://nltimes.nl/2026/08/09/akzonobel-name-vanish-merger-us-paint-maker-rival-axalta) (August 9, 2026)
 
 *Photo: [David Renken](https://www.pexels.com/@david-renken-2441272) via Pexels*
