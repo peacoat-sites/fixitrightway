@@ -23,7 +23,7 @@ author: "Kim Reeves"
 author_slug: "kim-reeves"
 author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your windows are probably leaking more heat than [your insulation is saving](/how-to-insulate-an-attic-yourself-to-save-energy/). Weatherstripping compresses, caulk cracks, and glazing compound deteriorates over time, all of which increase heat loss. Most articles suggest feeling for drafts with your hand and recommend one generic product. A better approach is to identify which specific problems your windows have, then match them to the right fixes.
 

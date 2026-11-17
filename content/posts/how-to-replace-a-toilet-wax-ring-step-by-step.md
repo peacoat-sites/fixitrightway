@@ -23,7 +23,7 @@ faqs:
     a: "The smell is sewer gas, which contains methane and hydrogen sulfide. Low-level exposure from a slow wax ring leak in a ventilated bathroom is generally not dangerous, but it's not something to ignore either. Concentrated sewer gas buildup in an enclosed space can be harmful, so fix it promptly."
   - q: "Do I need to caulk around the base of the toilet after installation?"
     a: "This is genuinely debated. Some codes require it; some plumbers hate it. My position: leave the back half of the base uncaulked so water from a future leak weeps out where you can see it rather than rotting the subfloor silently for months before you notice. A fully caulked base looks clean but hides problems."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most plumbers charge $150 to $300 to replace a wax ring. The ring itself costs $8. That gap tells you almost everything you need to know about this repair.
 

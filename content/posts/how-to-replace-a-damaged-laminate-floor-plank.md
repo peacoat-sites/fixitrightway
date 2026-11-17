@@ -23,7 +23,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You probably noticed the damaged plank weeks ago and have been stepping around it ever since. Maybe it's a bubble from a slow leak under the dishwasher, or a crack from something heavy getting dropped, or just that one high-traffic spot near the back door that finally gave up. Whatever caused it, here's what most people don't realize: replacing a single laminate plank is genuinely doable on a weekend afternoon, and it doesn't require tearing up your whole floor.
 

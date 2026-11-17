@@ -1,6 +1,7 @@
 ---
 title: "Replace a Cracked Floor Tile for $50 Without Removing Others"
 date: 2026-07-24T09:10:17.793785+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to replace a single cracked floor tile affordably. Step-by-step instructions for removing and installing replacement tiles without disturbing your ent"
 image: "/img/heroes/4915849.jpg"

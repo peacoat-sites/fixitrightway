@@ -23,7 +23,7 @@ faqs:
    a: "A good quality silicone or EPDM O-ring, properly greased with silicone lubricant at installation, should last eight to fifteen years in normal residential use. If yours are failing faster than that, check your water quality. High chlorine levels and very hot water temperatures both degrade rubber faster than average."
  - q: "Is it worth repairing an older faucet or should I just replace it?"
    a: "If the faucet is less than fifteen years old and the body isn't cracked, repair it. The O-ring kits are cheap, the repair time is minimal, and a mid-range Moen or Delta will last another decade after a proper rebuild. If the faucet is twenty-plus years old, chrome is pitting, the cartridge is seized, and you're already taking it apart, replacement starts making more sense. New mid-range faucet plus installation runs $300 to $600 depending on your area, and you get a full warranty."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people assume a faucet leak means the spout is dripping. But a leak at the *base* of the faucet, that slow puddle that appears around the bottom where the faucet meets the sink deck, is actually a different problem entirely, and the fix most people reach for first is almost always the wrong one.

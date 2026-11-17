@@ -12,7 +12,7 @@ author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
 slug: "how-tariffs-are-changing-the-cost-of-your-next-diy-project"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most DIY coverage right now is still telling you to "shop around for deals" and "consider alternatives." That's not a materials strategy. That's a shrug. Here's what's actually happening to prices, and what it means for the deck, fence, or cabinet project you're planning this summer.
 

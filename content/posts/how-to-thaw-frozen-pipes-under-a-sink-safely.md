@@ -23,7 +23,7 @@ faqs:
    a: "Water freezes at 32°F, but pipes in interior spaces typically don't freeze until outdoor temps drop to around 20°F or below, especially with any wind chill. Pipes on exterior walls or in uninsulated cabinets can freeze at higher temperatures than you'd expect, sometimes 28°F to 30°F, because the cabinet itself is acting like a cold box. If the forecast shows a hard freeze coming, open those cabinet doors before you go to bed."
  - q: "Should I call a plumber or handle this myself?"
    a: "If the pipe is still intact and you can see the frozen section, handle it yourself. It's not complicated and the tools are things you already own. Call a plumber if the frozen section runs into the wall where you can't access it, if you see any signs of a burst or cracked pipe, or if you've been trying to thaw it for over an hour with no progress. An emergency plumber on a weekend will run you $150 to $300 for a service call before any actual work, so it's worth a genuine attempt first."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 A frozen pipe under the kitchen sink means no water flow and a problem that needs immediate attention. Frozen pipes under sinks are one of the more manageable cold-weather problems you can handle yourself. The good news: frozen pipes under a sink are one of the more manageable cold-weather problems you can handle yourself. The bad news: a lot of people make the situation dramatically worse in the first five minutes.

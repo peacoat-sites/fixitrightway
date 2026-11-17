@@ -1,6 +1,7 @@
 ---
 title: "Dishwasher Won't Drain? 5 DIY Fixes You Can Try Today"
 date: 2026-07-18T08:29:49.670841+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to unclog your dishwasher drain with simple troubleshooting steps. Clear filters, hoses, and standing water without calling a repair tech."
 image: "/img/heroes/87299.jpg"

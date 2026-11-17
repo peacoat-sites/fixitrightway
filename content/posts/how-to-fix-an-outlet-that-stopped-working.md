@@ -1,6 +1,7 @@
 ---
 title: "Dead Outlet? Here's How to Fix It Yourself in 5 Steps"
 date: 2026-07-11T08:27:45.250007+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "An outlet that stopped working is usually an easy fix. Learn how to reset tripped GFCIs, check breakers, and safely replace a faulty outlet yourself."
 image: "/img/heroes/14319099.jpg"

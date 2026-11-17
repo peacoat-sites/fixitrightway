@@ -12,7 +12,7 @@ author_title: "Interior Renovator"
 author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
 slug: "unpermitted-diy-work-can-void-your-home-insurance-claim"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Picture this: it's September, the summer project is done, and you're genuinely proud of the panel upgrade or the bathroom addition you knocked out yourself. Then a kitchen fire happens. The adjuster comes out, starts asking questions, notices the work, pulls the permit history, and your $80,000 claim gets denied. Not because you did the work wrong. Because you never pulled the permit.

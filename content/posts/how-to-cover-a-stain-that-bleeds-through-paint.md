@@ -23,7 +23,7 @@ faqs:
    a: "No. Shellac-based and oil-based primers are compatible with latex topcoats as long as the primer is fully cured before you paint over it. This is one of the genuinely convenient things about stain-blocking primers: you use the best blocker for the job, then go back to your preferred water-based paint on top."
  - q: "Will the stain come back after I've properly primed and painted it?"
    a: "If you addressed the source of the stain (fixed the leak, eliminated the grease source, whatever caused it) and used a proper stain-blocking primer, the stain should not reappear. The primer creates a permanent barrier. The only time I've seen properly sealed stains return is when the underlying problem was never actually fixed."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Three coats of fresh paint and the stain is still grinning back at you. It's a frustrating situation.

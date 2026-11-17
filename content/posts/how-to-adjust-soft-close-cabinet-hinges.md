@@ -23,7 +23,7 @@ faqs:
    a: "That's almost always a door warp, not a hinge problem. Hold a straightedge along the door face and check. A small warp (under 3mm or so) can sometimes be corrected by adjusting the in-and-out depth at the top and bottom hinge differently, essentially using the hinges to tension the door into a flatter position. More than that and you're fighting a losing battle without addressing the warp itself."
  - q: "How often should I adjust or maintain cabinet hinges?"
    a: "Give them a look every couple of years. Wipe down the hinge mechanism with a dry cloth (avoid WD-40, it attracts dust and gums up the damper over time), and check that all mounting screws are snug. That's it. Well-made hinges like Blum should last the life of the cabinet without ever needing more than the occasional alignment tweak."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Your cabinet door is sitting crooked, won't stay shut, or swings open and slams against the wall every single time. You've lived with it for six months because it felt like a bigger fix than it probably is. I get it. But here's the thing: adjusting soft-close hinges is genuinely one of the fastest wins in home repair. We're talking five minutes, a single Phillips head screwdriver, and no trips to the hardware store.

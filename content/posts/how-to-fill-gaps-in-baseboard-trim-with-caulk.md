@@ -1,6 +1,7 @@
 ---
 title: "Caulking Baseboard Gaps: A Step-by-Step Repair Guide"
 date: 2026-07-14T08:54:25.797492+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to fill gaps between baseboards and walls with caulk. We cover material selection, application techniques, and finishing for seamless results."
 image: "/img/heroes/8583904.jpg"

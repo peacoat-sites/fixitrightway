@@ -1,6 +1,7 @@
 ---
 title: "Weatherstripping Saves $94 Annually on Energy Bills"
 date: 2026-08-13T08:04:52.455533+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to add weatherstripping to reduce heating and cooling costs. Simple DIY steps to lower energy bills and improve home comfort."
 image: "/img/heroes/10519850.jpg"

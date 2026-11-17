@@ -23,7 +23,7 @@ author: "Paul Zhang"
 author_slug: "paul-zhang"
 author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people buying primer for dark walls just grab whatever the paint store employee suggests, slap it on, and then find the wall still looks vaguely purple underneath the white. The assumption is that primer is primer, and any decent coat will do the job. The *type* of primer matters significantly, not just the quality of it. There's a significant difference between a primer that "helps" with coverage and one that was genuinely engineered to block dark pigments. Getting that wrong costs you time, paint, and real money.
 

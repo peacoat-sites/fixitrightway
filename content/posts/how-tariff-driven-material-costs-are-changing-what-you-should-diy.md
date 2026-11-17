@@ -12,7 +12,7 @@ author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
 slug: "how-tariff-driven-material-costs-are-changing-what-you-should-diy"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 You budgeted $4,000 for a bathroom refresh. You've watched three YouTube videos, you've got a free weekend, and you're feeling capable. Then you price out the vanity. The one you picked last fall is now $800 more than it was, the cabinet place says lead times are six weeks out, and your lumber yard just raised prices again. Welcome to summer 2026, where the DIY math that made sense eighteen months ago has quietly stopped working.
 

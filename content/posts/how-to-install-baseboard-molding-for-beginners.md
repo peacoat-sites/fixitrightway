@@ -1,6 +1,7 @@
 ---
 title: "$4.50 Per Foot: Install Baseboard Molding Like a Pro"
 date: 2026-07-12T08:54:02.441427+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to install baseboard molding yourself with simple tools, step-by-step cuts, and pro tips that save time and deliver clean, professional results."
 image: "/img/heroes/19866428.jpg"

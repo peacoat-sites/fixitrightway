@@ -23,7 +23,7 @@ author: "Dana Morrison"
 author_slug: "dana-morrison"
 author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You already know exactly how it happened. The door swung open a little too hard, maybe the wind caught it, maybe someone wasn't paying attention, and now there's a doorknob-shaped hole punched through your drywall. It's one of the most common wall repairs I get called about, and it's also one of the most unnecessary service calls. This is a repair almost any homeowner can do themselves for under $30 and a Saturday morning. Let me walk you through it the right way so you don't end up with a lumpy, visible patch that bugs you every time you walk past it.
 

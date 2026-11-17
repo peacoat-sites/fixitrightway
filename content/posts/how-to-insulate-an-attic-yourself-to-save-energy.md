@@ -23,7 +23,7 @@ author: "Dana Morrison"
 author_slug: "dana-morrison"
 author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 My gas bill dropped $74 the first month after I insulated my attic. Not because I did anything fancy. I rented a blower machine from Home Depot for $25, bought 20 bags of Owens Corning PINK fiberglass loose-fill at around $13 a bag, and spent a Saturday crawling around in a respirator. That's it. No contractor, no permits in most jurisdictions, no special skills required. Just the willingness to be uncomfortable for a few hours.
 

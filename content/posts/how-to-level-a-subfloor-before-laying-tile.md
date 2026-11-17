@@ -1,6 +1,7 @@
 ---
 title: "Subfloor Leveling for Tile: A 10-Step Process"
 date: 2026-08-07T07:58:23.298559+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to level a subfloor before laying tile with this comprehensive guide covering assessment, repair, and preparation techniques."
 image: "/img/heroes/11074311.jpg"

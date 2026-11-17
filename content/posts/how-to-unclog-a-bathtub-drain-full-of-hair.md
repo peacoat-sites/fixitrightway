@@ -1,6 +1,7 @@
 ---
 title: "How to Unclog a Bathtub Drain Full of Hair"
 date: 2026-07-19T09:00:47.489694+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Remove hair clogs from your bathtub drain with proven methods. Learn which tools and techniques work best for stubborn buildup."
 image: "/img/heroes/7278917.jpg"

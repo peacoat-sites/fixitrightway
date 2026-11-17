@@ -1,6 +1,7 @@
 ---
 title: "Sagging Textured Ceiling Repair: Fix It Yourself or Call a Pro"
 date: 2026-08-03T10:27:49.245495+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn why textured ceilings sag and the best methods to repair them, from patching to full replacement options."
 image: "/img/heroes/804392.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Fix Baseboard Gaps: DIY Solutions Under $35"
 date: 2026-08-16T07:18:33.561538+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to close gaps between baseboards and walls with affordable materials and simple techniques. Solutions starting at just $12."
 image: "/img/heroes/11121168.jpg"

@@ -23,7 +23,7 @@ faqs:
    a: "Once or twice, yes. More than that, stop. Repeatedly pressing the button doesn't fix the underlying fault, and in rare cases with a seriously compromised outlet, it can cause arcing. If it won't reset after two attempts with appliances unplugged, you need to diagnose the cause, not keep pushing the button."
  - q: "How do I know if my GFCI outlet is protecting other outlets on the circuit?"
    a: "Press the TEST button on your GFCI and then use a plug-in outlet tester (about $8 at any hardware store) on the other outlets in the room and adjacent areas. Any that lose power when you hit TEST are being protected by that GFCI. Write it down somewhere useful, like inside the panel door."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 If the reset button doesn't work on the first try, the outlet probably isn't dead. It may just need time or a specific reset sequence. GFCI outlets sometimes require a particular approach to reset properly, and skipping this step can lead to unnecessary replacement of a working unit.

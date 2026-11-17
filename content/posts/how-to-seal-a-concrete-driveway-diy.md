@@ -1,6 +1,7 @@
 ---
 title: "Seal Your Concrete Driveway: Save $3,000 With DIY"
 date: 2026-07-15T09:00:25.758982+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to seal your concrete driveway yourself and avoid expensive professional costs. Step-by-step guide for homeowners."
 image: "/img/heroes/11301816.jpg"

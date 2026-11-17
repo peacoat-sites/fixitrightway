@@ -23,7 +23,7 @@ faqs:
    a: "If you've addressed the structural cause (loose fasteners, subfloor gap, joist contact), the fix should be permanent. If you only applied a lubricant, it'll likely return within a year or two. Screws and adhesive outlast lubricants every time."
  - q: "Is a squeaky floor a structural problem?"
    a: "Usually no. Most squeaks are cosmetic nuisances caused by normal wood movement. That said, if the floor feels soft or spongy when you walk on it, or if you notice the squeak getting significantly worse over a short time, get someone under the floor to check for moisture damage or joist issues. A squeak alone isn't alarming; softness underfoot is."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Squeaky floors are one of those things that start as a minor annoyance and somehow end up being the loudest thing in your house at 2 a.m. You step over the same spot every night on your way to the bathroom. Your dog figures out the creak pattern and uses it against you. Sound familiar?

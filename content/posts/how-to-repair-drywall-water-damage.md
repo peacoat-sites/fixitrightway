@@ -23,7 +23,7 @@ faqs:
     a: "The EPA considers areas under 10 square feet manageable by a careful homeowner with proper PPE (N95 respirator minimum, gloves, eye protection) and an EPA-registered disinfectant. That said, I'd be cautious: if anyone in the home has asthma, is immunocompromised, or if you can't confirm the mold hasn't spread behind the wall, get a professional assessment first. Disturbing mold you can't fully contain can make air quality significantly worse."
   - q: "What's the difference between paper tape and mesh tape for drywall repairs, and does it matter?"
     a: "It matters more than most tutorials admit. Paper tape is stronger at seams over time because the joint compound bonds directly to the paper. Fiberglass mesh tape is easier to apply (it's self-adhesive) but is more prone to cracking at seams, especially on repairs that see any movement or vibration. Use paper tape for flat seams on patches. Mesh tape is fine for corner bead or areas where you can't easily fold paper tape into position."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most homeowners assume drywall water damage is a cosmetic problem. It's not. The water you can see is usually the least of your worries.

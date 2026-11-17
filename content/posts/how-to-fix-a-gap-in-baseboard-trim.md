@@ -1,6 +1,7 @@
 ---
 title: "Fix Baseboard Gaps in 20 Minutes: A Simple DIY Guide"
 date: 2026-08-10T08:17:04.691874+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to repair gaps in baseboard trim with affordable materials and basic tools. Step-by-step instructions for a professional-looking finish."
 image: "/img/heroes/6124242.jpg"

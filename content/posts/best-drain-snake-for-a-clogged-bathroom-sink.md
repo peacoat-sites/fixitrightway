@@ -23,7 +23,7 @@ author: "Dana Morrison"
 author_slug: "dana-morrison"
 author_title: "Lead Contractor"
 author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A bathroom sink clog will humble you fast. You pour in the Drano, wait twenty minutes, run hot water, and watch it pool right back up. You do it again. Then you finally accept what you should've done twenty minutes in: you need a snake.
 

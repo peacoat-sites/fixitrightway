@@ -23,7 +23,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people grab a can of WD-40, spray the hinges, and call it done. The squeak comes back in two weeks. WD-40 is one of the worst things you can use on a squeaky door hinge. It's a solvent and water displacer, not a lubricant. It cleans out the existing grease, gives you a brief quiet period, and then leaves metal grinding on metal again. If your door squeak has come back multiple times after treatment, this is probably why.
 

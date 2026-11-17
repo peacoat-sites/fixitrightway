@@ -23,7 +23,7 @@ faqs:
    a: "For most interior situations, Zinsser Bulls Eye 1-2-3 (water-based, easy cleanup) is a solid choice. For problem surfaces, anything that was oil-based, heavily glossy, or has had moisture exposure, step up to Zinsser BIN shellac-based primer. It's stronger, bonds more aggressively, and seals stains better. The tradeoff is that it requires denatured alcohol for cleanup and has a stronger odor."
  - q: "How long should I wait before painting over primer?"
    a: "Check the specific product label, but most latex primers are ready for topcoat in one to two hours under normal conditions (70 degrees, moderate humidity). Shellac-based primers like BIN can be recoated in 45 minutes. What I'd actually recommend: don't rush it. Give it the full dry time, lightly sand with 220-grit to knock down any raised grain, dust it off, and then paint. That last light sand makes a real difference in how smooth the final coat looks."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Peeling paint is one of those problems that starts small enough to ignore and then becomes a larger issue. Paint can fail within months of application or hold up for decades. The difference almost always comes down to prep and moisture, not paint brand.
 

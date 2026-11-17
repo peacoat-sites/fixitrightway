@@ -18,7 +18,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your toilet keeps running long after you flush. That endless hissing sound. The water bill creeping up month after month. You almost certainly don't need to [call a plumber](/how-to-unclog-a-toilet-without-a-plunger/) for this. Replacing a toilet flapper is genuinely one of the easiest fixes you can do at home, and most people finish it in under 30 minutes.
 

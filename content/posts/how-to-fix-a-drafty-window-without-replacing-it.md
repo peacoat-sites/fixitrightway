@@ -23,7 +23,7 @@ faqs:
     a: "The incense or candle test settles this. If the smoke moves, you have infiltration. If the smoke hangs straight and steady but the glass still feels cold, you're dealing with radiant heat loss through the glass. That means the glass itself has poor insulating value (common with single-pane and older double-pane windows), and no amount of weatherstripping will change it. Interior film insulation helps with radiant loss; weatherstripping does not."
   - q: "Is it worth doing all this work on windows I'm planning to replace eventually?"
     a: "Almost certainly yes. Window replacement costs $400 to $1,200 per window installed, and 'eventually' has a way of becoming a long time from now. Weatherstripping materials for a full window run $10 to $25. Even if you replace the windows two years from now, you'll have paid for the repair many times over in heating savings."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A drafty window costs you real money. Not in a vague, "you're losing energy" kind of way, in a your-heating-bill-is-$40-to-$80-higher-every-winter-month kind of way. I've done enough energy audits on older homes to know that a single double-hung window with failed weatherstripping and a dried-out glazing compound can leak almost as much air as leaving a cabinet door cracked open around the clock.
 

@@ -1,6 +1,7 @@
 ---
 title: "Can AI Actually Help You Plan a Home Repair? We Tested the Tools"
 date: 2026-08-06T09:29:44.583108+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "AI tools can streamline home repair planning, but they have real limitations. We tested popular options to see if they're worth using for your next project."
 image: "/img/heroes/30479283.jpg"

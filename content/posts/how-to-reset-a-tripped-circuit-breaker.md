@@ -1,6 +1,7 @@
 ---
 title: "Reset a Tripped Circuit Breaker in 30 Seconds"
 date: 2026-07-16T09:03:50.672035+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to safely reset a tripped circuit breaker yourself. Simple steps to restore power without calling an electrician."
 image: "/img/heroes/10065200.jpg"

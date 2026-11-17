@@ -23,7 +23,7 @@ author: "Paul Zhang"
 author_slug: "paul-zhang"
 author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Black mold on bathroom caulk is one of those problems where 90% of the advice online is either dangerously wrong or just sells you something. "Spray bleach on it and you're done" is the most common instruction, and it's also the one that guarantees you'll be back in the same spot six months from now.
 

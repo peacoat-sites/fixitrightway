@@ -1,6 +1,7 @@
 ---
 title: "35 Steps to Install a Ceiling Fan Where a Light Was"
 date: 2026-07-10T10:07:48.635810+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to replace a light fixture with a ceiling fan in 35 steps. Covers wiring, bracing, and what to do when your box only has 2 wires."
 image: "/img/heroes/7286937.jpg"

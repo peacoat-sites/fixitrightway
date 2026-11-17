@@ -1,6 +1,7 @@
 ---
 title: "Seal Ductwork Leaks: Stop Energy Loss in Your HVAC System"
 date: 2026-08-08T07:35:15.823802+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn why duct sealing matters for efficiency and discover the best methods to seal leaks yourself. Improve airflow and lower energy bills."
 image: "/img/heroes/24702725.jpg"

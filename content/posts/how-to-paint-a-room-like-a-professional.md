@@ -18,7 +18,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 You stare at the scuffed, faded walls of your living room. A professional painter would charge you $2,000 to $5,000 to fix this. Here's what I'm about to tell you: you can do it yourself, and it's not actually that hard.
 

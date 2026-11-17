@@ -12,7 +12,7 @@ author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
 slug: "deck-staining-in-2026-is-diy-worth-it-with-tariff-hit-lumber-prices"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 If you've been putting off your deck this summer, you're not alone. A lot of homeowners right now are sitting with a contractor quote in one hand and a can of Defy or Armstrong Clark in the other, trying to figure out if the math still makes sense to hire it out. With lumber and material costs climbing steadily through 2025 and into 2026, that calculation has genuinely shifted. This isn't a normal year for deck work, and the decision deserves a real look.
 

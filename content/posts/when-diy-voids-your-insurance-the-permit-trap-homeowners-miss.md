@@ -12,7 +12,7 @@ author_title: "Licensed Electrician"
 author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
 slug: "when-diy-voids-your-insurance-the-permit-trap-homeowners-miss"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 You finished the bathroom yourself last summer. Swapped out the vanity light, added a GFCI outlet near the sink, maybe ran a new circuit for a space heater. Saved yourself $800 in electrician fees and felt pretty good about it. What you probably didn't think about: if that bathroom catches fire this summer and the insurance adjuster finds that outlet, you might be writing a very large check with no help from your insurer.
 

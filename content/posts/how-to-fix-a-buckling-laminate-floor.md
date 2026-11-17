@@ -1,6 +1,7 @@
 ---
 title: "How to Fix a Buckling Laminate Floor: 4 Solutions"
 date: 2026-07-27T10:29:56.518227+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what causes laminate floor buckling and discover proven methods to repair, replace, or prevent damage before it spreads."
 image: "/img/heroes/4554338.jpg"

@@ -23,7 +23,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A sticking door is one of those problems that starts as a minor annoyance and somehow becomes the thing that breaks you. You shove it open with your shoulder every morning for six months, and then one day a houseguest uses that bathroom and you want to disappear into the floor. I've fixed hundreds of these, and the good news is that 90% of them cost nothing but an afternoon.
 

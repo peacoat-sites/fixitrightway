@@ -23,7 +23,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Insulating a garage door can reduce heating costs noticeably. In one example, a homeowner saved $70 in a single month after adding insulation, with material costs of about $85, suggesting the investment can pay back within a heating season.
 

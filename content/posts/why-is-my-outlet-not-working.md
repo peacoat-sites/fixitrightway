@@ -1,6 +1,7 @@
 ---
 title: "Outlet Not Working? 6 Fixes to Try Before Calling an Electrician"
 date: 2026-07-15T09:03:03.718489+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover why your outlet stopped working and learn quick troubleshooting steps to restore power. From tripped breakers to faulty outlets."
 image: "/img/heroes/5691494.jpg"

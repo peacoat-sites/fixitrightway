@@ -1,6 +1,7 @@
 ---
 title: "Replace Exterior Door Weatherstripping in 10 Minutes"
 date: 2026-07-29T09:28:18.627532+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to replace weatherstripping on exterior doors yourself. Save $30-$65 on professional installation with this simple DIY guide."
 image: "/img/heroes/19609299.jpg"

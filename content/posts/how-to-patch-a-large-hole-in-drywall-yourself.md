@@ -23,7 +23,7 @@ faqs:
    a: "You don't technically need to, but I'd recommend it anyway. Even a small four-inch hole benefits from a tape base because it reinforces the compound and prevents cracking as the patch settles. It's one extra step that saves rework."
  - q: "What happens if I sand through to the drywall underneath?"
    a: "You'll see the dull paper. Stop sanding, apply another thin coat of compound to cover the exposed paper, let it dry, and sand that. It's a minor setback, not a catastrophe. This is why thin coats matter; you're building a buffer against oversanding."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 I watched a homeowner spend three hours on YouTube videos last Tuesday before texting me a photo of a hole in her daughter's bedroom wall. Not a tiny nail hole. A proper gouge, maybe eight inches across, surrounded by drywall dust and the kind of damage that happens when someone's moved furniture too aggressively or a stray baseball found its way indoors. She was convinced she needed to call a drywall guy. She didn't. Neither do you, unless the hole's the size of a grapefruit or you're genuinely out of patience.

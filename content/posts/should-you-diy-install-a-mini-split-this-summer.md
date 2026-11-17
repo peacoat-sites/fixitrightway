@@ -1,6 +1,7 @@
 ---
 title: "Should You DIY Install a Mini Split This Summer"
 date: 2026-07-17T08:58:56.246340+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Should You DIY Install a Mini Split This Summer? Learn if self-installation is feasible, required tools, safety considerations, and when to hire professionals."
 image: "/img/heroes/8146204.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "When AI Home Repair Advice Goes Wrong and How to Catch It"
 date: 2026-08-15T07:16:27.747693+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "When AI Home Repair Advice Goes Wrong and How to Catch It: Learn to spot dangerous AI errors, verify recommendations with professionals, and protect your home s"
 image: "/img/heroes/9241758.jpg"

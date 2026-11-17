@@ -12,7 +12,7 @@ author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
 slug: "weber-and-nexgrill-recalled-13-million-grill-brushes-now-what"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 You pull the grill cover off for the first time this season, grab the wire brush hanging on the side, and start scrubbing the grates without a second thought. That's exactly what 13 million other households were doing right up until federal regulators stepped in and said: stop.

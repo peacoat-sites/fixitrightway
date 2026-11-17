@@ -23,7 +23,7 @@ faqs:
     a: "Probably not. Cheaper units are genuinely louder. If it's rattling, something may have fallen into it or the mounting isn't fully locked. If it's just a loud grind, that's often just the motor. The InSinkErator Evolution series with SoundSeal insulation is noticeably quieter than the Badger line -- the price difference is real but so is the noise difference."
   - q: "What size disposal should I buy?"
     a: "3/4 HP for most households. A 1/2 HP unit like the Badger 5 is tempting because it's cheap, but it jams more easily on fibrous vegetables, runs hotter, and tends to fail sooner under regular use. For a household of four that cooks regularly, spend the extra $60-$80 and get at least 3/4 HP. You won't regret it."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Replacing a garbage disposal is one of the more satisfying DIY jobs you can do in your house. Two hours, maybe three if you're slow. No special licenses, no permits, no reason to call a plumber unless you hit something unexpected. The problem with most instructions out there is that they're written by people who've replaced one disposal, once, and they spend half the article warning you about things that almost never happen while skipping the parts that actually get people stuck.
 

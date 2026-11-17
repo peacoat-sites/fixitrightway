@@ -18,7 +18,7 @@ author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
 author_title: "Licensed Plumber"
 author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your kitchen backsplash is cracked, stained, or stuck in 1987. Every time you cook, you stare at it. Installing a kitchen backsplash yourself is one of the most rewarding DIY projects you can tackle on a weekend, and it transforms your entire kitchen without the $15,000 full-renovation price tag.
 

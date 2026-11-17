@@ -1,6 +1,7 @@
 ---
 title: "Should You DIY a Home Sauna? What It Really Costs in 2026"
 date: 2026-07-25T08:38:04.071895+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Should You DIY a Home Sauna? What It Really Costs in 2026. Learn sauna installation expenses, maintenance fees, and whether building your own saves money."
 image: "/img/heroes/36420273.jpg"

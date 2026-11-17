@@ -1,6 +1,7 @@
 ---
 title: "How 2026 Tariffs Are Changing the Cost of Common DIY Projects"
 date: 2026-07-11T08:30:01.103391+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how 2026 tariffs are raising material costs for popular DIY projects and learn smart strategies to save money on lumber, steel, and home improvement su"
 image: "/img/heroes/12278570.jpg"

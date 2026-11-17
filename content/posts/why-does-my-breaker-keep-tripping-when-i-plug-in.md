@@ -1,6 +1,7 @@
 ---
 title: "Why Your 15 or 20 Amp Breaker Keeps Tripping When Plugging In"
 date: 2026-07-20T09:48:24.597814+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn why your circuit breaker trips when you plug in appliances and how to identify if it's an overload, short circuit, or ground fault issue."
 image: "/img/heroes/28265032.jpg"

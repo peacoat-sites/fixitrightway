@@ -23,7 +23,7 @@ faqs:
    a: "If you're painting over new drywall, fresh patches, or a drastically different color, yes, prime first. Use a moisture-resistant primer, not just whatever's leftover from another room. Zinsser Mold Killing Primer is a solid choice for bathrooms with any history of moisture issues."
  - q: "Does the finish choice affect how much the paint job costs if I hire someone?"
    a: "Labor cost is the same regardless of finish. The only cost difference comes from the paint itself, which typically adds $20-50 to the total project cost if you step up from a standard finish to a premium bathroom formula. It's not a factor worth skimping on given the overall cost of a professional paint job."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people treat this like a coin flip. Satin or semi-gloss, whatever's on sale, grab a gallon and roll it on. A common mistake is grabbing whatever finish is on sale without considering the room. The finish you pick for your bathroom walls will affect how that room looks and feels every single day, and more practically, how often you're repainting it.

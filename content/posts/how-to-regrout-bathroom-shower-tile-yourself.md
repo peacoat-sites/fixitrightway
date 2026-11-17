@@ -1,6 +1,7 @@
 ---
 title: "Regrout Shower Tile: Step-by-Step DIY Guide"
 date: 2026-07-17T08:56:15.437220+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to regrout bathroom shower tile yourself with our detailed instructions, tools needed, and pro tips for a lasting finish."
 image: "/img/heroes/4933253.jpg"

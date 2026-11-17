@@ -23,7 +23,7 @@ faqs:
    a: "Recurring cracks in the same location almost always mean movement in that area. Check whether it's at a change-of-plane joint (if so, use silicone caulk instead). If it's in the field tile, look for a loose tile nearby, a soft spot in the substrate, or a structural issue like a joist running beneath that section. Regrout a spot that keeps cracking without finding the cause and you'll be back doing it again."
  - q: "Do I need to seal grout in a shower?"
    a: "Yes, every time you regrout, and then again once a year or so depending on use. Unsealed grout in a shower absorbs water, grows mold, and deteriorates faster. Penetrating sealers (not surface film sealers) are the right type for floor and wall grout. The test: drop a few beads of water on your existing grout. If they soak in immediately, it needs sealer. If they bead up, you're fine for now."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Shower grout fails in two ways, and most repair guides treat them identically. That's the first mistake.

@@ -23,7 +23,7 @@ faqs:
    a: "It can in older houses with atmospheric combustion appliances, as I mentioned above. In very tight modern houses, you also want controlled mechanical ventilation (typically an HRV or ERV) to manage moisture and indoor air quality. For most old houses, though, you're so far from 'too tight' that over-sealing isn't a realistic concern. Prioritize finding and fixing the biggest leaks first."
  - q: "How much can air sealing actually reduce my heating bill?"
    a: "The research here is genuinely mixed because it depends heavily on how leaky the house was to begin with. The Department of Energy's general figures suggest air sealing can reduce heating and cooling costs by 10-20% in typical existing homes. In a truly leaky pre-1960 house that's never been touched, I've personally seen clients report 25-30% reductions after thorough attic and rim joist work combined with weatherstripping. Your mileage will vary, but the return on the materials cost (often under $500 for DIY) is almost always excellent."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most homeowners who complain about high heating bills are blaming their insulation. Nine times out of ten, the real culprit is air leakage. I've reinsulated attics for clients who still had $400 winter gas bills, only to find later that their old double-hung windows were basically open slots to the outside. Fixing drafts first, before you spend a dime on new insulation or HVAC equipment, is almost always the right call.

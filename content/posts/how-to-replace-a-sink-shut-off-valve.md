@@ -1,6 +1,7 @@
 ---
 title: "Replace a Sink Shut Off Valve for $12–$45 in Minutes"
 date: 2026-08-01T08:57:01.708572+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to replace a sink shut off valve yourself. Step-by-step instructions, tools needed, and cost breakdown for this easy DIY plumbing fix."
 image: "/img/heroes/34295405.jpg"

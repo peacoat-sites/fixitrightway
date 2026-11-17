@@ -1,6 +1,7 @@
 ---
 title: "Fix a Cabinet Door in 30 Minutes: 5 Simple Solutions"
 date: 2026-07-13T10:01:13.452475+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn why kitchen cabinet doors won't close and discover quick fixes you can do yourself. Most problems solve in under 30 minutes."
 image: "/img/heroes/6312078.jpg"

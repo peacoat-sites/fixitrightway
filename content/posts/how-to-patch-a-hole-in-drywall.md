@@ -23,7 +23,7 @@ author: "Steve Adams"
 author_slug: "steve-adams"
 author_title: "Home Inspector"
 author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people look at a hole in their drywall and think the hard part is the repair. I've watched hundreds of homeowners carefully patch, sand, and prime a wall only to end up with a ghost, a faint circular outline that shows up the moment the light hits it at the wrong angle. The hard part isn't filling the hole. The hard part is making it disappear completely. And if you don't understand why those ghosts appear (and how to prevent them from the start), you'll be repainting the same spot three times wondering what went wrong.
 

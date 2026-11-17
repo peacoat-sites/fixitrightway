@@ -23,7 +23,7 @@ faqs:
    a: "Fill with a white or tintable spackling, let it dry fully, sand flush, then touch up with a small artist's brush using matching paint. The tricky part is getting a color match on older painted trim. If you don't have the original paint, take a chip to a paint store for a color match. Current matching technology (as of 2026) at most Benjamin Moore or Sherwin-Williams stores is surprisingly accurate, usually within a shade or two."
  - q: "Why do my filled nail holes still show after painting?"
    a: "Three likely causes: the filler wasn't sanded completely flush (run your fingernail across it to check), you didn't spot-prime and the filler is flashing, or the filler shrank and left a slight depression that needs a second coat. Go back, lightly sand the spot, re-prime, and repaint. It adds maybe 10 minutes per hole but the difference is dramatic."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people overthink this. A nail hole in trim is about as low-stakes as a repair gets, and yet fresh paint jobs often look terrible because the wrong filler was used, sanding was skipped, or primer was left out.

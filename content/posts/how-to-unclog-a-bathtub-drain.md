@@ -1,6 +1,7 @@
 ---
 title: "How to Unclog a Bathtub Drain: 5 Methods That Work"
 date: 2026-07-09T10:15:30.692255+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to unclog a bathtub drain fast using tools you already own. From baking soda to drain snakes, these methods really work."
 image: "/img/heroes/8511325.jpg"

@@ -23,7 +23,7 @@ faqs:
    a: "For clarity, yes, it often works well. For insulation restoration, no. The vent plugs left after the procedure deliberately allow air exchange to prevent re-fogging, which means you've permanently lost the sealed gas fill. If you're in a mild climate and mainly care that the window looks clear again, it's a reasonable fix at a lower cost than full IGU replacement."
  - q: "Can I add my own argon gas when replacing the IGU myself?"
    a: "Realistically, no. Filling an IGU with argon requires injecting the gas during manufacturing while the unit is being sealed, using equipment glass shops use daily. Some shops will fill custom IGUs with argon on request for a modest upcharge, typically $20-$40 extra per unit. Ask when you order. Don't bother trying to inject argon after the fact through any kind of DIY rig."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Fogged double pane windows are one of those repairs where nearly every article you'll find online steers you toward the wrong fix. They'll tell you to replace the whole window, quote you $400-$800 per unit, and send you off to find a contractor. Some of those articles are written by window companies. Funny how that works.

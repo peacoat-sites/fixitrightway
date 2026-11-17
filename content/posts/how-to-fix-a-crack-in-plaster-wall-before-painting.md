@@ -23,7 +23,7 @@ faqs:
    a: "Not necessarily, but flat or matte finishes hide repair work better than eggshell or semi-gloss. The sheen of higher-gloss paints highlights even slight texture differences between the repair and the original plaster. If you're set on eggshell or higher, apply two full coats and expect to do more careful sanding on the transition zones."
  - q: "Is it worth skim coating the whole wall instead of patching individual cracks?"
    a: "If you have more than 5-6 cracks across a single wall, skim coating the entire surface is often faster, cleaner, and more durable than chasing individual cracks. It also gives you a uniform base for paint that eliminates flashing issues. It's not a beginner skill, but it's learnable with practice and a YouTube session or two. The Gardz plus all-purpose compound approach works well for this."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Hairline cracks are lying to you.

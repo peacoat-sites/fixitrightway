@@ -1,6 +1,7 @@
 ---
 title: "Replace Door Weatherstripping: A Step-by-Step Guide"
 date: 2026-07-30T09:18:07.945155+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to replace worn weatherstripping on your door to reduce drafts and energy costs. Simple DIY steps for any homeowner."
 image: "/img/heroes/5691540.jpg"
