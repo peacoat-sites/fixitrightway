@@ -58,7 +58,7 @@ Budgets often fall apart on three things that don't make it into the headline ki
 
 ## Who Should Actually DIY This
 
-Here's my honest read after 20 years of watching people underestimate projects.
+Here is an honest read based on how these projects typically play out.
 
 You're a reasonable DIY candidate if you've framed a [wall before](/how-to-fix-a-crack-in-plaster-wall-before-painting/), you're comfortable running wire (even if you hire the final circuit hookup), you can follow a kit manual, and you're building into an existing finished space like a basement or large bathroom. The prefab kit manufacturers, companies like Almost Heaven, Finnleo, and Dynamic Saunas, have genuinely gotten better at making their systems installable by capable amateurs. The instructions are real. The tolerances are forgiving.
 

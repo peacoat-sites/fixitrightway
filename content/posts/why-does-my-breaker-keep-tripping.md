@@ -26,7 +26,7 @@ faqs:
     a: "Intermittent tripping that clears itself is often a sign of a loose connection somewhere on the circuit. Loose connections create resistance, resistance creates heat, heat causes arcing, arcing eventually causes fires. Don't ignore this pattern just because the breaker seems fine now. Have it looked at."
 ---
 
-Roughly 51,000 home electrical fires happen in the United States every year, according to the National Fire Protection Association. That number is worth sitting with for a second, because most of those fires start with something that gave a warning sign first. A breaker that keeps tripping is one of the clearest warnings your house can send you. Most homeowners either reset it and forget it, or assume the breaker is just "bad" and needs replacing. I'll be honest: I thought the same thing early in my career. Swapped out a breaker on a job in 2009, handed the homeowner a receipt, and felt pretty good about myself. The breaker tripped again three weeks later. Turned out there was a loose neutral in the panel the whole time. Embarrassing? Yes. But I learned more from that mistake than from a hundred straightforward jobs.
+Roughly 51,000 home electrical fires happen in the United States every year, according to the National Fire Protection Association. That number is worth sitting with for a second, because most of those fires start with something that gave a warning sign first. A breaker that keeps tripping is one of the clearest warnings your house can send you. Most homeowners either reset it and forget it, or assume the breaker is just "bad" and needs replacing.     A loose neutral in the panel was the real culprit the whole time, not the breaker itself.
 
 So let's talk about what's actually happening when your breaker won't stay reset, because the answer is almost never "bad breaker."
 
@@ -60,11 +60,11 @@ Reset the breaker when nothing is on that circuit. Does it trip immediately? Tha
 
 If you're trying to identify which outlets and lights are on that circuit, a non-contact voltage tester runs about $18-$25 (the Klein Tools NCVT-1 is what I use; it's reliable and doesn't give false positives the way the cheap hardware-store house brands sometimes do). You can also get a plug-in circuit load tester for around $35 that tells you how many amps you're pulling in real time.
 
-Worked example 1: A reader from Phoenix emailed me last spring about a bedroom circuit that kept tripping every few days, seemingly at random. She'd replaced the breaker herself (a 15-amp standard) and it was still tripping. Following this same process, she noticed it only tripped when the space heater was running. But the space heater alone was only 1,200 watts, well within the circuit's capacity. The actual problem: a loose wire connection in a junction box in the attic was creating a partial arc fault. The intermittent nature of the tripping was the giveaway. A standard breaker won't reliably catch that. Her solution was a $47 AFCI breaker (a Square D QO115CAFCI) and a $185 service call to track down and re-terminate the loose connection. Total: about $232. Much cheaper than the "just replace the panel" advice she'd gotten from one contractor.
+For example, consider a bedroom circuit that keeps tripping every few days, seemingly at random. After replacing the breaker with a 15-amp standard, the tripping continued. Following this same process, the trip only occurred when the space heater was running. But the space heater alone was only 1,200 watts, well within the circuit's capacity. The actual problem turned out to be a loose wire connection in a junction box in the attic, creating a partial arc fault. The intermittent nature of the tripping was the giveaway. A standard breaker won't reliably catch that. The solution was a $47 AFCI breaker (a Square D QO115CAFCI) and a $185 service call to track down and re-terminate the loose connection. Total cost came to about $232, much cheaper than a full panel replacement.
 
 ## The cost reality, as of 2026
 
-I get asked about money constantly, so let me just lay this out plainly.
+Here is a straightforward breakdown of typical costs.
 
 | Problem | DIY possible? | Average pro cost (2026) | Notes |
 |---|---|---|---|
@@ -75,17 +75,17 @@ I get asked about money constantly, so let me just lay this out plainly.
 | Track down a short circuit | No | $150-$400 diagnostic | Labor-intensive, price varies widely |
 | Full panel replacement | No | $1,800-$4,500 | Wide range based on amps, location, permits |
 
-One thing most articles don't tell you: breaker brands are not interchangeable. A Square D Homeline breaker does not go in a Siemens panel. A Cutler-Hammer breaker does not go in a General Electric panel. Using the wrong brand creates arcing inside the panel itself, which is exactly the problem you're trying to solve. This is one of the big reasons I'm cautious about recommending panel work as a DIY task.
+One thing most articles don't tell you: breaker brands are not interchangeable. A Square D Homeline breaker does not go in a Siemens panel. A Cutler-Hammer breaker does not go in a General Electric panel. Using the wrong brand creates arcing inside the panel itself, which is exactly the problem you're trying to solve. This is one of the main reasons panel work is generally not recommended as a DIY task.
 
 The "failing breaker" number is lower than most people expect. A bad breaker is the exception, not the rule.
 
 ## When to stop resetting and call immediately
 
-I want to be direct here, because this is where I see homeowners make genuinely dangerous decisions.
+It is important to be direct here, because this is where homeowners commonly make genuinely dangerous decisions.
 
 Call an electrician today, not next week, if: the breaker is hot to the touch when you go to reset it; there's a burning smell near your panel or along the wall where that circuit runs; you see scorch marks or discoloration on the breaker or panel interior; the breaker trips immediately every single time you reset it even with nothing plugged in; or your panel is a Federal Pacific Electric (FPE) Stab-Lok or a Zinsco/Sylvania panel. Those two brands have documented failure rates that are significantly higher than modern panels. The Stab-Lok panel was the subject of a 2002 Consumer Product Safety Commission investigation that found the breakers failed to trip in overcurrent conditions at alarming rates. If you have one, it needs to come out.
 
-Worked example 2: A homeowner in a 1967 ranch-style house called me after his living room circuit had been tripping "on and off for about two years." He'd replaced the breaker twice and had two different electricians tell him it was probably just an overloaded circuit. When I opened the panel, the bus bar had visible arcing damage and one of the breaker slots had a small melt mark. The panel was a Zinsco. That house needed a full panel replacement, and honestly, it needed it two years earlier. Final bill: $3,100 for a 200-amp panel upgrade with permits. Not a fun call to make. But also not a fire.
+For example, imagine a homeowner in a 1967 ranch-style house whose living room circuit had been tripping on and off for about two years. After replacing the breaker twice and hearing from two different electricians that it was probably just an overloaded circuit, the problem persisted. When an electrician finally opened the panel, the bus bar had visible arcing damage and one of the breaker slots had a small melt mark. The panel was a Zinsco. That house needed a full panel replacement, and by all indications it had needed one for two years. The final bill came to $3,100 for a 200-amp panel upgrade with permits. Not a fun call to make. But also not a fire.
 
 ## A note on GFCI and AFCI breakers tripping specifically
 

@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Copper still wins in exactly one scenario: you're doing a small repair on an existing copper system and you don't want to deal with transition fittings. That's it. For anything bigger, for a partial repipe or a full house repipe, PEX has made copper look like a stubborn habit more than a smart choice.
 
-I say that after spending years running both. The arguments you'll still find online defending copper for DIY work are mostly recycled from before PEX-A tools dropped in price and before anyone had two decades of field data on PEX reliability. That data exists now, and the picture is pretty clear.
+ The arguments you'll still find online defending copper for DIY work are mostly recycled from before PEX-A tools dropped in price and before anyone had two decades of field data on PEX reliability. That data exists now, and the picture is pretty clear.
 
 ## What You're Actually Choosing Between
 
@@ -48,7 +48,7 @@ Here's the honest take: copper is a known quantity. It's been in walls since the
 
 Half-inch Type M copper runs around $1.10 to $1.40 per linear foot right now. Half-inch PEX-A runs $0.45 to $0.65 per foot. On a 1,500 square foot house, a full repipe might require 400 to 600 feet of half-inch pipe plus another 100 or so feet of three-quarter for mains. Do the math: you're looking at a $300 to $500 difference on pipe alone for an average house.
 
-Fittings push that gap wider. A half-inch copper sweat elbow costs around $1.50 to $2.50. A PEX-A expansion elbow from Uponor costs about $1.00 to $1.50. But here's where it really diverges: a PEX manifold system, where you run individual supply lines from a central manifold to each fixture, uses almost no fittings at all in the walls. One connection at the manifold, one at the fixture. That's the home-run method, and it's the way I'd do a full repipe every time.
+Fittings push that gap wider. A half-inch copper sweat elbow costs around $1.50 to $2.50. A PEX-A expansion elbow from Uponor costs about $1.00 to $1.50. But here is where it really diverges: a PEX manifold system, where you run individual supply lines from a central manifold to each fixture, uses almost no fittings at all in the walls. One connection at the manifold, one at the fixture. That is the home-run method, and it is the recommended approach for a full repipe.
 
 The tool cost is the catch though. A PEX-A expansion tool from Uponor (the ProPEX expansion tool) runs $300 to $400 new. You can rent it at most tool rental places for around $40 to $60 a day. Copper tools, a decent pipe cutter and a propane setup with flux and solder, run about $80 to $120 and you own them forever. If you're doing one repipe and never touching plumbing again, rent the PEX-A tool. If you're a frequent DIYer, buy it. It pays back fast.
 
@@ -56,9 +56,9 @@ The tool cost is the catch though. A PEX-A expansion tool from Uponor (the ProPE
 
 Sweating copper pipe properly takes practice. Not a ton of it, but enough that your first six or eight joints are going to make you nervous. The most common mistakes are not cleaning the pipe and fitting thoroughly, not applying enough flux, applying heat unevenly, or letting the pipe move while the solder is cooling. Any one of those gives you a joint that looks fine, passes a pressure test, and then weeps behind your drywall three years later.
 
-I made exactly this mistake early in my career on a bathroom addition. The joint looked soldered. It wasn't. Found out when the homeowner called about a soft spot in their ceiling below. That repair cost more than the original job.
+For example, a seemingly complete solder joint can pass an initial pressure test and still weep behind drywall years later.    
 
-PEX-A with expansion fittings is genuinely forgiving. You heat the ring and pipe end with the expansion tool, slide it onto the fitting, and the pipe memory pulls it tight as it contracts back. The joint either seats correctly or it obviously doesn't. There's almost no middle ground where it looks fine but isn't. SharkBite push-to-connect fittings (which work on both copper and PEX-B) are even simpler, but I'd keep those to accessible locations only. They're not something I'd bury in a wall on a permanent run.
+PEX-A with expansion fittings is genuinely forgiving. You heat the ring and pipe end with the expansion tool, slide it onto the fitting, and the pipe memory pulls it tight as it contracts back. The joint either seats correctly or it obviously doesn't. There's almost no middle ground where it looks fine but isn't. SharkBite push-to-connect fittings (which work on both copper and PEX-B) are even simpler, but I'd keep those to accessible locations only. They are not recommended for burying in a wall on a permanent run.
 
 For a homeowner who has never done any plumbing, PEX-A is the right call. The learning curve is maybe two or three practice fittings before you feel confident. Copper with sweat fittings is a skill that takes a full afternoon of practice to get right, and getting it wrong has consequences.
 
@@ -91,7 +91,6 @@ Pressure test before you close up any walls. For PEX, cap all your open ends, pr
 - [Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)
 - on PEX reliability
 - exists now
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

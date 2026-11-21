@@ -26,7 +26,7 @@ faqs:
     a: "Two adjustable wrenches or one adjustable and one channel-lock (Channellock brand, 10-inch) will handle most residential angle stop replacements. A small bucket, towels, and Teflon tape for threaded connections round out the kit. No special tools required."
 ---
 
-About 93% of homeowner [water damage](/how-to-repair-drywall-water-damage/) claims trace back to plumbing failures, and a significant slice of those start with a valve that was either ignored for decades or replaced wrong. That number comes from the Insurance Information Institute, and every time I read it, I think about how many of those losses were a $12 part and 45 minutes of work away from never happening.
+About 93% of homeowner [water damage](/how-to-repair-drywall-water-damage/) claims trace back to plumbing failures, and a significant slice of those start with a valve that was either ignored for decades or replaced wrong. That number comes from the Insurance Information Institute, and a striking share of those losses trace back to a $12 part and 45 minutes of work that never happened.
 
 If you're here [right now](/how-to-shop-for-materials-right-now-and-beat-tariff-price-hikes/), you're probably staring at a valve under your sink that's either weeping rust, seized up so tight you can't turn it, or leaking at the packing nut. Maybe a plumber quoted you $200-$350 to swap one out and you're wondering if that's reasonable or if you can just do it yourself. Both are fair questions, and I'll answer both honestly.
 
@@ -48,7 +48,7 @@ If your valve connects to soldered copper pipe, stop. That's a job for someone w
 
 First, turn off the water at the main. Not the valve you're replacing. The main. It's usually in the basement, crawl space, utility room, or exterior of the house near the foundation. Turn it clockwise until it stops. Then open the sink faucet to release pressure and drain the line. You'll get a little water, then air. That's what you want.
 
-Have a bucket and a couple of old towels ready. Even after you drain the line, there's always residual water in the valve body. I learned this the hard way the first time I did one of these in a finished bathroom, soaked a fresh coat of cabinet paint. A small bucket under the valve before you loosen anything is worth it.
+Have a bucket and a couple of old towels ready. Even after you drain the line, there's always residual water in the valve body, and skipping that step in a finished bathroom can mean soaked cabinet paint. A small bucket under the valve before you loosen anything is worth it.
 
 Now, unscrew the supply line from the bottom of the valve. Use one wrench to hold the valve body steady and another to turn the nut counterclockwise. If the supply line is old braided stainless or worse, plain chrome, replace it now. Don't reinstall an old supply line on a new valve, it's the most common way people end up back under the sink in six months.
 
@@ -69,17 +69,17 @@ As of August 2026, here's what realistic parts pricing looks like:
 | Teflon tape + compression ferrules | $2-$4 | included in valve kit | Only needed for threaded inlets |
 | Plumber's call if you hire out | $180-$260 (labor only) | $280-$380 full service call | Varies heavily by region |
 
-I'd steer you toward Watts or BrassCraft brand valves over generic hardware store house brands. They run $14-$22 at most home centers and I've installed hundreds of them without a callback. The cheap pot-metal valves at the low end of the bin feel identical in the hand but the stems corrode faster. It's not a meaningful upcharge.
+Watts or BrassCraft brand valves are worth choosing over generic hardware store house brands. They run $14-$22 at most home centers, and the cheap pot-metal valves at the low end of the bin feel identical in the hand but the stems corrode faster. It's not a meaningful upcharge.
 
 ## The Mistakes That Cost People Money
 
-Three scenarios from my own work, because I think they're instructive:
+Three scenarios worth knowing about, because they illustrate the most common and costly mistakes:
 
-Homeowner in Phoenix called me after doing a compression valve replacement herself. She got the valve on correctly, but didn't replace the supply line. Two weeks later, the old supply line cracked at the braided end where it meets the angle stop. She came home to a flooded vanity cabinet. Damage: $847 in subfloor repair. The supply line was $9. Replace them together.
+For example, if a homeowner replaces the compression valve correctly but leaves the old supply line in place, the original line can crack at the braided end two weeks later, flooding the vanity cabinet and causing hundreds of dollars in subfloor damage. The supply line costs $9. Replace them together.
 
-A reader emailed me last year after a plumber told him his valves "had to be soldered" and quoted $680 for two bathroom sinks. He sent photos. Both were compression-fit inlets on copper tubing, straightforward replacements. He bought two Watts valves and four supply lines for $71 total and did it himself in about an hour and a half. That quote wasn't necessarily dishonest, some plumbers just don't want small jobs, but it's worth knowing what you have before you agree to anything.
+It is also worth knowing that some plumbers quote soldering work on valves that are actually compression-fit. For example, two bathroom sink valves with compression-fit inlets on copper tubing are straightforward replacements costing around $71 in parts, far less than a $680 soldering quote. That kind of quote is not necessarily dishonest, since some plumbers prefer to avoid small jobs, but it pays to identify your inlet type before agreeing to anything.
 
-My own mistake: early in my career I used Teflon tape on a compression fitting because I thought more sealing = better sealing. It doesn't work that way. The tape compresses unevenly under the ferrule and can actually prevent it from seating cleanly. Came back the next day to a slow drip. Took the nut off, cleaned the tape off the tubing, reassembled dry. No leak. Lesson learned and never forgotten.
+A common mistake is applying Teflon tape to a compression fitting on the assumption that more sealing material means a better seal. It does not work that way. The tape compresses unevenly under the ferrule and can actually prevent it from seating cleanly, resulting in a slow drip that only appears after reassembly. If that happens, take the nut off, clean the tape off the tubing, and reassemble dry.
 
 ## When to Call a Pro
 

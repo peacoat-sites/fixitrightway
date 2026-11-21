@@ -26,7 +26,7 @@ faqs:
     a: "Bring the damaged plank to a flooring specialty store (not a big-box store, where staff turnover is brutal and matching knowledge is spotty). They can often cross-reference discontinued SKUs against current products and put a sample next to yours in actual light. You're looking for thickness, texture direction, and sheen level, color is just one of four variables people usually forget to check."
 ---
 
-The plank at the edge of my client's living room had been lifting for three months before she called me. She'd been stepping over it every single day, pressing it down with her toe each time she passed, telling herself she'd deal with it "soon." By the time I got there, the edge had developed a stress crack along the top layer and the locking tab underneath was half-broken. A repair that would've taken twenty minutes and zero dollars had turned into a $140 replacement job.
+Consider a situation where a living room plank has been lifting for three months before anyone addresses it. The homeowner steps over it every single day, pressing it down with a toe each time, putting off the repair for "soon." By the time anyone addresses it, the edge has developed a stress crack along the top layer and the locking tab underneath is half-broken. A repair that would've taken twenty minutes and zero dollars had turned into a $140 replacement job.
 
 Don't be that person. Loose vinyl plank edges are fixable. But they have a window.
 
@@ -50,7 +50,7 @@ Here's what you do. Remove the baseboard or quarter-round along the affected wal
 
 Once you've re-established that 1/4-inch gap, reinstall the baseboard without nailing it tight to the floor. Nail it to the wall only. The baseboard just hides the gap. It should never pin the floor.
 
-I've done this repair probably forty or fifty times over the years. The thing that always surprises people: how many planks you have to coax back before the lifted edge finally drops flat. Sometimes it's just three planks from the edge. Sometimes you're working your way back six feet. The floor is under tension, like a compressed spring.
+Flooring professionals encounter this repair regularly. What consistently surprises people is how many planks need to be coaxed back before the lifted edge finally drops flat. Sometimes it's just three planks from the edge. Sometimes you're working your way back six feet. The floor is under tension, like a compressed spring.
 
 ## When the Click-Lock Joint Has Failed
 
@@ -60,7 +60,7 @@ If the tab is just disengaged (the plank slid slightly out of its neighbor), you
 
 If the tab is broken, you need to replace the plank. This is genuinely not difficult on an edge plank, since you don't have to disassemble half the room to get to it. Lift the damaged plank out, bring it to the store to match it, and click a new one in. The challenge is that vinyl plank floors fade and get discontinued constantly. If your floor is more than two years old, matching it perfectly is a real gamble.
 
-Scenario: A homeowner in a three-year-old townhouse had one edge plank with a snapped locking tab near a [sliding door](/how-to-fix-a-sliding-door-that-wont-slide/). The original product had been discontinued. She ordered three planks in the closest match she could find from a different manufacturer ($31 for the planks, shipped). In direct lighting, you can tell. In normal room light, nobody notices.
+For example, imagine a homeowner in a three-year-old townhouse with one edge plank with a snapped locking tab near a [sliding door](/how-to-fix-a-sliding-door-that-wont-slide/). If the original product has been discontinued, finding an exact match becomes a challenge. Ordering three planks in the closest available match from a different manufacturer typically runs around $31 shipped. In direct lighting, the difference is noticeable. In normal room light, most people will not notice.
 
 ## Glue-Down Edge Repairs
 
@@ -68,11 +68,11 @@ Some vinyl plank installations, especially older ones and commercial-grade produ
 
 The fix: get a flooring syringe (sold as "floor repair injectors" at most home centers, around $8-$14), fill it with flooring adhesive like Roberts 2057 or Henry 430, inject it under the lifted edge, press down, and weight it with books or a cinder block for 24 hours. The smell when you open flooring adhesive is genuinely strong. Do this with windows open. The adhesive is still working at about the four-hour mark but needs the full cure before you walk on it.
 
-Do NOT do this with a floating floor. I want to be really clear about this because I see it constantly: if you've got a click-lock floating floor and you glue down a loose edge, you've just created a bigger problem. The floor can no longer move as a unit and you will get buckling elsewhere, usually within one seasonal cycle.
+Do NOT do this with a floating floor. If you have a click-lock floating floor and you glue down a loose edge, you have created a bigger problem. The floor can no longer move as a unit and you will get buckling elsewhere, usually within one seasonal cycle.
 
 ## What It Actually Costs
 
-Here's a straightforward breakdown, current as of August 2026, based on what I'm seeing in the market.
+Here is a straightforward breakdown, current as of August 2026, based on typical market rates.
 
 | Repair Type | DIY Cost | Pro Labor Cost | Total w/ Pro |
 |---|---|---|---|

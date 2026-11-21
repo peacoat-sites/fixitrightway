@@ -38,7 +38,7 @@ Let me walk you through what's actually happening, what products actually work, 
 
 Latex paint is porous. It dries to a film, but that film breathes. Tannins from water stains, smoke residue, grease, rust, Sharpie, crayon, pet urine, and certain wood knots all contain compounds that are either oil-soluble or water-soluble, and they migrate. They literally move up through fresh paint as it dries, pulled by capillary action and the solvent chemistry of the paint itself.
 
-So when you roll on a second coat hoping to bury the stain, you're actually giving it fresh liquid to travel through. I made this exact mistake on a flip house I was working on in 2022, a ceiling with a old water ring above a bathroom. Four coats of a quality Benjamin Moore latex and it came back every single time, a little lighter each round but still there, still mocking me.
+So when you roll on a second coat hoping to bury the stain, you're actually giving it fresh liquid to travel through. For example, four coats of a quality Benjamin Moore latex over a water ring will typically bring it back every single time, a little lighter each round but still visible.
 
 What stops bleed-through is a barrier, not more pigment.
 
@@ -56,7 +56,7 @@ That barrier is shellac-based or oil-based primer. These products cure to a hard
 | Zinsser Bulls Eye 1-2-3 | Water-based | Varies | Varies | Varies | Mild stains only |
 | Kilz 2 | Water-based | Varies | Varies | Varies | Mild stains only |
 
-This is where I see a lot of DIYers get confused by conflicting advice online, so let me give you my honest take after 20 years of dealing with both products.
+This is where a lot of DIYers get confused by conflicting advice online.
 
 **Shellac-based primer (Zinsser BIN is the standard)** is the strongest stain blocker available to consumers, full stop. It stops almost everything: water stains, smoke, fire damage, grease, tannin bleed from cedar or redwood, crayon, permanent marker, even lipstick. It also dries in about 45 minutes. The downsides are real: it stinks (alcohol fumes, so serious ventilation required), it's finicky to clean up (you need denatured alcohol, not water), and on large areas it gets expensive fast. A quart of BIN runs around $22-$26 currently and covers roughly 100 square feet. For a spot repair, that's totally reasonable.
 
@@ -64,7 +64,7 @@ This is where I see a lot of DIYers get confused by conflicting advice online, s
 
 **Water-based stain-blocking primers** have improved a lot in recent years. Zinsser Bulls Eye 1-2-3 and Kilz 2 fall into this category. They're low-odor, clean up with water, and they're fine for mild stains. They're not reliable for stubborn or heavily saturated stains, particularly on smoke-damaged walls or long-standing ceiling stains.
 
-My rule of thumb: if you can faintly smell the stain, or if it's smoke or fire-related, go straight to shellac. For a light water ring or minor surface stain, a quality oil-based primer will probably do the job.
+A reliable rule of thumb: if you can faintly smell the stain, or if it's smoke or fire-related, go straight to shellac. For a light water ring or minor surface stain, a quality oil-based primer will probably do the job.
 
 ---
 
@@ -88,14 +88,14 @@ A lot of articles give you the product list and stop there. The application sequ
 
 ## Worked Examples From Real Jobs
 
-**Scenario: Bathroom ceiling with a brown water stain ring, roughly 8 inches across, from a slow supply line drip that had been there for years.**
-The leak was fixed first (new supply line, $12 in parts). Surface cleaned with TSP substitute. One coat of Zinsser BIN brushed on with a 2-inch chip brush. Dried in 40 minutes, stain completely invisible in the primer. Two coats of ceiling white latex over it. Stain has not returned in 18 months.
+**Example: Bathroom ceiling with a brown water stain ring, roughly 8 inches across, from a slow supply line drip that had been there for years.**
+For example, if you fix the leak first, clean with TSP substitute, and brush on one coat of Zinsser BIN, the stain will typically be completely invisible in the primer after about 40 minutes. Two coats of ceiling white latex finish the job, and the stain should not return.
 
-**Scenario: Living room wall with marker lines and crayon scribbles from a toddler, covering about 4 square feet of painted drywall.**
-Homeowner had already tried two coats of Behr premium paint and the marker was bleeding through. One coat of Zinsser BIN, feathered out a foot beyond the marks on all sides. Dried. No bleed-through visible. One coat of matching wall color matched the rest of the wall within acceptable range. Total materials cost: about $14 (used a partial can of BIN they already had for another project).
+**Example: Living room wall with marker lines and crayon scribbles from a toddler, covering about 4 square feet of painted drywall.**
+For example, if two coats of premium latex have already failed to cover the marker, one coat of Zinsser BIN feathered out a foot beyond the marks on all sides will typically block bleed-through completely. One coat of matching wall color then blends within acceptable range, with total materials cost around $14 if you already have a partial can of BIN on hand.
 
-**Scenario: Kitchen ceiling with grease staining near the stove, approximately 3 square feet of yellowish, glossy residue.**
-TSP substitute wash first, dried overnight. Applied Kilz Original with a small roller. First coat reduced visibility by about 70% but didn't fully block it. Second coat of Kilz Original fully blocked the stain. Two coats of ceiling paint followed. Total time investment: about 3 hours spread over two days. Kilz quart cost: $19.
+**Example: Kitchen ceiling with grease staining near the stove, approximately 3 square feet of yellowish, glossy residue.**
+For example, after a TSP substitute wash dried overnight, a first coat of Kilz Original applied with a small roller may reduce visibility by about 70% without fully blocking the stain. A second coat of Kilz Original typically finishes the job, followed by two coats of ceiling paint. Total time investment runs about 3 hours spread over two days, and a quart of Kilz Original costs around $19.
 
 ---
 
@@ -105,7 +105,7 @@ Most bleed-through stains are a straightforward Saturday project. But I want you
 
 Widespread smoke damage from a house fire isn't a BIN-and-roll-paint situation. It requires professional remediation, ozone treatment, and in serious cases, complete re-drywall. If a house smells heavily of smoke throughout, a few coats of primer won't make it livable.
 
-Also: mold staining. I see this conflated with regular water stains constantly. If there's black, gray, or greenish discoloration and it has that musty basement smell, that's not a priming project. That's a mold remediation project. Painting over active mold is a health issue, not just an aesthetic one.
+Also: mold staining, which is frequently conflated with regular water stains. If there's black, gray, or greenish discoloration and it has that musty basement smell, that's not a priming project. That's a mold remediation project. Painting over active mold is a health issue, not just an aesthetic one.
 
 If you're unsure which one you're dealing with, a professional inspection (most contractors will do an initial assessment free or for around $75-$150) is worth the cost before you commit to a surface treatment.
 

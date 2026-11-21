@@ -26,9 +26,9 @@ faqs:
     a: "Once a month is realistic if you have long hair in the household. Pull the stopper and clean the visible hair every few weeks. A monthly enzyme treatment is worth doing if you want to stay ahead of soap scum buildup. It's one of those five-minute maintenance tasks that prevents the truly annoying three-hour problems."
 ---
 
-Hair. That's almost always it. I've opened up hundreds of slow or completely dead bathtub drains over 20 years, and I'd say eight times out of ten, it's a wad of hair and soap scum that could be pulled out by hand in about 45 seconds. No chemicals needed. No plumber. Just a slightly unpleasant two-minute job that most people put off for months because they assume it's more complicated than it is.
+Hair. That's almost always it. In the vast majority of slow or completely dead bathtub drains, eight times out of ten, it's a wad of hair and soap scum that could be pulled out by hand in about 45 seconds. No chemicals needed. No plumber. Just a slightly unpleasant two-minute job that most people put off for months because they assume it's more complicated than it is.
 
-That assumption costs people real money. I've had homeowners call me to snake a drain that turned out to be a hair clog sitting right at the stopper, maybe four inches below the surface. They paid a service call fee, usually $85 to $150, for something they could have handled with a $3 Zip-It tool. I don't say that to make anyone feel bad. I say it because I want you to start with the simple stuff before you spend a dime.
+That assumption costs people real money. Plumbers regularly get called to snake a drain that turns out to be a hair clog sitting right at the stopper, maybe four inches below the surface. They paid a service call fee, usually $85 to $150, for something they could have handled with a $3 Zip-It tool. I don't say that to make anyone feel bad. I say it because I want you to start with the simple stuff before you spend a dime.
 
 ## Start Here: The Stopper Is Usually the Problem
 
@@ -36,7 +36,7 @@ Most modern bathtubs have a trip-lever or a push-pull stopper, and both designs 
 
 Before you reach for anything else, remove that stopper. For push-pull stoppers, you just unscrew the cap by hand or with a gentle counterclockwise twist. For trip-lever stoppers, you remove the overflow plate (two screws) and pull the entire mechanism out through the overflow hole. What you'll find attached to it, if it hasn't been cleaned recently, is usually a dense gray rope of hair and soap that'll turn your stomach a little. That's your clog.
 
-I made the mistake early in my career of skipping this step and going straight to snaking when a simple stopper pull would have solved the problem. Took me embarrassingly long to stop doing that. The stopper cleaning alone clears roughly half the slow-drain calls I've ever seen.
+A common mistake is skipping this step and going straight to snaking when a simple stopper pull would have solved the problem.  Stopper cleaning alone clears roughly half of all slow-drain calls.
 
 Clean the stopper with an old toothbrush, get all that gunk off, and reinstall it. Run hot water for 30 seconds. If the drain is flowing normally again, you're done.
 
@@ -52,7 +52,7 @@ Feed the Zip-It into the drain opening until you feel resistance. Rotate it slow
 
 A wire coat hanger bent into a hook works too, though it's harder to maneuver in a small drain opening. The Zip-It is faster.
 
-Clog scenario 1: A reader in Portland emailed me last year. She'd had a slow drain for four months and assumed she needed a plumber. Tried the Zip-It first on my recommendation. Pulled out three passes worth of hair. Total time: 8 minutes. Total cost: $3. Drain fully clear.
+For example, someone with a slow drain that had lingered for four months might assume a plumber is needed.  Using the Zip-It first, three passes worth of hair came out.  Total time: 8 minutes, total cost: $3, and the drain is fully clear.  
 
 ## When to Bring In the Plunger
 
@@ -64,7 +64,7 @@ Plug the overflow, put the plunger cup over the drain with an inch or two of wat
 
 If you see dark water starting to drain, you've loosened something. Follow up with very hot water and another Zip-It pass.
 
-Clog scenario 2: Older home, cast iron pipes, combination of hair and decades of soap scum. Plunging alone moved it partially. Followed with a Zip-It and then a kettle of near-boiling water (NOT boiling if you have PVC, more on that in a second). Drain cleared within 10 minutes. No chemicals, no snake.
+For example, in an older home with cast iron pipes and a combination of hair and decades of soap scum, plunging alone may move the clog only partially.  Following up with a Zip-It and then a kettle of near-boiling water (NOT boiling if you have PVC, more on that in a second) can clear the drain within 10 minutes.  No chemicals, no snake needed.
 
 ## The Chemical Question
 
@@ -84,11 +84,11 @@ If everything above has failed, you're dealing with a clog that's past the P-tra
 
 For a bathtub specifically, you can rent a small electric drain snake (3/8-inch cable) from Home Depot or Ace Hardware for around $40 to $60 per day as of this year. A 25-foot cable is sufficient for almost any tub drain scenario short of a main line issue.
 
-Feed the cable into the overflow opening rather than the drain itself. The geometry of the overflow gives the snake a more direct path to the trap and beyond. This is a detail that genuinely matters, and it took me a while to appreciate it. Going in through the drain opening puts the snake through tighter bends before it ever reaches the clog.
+Feed the cable into the overflow opening rather than the drain itself. The geometry of the overflow gives the snake a more direct path to the trap and beyond. This is a detail that genuinely matters. Going in through the drain opening puts the snake through tighter bends before it ever reaches the clog.
 
 Advance the cable slowly, cranking as you go. When you hit resistance, work the snake back and forth rather than just pushing. You're either breaking up the clog or hooking into it so you can pull it out. Pull back slowly when you're done and have a bucket and rags ready; it's messy.
 
-Clog scenario 3: Vacation rental property, three bathtubs all draining slowly simultaneously. Turned out to be a shared branch line with a grease and hair combination clog about 18 feet from the access point. Rented a 50-foot power snake, ran it through the overflow of the middle tub. Cleared all three drains in about 45 minutes. Rental cost: $55. Avoided a $400+ plumber bill.
+For example, consider a vacation rental property where three bathtubs are all draining slowly at the same time. This can indicate a shared branch line with a grease and hair combination clog about 18 feet from the access point. Rented a 50-foot power snake, ran it through the overflow of the middle tub. Cleared all three drains in about 45 minutes. Rental cost: $55. Avoided a $400+ plumber bill.
 
 ## When to Actually Call a Plumber
 

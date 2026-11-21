@@ -29,7 +29,7 @@ The problem is that the projects people are now tackling to avoid those costs, d
 
 ## What Your Insurer Is Doing While You're Watching YouTube
 
-Here's what surprised me most when I went looking into this. Insurance companies don't need to send an adjuster to your property anymore to find [unpermitted work](/unpermitted-diy-work-can-void-your-home-insurance-claim/). They're using AI-processed aerial and satellite imagery to flag structures that don't match what's on your policy.
+Here is what many homeowners do not realize. Insurance companies don't need to send an adjuster to your property anymore to find [unpermitted work](/unpermitted-diy-work-can-void-your-home-insurance-claim/). They're using AI-processed aerial and satellite imagery to flag structures that don't match what's on your policy.
 
 According to research published by LegalClarity in April 2026, insurers are now running their policy databases against high-resolution overhead imagery, looking for mismatches. A new detached garage that wasn't on your original application. A pool. A second-story addition. The system flags it, and you get a coverage review letter you weren't expecting. The insurer doesn't need a tip or a complaint or a neighbor's call. The algorithm finds it.
 
@@ -37,7 +37,7 @@ What happens next depends on timing. If you've already filed a claim when the un
 
 ## The "I'll Permit It Later" Trap
 
-A lot of homeowners operate on the assumption that unpermitted work is basically a paperwork problem, something you disclose when you sell and settle with a negotiation. I've heard this reasoning from clients for years. It's not as simple as that.
+A lot of homeowners operate on the assumption that unpermitted work is basically a paperwork problem, something you disclose when you sell and settle with a negotiation. This reasoning is common among homeowners. It's not as simple as that.
 
 Estimates suggest that up to 50% of U.S. homes contain some form of unpermitted work. But retroactive permitting, when the local building department requires it, often means opening walls to expose what was done, having it inspected, and correcting anything that doesn't meet current code. For a 200 square foot addition, that process can run anywhere from $5,000 to well over $50,000 depending on what inspectors find inside those walls, according to research compiled by PLHH's 2026 Buyer's Guide on unpermitted additions. The project you did to save $8,000 can end up costing you three times that.
 
@@ -57,7 +57,7 @@ The research here is genuinely mixed on how aggressively different municipalitie
 | Basement finishing (livable space) | Yes | High | Permitted DIY possible |
 | Accessory structures | Yes | High | Permitted DIY possible |
 
-I'm not telling you to hire everything out. After 20 years in this business, I think there's a reasonable DIY line, and material costs in 2026 have absolutely pushed that line in favor of doing more yourself. The distinction I'd draw is between cosmetic work and structural or system work.
+The goal here is not to say you should hire everything out. There is a reasonable DIY line, and material costs in 2026 have absolutely pushed that line in favor of doing more yourself. The distinction I'd draw is between cosmetic work and structural or system work.
 
 Painting, trim, tile in a bathroom you're not relocating plumbing in, refinishing floors, replacing fixtures, installing a pre-hung door in an existing rough opening: almost none of this requires permits, and almost none of it creates insurance exposure. You can save real money here and carry zero risk of a denied claim.
 

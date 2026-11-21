@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-Replacing a light switch is one of those repairs that sounds scarier than it is. I'd guess 90% of the homeowners I've talked to over the years who were nervous about it knocked it out in under 30 minutes once I walked them through it. The other 10% had older wiring that threw them a curveball, and we'll cover that too.
+Replacing a light switch is one of those repairs that sounds scarier than it is. Most homeowners who are nervous about it find they can knock it out in under 30 minutes once they understand the steps. The other 10% had older wiring that threw them a curveball, and we'll cover that too.
 
 Swapping a standard light switch is one of the most beginner-friendly electrical tasks you can do, as long as you follow one absolute rule. We'll get to that rule in about 30 seconds.
 
@@ -80,7 +80,7 @@ This is where most of you will live. Here's exactly what to do.
 
 **Step 4:** Run your voltage tester over the wires before you touch them. Even with the breaker off, be certain.
 
-**Step 5:** Take a photo of the wiring before you disconnect anything. Seriously. Do this every time. I learned this the hard way on a three-way switch job early in my career where I convinced myself I'd remember which wire went where. I didn't.
+**Step 5:** Take a photo of the wiring before you disconnect anything. Seriously. Do this every time, because it is easy to convince yourself you will remember which wire went where and then not remember.
 
 **Step 6:** Loosen the screws on the old switch and unhook the wires. If they're "backstabbed" (pushed into small holes in the back of the switch rather than wrapped around screws), use a small flathead to press the release tab, or just cut the wire and strip a fresh half-inch of copper. Backstabbed connections are notoriously unreliable, so use the screw terminals on your new switch regardless.
 
@@ -88,7 +88,7 @@ This is where most of you will live. Here's exactly what to do.
 
 **Step 8:** Gently fold the wires back into the box and screw the switch in. Replace the cover plate. Flip the breaker back on and test.
 
-**Worked example:** A reader, Tom in Cincinnati, described replacing a 1990s single-pole switch that had a loose connection and caused his overhead light to flicker. He bought a $6 Leviton replacement at Home Depot, spent 20 minutes on the job, and the flickering stopped immediately. Total cost: $6 and a Saturday morning. An electrician's service call for the same job in his area runs $125 to $175.
+For example, a loose connection on a 1990s single-pole switch can cause an overhead light to flicker. A $6 Leviton replacement from a hardware store and about 20 minutes of work can resolve the problem entirely, compared to an electrician's service call that typically runs $125 to $175 for the same job.
 
 ---
 
@@ -100,7 +100,7 @@ The common terminal is usually a black or dark-colored screw (different from the
 
 The other two wires are called "traveler" wires, and they connect to the two lighter-colored screws. Their positions relative to each other don't matter as much, but the common does.
 
-**Worked example:** I helped a neighbor replace both three-way switches on her staircase landing last fall. She'd bought the wrong style initially (single-pole instead of three-way, easy mistake at the store) and had to make a second trip. Once she had the right switches, we labeled the common wire with a piece of tape before disconnecting anything, matched it to the common terminal on the new switch, connected the travelers, and both switches worked perfectly. Took about 45 minutes total for two switches. Replacement switches were $12 each at Menards.
+For example, replacing both three-way switches on a staircase landing is a manageable project, but it is easy to buy the wrong style at the store, so double-check before leaving. Once you have the right switches, label the common wire with a piece of tape before disconnecting anything, match it to the common terminal on each new switch, connect the travelers, and both switches should work correctly. Two switches typically takes about 45 minutes, and three-way replacement switches run around $12 each.
 
 ---
 

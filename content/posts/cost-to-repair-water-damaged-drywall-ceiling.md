@@ -27,7 +27,7 @@ faqs:
 
 Most articles about water damaged drywall ceilings spend three paragraphs explaining what drywall is. You already know what drywall is. What you actually need to know is whether that brown ring above your bathroom means a $200 afternoon or a $4,000 week, and how to tell the difference before you open up a wall you didn't need to open.
 
-The short answer: a cosmetic water stain repair runs $150 to $400. A full ceiling replacement with subfloor damage above it can top $8,000. The spread is that wide because "water damaged ceiling" covers everything from a one-time drip that dried out two winters ago to active rot that's been eating your joists since the roof flashing failed. The single most expensive mistake I see homeowners make is treating a structural problem like a cosmetic one, painting over it, and calling it done. Six months later the ceiling sags. The repair cost doubles.
+The short answer: a cosmetic water stain repair runs $150 to $400. A full ceiling replacement with subfloor damage above it can top $8,000. The spread is that wide because "water damaged ceiling" covers everything from a one-time drip that dried out two winters ago to active rot that's been eating your joists since the roof flashing failed. The single most expensive mistake homeowners make is treating a structural problem like a cosmetic one, painting over it, and calling it done. Six months later the ceiling sags. The repair cost doubles.
 
 ## How Bad Is It, Actually?
 
@@ -35,11 +35,11 @@ Before you quote any numbers, you need to size the damage. Not eyeball it. Probe
 
 Press on the drywall around the stain. If it feels solid and you're just dealing with a yellow-brown ring, that's a dried stain with no structural compromise. If the surface gives slightly or feels soft, the paper face of the drywall has delaminated and the gypsum core is saturated. If your finger goes through or the surface crumbles like wet crackers, you're replacing that section, minimum.
 
-The area that looks damaged is rarely the full extent of damage. Water travels. It wicks outward through the paper face and migrates along the top of the drywall sheet before it drips. The visible stain might be 8 inches across while the saturated area extends 18 inches in every direction. I've cut into what looked like a 2-square-foot repair and found 12 square feet of wet drywall. You won't know until you cut.
+The area that looks damaged is rarely the full extent of damage. Water travels. It wicks outward through the paper face and migrates along the top of the drywall sheet before it drips. The visible stain might be 8 inches across while the saturated area extends 18 inches in every direction. It is common to cut into what looks like a 2-square-foot repair and find 12 square feet of wet drywall. You won't know until you cut.
 
 Also check above. If you have attic access, get up there with a flashlight before you do anything else. Look at the sheathing directly above the stain. Dark discoloration, soft wood, or visible mold means the problem is bigger than the ceiling. Check the joists too. Bouncy or soft wood in a structural member changes the entire scope of this job.
 
-One more thing that matters: is the source fixed? If whatever caused the water intrusion is still active, no ceiling repair is permanent. I don't care how good your contractor is.
+One more thing that matters: is the source fixed? If whatever caused the water intrusion is still active, no ceiling repair is permanent. No ceiling repair is permanent until the source is fixed, regardless of how skilled the contractor is.
 
 ## What Things Actually Cost
 
@@ -57,7 +57,7 @@ Prices below reflect national averages as of July 2026. Regional variation is re
 
 The gap between DIY and pro costs is widest on the cosmetic end, where you're mostly paying for someone's time. It narrows significantly on bigger jobs, where material costs dominate and the skills required to texture-match an existing ceiling correctly are genuinely hard to replicate without practice.
 
-Texture matching is where most DIY ceiling repairs fall apart. Spraying orange peel or knockdown texture to match a 20-year-old existing pattern requires an airless sprayer, the right material viscosity, and some feel for the gun. The first time I tried to match a stomped texture ceiling in my own house, the new section looked like a completely different planet. Had to redo the entire ceiling. Expensive lesson.
+Texture matching is where most DIY ceiling repairs fall apart. Spraying orange peel or knockdown texture to match a 20-year-old existing pattern requires an airless sprayer, the right material viscosity, and some feel for the gun. For example, attempting to match a stomped texture ceiling without practice often results in a new section that looks like a completely different planet. Redoing the entire ceiling becomes necessary. Expensive lesson.
 
 ## The DIY Decision
 
@@ -67,7 +67,7 @@ Here's my honest breakdown of what homeowners can realistically handle:
 
 **Call a pro if:** the damaged area is larger than a ceiling tile (roughly 2x2 feet) and doesn't have clean edges for patching, the texture is a complex or aged knockdown pattern, you found any mold on the drywall paper or the framing above, or the drywall feels soft beyond just the discolored area. Also call a pro if you have a popcorn (acoustic) ceiling installed before 1980. Pre-1980 popcorn texture has a non-trivial chance of containing asbestos. Disturbing that without testing first is not a DIY call.
 
-A homeowner in my area emailed me last fall about a leak from a second-floor bathroom that had stained his dining room ceiling. He patched it himself, matched the paint as well as he could, called it done. The next spring, the seams around his patch started showing and the texture looked off in raking light. He ended up calling a pro anyway. Total spent: about $680 between his supplies and the eventual professional redo. A pro-only approach from the start would have cost him $550 and looked better.
+For example, consider a homeowner dealing with a leak from a second-floor bathroom that stained the dining room ceiling. If that homeowner patches it himself, matches the paint as well as he can, and calls it done. The following spring, the seams around the patch can start showing and the texture may look off in raking light. A pro ends up getting called anyway. Total spent in that scenario: about $680 between supplies and the eventual professional redo. A pro-only approach from the start would have cost him $550 and looked better.
 
 ## The Mold Question
 
@@ -79,7 +79,7 @@ What escalates cost is mold inside wall cavities, in insulation, or spreading ac
 
 Get any mold assessment in writing before remediation starts. A legitimate contractor will do a visual assessment and may recommend air quality testing ($200–$450 through a certified industrial hygienist) before quoting. Anyone who quotes you a big remediation job without opening up the ceiling first is guessing, and possibly padding.
 
-Scenario: A reader in Portland found surface mold on a 3x4-foot section of ceiling after a roof leak. Action: She pulled the damaged drywall herself, treated the 2x8 joists with Concrobium, replaced the insulation batt above, and had a drywall contractor hang and finish the patch. Result: Total cost of $487 materials plus $340 labor for finish work. No remediation contractor needed.
+For example, if a homeowner finds surface mold on a 3x4-foot section of ceiling after a roof leak. Pulling the damaged drywall, treating the 2x8 joists with Concrobium, replacing the insulation batt above, and having a drywall contractor hang and finish the patch is a practical approach. The total cost in that scenario would be approximately $487 in materials plus $340 in labor for finish work, with no remediation contractor needed. 
 
 ## What Insurance Actually Covers
 
@@ -91,7 +91,7 @@ Document everything before you start repairs. Take photos of the source (the fai
 
 Mold remediation coverage varies wildly by policy. Check your declarations page. Some policies have a $5,000 mold sublimit; others exclude it almost entirely. If you're in a humid climate or an older home, it's worth a call to your agent before something happens.
 
-Scenario: Burst supply line to an upstairs toilet in a home in Atlanta. Action: Owner called insurer before touching anything, adjuster came out within 48 hours, documented the source and the ceiling below. Result: Claim paid $4,217 for full ceiling replacement and drywall, minus $1,000 deductible. Repair completed in 4 days.
+For example, consider a burst supply line to an upstairs toilet. If the owner calls the insurer before touching anything, an adjuster can come out within 48 hours and document the source and the ceiling below. In that scenario, a claim might pay $4,217 for full ceiling replacement and drywall, minus a $1,000 deductible, with the repair completed in four days. 
 
 ## Sources
 

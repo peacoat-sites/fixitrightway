@@ -39,9 +39,9 @@ What you're hoping to find is what I'd call "honest old age" deterioration: mort
 
 ## What You Need (and What Not to Buy)
 
-The biggest mistake I see DIYers make at the hardware store: grabbing a bag of standard Type S or Type N mortar mix and calling it good. Sometimes that's exactly right. But if you're working on a house built before roughly 1930, there's a real chance the original mortar was lime-based, not Portland cement-based. Putting hard modern mortar into soft old brick is how you crack and spall the brick faces themselves. The mortar is supposed to be the sacrificial element, softer than the brick so it absorbs movement and moisture cycling. Get that backwards and you'll be replacing brick, not just mortar.
+One of the most common mistakes DIYers make at the hardware store is grabbing a bag of standard Type S or Type N mortar mix and calling it good. Sometimes that's exactly right. But if you're working on a house built before roughly 1930, there's a real chance the original mortar was lime-based, not Portland cement-based. Putting hard modern mortar into soft old brick is how you crack and spall the brick faces themselves. The mortar is supposed to be the sacrificial element, softer than the brick so it absorbs movement and moisture cycling. Get that backwards and you'll be replacing brick, not just mortar.
 
-I'll be honest: identifying original mortar composition by eye isn't easy. But if your brick is soft, handmade-looking, or irregular (common in pre-WWI construction), strongly consider using a Type O mortar or a dedicated repointing mix like SPEC MIX Repointing Mortar (pre-blended bags run $20-25 each at masonry supply houses). For 20th century brick in generally decent shape, Type S at around $12-15 a 60-lb bag at Home Depot or Lowe's is usually appropriate.
+Identifying original mortar composition by eye isn't easy. But if your brick is soft, handmade-looking, or irregular (common in pre-WWI construction), strongly consider using a Type O mortar or a dedicated repointing mix like SPEC MIX Repointing Mortar (pre-blended bags run $20-25 each at masonry supply houses). For 20th century brick in generally decent shape, Type S at around $12-15 a 60-lb bag at Home Depot or Lowe's is usually appropriate.
 
 Here's what you'll actually need:
 
@@ -59,7 +59,7 @@ One tool that surprises people: a tuck-pointing grout bag. It looks like a pastr
 
 Start by removing the old mortar. This is the step nobody wants to do and everybody underestimates. You need to get out at least 3/4 inch of depth, ideally a full inch, to give new mortar enough surface area to bond properly. Shallow repointing fails within a couple of years because there's not enough mechanical grip.
 
-The angle grinder makes this faster, but it takes practice to cut straight down the center of the joint without touching the brick edges. I'd strongly recommend grinding a few test cuts on an inconspicuous spot first, maybe a side or back wall. Go slow. A damaged brick face is a much bigger problem than a slightly uneven joint.
+The angle grinder makes this faster, but it takes practice to cut straight down the center of the joint without touching the brick edges. It's strongly recommended to grind a few test cuts on an inconspicuous spot first, maybe a side or back wall. Go slow. A damaged brick face is a much bigger problem than a slightly uneven joint.
 
 Once you've ground out the joints (horizontal first, then vertical), blow out or brush out all the dust. Mortar doesn't bond well to dusty, dry surfaces. Mist the area with water from a spray bottle before you pack in new material. Not soaking wet, just dampened.
 
@@ -93,7 +93,7 @@ Any wall where bricks have actually spalled (face popped off), shifted, or moved
 
 Interior basement walls with horizontal cracking, especially if the wall has any visible lean or bow: call a structural engineer first. Not a contractor. An engineer.
 
-If you're looking at more than about 50-60 square feet of deteriorated joints, especially overhead work or anything above the first story, the time and physical toll start to outweigh the savings. I'm all for DIY where it makes sense. This is one where the math changes pretty quickly once the scale gets up.
+If you're looking at more than about 50-60 square feet of deteriorated joints, especially overhead work or anything above the first story, the time and physical toll start to outweigh the savings. DIY makes sense in many situations. This is one where the math changes pretty quickly once the scale gets up.
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

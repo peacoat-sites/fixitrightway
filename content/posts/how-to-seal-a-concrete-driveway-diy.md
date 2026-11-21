@@ -28,13 +28,13 @@ faqs:
 
 Roughly 45% of unsealed concrete driveways show significant surface deterioration within five years of installation. Not "some wear." Not "minor cracking." Significant, progressive damage that costs real money to repair. Many homeowners end up spending $3,000 to $8,000 on driveway resurfacing jobs that a $120 tube of sealant and a Saturday afternoon could have prevented.
 
-You might be wondering whether sealing is actually worth the effort, or whether it's one of those things contractors push because it pads the bill. Fair question. Here's what I tell people: the Portland Cement Association estimates that a properly sealed concrete driveway can last 30 or more years, while an unsealed one in a freeze-thaw climate might degrade seriously in half that time. The science behind it isn't complicated. Concrete is porous. Water gets in, freezes, expands by about 9%, and breaks the matrix from the inside. Do that 50 times a winter and you've got spalling, pitting, and cracking that no amount of sealing will fix after the fact.
+You might be wondering whether sealing is actually worth the effort, or whether it's one of those things contractors push because it pads the bill. Fair question. The Portland Cement Association estimates that a properly sealed concrete driveway can last 30 or more years, while an unsealed one in a freeze-thaw climate might degrade seriously in half that time. The science behind it isn't complicated. Concrete is porous. Water gets in, freezes, expands by about 9%, and breaks the matrix from the inside. Do that 50 times a winter and you've got spalling, pitting, and cracking that no amount of sealing will fix after the fact.
 
 So yes. Seal it. And yes, you can absolutely do it yourself.
 
 ## What You're Actually Dealing With
 
-Before you buy anything, you need to know what type of concrete you're working with and what condition it's in. This is where most DIYers go wrong at first, and honestly, I made the same mistake early in my career: I assumed all concrete sealers were roughly equivalent and that surface prep was just a suggestion. It is not a suggestion. Surface prep is 80% of the job.
+Before you buy anything, you need to know what type of concrete you're working with and what condition it's in. This is where most DIYers go wrong: assuming all concrete sealers are roughly equivalent and that surface prep is just a suggestion. It is not a suggestion. Surface prep is 80% of the job.
 
 New concrete needs to cure fully before sealing. That means waiting at least 28 days, and in cooler weather I'd push it to 60. Seal too early and you trap moisture, which causes the sealer to cloud, peel, or bubble within a season. If you're working with existing concrete, you're looking for a surface that's structurally sound, clean, and dry. Any active cracks wider than about 1/8 inch need to be filled first. Products like Sikaflex Self-Leveling Sealant (around $11 per 10-ounce tube at most big-box stores) work well for this. For narrower hairline cracks, many penetrating sealers will handle them on their own.
 
@@ -46,7 +46,7 @@ This is where the industry muddies the water, so let me cut through it.
 
 There are two fundamental categories: penetrating sealers and topical sealers. They do different things, and the "right" choice depends on your climate, your concrete's condition, and what you want the finished surface to look like.
 
-Penetrating sealers (silane, siloxane, silane-siloxane blends) soak into the concrete and chemically bond with it. They don't change the look of the surface at all. They're invisible. They're the right call for raw concrete in freeze-thaw climates, for anyone who doesn't want a shiny finish, and for surfaces that see heavy traffic. The Siloxa-Tek 8500 from Ghostshield runs about $89 for a 1-gallon jug and covers roughly 200 to 400 square feet depending on how porous your concrete is. It's the one I'd reach for in Minnesota or Vermont.
+Penetrating sealers (silane, siloxane, silane-siloxane blends) soak into the concrete and chemically bond with it. They don't change the look of the surface at all. They're invisible. They're the right call for raw concrete in freeze-thaw climates, for anyone who doesn't want a shiny finish, and for surfaces that see heavy traffic. The Siloxa-Tek 8500 from Ghostshield runs about $89 for a 1-gallon jug and covers roughly 200 to 400 square feet depending on how porous your concrete is. It is a strong choice for climates like Minnesota or Vermont.
 
 Topical sealers (acrylic, polyurethane, epoxy) sit on top of the surface and form a film. They give you that wet, glossy look if you want it, and they're better at resisting oil stains. The tradeoff: they need to be reapplied every 2 to 5 years, they can peel if moisture gets trapped underneath, and they get slippery when wet unless you add a non-slip additive. Foundation Armor AR350, a solvent-based acrylic, is popular in the DIY market at around $75 per gallon and covers about 200 to 300 square feet.
 
@@ -64,7 +64,7 @@ As of July 2026, prices at Home Depot and Lowe's have ticked up about 12% from t
 
 ## The Prep Work (Don't Skip This)
 
-A common mistake is minimal surface prep before sealing. Sweeping and letting the concrete dry for a day isn't enough. Poor prep can cause a quality sealer to fail and peel within months, even if the sealer itself is sound.
+A common mistake is doing minimal surface prep before sealing. Sweeping and letting the concrete dry for a day isn't enough. Poor prep can cause a quality sealer to fail and peel within months, even if the sealer itself is sound.
 
 Here's the actual sequence:
 
@@ -76,7 +76,7 @@ Here's the actual sequence:
 
 **Step 4: Wait for dry.** Moisture is the enemy of adhesion. Check the forecast: you want 24 to 48 hours of dry weather after prep and before sealing, and ideally 24 hours after sealing too. The concrete surface temperature should be between 50°F and 90°F during application.
 
-A good example of what proper prep accomplishes: I had a client in suburban Chicago with a 900-square-foot driveway showing minor surface scaling. We spent four hours on prep (pressure wash, degrease, etch, two-day dry time) before applying a single coat of Ghostshield Siloxa-Tek 8500. Total material cost was $247. That was in 2022, and as of last year the surface still looks clean, no reapplication needed. Compare that to the same client's neighbor who paid a company $1,100 for a spray-and-go acrylic application with no prep, which peeled within 18 months.
+For example, consider a 900-square-foot driveway in a freeze-thaw climate showing minor surface scaling. Four hours of prep work, including pressure washing, degreasing, etching, and a two-day dry time, before applying a single coat of Ghostshield Siloxa-Tek 8500 is a reasonable investment. Total material cost in that scenario would run around $247. A properly prepped penetrating sealer application can remain clean and effective for several years with no reapplication needed. Compare that to a spray-and-go acrylic application with no prep, which commonly peels within 18 months even when a professional applies it.
 
 ## Applying the Sealer
 
@@ -86,7 +86,7 @@ For topical sealers, a 3/8-inch nap roller works well on smooth concrete; a 1/2-
 
 Keep foot traffic off for 24 hours, vehicle traffic off for at least 72 hours. If you're applying a solvent-based product, ventilate well and keep ignition sources away. This isn't just label-reading caution; the fumes from solvent-based acrylics are genuinely flammable.
 
-One thing that only becomes obvious after you've done this a few times: don't seal in direct summer sun if you can help it. The surface gets too hot, the solvent flashes off too fast, and you'll get a milky, uneven finish. Early morning application is ideal.
+One thing that becomes clear with experience: don't seal in direct summer sun if you can help it. The surface gets too hot, the solvent flashes off too fast, and you'll get a milky, uneven finish. Early morning application is ideal.
 
 ## What It Costs, Total
 
@@ -101,7 +101,7 @@ A typical two-car driveway runs about 400 to 600 square feet. Here's a realistic
 
 The DIY savings are real, but they only materialize if you do the prep correctly. A botched DIY job that needs to be stripped and redone (stripping products run $40 to $80 per gallon, and you'll need two passes) can cost you more than hiring a pro from the start.
 
-Another scenario worth knowing: a reader named Theresa in Denver had a 650-square-foot driveway that hadn't been sealed since it was poured eight years ago. Surface was sound but lightly scaled. She rented a pressure washer for $65, bought two gallons of Siloxa-Tek 8500 for $178, filled cracks with one tube of Sikaflex for $11, and spent a Saturday and Sunday on it. Total out of pocket: $254. A local company quoted her $780 for the same work. She texted me a photo afterward and it looked professionally done.
+For example, imagine a homeowner with a 650-square-foot driveway that has not been sealed since it was poured eight years ago. Surface was sound but lightly scaled. Renting a pressure washer for $65, buying two gallons of Siloxa-Tek 8500 for $178, and filling cracks with one tube of Sikaflex for $11 adds up to a Saturday-and-Sunday project. Total out of pocket would be around $254. A local company might quote $780 for the same work. Done correctly, a DIY penetrating sealer application is indistinguishable from professional work.
 
 ## Sources
 
