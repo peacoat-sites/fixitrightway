@@ -21,8 +21,8 @@ faqs:
     a: "Technically yes, but it's a much harder job. Glue-down laminate requires cutting the plank out, then scraping the adhesive residue from the subfloor before you can set the replacement. It's doable, but if you're not comfortable with that level of subfloor work, getting a quote from a flooring contractor first is reasonable."
 author: "Steve Adams"
 author_slug: "steve-adams"
-author_title: "Home Inspector"
-author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+author_title: "Home Maintenance"
+author_bio: "Steve Adams is the byline used at Fix It Right Way for articles on seasonal home maintenance and inspection checklists. It is a pen name, not a home inspector; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You probably noticed the damaged plank weeks ago and have been stepping around it ever since. Maybe it's a bubble from a slow leak under the dishwasher, or a crack from something heavy getting dropped, or just that one high-traffic spot near the back door that finally gave up. Whatever caused it, here's what most people don't realize: replacing a single laminate plank is genuinely doable on a weekend afternoon, and it doesn't require tearing up your whole floor.

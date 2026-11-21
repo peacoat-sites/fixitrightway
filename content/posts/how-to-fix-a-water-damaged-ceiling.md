@@ -16,8 +16,8 @@ faqs:
     a: "Mold often appears as black, green, or fuzzy spots and may have a musty odor. Small areas of mold, generally less than 10 square feet, can typically be handled by a careful DIYer using an N95 mask, gloves, and eye protection. Larger infestations, or any mold found on structural framing, should be assessed and remediated by a certified mold remediation professional to protect your health and home."
 author: "Steve Adams"
 author_slug: "steve-adams"
-author_title: "Home Inspector"
-author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+author_title: "Home Maintenance"
+author_bio: "Steve Adams is the byline used at Fix It Right Way for articles on seasonal home maintenance and inspection checklists. It is a pen name, not a home inspector; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You're staring up at a brownish stain spreading across your ceiling, or maybe paint's bubbling up, or worse, there's a [soft, sagging spot](/how-to-fix-a-sagging-ceiling/) that tells you water's been sitting there way too long. Water damaged ceilings are one of those home repairs that feels like a disaster until you actually start fixing it. The thing is, it's totally DIY-friendly if you follow the steps and don't cut corners. This guide walks you through the whole process, from figuring out how bad it really is to painting the final coat.

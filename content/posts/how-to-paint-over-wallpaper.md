@@ -16,8 +16,8 @@ faqs:
     a: "The best choice depends on the condition of your wallpaper and the wall behind it. If the wallpaper is firmly adhered, in good condition, and only one or two layers thick, painting over it is often faster and less risky. If the wallpaper is peeling significantly or the walls behind it are sturdy plaster, removal and a fresh start may give you a better long-term result. When in doubt, consult a local painting professional for advice specific to your situation."
 author: "Dana Morrison"
 author_slug: "dana-morrison"
-author_title: "Lead Contractor"
-author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+author_title: "Home Repair"
+author_bio: "Dana Morrison is the byline used at Fix It Right Way for articles on home repair and renovation, and which jobs to do yourself versus hire out. It is a pen name, not a licensed contractor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your walls are buried under wallpaper that's either ancient, peeling, or just ugly. The nightmare of ripping it all off sounds like a two-week project. Good news: you can paint right over it. Better news: it actually works, if you don't skip the prep.

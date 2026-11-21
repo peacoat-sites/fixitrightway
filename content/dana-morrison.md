@@ -5,8 +5,10 @@ layout: "author-page"
 hide_title: true
 author_name: "Dana Morrison"
 author_slug: "dana-morrison"
-author_title: "Lead Contractor"
-author_specialty: "General Contracting & Home Renovation"
+author_title: "Home Repair"
+author_specialty: "Home Repair"
 ---
 
-Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have.
+Dana Morrison is the byline used at Fix It Right Way for articles on home repair and renovation, and which jobs to do yourself versus hire out. It is a pen name, not a licensed contractor; how articles are researched and checked is explained in our editorial standards.
+
+[How Fix It Right Way articles are written and checked](/editorial-standards/)

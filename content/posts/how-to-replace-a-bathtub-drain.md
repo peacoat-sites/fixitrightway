@@ -16,8 +16,8 @@ faqs:
     a: "It depends on your tub material. Plumber’s putty works well on cast iron and ceramic tubs but can stain acrylic and fiberglass surfaces. For acrylic and fiberglass tubs, use a silicone-based sealant instead. Always check the instructions included with your new drain kit, as many modern kits will specify which sealant to use."
 author: "Paul Zhang"
 author_slug: "paul-zhang"
-author_title: "Licensed Electrician"
-author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
+author_title: "Electrical"
+author_bio: "Paul Zhang is the byline used at Fix It Right Way for articles on home electrical basics and safety, including which jobs need a licensed electrician or a permit. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your bathtub's draining slower every week. Maybe water pools around your feet in the shower now, or you've noticed a faint smell coming from under the tub. A corroded drain doesn't just annoy you, it quietly damages the wood and drywall beneath, and by the time you notice soft spots or staining, you're looking at thousands in water damage repair. The good news? You can replace it yourself. Even if you've never done this before, the process takes maybe an hour and costs $10 to $40 for the parts. This guide walks you through it step by step.

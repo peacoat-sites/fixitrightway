@@ -21,8 +21,8 @@ faqs:
    a: "No. If a door has developed a significant warp or bow, no amount of planing will make it hang true again. You can sometimes compensate for a slight bow by adjusting the strike plate and hinge positions, but a badly warped door needs to be replaced. Solid-core doors warp less than hollow-core, which is one reason they're worth the extra cost in high-humidity rooms like bathrooms."
 author: "Steve Adams"
 author_slug: "steve-adams"
-author_title: "Home Inspector"
-author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+author_title: "Home Maintenance"
+author_bio: "Steve Adams is the byline used at Fix It Right Way for articles on seasonal home maintenance and inspection checklists. It is a pen name, not a home inspector; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A sticking door is one of those problems that starts as a minor annoyance and somehow becomes the thing that breaks you. You shove it open with your shoulder every morning for six months, and then one day a houseguest uses that bathroom and you want to disappear into the floor. I've fixed hundreds of these, and the good news is that 90% of them cost nothing but an afternoon.

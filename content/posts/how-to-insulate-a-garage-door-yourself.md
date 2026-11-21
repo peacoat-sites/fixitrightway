@@ -21,8 +21,8 @@ faqs:
     a: "For a garage attached to a conditioned living space in a cold climate (Climate Zones 5-7 per the building codes), R-13 to R-16 is a reasonable target for the door itself. In milder climates, R-8 to R-10 is enough to make a noticeable difference in comfort and energy use. Below R-6, honestly, you're barely moving the needle."
 author: "Steve Adams"
 author_slug: "steve-adams"
-author_title: "Home Inspector"
-author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+author_title: "Home Maintenance"
+author_bio: "Steve Adams is the byline used at Fix It Right Way for articles on seasonal home maintenance and inspection checklists. It is a pen name, not a home inspector; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Insulating a garage door can reduce heating costs noticeably. In one example, a homeowner saved $70 in a single month after adding insulation, with material costs of about $85, suggesting the investment can pay back within a heating season.

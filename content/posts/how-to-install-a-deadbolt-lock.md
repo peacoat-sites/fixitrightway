@@ -16,8 +16,8 @@ faqs:
     a: "A correctly installed deadbolt will operate smoothly with no stiffness or grinding, the bolt will fully extend and retract, and the door will close and lock without any forcing. The faceplate and strike plate should both sit flush with the wood surface. If anything feels off, revisit the alignment of the strike plate first, that’s the most common culprit."
 author: "Kim Reeves"
 author_slug: "kim-reeves"
-author_title: "Interior Renovator"
-author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+author_title: "Interior Projects"
+author_bio: "Kim Reeves is the byline used at Fix It Right Way for articles on interior finish work: painting, trim, tile and drywall. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your front door feels a little less secure than it used to. Time to upgrade that old lock. Installing a deadbolt is one of the smartest home security improvements you can make, and learning **how to install a deadbolt** yourself can save you money while giving you real peace of mind. The good news: this is a manageable DIY project, even if you're not especially handy around the house.

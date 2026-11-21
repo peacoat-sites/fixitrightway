@@ -21,8 +21,8 @@ faqs:
    a: "If a toggle-style anchor is loose, it almost always means the hole was too large or the drywall is damaged around the hole. You'll need to move to a new location at least 3-4 inches away from the failed spot. Trying to re-anchor in a damaged hole rarely ends well, and patching it with spackle and re-drilling in the same spot definitely won't hold weight."
 author: "Kim Reeves"
 author_slug: "kim-reeves"
-author_title: "Interior Renovator"
-author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+author_title: "Interior Projects"
+author_bio: "Kim Reeves is the byline used at Fix It Right Way for articles on interior finish work: painting, trim, tile and drywall. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Three years ago I watched a homeowner hang a 65-pound antique mirror using a single plastic expansion anchor from one of those hardware store variety packs. It held for about four days. When it came down, it took a fist-sized chunk of drywall with it and nearly took out a lamp on the way. That mirror survived. The wall did not.

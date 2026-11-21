@@ -17,8 +17,8 @@ faqs:
     a: "Most drywall finishing jobs require three coats: a tape coat, a fill coat, and a finish coat. Some surfaces or high-visibility areas may benefit from a fourth skim coat applied over the entire wall. Each coat must be fully dry and lightly sanded before the next is applied. Rushing by applying thick coats will cause cracking and shrinkage."
 author: "Kim Reeves"
 author_slug: "kim-reeves"
-author_title: "Interior Renovator"
-author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+author_title: "Interior Projects"
+author_bio: "Kim Reeves is the byline used at Fix It Right Way for articles on interior finish work: painting, trim, tile and drywall. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 
 ---
 You've patched a hole, installed new drywall, or finished a renovation, and now you're staring at bare seams, screw dimples, and rough edges. Learning **how to tape and mud drywall** is one of the most rewarding skills you can pick up as a DIY person. With the right tools, patience, and the steps in this article, you'll get results that look professional without paying a contractor.

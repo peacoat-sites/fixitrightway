@@ -21,8 +21,8 @@ faqs:
     a: "For hair clogs, no. Liquid drain cleaners (Drano, Liquid-Plumr) work reasonably well on grease and soap scum but don't dissolve hair effectively. They also sit in your P-trap and can soften older plastic fittings with repeated use. A snake physically removes the clog. That's a more complete fix."
 author: "Dana Morrison"
 author_slug: "dana-morrison"
-author_title: "Lead Contractor"
-author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+author_title: "Home Repair"
+author_bio: "Dana Morrison is the byline used at Fix It Right Way for articles on home repair and renovation, and which jobs to do yourself versus hire out. It is a pen name, not a licensed contractor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A bathroom sink clog will humble you fast. You pour in the Drano, wait twenty minutes, run hot water, and watch it pool right back up. You do it again. Then you finally accept what you should've done twenty minutes in: you need a snake.

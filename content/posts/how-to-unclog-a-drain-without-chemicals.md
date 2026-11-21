@@ -21,8 +21,8 @@ faqs:
    a: "The most effective habits are the simplest ones. Use a mesh drain cover in the shower to catch hair before it enters the drain. Never pour grease down the kitchen sink. Run hot water for 30 seconds after doing dishes. Once a month, flush your drains with hot water for a couple of minutes. That's genuinely it. Most of the enzyme-based maintenance products you'll see marketed are not harmful, but they're also not necessary if you're following the basics."
 author: "Steve Adams"
 author_slug: "steve-adams"
-author_title: "Home Inspector"
-author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+author_title: "Home Maintenance"
+author_bio: "Steve Adams is the byline used at Fix It Right Way for articles on seasonal home maintenance and inspection checklists. It is a pen name, not a home inspector; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're standing there watching water pool around your ankles in the shower, or staring at a kitchen sink that's draining so slowly you can still see yesterday's dishwater sitting in it. Maybe you've already poured half a bottle of Drano down there with mixed results. Chemical drain cleaners are often the least effective solution for a real clog, and they can actually damage older pipes, corrode metal P-traps, and create a hazardous situation if you then need to snake the drain manually. The good news is that most household drain clogs can be cleared with tools you already own or can buy for under $30, and once you know the method, you'll never go back to the chemical stuff.

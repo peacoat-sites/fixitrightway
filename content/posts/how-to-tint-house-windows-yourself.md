@@ -16,8 +16,8 @@ faqs:
     a: "Yes, window tint film is removable, though it does require some effort. Use a razor blade held at a low angle to lift a corner of the film, then peel it back slowly while keeping the glass warm with a heat gun or hair dryer on a low setting. Any adhesive residue left behind can be removed with rubbing alcohol or a commercial adhesive remover applied gently with a soft cloth. Your glass should be left in perfect condition once the residue is fully cleaned away."
 author: "Paul Zhang"
 author_slug: "paul-zhang"
-author_title: "Licensed Electrician"
-author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
+author_title: "Electrical"
+author_bio: "Paul Zhang is the byline used at Fix It Right Way for articles on home electrical basics and safety, including which jobs need a licensed electrician or a permit. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your home feels like a greenhouse every summer afternoon, and your furniture is slowly fading from constant sun exposure. If you're tired of paying high energy bills and squinting through glare-filled windows, learning **how to tint house windows** yourself is a smart, affordable solution. Window tinting is a weekend project that seniors and homeowners of any skill level can tackle with the right guidance and a little patience.

@@ -5,8 +5,10 @@ layout: "author-page"
 hide_title: true
 author_name: "Paul Zhang"
 author_slug: "paul-zhang"
-author_title: "Licensed Electrician"
-author_specialty: "Home Electrical Safety & Repairs"
+author_title: "Electrical"
+author_specialty: "Electrical"
 ---
 
-Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs.
+Paul Zhang is the byline used at Fix It Right Way for articles on home electrical basics and safety, including which jobs need a licensed electrician or a permit. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards.
+
+[How Fix It Right Way articles are written and checked](/editorial-standards/)

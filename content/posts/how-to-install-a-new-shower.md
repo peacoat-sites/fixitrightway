@@ -16,8 +16,8 @@ faqs:
     a: "Yes, and it is an excellent idea for adults over 60. Walk-in showers with low or zero-threshold entries are highly accessible and can be installed using the same process described in this guide. Look for kits specifically labeled as accessible or ADA-compliant, and consider adding grab bars rated for at least 250 pounds of force for maximum safety."
 author: "Dana Morrison"
 author_slug: "dana-morrison"
-author_title: "Lead Contractor"
-author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+author_title: "Home Repair"
+author_bio: "Dana Morrison is the byline used at Fix It Right Way for articles on home repair and renovation, and which jobs to do yourself versus hire out. It is a pen name, not a licensed contractor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your old shower is cracked, leaking, or just plain depressing. Every morning it reminds you there's a renovation you've been putting off for two years. Whether you're replacing a worn-out unit or upgrading for better accessibility, knowing how to install a shower can save you thousands and give you a space that actually works. The best part? With the right prep and some patience, most handy homeowners can finish this over a weekend.

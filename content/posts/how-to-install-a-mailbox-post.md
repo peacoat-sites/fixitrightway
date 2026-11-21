@@ -16,8 +16,8 @@ faqs:
     a: "Most homeowners can complete a mailbox post installation in two to four hours, not counting the concrete curing time. Plan to wait at least 24 hours after setting the post in concrete before attaching your mailbox. If you’re removing an old post first, add another 30 to 60 minutes for that step."
 author: "Steve Adams"
 author_slug: "steve-adams"
-author_title: "Home Inspector"
-author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+author_title: "Home Maintenance"
+author_bio: "Steve Adams is the byline used at Fix It Right Way for articles on seasonal home maintenance and inspection checklists. It is a pen name, not a home inspector; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your old mailbox post has finally given up the ghost. It's leaning sideways, rotting at the base, or just falling apart. Whether you're replacing a worn-out post or installing a brand-new one, knowing **how to install a mailbox post** correctly saves you time, money, and a second trip to the hardware store. The good news? This is a manageable weekend project most homeowners can tackle with basic tools and a little guidance.

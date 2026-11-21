@@ -21,8 +21,8 @@ faqs:
     a: "If you're doing a significant color change, painting over bare wood, or covering a stained surface, yes. If you're repainting previously painted trim in a similar color with a quality paint-and-primer formula, you can often skip a separate primer coat and get away with two finish coats instead. The money you spend on a good waterborne alkyd product is more valuable than a cheap primer under cheap paint."
 author: "Kim Reeves"
 author_slug: "kim-reeves"
-author_title: "Interior Renovator"
-author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+author_title: "Interior Projects"
+author_bio: "Kim Reeves is the byline used at Fix It Right Way for articles on interior finish work: painting, trim, tile and drywall. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Brush marks running in every direction, ridges of dried paint catching the light, and unexpected drips are common frustrations when painting baseboards and trim. Many homeowners encounter these issues on their first attempt. The good news is that brush strokes on trim aren't a skill problem. They're almost always a product, prep, or technique problem, and every one of those is fixable.

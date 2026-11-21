@@ -16,8 +16,8 @@ faqs:
     a: "Absolutely. Even a faucet that drips just once per second can waste more than 3,000 gallons of water per year, according to the U.S. Environmental Protection Agency. That translates directly into higher water bills and unnecessary strain on the environment. Fixing the leak promptly is both a money-saving and eco-friendly decision."
 author: "Steve Adams"
 author_slug: "steve-adams"
-author_title: "Home Inspector"
-author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+author_title: "Home Maintenance"
+author_bio: "Steve Adams is the byline used at Fix It Right Way for articles on seasonal home maintenance and inspection checklists. It is a pen name, not a home inspector; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 That steady _drip, drip, drip_ is costing you money. An outdoor faucet leak wastes hundreds of gallons monthly and can damage your foundation. The good news? Most homeowners can fix this in under an hour without calling a plumber.

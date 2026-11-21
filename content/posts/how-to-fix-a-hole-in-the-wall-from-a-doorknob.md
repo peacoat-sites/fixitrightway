@@ -21,8 +21,8 @@ faqs:
     a: "Install a door stop. A hinge-mounted door stop is completely invisible and costs about $5. It attaches directly to the door hinge and physically prevents the door from swinging past a certain point. Wall-mounted rubber bumpers work too but they require the door to hit the same spot every time. A floor-mounted stop is also an option for heavy doors. Any of these will protect your wall indefinitely. It's five minutes of work and the best insurance policy for your fresh repair."
 author: "Dana Morrison"
 author_slug: "dana-morrison"
-author_title: "Lead Contractor"
-author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+author_title: "Home Repair"
+author_bio: "Dana Morrison is the byline used at Fix It Right Way for articles on home repair and renovation, and which jobs to do yourself versus hire out. It is a pen name, not a licensed contractor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You already know exactly how it happened. The door swung open a little too hard, maybe the wind caught it, maybe someone wasn't paying attention, and now there's a doorknob-shaped hole punched through your drywall. It's one of the most common wall repairs I get called about, and it's also one of the most unnecessary service calls. This is a repair almost any homeowner can do themselves for under $30 and a Saturday morning. Let me walk you through it the right way so you don't end up with a lumpy, visible patch that bugs you every time you walk past it.

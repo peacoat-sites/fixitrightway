@@ -21,8 +21,8 @@ faqs:
    a: "Yes, but the number varies too much to promise you anything specific. Air sealing is consistently one of the highest-ROI improvements in home energy audits, the Department of Energy's own data shows infiltration accounts for 25% to 40% of heating and cooling costs in typical homes. A full weatherstripping and caulking job on a drafty older home runs $50 to $150 in materials and an afternoon of work. That math usually lands in your favor before February."
 author: "Kim Reeves"
 author_slug: "kim-reeves"
-author_title: "Interior Renovator"
-author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+author_title: "Interior Projects"
+author_bio: "Kim Reeves is the byline used at Fix It Right Way for articles on interior finish work: painting, trim, tile and drywall. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your windows are probably leaking more heat than [your insulation is saving](/how-to-insulate-an-attic-yourself-to-save-energy/). Weatherstripping compresses, caulk cracks, and glazing compound deteriorates over time, all of which increase heat loss. Most articles suggest feeling for drafts with your hand and recommend one generic product. A better approach is to identify which specific problems your windows have, then match them to the right fixes.

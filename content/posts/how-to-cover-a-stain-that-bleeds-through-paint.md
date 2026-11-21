@@ -8,8 +8,8 @@ categories: ["Painting"]
 tags: ["cover", "stain", "that", "bleeds", "through"]
 author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
-author_title: "Licensed Plumber"
-author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
+author_title: "Plumbing"
+author_bio: "Maria Gonzalez is the byline used at Fix It Right Way for articles on residential plumbing repairs and fixtures. It is a pen name, not a licensed plumber; how articles are researched and checked is explained in our editorial standards."
 slug: "how-to-cover-a-stain-that-bleeds-through-paint"
 affiliate_disclosure: true
 faqs:

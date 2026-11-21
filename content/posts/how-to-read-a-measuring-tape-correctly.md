@@ -16,8 +16,8 @@ faqs:
     a: "For an inside measurement, press the end of the tape firmly against one wall or edge and extend it to the opposite side. Most tape measure cases have the case length printed on them, often 3 inches. Add that number to whatever the tape reads at the far edge to get your total inside measurement. This is called an “add-on” measurement and it is a very useful trick to know."
 author: "Dana Morrison"
 author_slug: "dana-morrison"
-author_title: "Lead Contractor"
-author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+author_title: "Home Repair"
+author_bio: "Dana Morrison is the byline used at Fix It Right Way for articles on home repair and renovation, and which jobs to do yourself versus hire out. It is a pen name, not a licensed contractor; how articles are researched and checked is explained in our editorial standards."
 
 ---
 You pull out your measuring tape to check a shelf, and suddenly those tiny numbers feel like they're written in another language. If you've struggled to read one accurately, you're not alone. Learning how to read measuring tape correctly is surprisingly simple once someone breaks it down. And getting accurate measurements saves you time, money, and the frustration of buying something that doesn't fit.

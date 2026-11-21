@@ -16,8 +16,8 @@ faqs:
     a: "Look inside your cabinet with the drawer removed. If you see metal tracks running along the left and right walls of the cabinet opening, those are side-mounted slides. If there is a single track in the center of the cabinet floor, that is a bottom-mounted or center-mount slide. Always replace like for like to avoid having to modify your drawer or cabinet."
 author: "Kim Reeves"
 author_slug: "kim-reeves"
-author_title: "Interior Renovator"
-author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+author_title: "Interior Projects"
+author_bio: "Kim Reeves is the byline used at Fix It Right Way for articles on interior finish work: painting, trim, tile and drywall. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your kitchen drawer suddenly pops loose, tilts sideways, and refuses to slide back in smoothly. Sound familiar? A **kitchen drawer off track** is one of the most common and frustrating household problems, especially in homes where drawers see heavy daily use. But here's the thing: this is almost always a fix you can do yourself, without calling a handyman, and without spending much money at all.

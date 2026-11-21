@@ -16,8 +16,8 @@ faqs:
     a: "For bathroom and kitchen floors, a thorough grout cleaning every three to six months is a good general guideline. High-traffic areas or shower stalls may need attention every one to two months. If you’ve applied a quality grout sealer, you’ll find that dirt releases much more easily and deep cleaning sessions are quicker and less frequent."
 author: "Dana Morrison"
 author_slug: "dana-morrison"
-author_title: "Lead Contractor"
-author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+author_title: "Home Repair"
+author_bio: "Dana Morrison is the byline used at Fix It Right Way for articles on home repair and renovation, and which jobs to do yourself versus hire out. It is a pen name, not a licensed contractor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your tile floors looked beautiful [when they were first installed](/how-to-level-an-uneven-floor-before-tiling/), but now the grout lines have turned dark, dingy, and even a little embarrassing. Dirty grout is one of the most common household frustrations, and it can make an entire room look neglected even when everything else is spotless. The good news is that learning **how to clean grout** is easier than you might think, and you don't need to hire an expensive professional to get the job done right.

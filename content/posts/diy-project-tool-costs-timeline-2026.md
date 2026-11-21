@@ -4,7 +4,7 @@ image: "/img/heroes/5973976.jpg"
 description: "Home improvement tool costs and project timelines. Bathroom renovation 800 budget, 14 days. Deck repair 600, 5 days. Real cost data from HomeDepot + Lowe's."
 author: "Dana Morrison"
 author_slug: "dana-morrison"
-author_title: "Lead Contractor"
+author_title: "Home Repair"
 date: 2026-06-28
 featured_depth: true
 categories: ["trending"]
@@ -19,6 +19,7 @@ faqs:
  - q: "Are these costs complete?"
    a: "These include materials and tools. Not included: disposal/hauling, permits, rental of heavy equipment, inspection fees. Budget +20% for contingencies."
 lastmod: 2026-07-09
+author_bio: "Dana Morrison is the byline used at Fix It Right Way for articles on home repair and renovation, and which jobs to do yourself versus hire out. It is a pen name, not a licensed contractor; how articles are researched and checked is explained in our editorial standards."
 ---
 
 Most DIY projects fail because people underestimate either **tool costs** or **timeline**.

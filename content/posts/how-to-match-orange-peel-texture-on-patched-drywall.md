@@ -8,8 +8,8 @@ categories: ["Drywall & Walls"]
 tags: ["match", "orange", "peel", "texture", "patched"]
 author: "Kim Reeves"
 author_slug: "kim-reeves"
-author_title: "Interior Renovator"
-author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+author_title: "Interior Projects"
+author_bio: "Kim Reeves is the byline used at Fix It Right Way for articles on interior finish work: painting, trim, tile and drywall. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "how-to-match-orange-peel-texture-on-patched-drywall"
 affiliate_disclosure: true
 faqs:

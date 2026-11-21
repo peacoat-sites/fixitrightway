@@ -1,42 +1,38 @@
 ---
-title: "About Dana Morrison"
+title: "About Fix It Right Way"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "Learn about Dana Morrison, the DIY Home Repair Editor behind fixitrightway.com."
+description: "What Fix It Right Way covers, who writes it and how articles are produced."
 layout: "about-page"
-author_slug: "dana-morrison"
-author_name: "Dana Morrison"
-person_name: "Dana Morrison"
 ---
 
-# About Dana Morrison
+## About Fix It Right Way
 
-I bought my first house at 29 and immediately discovered how much I didn't know. The first winter, the kitchen faucet started dripping. By spring, I'd replaced it myself after watching fifteen videos and reading twice as many forum threads. That small win started something, I wanted to understand how things worked, not just call someone every time something broke.
+Fix It Right Way explains home repairs and maintenance for homeowners: what a job involves, what it costs, and when it makes sense to do it yourself.
 
-Over the next twenty years I've tackled hundreds of projects: plumbing repairs, drywall patching, electrical fixture swaps, tile work, floor installation, deck rebuilding, painting, weatherproofing, and more. Not everything went right the first time. I've made mistakes, some of them expensive. And learned from every one of them. That accumulated experience is the foundation of every article on this site.
+## Who writes here
 
-I started Fix It Right Way because the information I needed when I was learning wasn't always easy to find. Too many guides skip the context that tells you *why* you're doing each step, or assume you have tools and knowledge that a first-timer doesn't have. I write for the homeowner who wants to do it themselves, wants to do it correctly, and wants to understand what they're doing.
+Articles are published under pen names, each covering one part of the site:
 
-## Why I Started Fix It Right Way
+- **[Dana Morrison](/dana-morrison/)**: home repair and renovation, and which jobs to do yourself versus hire out
+- **[Kim Reeves](/kim-reeves/)**: interior finish work: painting, trim, tile and drywall
+- **[Maria Gonzalez](/maria-gonzalez/)**: residential plumbing repairs and fixtures
+- **[Paul Zhang](/paul-zhang/)**: home electrical basics and safety, including which jobs need a licensed electrician or a permit
+- **[Steve Adams](/steve-adams/)**: seasonal home maintenance and inspection checklists
 
-After years of helping friends and family with their own home repair questions, I realized I was repeating a lot of the same explanations. How do you know when a plumbing fix is DIY-able and when you need a licensed plumber? What does "flush with the surface" actually mean when patching drywall? What's the actual difference between joint compound and spackle?
+## How we work
 
-Fix It Right Way is the guide I wanted when I was starting out, detailed enough to actually follow, honest about when a job is beyond DIY territory, and written by someone who has done the work with their own hands.
+Articles are drafted with AI writing tools from public sources and pass an automated accuracy check before they are published. The full process, the sources we rely on and the limits of what this site can tell you are in our [editorial standards](/editorial-standards/).
 
-## What You'll Find Here
+## Important limits
 
-- **Plumbing:** Faucet repairs, drain fixes, toilet repairs, supply line replacements
-- **Electrical:** Outlet and switch replacement, fixture swaps, GFCI installation (always with safety guidance)
-- **Drywall:** Patching holes, corner bead, taping and mudding, texture matching
-- **Painting:** Prep work, primer, technique, trim painting, common mistakes
-- **Floors:** Squeaky floor fixes, laminate installation, tile repair, subfloor basics
-- **Exterior:** Caulking, weatherstripping, gutter cleaning and repair, deck maintenance
+Building codes and permit rules vary by city and county, so check with your local building department before electrical, gas, structural or major plumbing work. Switch off power at the breaker and confirm it is off with a tester before touching wiring, and do not work on gas lines yourself. If you smell gas, leave the house and call your gas utility or 911 from outside.
 
-## A Note on Our Content
+## Affiliate disclosure
 
-Every guide on this site is written based on my personal experience and research, with references to manufacturer guidance, building codes, and published standards where applicable. Not every repair is appropriate for every homeowner, I always flag when a job requires licensed professionals (especially for electrical and structural work) or when permits may be required. This site is for educational purposes; always follow local building codes and manufacturer instructions, and when in doubt, consult a licensed contractor.
+Some links on this site are affiliate links, including Amazon links. If you buy through them we may earn a commission at no extra cost to you.
 
-## Get in Touch
+## Contact
 
-Have a question, want to share what worked (or didn't) on your own project, or want me to cover something specific? Head to the [contact page](/contact/), I'd love to hear from you.
+Questions, corrections or topic requests: use the [contact page](/contact/).

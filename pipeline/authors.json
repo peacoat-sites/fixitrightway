@@ -2,36 +2,36 @@
   {
     "slug": "dana-morrison",
     "name": "Dana Morrison",
-    "title": "Lead Contractor",
-    "specialty": "General Contracting & Home Renovation",
-    "bio": "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+    "title": "Home Repair",
+    "specialty": "Home Repair",
+    "bio": "Dana Morrison is the byline used at Fix It Right Way for articles on home repair and renovation, and which jobs to do yourself versus hire out. It is a pen name, not a licensed contractor; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "kim-reeves",
     "name": "Kim Reeves",
-    "title": "Interior Renovator",
-    "specialty": "DIY Interior Improvements & Finish Work",
-    "bio": "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
-  },
-  {
-    "slug": "paul-zhang",
-    "name": "Paul Zhang",
-    "title": "Licensed Electrician",
-    "specialty": "Home Electrical Safety & Repairs",
-    "bio": "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
+    "title": "Interior Projects",
+    "specialty": "Interior Projects",
+    "bio": "Kim Reeves is the byline used at Fix It Right Way for articles on interior finish work: painting, trim, tile and drywall. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "maria-gonzalez",
     "name": "Maria Gonzalez",
-    "title": "Licensed Plumber",
-    "specialty": "Residential Plumbing Repairs & Fixtures",
-    "bio": "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
+    "title": "Plumbing",
+    "specialty": "Plumbing",
+    "bio": "Maria Gonzalez is the byline used at Fix It Right Way for articles on residential plumbing repairs and fixtures. It is a pen name, not a licensed plumber; how articles are researched and checked is explained in our editorial standards."
+  },
+  {
+    "slug": "paul-zhang",
+    "name": "Paul Zhang",
+    "title": "Electrical",
+    "specialty": "Electrical",
+    "bio": "Paul Zhang is the byline used at Fix It Right Way for articles on home electrical basics and safety, including which jobs need a licensed electrician or a permit. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "steve-adams",
     "name": "Steve Adams",
-    "title": "Home Inspector",
-    "specialty": "Home Inspections & Preventive Maintenance",
-    "bio": "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+    "title": "Home Maintenance",
+    "specialty": "Home Maintenance",
+    "bio": "Steve Adams is the byline used at Fix It Right Way for articles on seasonal home maintenance and inspection checklists. It is a pen name, not a home inspector; how articles are researched and checked is explained in our editorial standards."
   }
 ]

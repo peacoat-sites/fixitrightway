@@ -21,8 +21,8 @@ faqs:
    a: "Almost. The National Electrical Code requires outlets to be mounted to framing, so there's always a stud adjacent to an electrical box. The box is usually nailed to the left or right face of a stud. The one exception is when someone installed an old-work box between studs using plastic mounting wings, which became common in retrofit work. If the box wiggles when you press on the cover plate, it might be a floating old-work box. If it's rock solid, there's a stud right there."
 author: "Kim Reeves"
 author_slug: "kim-reeves"
-author_title: "Interior Renovator"
-author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+author_title: "Interior Projects"
+author_bio: "Kim Reeves is the byline used at Fix It Right Way for articles on interior finish work: painting, trim, tile and drywall. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 My stud finder died mid-project on a Saturday afternoon, and I'll be honest: it was the best thing that ever happened to my understanding of wall framing. I found that stud in about 90 seconds using nothing but my knuckle and a finish nail, and realized I'd been over-relying on a $30 gadget for years.

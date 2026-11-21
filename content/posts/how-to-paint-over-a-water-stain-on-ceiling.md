@@ -21,8 +21,8 @@ faqs:
    a: "For a straightforward stain on intact drywall, no. It's well within DIY range and a painter will charge $150-300 for something you can do in an afternoon for $40 in materials. Where you should hire: if there's mold involvement, if the drywall replacement is significant, or if you need to blend a large painted area on a textured ceiling. Texture matching is genuinely skilled work and a bad texture patch looks worse than the stain."
 author: "Steve Adams"
 author_slug: "steve-adams"
-author_title: "Home Inspector"
-author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+author_title: "Home Maintenance"
+author_bio: "Steve Adams is the byline used at Fix It Right Way for articles on seasonal home maintenance and inspection checklists. It is a pen name, not a home inspector; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You can paint over a water stain with regular latex ceiling paint. Most people do. And within six months, the stain's back, slightly darker, slightly more humiliating, plus you've got a weird texture spot from all those extra coats.

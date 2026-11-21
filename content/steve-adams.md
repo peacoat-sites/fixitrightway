@@ -5,8 +5,10 @@ layout: "author-page"
 hide_title: true
 author_name: "Steve Adams"
 author_slug: "steve-adams"
-author_title: "Home Inspector"
-author_specialty: "Home Inspections & Preventive Maintenance"
+author_title: "Home Maintenance"
+author_specialty: "Home Maintenance"
 ---
 
-Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies.
+Steve Adams is the byline used at Fix It Right Way for articles on seasonal home maintenance and inspection checklists. It is a pen name, not a home inspector; how articles are researched and checked is explained in our editorial standards.
+
+[How Fix It Right Way articles are written and checked](/editorial-standards/)

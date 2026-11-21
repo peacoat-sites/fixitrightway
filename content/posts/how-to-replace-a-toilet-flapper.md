@@ -16,8 +16,8 @@ faqs:
     a: "Technically, you can work quickly with the water on, but it is not recommended. Shutting off the water supply first makes the repair cleaner, safer, and far easier to manage. It also prevents accidental splashing and gives you time to work without the tank constantly refilling. Always turn off the water first for the best results."
 author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
-author_title: "Licensed Plumber"
-author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
+author_title: "Plumbing"
+author_bio: "Maria Gonzalez is the byline used at Fix It Right Way for articles on residential plumbing repairs and fixtures. It is a pen name, not a licensed plumber; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your toilet keeps running long after you flush. That endless hissing sound. The water bill creeping up month after month. You almost certainly don't need to [call a plumber](/how-to-unclog-a-toilet-without-a-plunger/) for this. Replacing a toilet flapper is genuinely one of the easiest fixes you can do at home, and most people finish it in under 30 minutes.

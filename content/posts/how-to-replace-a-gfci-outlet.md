@@ -16,8 +16,8 @@ faqs:
     a: "Yes, this is exactly what the LOAD terminals are designed for. When additional outlets are wired through the LOAD terminals of a GFCI outlet, those downstream outlets also receive GFCI protection. This is why you sometimes see regular-looking outlets in a bathroom labeled “GFCI Protected”, they’re being protected by a GFCI outlet elsewhere on the same circuit."
 author: "Dana Morrison"
 author_slug: "dana-morrison"
-author_title: "Lead Contractor"
-author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+author_title: "Home Repair"
+author_bio: "Dana Morrison is the byline used at Fix It Right Way for articles on home repair and renovation, and which jobs to do yourself versus hire out. It is a pen name, not a licensed contractor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your GFCI outlet keeps tripping, won't reset, or simply stopped working. It's frustrating. The good news is that replacing one is genuinely doable for most homeowners, and you can have it working in about 30 minutes.

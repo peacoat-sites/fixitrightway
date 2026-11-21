@@ -21,8 +21,8 @@ faqs:
     a: "CLR says it's safe for septic systems when used as directed and flushed thoroughly. I'd be cautious about pouring large quantities in at once. Use a reasonable amount, let it work, then flush several times to dilute it well before it reaches your tank. The bacterial colonies in a healthy septic system are fairly resilient, but it's worth not overdoing it."
 author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
-author_title: "Licensed Plumber"
-author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
+author_title: "Plumbing"
+author_bio: "Maria Gonzalez is the byline used at Fix It Right Way for articles on residential plumbing repairs and fixtures. It is a pen name, not a licensed plumber; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 I'll be honest: I wasted probably three years of my life scrubbing toilet bowls with the wrong products. The frustrating part was that most of what gets recommended online makes the problem worse, or does absolutely nothing.

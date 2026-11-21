@@ -16,8 +16,8 @@ faqs:
     a: "You can use a tile saw indoors, but it requires good preparation. The saw will splash water and create some noise, so lay down plastic sheeting to protect floors and connect to a GFCI outlet. Make sure the space is well-ventilated and that you have easy access to a drain or buckets for water management. Many people prefer to set up near an open garage door or on a covered patio for easier cleanup."
 author: "Kim Reeves"
 author_slug: "kim-reeves"
-author_title: "Interior Renovator"
-author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+author_title: "Interior Projects"
+author_bio: "Kim Reeves is the byline used at Fix It Right Way for articles on interior finish work: painting, trim, tile and drywall. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 
 ---
 You've got a beautiful tile project ahead of you, maybe a kitchen backsplash, a bathroom floor, or a new patio, but there's one problem: cutting tile without cracking it or turning your workspace into a dust cloud. Learning **how to use a tile saw** can feel intimidating at first, especially if you've never touched one before. But with decent guidance and a little patience, even a complete beginner can pull off clean, professional cuts consistently.

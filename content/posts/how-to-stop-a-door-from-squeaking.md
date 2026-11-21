@@ -21,8 +21,8 @@ faqs:
    a: "Replacement makes sense when the barrel is visibly worn and the pin has noticeable play in it, when the hinge is bent or the screw holes are badly stripped, or when the hinge is just plain ugly and you want to update the hardware anyway. A standard interior door hinge costs $4 to $12. Replacing a hinge is a 20-minute job with a screwdriver. If you've lubricated the same hinge three times in two years and it keeps squeaking, replacement is the smarter move."
 author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
-author_title: "Licensed Plumber"
-author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
+author_title: "Plumbing"
+author_bio: "Maria Gonzalez is the byline used at Fix It Right Way for articles on residential plumbing repairs and fixtures. It is a pen name, not a licensed plumber; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people grab a can of WD-40, spray the hinges, and call it done. The squeak comes back in two weeks. WD-40 is one of the worst things you can use on a squeaky door hinge. It's a solvent and water displacer, not a lubricant. It cleans out the existing grease, gives you a brief quiet period, and then leaves metal grinding on metal again. If your door squeak has come back multiple times after treatment, this is probably why.

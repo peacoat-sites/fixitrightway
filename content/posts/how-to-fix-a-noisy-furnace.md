@@ -16,8 +16,8 @@ faqs:
     a: "The best prevention is regular maintenance. Change your filter every one to three months, schedule a professional tune-up each fall before heating season, and lubricate moving parts annually. A well-maintained furnace runs quietly and efficiently for 15 to 20 years or more."
 author: "Dana Morrison"
 author_slug: "dana-morrison"
-author_title: "Lead Contractor"
-author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+author_title: "Home Repair"
+author_bio: "Dana Morrison is the byline used at Fix It Right Way for articles on home repair and renovation, and which jobs to do yourself versus hire out. It is a pen name, not a licensed contractor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your furnace is banging, rattling, or squealing at 2 a.m., and you're wondering if this means a $1,500 repair bill. The truth is simpler. Most furnace noise has an easy fix, and you can probably handle it yourself without calling anyone.

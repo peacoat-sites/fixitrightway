@@ -16,8 +16,8 @@ faqs:
     a: "Yes, and the savings can be significant. According to the U.S. Department of Energy, drafts from poorly sealed windows and doors can account for 25 to 30 percent of residential heating and cooling costs. Proper weatherstripping is one of the most cost-effective ways to improve your home’s energy efficiency, with materials typically costing under $20 per window and paying for themselves within a single heating season."
 author: "Dana Morrison"
 author_slug: "dana-morrison"
-author_title: "Lead Contractor"
-author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+author_title: "Home Repair"
+author_bio: "Dana Morrison is the byline used at Fix It Right Way for articles on home repair and renovation, and which jobs to do yourself versus hire out. It is a pen name, not a licensed contractor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-07
 ---
 Your windows are letting in cold drafts, your energy bills keep climbing, and you can hear the wind whistling around the edges of your window frames. These are classic signs that your weatherstripping has worn out and needs replacing. The good news is that **[window weatherstripping replacement](/how-to-install-window-trim/)** is one of the most rewarding DIY home improvement projects you can tackle. It's affordable, straightforward, and the results are immediate. Whether you're looking to stay warmer in winter, cooler in summer, or simply reduce noise from outside, fresh weatherstripping makes a noticeable difference right away.

@@ -16,8 +16,8 @@ faqs:
     a: "Many programmable thermostats are compatible with heat pumps, but you need to purchase one specifically labeled as “heat pump compatible.” Heat pump systems use additional wiring terminals (like O/B) that standard thermostats don’t accommodate. Check the packaging carefully or use the compatibility checker on the thermostat manufacturer’s website before you buy."
 author: "Kim Reeves"
 author_slug: "kim-reeves"
-author_title: "Interior Renovator"
-author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+author_title: "Interior Projects"
+author_bio: "Kim Reeves is the byline used at Fix It Right Way for articles on interior finish work: painting, trim, tile and drywall. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your energy bills keep climbing, and your old thermostat just sits there running heat or air conditioning whether you're home or not. Installing a programmable thermostat is one of the smartest upgrades you can make, and honestly, it's easier than you'd expect. Most people finish this in under an hour with just a few basic tools.

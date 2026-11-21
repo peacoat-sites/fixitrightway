@@ -21,8 +21,8 @@ faqs:
    a: "If you find soft drywall, black mold on the substrate behind the old caulk, or rotting wood when you strip the old bead, stop there and call someone. That's water damage that needs to be assessed and repaired before new caulk goes on. The caulk job itself is absolutely DIY-able, what's behind the wall sometimes isn't."
 author: "Kim Reeves"
 author_slug: "kim-reeves"
-author_title: "Interior Renovator"
-author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+author_title: "Interior Projects"
+author_bio: "Kim Reeves is the byline used at Fix It Right Way for articles on interior finish work: painting, trim, tile and drywall. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 The old caulk around your tub doesn't fail all at once. It starts with one small section that looks a little gray, a little soft. You peel at it, and suddenly you've got a six-inch gap between the tub and the wall. A failed caulk joint that's been ignored can eventually cause enough water damage that homeowners suspect a serious leak and call in a plumber.

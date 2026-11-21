@@ -21,8 +21,8 @@ faqs:
    a: "I'll be honest: yes. Zinsser BIN is potent. It's not 'open a window' territory, it's 'open every window, run a fan, and seriously consider a respirator' territory. The denatured alcohol vapors are significant in an enclosed space. That said, it dries fast and the smell dissipates once cured. Do it on a day when you can air the house out for several hours and you'll be fine. If you have respiratory sensitivities or are working in a tight space with no ventilation, go with oil-based instead and accept slightly less blocking performance."
 author: "Paul Zhang"
 author_slug: "paul-zhang"
-author_title: "Licensed Electrician"
-author_bio: "Paul Zhang is a licensed electrician who has wired and troubleshot residential systems for years. He writes clear, safety-first guidance on what a homeowner can handle and what needs a pro or a permit. At Fix It Right Way he covers home electrical safety and repairs."
+author_title: "Electrical"
+author_bio: "Paul Zhang is the byline used at Fix It Right Way for articles on home electrical basics and safety, including which jobs need a licensed electrician or a permit. It is a pen name, not a licensed electrician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people buying primer for dark walls just grab whatever the paint store employee suggests, slap it on, and then find the wall still looks vaguely purple underneath the white. The assumption is that primer is primer, and any decent coat will do the job. The *type* of primer matters significantly, not just the quality of it. There's a significant difference between a primer that "helps" with coverage and one that was genuinely engineered to block dark pigments. Getting that wrong costs you time, paint, and real money.

@@ -21,8 +21,8 @@ faqs:
    a: "For a straightforward swap in a modern home: 15 to 20 minutes including turning off the breaker and testing. If you're replacing multiple outlets in a room, figure 10 to 15 minutes each once you're in a rhythm. If you encounter aluminum wiring, no ground wire, or a crowded box with more than three cables, double that and consider whether to call in help."
 author: "Steve Adams"
 author_slug: "steve-adams"
-author_title: "Home Inspector"
-author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+author_title: "Home Maintenance"
+author_bio: "Steve Adams is the byline used at Fix It Right Way for articles on seasonal home maintenance and inspection checklists. It is a pen name, not a home inspector; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most homeowners who get zapped replacing an outlet don't get zapped by the outlet. They get zapped because they turned off the wrong breaker, assumed the power was dead, and grabbed a wire. That single mistake sends a few thousand people to the ER every year. The good news: replacing an outlet is legitimately a beginner DIY job. The bad news: the margin for error is exactly zero, and most online tutorials skip straight to the screws without covering the part that actually matters.

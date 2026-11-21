@@ -16,8 +16,8 @@ faqs:
     a: "The best prevention is addressing the root cause, fix any roof leaks, plumbing issues, or ventilation problems that allow moisture to reach your ceiling. Use the correct drywall thickness (5/8 inch in bathrooms and humid spaces) and fasten panels with screws rather than nails. Checking your attic annually for signs of moisture also helps you catch problems early before they become expensive repairs. A sagging ceiling can feel like a major problem, but with the right approach, it’s a very manageable DIY repair. Take your time to diagnose the cause, gather your materials, and work methodically t"
 author: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
-author_title: "Licensed Plumber"
-author_bio: "Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures."
+author_title: "Plumbing"
+author_bio: "Maria Gonzalez is the byline used at Fix It Right Way for articles on residential plumbing repairs and fixtures. It is a pen name, not a licensed plumber; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your ceiling is drooping, and you can't stop staring at it. That sagging section overhead, whether it's a small bulge near the bathroom or a wavy mess in the living room, gets worse the longer you ignore it. A ceiling that sags today can collapse tomorrow, so catching it early matters. The good news: most homeowners can fix this themselves with some basic tools and a weekend of work.

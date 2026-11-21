@@ -16,8 +16,8 @@ faqs:
     a: "Silicone caulk is significantly more flexible and resistant to standard caulk removers, so it typically requires a dedicated silicone remover product and a longer soaking time. Latex caulk is softer and easier to remove, often responding well to white vinegar or standard caulk remover after an hour or two. Both types benefit from the scoring step before you attempt to peel them away."
 author: "Steve Adams"
 author_slug: "steve-adams"
-author_title: "Home Inspector"
-author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+author_title: "Home Maintenance"
+author_bio: "Steve Adams is the byline used at Fix It Right Way for articles on seasonal home maintenance and inspection checklists. It is a pen name, not a home inspector; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 That dark, cracked strip along your bathtub or kitchen sink has probably been bothering you for months. Old caulk that's turned black, peeled away, or grown mold is more than ugly, it lets moisture seep into walls and cause real damage. Learning **how to remove old caulk** cleanly is one of the most satisfying home maintenance tasks you can tackle. The best part? You don't need to be a handyman to do it right.

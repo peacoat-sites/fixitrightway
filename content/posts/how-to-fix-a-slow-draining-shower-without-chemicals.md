@@ -21,8 +21,8 @@ faqs:
     a: "Pull the drain cover and do a quick visual check once a month. If you're using a hair catcher, clean it weekly. A full manual cleaning with a Zip-It every two to three months keeps most showers draining properly year-round."
 author: "Kim Reeves"
 author_slug: "kim-reeves"
-author_title: "Interior Renovator"
-author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+author_title: "Interior Projects"
+author_bio: "Kim Reeves is the byline used at Fix It Right Way for articles on interior finish work: painting, trim, tile and drywall. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your shower drain is slow. Not standing-in-water slow, but that creeping ankle-deep puddle that collects every time you wash your hair.

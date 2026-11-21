@@ -16,8 +16,8 @@ faqs:
     a: "Cost depends entirely on the cause. Cleaning an aerator costs nothing but your time. Replacing a showerhead might run $20-$50. A new pressure reducing valve installed by a plumber typically costs $200-$400 including labor. Replacing corroded galvanized pipes throughout a home is a larger project that can range from $1,500 to $15,000 depending on home size and pipe accessibility. Most homeowners find that simple fixes like cleaning aerators and checking valves solve the problem at zero cost. Low water pressure doesn’t have to mean a big plumbing bill or weeks of frustration. By working through"
 author: "Dana Morrison"
 author_slug: "dana-morrison"
-author_title: "Lead Contractor"
-author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+author_title: "Home Repair"
+author_bio: "Dana Morrison is the byline used at Fix It Right Way for articles on home repair and renovation, and which jobs to do yourself versus hire out. It is a pen name, not a licensed contractor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your shower dribbles when it should pour. Your kitchen faucet takes forever to fill a pot. Low water pressure is frustrating, but here's the thing: most of the time you don't need to call a plumber. Many causes are fixable in under an hour with basic tools. This guide walks you through what to check and how to actually fix it.

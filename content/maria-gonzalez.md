@@ -5,8 +5,10 @@ layout: "author-page"
 hide_title: true
 author_name: "Maria Gonzalez"
 author_slug: "maria-gonzalez"
-author_title: "Licensed Plumber"
-author_specialty: "Residential Plumbing Repairs & Fixtures"
+author_title: "Plumbing"
+author_specialty: "Plumbing"
 ---
 
-Maria Gonzalez is a licensed plumber who has handled everything from dripping fixtures to full repipes. She shows homeowners which plumbing jobs are DIY-friendly and which will flood the house if you get them wrong. At Fix It Right Way she covers residential plumbing repairs and fixtures.
+Maria Gonzalez is the byline used at Fix It Right Way for articles on residential plumbing repairs and fixtures. It is a pen name, not a licensed plumber; how articles are researched and checked is explained in our editorial standards.
+
+[How Fix It Right Way articles are written and checked](/editorial-standards/)

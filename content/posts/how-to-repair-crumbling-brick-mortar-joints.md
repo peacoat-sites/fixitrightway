@@ -21,8 +21,8 @@ faqs:
    a: "Fresh mortar is almost always lighter in color than weathered mortar, and it'll typically blend in more over 6-12 months of weathering. If the color difference bothers you right away, you can try adding small amounts of masonry pigment to the mix to approximate the existing color, it's not an exact science but it can get you closer. On historically significant homes, color-matching is a whole specialty service that some masonry contractors offer specifically."
 author: "Kim Reeves"
 author_slug: "kim-reeves"
-author_title: "Interior Renovator"
-author_bio: "Kim Reeves renovated three houses herself before deciding to share what she learned, particularly around finish work: painting, trim, tile, and the interior improvements that make the biggest visible difference for the money. At Fixit Guide, she covers interior DIY projects, painting guides, and finish work that transforms a space."
+author_title: "Interior Projects"
+author_bio: "Kim Reeves is the byline used at Fix It Right Way for articles on interior finish work: painting, trim, tile and drywall. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Tuck-pointing is one of those repairs that sounds scarier than it is, until you ignore it long enough that it actually becomes scary. Many homeowners delay because they assume it's a big-ticket masonry job, but the longer soft, crumbling mortar sits, the worse it gets. A small repair that could take a weekend can turn into spalling brick faces, water intrusion, and structural problems like bowing walls. Catching it early can mean the difference between a couple hundred dollars and many thousands.

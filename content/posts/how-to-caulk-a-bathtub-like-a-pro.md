@@ -21,8 +21,8 @@ faqs:
     a: "Read your specific product, because they vary, but as a general rule: 24 hours for most silicone products, sometimes 48 hours in low humidity or poor ventilation. Some siliconized latex products claim a 3-hour cure, and they're not entirely wrong, but I'd still wait a full day. The longer you give it, the better the bond."
 author: "Steve Adams"
 author_slug: "steve-adams"
-author_title: "Home Inspector"
-author_bio: "Steve Adams is a certified home inspector who has walked through more than 4,000 homes and seen the same maintenance failures show up repeatedly. He believes most major home problems are preventable with the right seasonal maintenance routine. At Fixit Guide, he covers seasonal maintenance checklists, reading inspection reports, and catching problems before they become expensive emergencies."
+author_title: "Home Maintenance"
+author_bio: "Steve Adams is the byline used at Fix It Right Way for articles on seasonal home maintenance and inspection checklists. It is a pen name, not a home inspector; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Bad caulk jobs are everywhere on residential walkthroughs. Not because caulking is hard. Because most people skip two steps that matter enormously, and then wonder why their fresh bead is cracking or peeling within six months.

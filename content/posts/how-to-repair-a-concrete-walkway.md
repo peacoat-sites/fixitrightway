@@ -16,8 +16,8 @@ faqs:
     a: "Repair is usually the right choice if damage affects less than 25% of the total surface and the underlying base is still stable. If the walkway is extensively cracked, significantly sunken in multiple areas, or more than 30 to 40 years old with widespread deterioration, replacement may actually be more cost-effective in the long run. When in doubt, consult a local concrete contractor for a professional assessment."
 author: "Dana Morrison"
 author_slug: "dana-morrison"
-author_title: "Lead Contractor"
-author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+author_title: "Home Repair"
+author_bio: "Dana Morrison is the byline used at Fix It Right Way for articles on home repair and renovation, and which jobs to do yourself versus hire out. It is a pen name, not a licensed contractor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your concrete walkway has seen better days. Cracks are spreading, edges are crumbling, and uneven sections have become a genuine tripping hazard every time you step outside. Whether it's winter freeze-thaw cycles, tree roots, or just years of foot traffic, **concrete walkway repair** is something most homeowners eventually deal with. The good news? You can fix many of these problems yourself without calling a contractor, which saves hundreds of dollars and gives you the satisfaction of actually doing it right.

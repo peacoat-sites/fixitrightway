@@ -16,8 +16,8 @@ faqs:
    a: "If the bowl is nearly full, do not add more water until the level drops. Adding water to an already-full bowl risks overflow and a very unpleasant cleanup. Instead, start with the baking soda and vinegar method, which doesn’t require adding significant liquid volume. Wait for the water to drain partially before using the hot water technique."
 author: "Dana Morrison"
 author_slug: "dana-morrison"
-author_title: "Lead Contractor"
-author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+author_title: "Home Repair"
+author_bio: "Dana Morrison is the byline used at Fix It Right Way for articles on home repair and renovation, and which jobs to do yourself versus hire out. It is a pen name, not a licensed contractor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-07
 ---
 Your toilet is clogged, guests arrive in an hour, and the plunger has vanished. It's the kind of crisis that feels way bigger than it actually is. But here's the thing: you can absolutely **unclog a toilet without a plunger** using stuff that's probably already under your sink. This guide walks you through the methods that actually work, step by step, so you can get the water flowing again and move on with your day.

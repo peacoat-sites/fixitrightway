@@ -16,8 +16,8 @@ faqs:
     a: "Yes, in many cases you can. Cleaning the track, lubricating it, and adjusting the roller height screws can all be done without removing the door panel. Only when you need to replace the rollers or inspect the bottom of the door closely will you need to remove it. Always try the simpler fixes first, a good cleaning and lubrication resolves the issue for a large number of homeowners."
 author: "Dana Morrison"
 author_slug: "dana-morrison"
-author_title: "Lead Contractor"
-author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+author_title: "Home Repair"
+author_bio: "Dana Morrison is the byline used at Fix It Right Way for articles on home repair and renovation, and which jobs to do yourself versus hire out. It is a pen name, not a licensed contractor; how articles are researched and checked is explained in our editorial standards."
 
 ---
 Your sliding door is stuck. You pull, you push, nothing happens. A stuck sliding door is frustrating, especially when it's your only way to the backyard or patio. The decent news: you can almost certainly fix this yourself without paying someone to come out.

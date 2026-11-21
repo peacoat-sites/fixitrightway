@@ -16,8 +16,8 @@ faqs:
     a: "If your window frame is visibly warped, rotted, or cracked, or if the glass pane itself is broken or fogged between double panes, it’s time to call a window professional. These issues go beyond simple sealing and may require frame repair or full window replacement to solve properly."
 author: "Dana Morrison"
 author_slug: "dana-morrison"
-author_title: "Lead Contractor"
-author_bio: "Dana Morrison spent 20 years as a licensed general contractor before realizing her real passion was teaching homeowners to do things themselves. She has seen every kind of DIY mistake and every kind of contractor overcharge, and she writes to help people avoid both. At Fixit Guide, she covers renovation projects, structural repairs, and the contractor conversations every homeowner should be prepared to have."
+author_title: "Home Repair"
+author_bio: "Dana Morrison is the byline used at Fix It Right Way for articles on home repair and renovation, and which jobs to do yourself versus hire out. It is a pen name, not a licensed contractor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your windows feel like open holes in the wall every winter. Cold air seeps in. Your heating bills climb. You crank the thermostat higher and higher, but you just can't get comfortable.
