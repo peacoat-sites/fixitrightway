@@ -1,5 +1,5 @@
 ---
-title: "Patch a Concrete Crack for $20: DIY Steps That Work"
+title: "How to Patch a Concrete Crack: DIY Steps That Work"
 date: 2026-11-22T21:51:50.563468+00:00
 draft: false
 description: "Learn how to repair concrete cracks yourself starting at $20. Simple steps, affordable materials, and when to call a pro."
