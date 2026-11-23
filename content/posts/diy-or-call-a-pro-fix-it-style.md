@@ -19,7 +19,7 @@ This 7-question quiz walks through your actual habits (how comfortable are you w
 
 {{< quiz >}}
 
-The best home fixers aren't the ones who DIY everything. They're the ones who know which jobs they can handle, which ones will eat a weekend for nothing, and when to pick up the phone before they break something worse. We've got [beginner repair guides](/diy-project-tool-costs-timeline-2026/), tool lists, and straight-up "call a professional" guides to help you figure it out safely. Build confidence on the projects that make sense, skip the ones that don't.
+The best home fixers aren't the ones who DIY everything. They're the ones who know which jobs they can handle, which ones will eat a weekend for nothing, and when to pick up the phone before they break something worse. We've got beginner repair guides, tool lists, and straight-up "call a professional" guides to help you figure it out safely. Build confidence on the projects that make sense, skip the ones that don't.
 
 ---
 
