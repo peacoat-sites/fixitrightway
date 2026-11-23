@@ -54,7 +54,7 @@ Turn off the circuit at the breaker before you touch anything. Don't trust the w
 
 This is where most first-timers get surprised. A full-size disposal weighs 15-20 pounds and it's going to drop when you twist it off the mount. Put a bucket or a folded towel under it first. Have a second pair of hands if you can get them.
 
-Disconnect the drain line from the disposal first -- that's the pipe running to your [P-trap](/how-to-fix-a-slow-draining-sink/). There's usually a slip nut you can hand-loosen, maybe with channel-locks if it's stuck. If your dishwasher drains into the disposal (most do), disconnect that line too. It's a small rubber hose clamped to a port on the side of the disposal housing.
+Disconnect the drain line from the disposal first -- that's the pipe running to your P-trap. There's usually a slip nut you can hand-loosen, maybe with channel-locks if it's stuck. If your dishwasher drains into the disposal (most do), disconnect that line too. It's a small rubber hose clamped to a port on the side of the disposal housing.
 
 Now unplug it. If it's hardwired, go back to the breaker box, confirm the power is off with a non-contact voltage tester (a $15 Klein or Fluke at any hardware store), and disconnect the wires.
 

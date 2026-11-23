@@ -22,7 +22,7 @@ lastmod: 2026-07-08
 ---
 Your floor looks uneven, your tiles keep cracking, and every time you walk across the room you can feel the dips and bumps beneath your feet. Sound familiar? Before you can lay a beautiful, lasting tile floor, you need to tackle **uneven floor leveling**. The good news? With the right materials and a little patience, most homeowners can handle this themselves.
 
-Skip this step and you're looking at [cracked grout](/how-to-clean-and-restore-grout/), broken tiles, and repairs that'll cost way more than the leveling compound you didn't want to buy upfront. In this guide, I'll walk you through exactly how to level an uneven floor before tiling, step by step.
+Skip this step and you're looking at cracked grout, broken tiles, and repairs that'll cost way more than the leveling compound you didn't want to buy upfront. In this guide, I'll walk you through exactly how to level an uneven floor before tiling, step by step.
 
 ## Why a Level Floor Matters Before Tiling
 

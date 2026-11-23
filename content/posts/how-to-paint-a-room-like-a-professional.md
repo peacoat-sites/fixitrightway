@@ -82,7 +82,7 @@ Spread drop cloths across the whole floor and overlap them at the seams. Canvas 
 
 Photo by [Wes Fischer](https://unsplash.com/@ntwrk_img?utm_source=seniorstrength&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=seniorstrength&utm_medium=referral)
 
-Primer isn't always necessary, but it's often the difference between one coat of paint and three. Prime if you're covering a dark color with a light one, if there are stains or water marks, or if you're [painting brand-new drywall](/how-to-paint-over-wallpaper/).
+Primer isn't always necessary, but it's often the difference between one coat of paint and three. Prime if you're covering a dark color with a light one, if there are stains or water marks, or if you're painting brand-new drywall.
 
 Use the same roller you'll use for paint. Work in a "W" or "M" pattern across each section to spread the primer evenly, then smooth back over without reloading. Let it dry fully per the can's instructions.
 

@@ -26,7 +26,7 @@ faqs:
     a: "Most panels have a directory card on the inside of the door, though in my experience about 60% of them are incomplete or just wrong. The reliable way is a circuit tracer tool (Klein ET310 is the one I keep in my truck, around $45), or the old-fashioned approach: plug a lamp or radio into each outlet and flip breakers one at a time. Budget about 45 minutes to map a whole house properly."
 ---
 
-About 2,400 house fires per year trace back to electrical failures that started with an overloaded circuit. That's not a scare statistic I'm throwing at you to pad an opener. It's from the U.S. Fire Administration's residential fire data, and it matters because most homeowners treat a tripped breaker like a minor inconvenience rather than a diagnostic moment. Reset it, move on, repeat. That's exactly the pattern that turns a fixable problem into an [insurance claim](/unpermitted-diy-work-can-void-your-home-insurance-claim/).
+About 2,400 house fires per year trace back to electrical failures that started with an overloaded circuit. That's not a scare statistic I'm throwing at you to pad an opener. It's from the U.S. Fire Administration's residential fire data, and it matters because most homeowners treat a tripped breaker like a minor inconvenience rather than a diagnostic moment. Reset it, move on, repeat. That's exactly the pattern that turns a fixable problem into an insurance claim.
 
 Resetting a tripped breaker takes about 30 seconds. Understanding *why* it tripped, and whether it's safe to reset at all, takes a few minutes more. That's the part most coverage skips.
 

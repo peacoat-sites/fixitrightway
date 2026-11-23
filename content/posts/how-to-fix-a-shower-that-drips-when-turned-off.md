@@ -1,5 +1,5 @@
 ---
-title: "Stop Shower Drips: Fix a Leaky Faucet in Minutes"
+title: "How to Fix a Shower That Drips When Turned Off"
 date: 2026-05-18T23:51:04.936212+00:00
 draft: false
 description: "Learn how to fix a shower that drips when off with this step-by-step guide. Discover the most common causes, tools needed, and easy DIY repair steps to stop"

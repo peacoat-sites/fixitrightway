@@ -53,7 +53,7 @@ The location of the leak tells you almost everything.
 
 **Leak around the handle.** The packing nut or stem O-ring is worn. You'll see water seeping out from under or around the handle.
 
-**Leak [under the sink](/how-to-fix-a-slow-draining-sink/) at the supply line connections.** This is less about the faucet itself and more about the connection fittings. Sometimes it's as simple as hand-tightening a nut a little more.
+**Leak under the sink at the supply line connections.** This is less about the faucet itself and more about the connection fittings. Sometimes it's as simple as hand-tightening a nut a little more.
 
 Knowing exactly where the water is coming from will tell you which parts to buy before you ever disassemble anything.
 

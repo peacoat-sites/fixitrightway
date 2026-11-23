@@ -60,7 +60,7 @@ Current pricing as of July 2026 at Home Depot, Lowe's, and Amazon. Labor for con
 
 ## The Actual Replacement Process
 
-Let me walk through a standard exterior entry door, which is what most people are dealing with. You'll need a utility knife, a pry bar (or stiff putty knife), a [measuring tape](/how-to-read-a-measuring-tape-correctly/), scissors or snips, and a screwdriver if you're doing the bottom sweep.
+Let me walk through a standard exterior entry door, which is what most people are dealing with. You'll need a utility knife, a pry bar (or stiff putty knife), a measuring tape, scissors or snips, and a screwdriver if you're doing the bottom sweep.
 
 Start by removing what's there. Old adhesive-backed foam usually peels off, though it leaves a sticky residue. Goo Gone or naphtha on a rag cleans that up, and it's worth doing right, new weatherstripping won't adhere properly over old adhesive. V-strip that's nailed or stapled in a channel requires a thin pry bar to pop out. Take your time here. Tearing the doorstop wood trying to rush this step is how a 45-minute job turns into a woodworking project.
 
@@ -70,7 +70,7 @@ For the doorstop channel (most modern exterior doors have a routed groove), you'
 
 The bottom sweep goes on last. With a screw-on sweep, close the door, hold the sweep snug against the threshold with light pressure (not compressing it hard), and mark your screw holes. Drill pilot holes first, especially on hollow-core doors where the bottom rail can be narrow. Screws can go right through the face of a door bottom rail that is only 3/4 inch wide. Pilot holes avoid that.
 
-Work through the full perimeter, close the door, and run your hand along the edge. You'll feel immediately if there's still a gap somewhere. On an old wood [door that](/how-to-fix-a-kitchen-cabinet-door-that-wont-close/)'s racked or warped, you might not get a perfect seal everywhere without also adjusting the hinges or strike plate, but that's a separate job.
+Work through the full perimeter, close the door, and run your hand along the edge. You'll feel immediately if there's still a gap somewhere. On an old wood door that's racked or warped, you might not get a perfect seal everywhere without also adjusting the hinges or strike plate, but that's a separate job.
 
 **A useful comparison:** Typical scenario on a 1970s exterior wood door, full perimeter foam tape replacement done every two years costs roughly $9 x 10 years = $90 over a decade with constant redoing. Switching to V-strip sides plus a screw-on sweep averages $38 total, lasts 7+ years, and insulates better. The energy math matters too: according to the U.S. Department of Energy, drafts around doors and windows can account for 25-30% of heating and cooling losses in older homes.
 

@@ -1,5 +1,5 @@
 ---
-title: "Fix a Cabinet Door in 30 Minutes: 5 Simple Solutions"
+title: "Kitchen Cabinet Door Won't Close? Fix It in Minutes"
 date: 2026-07-13T10:01:13.452475+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false

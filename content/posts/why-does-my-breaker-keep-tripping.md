@@ -93,7 +93,7 @@ These breakers are more sensitive by design, and they trip for reasons a standar
 
 The fix in that situation is usually a [GFCI outlet](/how-to-replace-a-gfci-outlet/) at the first outlet in the run instead of a GFCI breaker, which localizes the protection and reduces the sensitivity to that wire capacitance issue.
 
-AFCI breakers can also nuisance-trip when connected to older wiring [that has](/how-to-fix-a-tile-that-has-come-loose/) slight insulation degradation from age, not enough to be dangerous, but enough to register. The research here is mixed on exactly where that threshold is. What I can tell you from experience is that if a newly installed AFCI breaker trips repeatedly with normal loads on a house with wiring from the 1950s or 1960s, you should have the wiring inspected before assuming the breaker is defective.
+AFCI breakers can also nuisance-trip when connected to older wiring that has slight insulation degradation from age, not enough to be dangerous, but enough to register. The research here is mixed on exactly where that threshold is. What I can tell you from experience is that if a newly installed AFCI breaker trips repeatedly with normal loads on a house with wiring from the 1950s or 1960s, you should have the wiring inspected before assuming the breaker is defective.
 
 ## Sources
 

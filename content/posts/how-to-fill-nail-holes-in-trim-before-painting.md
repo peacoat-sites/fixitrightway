@@ -1,5 +1,5 @@
 ---
-title: "Perfect Nail Hole Repair Before Your Paint Job"
+title: "How to Fill Nail Holes in Trim Before Painting"
 date: 2026-06-29T11:35:52.225524+00:00
 draft: false
 description: "Learn how to fill nail holes in trim before painting with simple tools and techniques for a smooth, professional finish every time."
@@ -40,7 +40,7 @@ So let's get this right. Whether you've got a single doorframe to touch up or yo
 | Elmer's Carpenter's Wood Filler | Water-based | 3.25 oz | ~$8 | Smaller holes; easier cleanup; less solvent smell |
 | Paintable latex caulk | Caulk | Varies | Varies | Only at existing caulk joints (base cap to baseboard) |
 
-Here's where most people go wrong, and honestly, I made this mistake myself early on. I used to reach for whatever spackle was closest. DAP Lightweight Spackle, the stuff in the pink tub that goes white when it dries, is everywhere and it's fine for drywall repairs. But on trim, especially [painted wood trim](/how-to-cut-crown-molding-inside-corners/) that flexes slightly with temperature and humidity, it can crack out of the hole within a season. I had a customer in Denver call me back six months after we painted her living room because half the nail holes in her baseboard had hairline cracks radiating from them. That was my fault for using the wrong product.
+Here's where most people go wrong, and honestly, I made this mistake myself early on. I used to reach for whatever spackle was closest. DAP Lightweight Spackle, the stuff in the pink tub that goes white when it dries, is everywhere and it's fine for drywall repairs. But on trim, especially painted wood trim that flexes slightly with temperature and humidity, it can crack out of the hole within a season. I had a customer in Denver call me back six months after we painted her living room because half the nail holes in her baseboard had hairline cracks radiating from them. That was my fault for using the wrong product.
 
 What you actually want for trim is a **flexible, paintable wood filler**. My two go-to products as of June 2026:
 

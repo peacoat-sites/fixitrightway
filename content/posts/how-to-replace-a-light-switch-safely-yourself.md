@@ -54,7 +54,7 @@ After that, grab a non-contact voltage tester before you touch a single wire. Yo
 
 Most light switches in American homes built after the 1960s follow a pretty predictable pattern. You'll open the switch box and find a black wire (hot), a white wire (neutral, though in switch loops it's sometimes used as a hot), a bare copper or green wire (ground), and occasionally a red wire in a three-way setup.
 
-Standard single-pole switches, the kind that control a light from one location, are by far the most common. If you have two switches that control the same light from different ends of a hallway or room, those are [three-way switches](/how-to-wire-a-three-way-switch-for-beginners/), and they're a different animal entirely. I'll get to those.
+Standard single-pole switches, the kind that control a light from one location, are by far the most common. If you have two switches that control the same light from different ends of a hallway or room, those are three-way switches, and they're a different animal entirely. I'll get to those.
 
 Before you buy a replacement switch, check what you've got:
 

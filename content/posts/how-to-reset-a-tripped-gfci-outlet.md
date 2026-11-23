@@ -78,7 +78,7 @@ Here's something I get asked about constantly. The outlet that's dead isn't a GF
 
 Start in the bathroom. There's almost always one there. Check the garage. Check the kitchen, especially near the sink. Check outside outlets (there's usually a GFCI near a door or on an exterior wall). If you have a finished basement, check the utility sink area if there is one.
 
-Some electricians wire the GFCI outlet for an entire bathroom circuit to a [GFCI breaker in the panel](/how-to-replace-a-light-switch-safely-yourself/) instead of a GFCI outlet. If you can't find a tripped outlet anywhere, open your panel and look for a breaker that's sitting in the middle position (not fully on, not fully off) or has a small test button on its face. That's your GFCI breaker. Push it all the way to off, then back to on.
+Some electricians wire the GFCI outlet for an entire bathroom circuit to a GFCI breaker in the panel instead of a GFCI outlet. If you can't find a tripped outlet anywhere, open your panel and look for a breaker that's sitting in the middle position (not fully on, not fully off) or has a small test button on its face. That's your GFCI breaker. Push it all the way to off, then back to on.
 
 Older homes sometimes have the GFCI in a completely non-obvious location. I worked on a 1990s house where the bathroom outlets were protected by a GFCI outlet inside a closet. Took a while to find.
 

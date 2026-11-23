@@ -84,7 +84,7 @@ After the source is addressed, let the subfloor dry completely. In a basement or
 
 ## What This Costs, Realistically
 
-Prices as of July 2026 based on national average [material costs](/how-2026-tariffs-are-changing-the-math-on-summer-diy-projects/) and typical contractor rates in mid-sized metro markets:
+Prices as of July 2026 based on national average material costs and typical contractor rates in mid-sized metro markets:
 
 | Repair Type | DIY Material Cost | Pro Labor + Materials | Timeline |
 |---|---|---|---|
@@ -98,7 +98,7 @@ Those pro rates assume a local contractor, not a national flooring chain. I'd av
 
 ## When to Stop and Call Someone
 
-Two situations. One: if you pull up flooring and the subfloor is soft, spongy, or shows [black mold](/how-to-remove-black-mold-from-bathroom-caulk/), that's a job that needs a pro and possibly a remediation company before anyone touches flooring. Mold under a floor can be Stachybotrys or Chaetomium; neither is something to handle with a dust mask and good intentions.
+Two situations. One: if you pull up flooring and the subfloor is soft, spongy, or shows black mold, that's a job that needs a pro and possibly a remediation company before anyone touches flooring. Mold under a floor can be Stachybotrys or Chaetomium; neither is something to handle with a dust mask and good intentions.
 
 Two: if the floor is over radiant heat. Laminate over in-floor radiant is fussier than standard installations. The expansion and contraction cycles are more extreme and the moisture dynamics are different. I'd want a flooring contractor who has specifically worked with radiant heat systems to handle any repair that involves pulling more than a few planks.
 

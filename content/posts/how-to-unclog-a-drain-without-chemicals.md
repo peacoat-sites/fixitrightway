@@ -59,11 +59,11 @@ You don't need much. Here's what I tell people to have on hand before they start
 
 **A cup plunger:** This is the standard red rubber plunger most people have. It's designed for flat surfaces like sinks and tub drains. Don't confuse it with a flange plunger, which has a soft rubber lip that folds out. The flange plunger is specifically for toilets.
 
-**A drain snake (also called a [hand auger](/best-drain-snake-for-a-clogged-bathroom-sink/)):** A basic 25-foot hand auger costs $20 to $35 at any hardware store. This is the single most useful drain tool a homeowner can own. A hand auger can clear clogs in five minutes that chemical drain cleaners may not touch even after sitting for 24 hours.
+**A drain snake (also called a hand auger):** A basic 25-foot hand auger costs $20 to $35 at any hardware store. This is the single most useful drain tool a homeowner can own. A hand auger can clear clogs in five minutes that chemical drain cleaners may not touch even after sitting for 24 hours.
 
 **A zip-it tool:** These flexible plastic strips with barbs cost about $3 and are genuinely excellent for hair clogs near the surface of a shower or bathroom sink drain. Don't underestimate them.
 
-**Needle-nose pliers and a bucket:** For [P-trap removal](/how-to-fix-a-slow-draining-sink/), which I'll walk you through below.
+**Needle-nose pliers and a bucket:** For P-trap removal, which I'll walk you through below.
 
 **Dish soap and boiling water:** For grease clogs in kitchen drains, this combination is surprisingly effective as a first pass.
 

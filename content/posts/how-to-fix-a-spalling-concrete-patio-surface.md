@@ -25,7 +25,7 @@ faqs:
     a: "For surface patching and resurfacing only, no permit is typically required. If you're replacing the slab entirely or adding a new concrete surface, check with your local building department. Requirements vary by municipality."
 ---
 
-Spalling concrete is fixable, and in most cases you don't need to tear anything out. The question is whether you're dealing with surface flaking that's a quarter-inch deep or less, or structural deterioration that's crumbling through the slab. That distinction decides everything: your repair method, your materials, and whether a [DIY fix](/how-to-diy-fix-your-ac-before-a-heat-wave-swamps-hvac-techs/) will actually hold.
+Spalling concrete is fixable, and in most cases you don't need to tear anything out. The question is whether you're dealing with surface flaking that's a quarter-inch deep or less, or structural deterioration that's crumbling through the slab. That distinction decides everything: your repair method, your materials, and whether a DIY fix will actually hold.
 
 Surface spalling on a patio usually shows up as shallow pitting, flaking "chips," or a peeling layer that looks almost papery. It's caused by freeze-thaw cycles forcing water out of the concrete, deicing salt damage, or a finishing defect called "overworking" where too much cream rises to the surface during the original pour and creates a weak top layer. All of those are repairable. What's not a good DIY candidate is a slab that's actively heaving, has cracks wider than a half-inch, or shows rebar rusting through the surface.
 

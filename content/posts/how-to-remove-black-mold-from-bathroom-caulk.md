@@ -67,7 +67,7 @@ You'll need: household bleach (plain sodium hypochlorite, not "splash-less" or s
 
 ## When to Replace the Caulk Instead
 
-If you're [replacing caulk](/how-to-recaulk-a-bathtub-like-a-pro/), do it right or you'll be back here in 12 months.
+If you're replacing caulk, do it right or you'll be back here in 12 months.
 
 Remove all the old caulk first. All of it. Use a plastic caulk removal tool (Dap makes a decent one for around $8) and a utility knife for stubborn spots. Don't caulk over existing caulk. That's how you create moisture traps and compound the original problem. The new caulk won't bond properly either.
 

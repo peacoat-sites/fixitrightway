@@ -28,7 +28,7 @@ faqs:
 
 Three years ago, a homeowner called me in a panic because her golden retriever had turned a 200-square-foot section of Brazilian cherry flooring into what looked like a topographic map. She wanted to know if she needed to refinish the whole floor. The answer was no, and it cost her about $23 in supplies to fix 90% of it herself. That's what I want to talk about today.
 
-[Hardwood floor](/how-to-fix-a-squeaky-hardwood-floor-from-above/) scratches are one of those things that look catastrophic up close and completely invisible from six feet away, once you've addressed them correctly. Unnecessary professional refinishing jobs can cost $1,200 or more, and using the wrong product can permanently cloud your finish. The difference usually comes down to understanding what kind of scratch you're actually dealing with before you reach for anything.
+Hardwood floor scratches are one of those things that look catastrophic up close and completely invisible from six feet away, once you've addressed them correctly. Unnecessary professional refinishing jobs can cost $1,200 or more, and using the wrong product can permanently cloud your finish. The difference usually comes down to understanding what kind of scratch you're actually dealing with before you reach for anything.
 
 The single most important diagnostic step is figuring out whether the scratch is in the finish or in the wood itself. Drag your fingernail across it. If your nail catches, the wood fiber is damaged. If it glides right over, you're dealing with a surface scratch in the polyurethane or oil finish, and your life just got a lot easier.
 
@@ -75,7 +75,7 @@ Here's the worked example: a homeowner in Phoenix dropped a cast-iron skillet in
 
 ## When to Call a Professional
 
-There are situations where DIY repair genuinely doesn't make sense. If the scratches are widespread enough that you're looking at more than 15-20% of the floor's surface area, a screen-and-recoat job (where a pro lightly abrades the entire surface and applies fresh finish coats [without sanding](/how-to-repaint-kitchen-cabinets-without-sanding/) down to bare wood) will look dramatically better than spot repairs and costs significantly less than full refinishing. As of July 2026, screen-and-recoat typically runs $0.75-$1.50 per square foot in most markets, so a 400-square-foot living room runs $300-$600 installed.
+There are situations where DIY repair genuinely doesn't make sense. If the scratches are widespread enough that you're looking at more than 15-20% of the floor's surface area, a screen-and-recoat job (where a pro lightly abrades the entire surface and applies fresh finish coats without sanding down to bare wood) will look dramatically better than spot repairs and costs significantly less than full refinishing. As of July 2026, screen-and-recoat typically runs $0.75-$1.50 per square foot in most markets, so a 400-square-foot living room runs $300-$600 installed.
 
 Full sanding is a bigger deal: it removes the old finish down to bare wood, lets you change stain color if you want, and essentially resets the clock on the floor. It produces a lot of dust even with dustless equipment, takes 2-4 days including dry time, and requires you to be out of the space. It's genuinely worthwhile if the floor has deep damage, cupping that's resolved, or if you want a completely different look. Not worth it for a handful of scratches.
 

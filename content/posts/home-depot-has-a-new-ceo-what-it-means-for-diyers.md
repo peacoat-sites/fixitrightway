@@ -65,7 +65,7 @@ The projects in the middle, like installing a bathroom vanity with a shutoff val
 
 ## What to Watch Going Forward
 
-McPhail takes the chair November 23, 2026. The strategic shifts he telegraphed to CNBC won't show up overnight in your local store. They'll show up over the next 12 to 24 months in staffing models, store layout changes, and how much budget goes into the app versus into training floor associates. Watch how Home Depot's online project planning tools evolve. Watch whether the in-store Pro desk footprint expands at the expense of the general floor. And watch whether the 2.1% growth in small [DIY projects](/how-2026-tariffs-are-changing-the-math-on-summer-diy-projects/) continues or accelerates as the housing freeze holds.
+McPhail takes the chair November 23, 2026. The strategic shifts he telegraphed to CNBC won't show up overnight in your local store. They'll show up over the next 12 to 24 months in staffing models, store layout changes, and how much budget goes into the app versus into training floor associates. Watch how Home Depot's online project planning tools evolve. Watch whether the in-store Pro desk footprint expands at the expense of the general floor. And watch whether the 2.1% growth in small DIY projects continues or accelerates as the housing freeze holds.
 
 For now, the store is still the store. McPhail's Q3 results were solid, the shelves are stocked, and if you need to fix something in your house this winter, you've got more reasons to get it done than to wait.
 

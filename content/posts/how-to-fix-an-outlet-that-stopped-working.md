@@ -1,5 +1,5 @@
 ---
-title: "Dead Outlet? Here's How to Fix It Yourself in 5 Steps"
+title: "Outlet Stopped Working? How to Fix It Yourself"
 date: 2026-07-11T08:27:45.250007+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false

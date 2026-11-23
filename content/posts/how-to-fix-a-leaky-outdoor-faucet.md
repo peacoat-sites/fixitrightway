@@ -35,7 +35,7 @@ You'll need a wrench, some basic parts (under $10 total), and patience. Even if 
 
 ## Why a Leaky Outdoor Faucet Deserves Prompt Attention
 
-That small drip might not seem like much. But here's the math: a leak that fills a bucket once per hour adds up to about 216 gallons monthly. Over a year, you're looking at thousands of gallons and a noticeable bump in your [water bill](/how-to-fix-low-water-pressure-in-your-home/).
+That small drip might not seem like much. But here's the math: a leak that fills a bucket once per hour adds up to about 216 gallons monthly. Over a year, you're looking at thousands of gallons and a noticeable bump in your water bill.
 
 Water seeping near your foundation causes moisture problems, mold, and wood rot. Fix it now, and you'll protect both your wallet and your house's structure.
 

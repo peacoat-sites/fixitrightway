@@ -1,5 +1,5 @@
 ---
-title: "Fix a Leaking Toilet With a New Wax Ring"
+title: "How to Replace a Toilet Wax Ring Step by Step"
 date: 2026-06-18T11:04:09.894438+00:00
 draft: false
 description: "Learn how to replace a toilet wax ring step by step with this easy DIY guide. Stop leaks and odors fast with the right tools and simple instructions."

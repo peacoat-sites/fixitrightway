@@ -46,7 +46,7 @@ Not every job gets hit equally. Rank your exposure like this:
 
 Structural framing additions, garage builds, or anything requiring significant dimensional lumber takes the hardest shot. A modest room addition might use 3,000 to 5,000 board feet of framing material. At the current rate trajectory, waiting two months on a project like that could mean $400 to $700 more in lumber alone before you drive a single nail.
 
-Deck builds are a close second, especially if you're using pressure-treated Southern Pine for the substructure. The 2x8s and 2x10s that make up a typical deck frame are exactly the products seeing the steepest spikes. Composite decking has its own tariff exposure if components are imported, but PT lumber is the live wire [right now](/how-to-shop-for-materials-right-now-and-beat-tariff-price-hikes/).
+Deck builds are a close second, especially if you're using pressure-treated Southern Pine for the substructure. The 2x8s and 2x10s that make up a typical deck frame are exactly the products seeing the steepest spikes. Composite decking has its own tariff exposure if components are imported, but PT lumber is the live wire right now.
 
 Fences and outbuildings feel it less dramatically, but you're still buying dimensional lumber and treated posts. The savings from buying now versus September are real, just smaller in absolute dollars.
 

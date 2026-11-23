@@ -26,7 +26,7 @@ faqs:
     a: "For most homes, once every 18 to 24 months is a reasonable schedule if you've had previous clogs or have mature trees near the line. For homes with no history of problems and newer PVC pipe, you may never need it. Homes with cast iron pipe over 40 years old should consider annual inspection regardless."
 ---
 
-Sewage backing up into your tub at 9 PM on a Sunday is one of those moments that will test your composure. If you're here, you might be in the middle of that [right now](/how-to-shop-for-materials-right-now-and-beat-tariff-price-hikes/), or you're trying to get ahead of a situation that's been getting worse. Either way, let's figure out what you're actually dealing with before you spend money you might not need to spend.
+Sewage backing up into your tub at 9 PM on a Sunday is one of those moments that will test your composure. If you're here, you might be in the middle of that right now, or you're trying to get ahead of a situation that's been getting worse. Either way, let's figure out what you're actually dealing with before you spend money you might not need to spend.
 
 The main sewer line is the big pipe that carries waste from every drain in your house out to the municipal sewer or your septic tank. When that line gets blocked, you'll know it because multiple fixtures start failing at the same time. One clogged toilet is probably just a clogged toilet. But when your washing machine drains and water starts bubbling up in the floor drain, or you flush a toilet and the tub gurgles? That's the main line. The clog is downstream from where all your individual drains connect, which means no individual fixture fix is going to solve it.
 
@@ -38,7 +38,7 @@ Most homeowners don't realize that a main line clog is something you can sometim
 
 Before you rent a machine or buy anything, you need to locate the sewer cleanout. This is a capped pipe, usually 3 to 4 inches in diameter, that gives you direct access to the main line. It'll have a square nut or a flat plug on top, typically made of plastic or cast iron.
 
-Most cleanouts are located along the [foundation wall](/how-to-seal-cracks-in-a-basement-foundation-wall/) in a basement or crawl space, or outside the house near the foundation, often on the side facing the street. In older homes (pre-1970s), you might not have one at all, which is a whole separate problem. If you find a two-way cleanout, you want the one that faces toward the street, not back toward the house.
+Most cleanouts are located along the foundation wall in a basement or crawl space, or outside the house near the foundation, often on the side facing the street. In older homes (pre-1970s), you might not have one at all, which is a whole separate problem. If you find a two-way cleanout, you want the one that faces toward the street, not back toward the house.
 
 Here's what I tell people who can't find it: go to your city or county's building permit records online. Most municipalities will have your original plumbing permit on file, and it'll show you a rough diagram. Takes maybe 20 minutes. Worth every second.
 
@@ -52,7 +52,7 @@ Soft blockages are the usual culprit in homes under 30 years old: grease, soap s
 
 Root intrusion is the other big one, especially in houses with mature trees and clay or cast iron pipe from the 1970s or earlier. Tree roots sniff out moisture and will find the smallest crack in a joint and grow right in. A standard auger can punch through a root mass and restore flow temporarily, but it grows back, usually within 12 to 18 months, and the only permanent fix is either chemical treatment (copper sulfate or foaming root killer like RootX) used consistently, or pipe replacement.
 
-Grease buildup [that has](/how-to-fix-a-tile-that-has-come-loose/) hardened over years is the nightmare scenario. An auger will sometimes just spin through it without clearing it. That's a hydro-jetting job.
+Grease buildup that has hardened over years is the nightmare scenario. An auger will sometimes just spin through it without clearing it. That's a hydro-jetting job.
 
 I thought for years that the "snake it and pour hot water down" approach was enough for grease lines. I tried it on a rental property kitchen line and was back out there six weeks later. Hydro-jetting at $425 cleared it in 45 minutes and we haven't had a call back in over two years.
 

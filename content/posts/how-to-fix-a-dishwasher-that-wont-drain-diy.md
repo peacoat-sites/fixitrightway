@@ -60,7 +60,7 @@ Also: check the air gap if your setup has one. It's the small chrome cylinder on
 
 ## Drain Hose: The Overlooked Middle Child
 
-The drain hose runs from the pump, up and over (ideally in a high loop), and connects either to the air gap or directly to the [garbage disposal](/how-to-fix-a-garbage-disposal-that-wont-turn-on/) or sink drain. Two failure points here.
+The drain hose runs from the pump, up and over (ideally in a high loop), and connects either to the air gap or directly to the garbage disposal or sink drain. Two failure points here.
 
 First, check whether the hose is kinked behind the machine. This requires pulling the dishwasher out a few inches, kill the power at the breaker first, disconnect it from the countertop screws, and slide it forward carefully. A kinked hose is obvious once you can see it. Straighten it, reroute it with a zip tie to the underside of the counter to hold the high loop, and you're done.
 

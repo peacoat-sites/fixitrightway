@@ -40,7 +40,7 @@ Roofing and lumber aren't waiting for future tariff increases. They've already m
 
 Steel tariffs of 25% have run through the supply chain into metal roofing, which is up 15-25% over 2024 levels. Asphalt shingles, linked to petroleum input costs, are up 8-15%. Lumber is up roughly 17%. None of those numbers are coming down in the near term. If you're getting roofing bids right now, you're not getting a tariff discount by waiting. The cost is already in the price.
 
-What this means practically: stop treating roofing as a project to defer. A roof that needs attention in the next 18 months should get attention now. Contractors are also seeing higher [material costs](/how-2026-tariffs-are-changing-the-math-on-summer-diy-projects/) themselves, so waiting doesn't help on the labor side either.
+What this means practically: stop treating roofing as a project to defer. A roof that needs attention in the next 18 months should get attention now. Contractors are also seeing higher material costs themselves, so waiting doesn't help on the labor side either.
 
 ## What's Actually Still Affordable: Landscaping and Hardscaping
 

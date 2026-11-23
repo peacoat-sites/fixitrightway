@@ -51,7 +51,7 @@ Not all unpermitted work carries equal risk. Insurers and inspectors tend to con
 
 **Electrical panels and subpanels.** Any service upgrade, panel replacement, or subpanel addition requires a permit in virtually every jurisdiction. Full stop. This is also the work that's surging right now as homeowners add EV chargers and upgrade aging panels to support them.
 
-**Structural modifications.** Load-bearing wall removal, garage conversions, room additions, and [deck builds](/should-you-replace-deck-boards-with-wood-or-composite-this-summer/) all require permits because the structural integrity of your home is at stake. A deck collapse or a wall failure after unpermitted structural work is a claim scenario where denial is almost certain.
+**Structural modifications.** Load-bearing wall removal, garage conversions, room additions, and deck builds all require permits because the structural integrity of your home is at stake. A deck collapse or a wall failure after unpermitted structural work is a claim scenario where denial is almost certain.
 
 **Plumbing reroutes and additions.** Moving or adding supply and drain lines, adding a bathroom, or rerouting a gas line requires permits. Water damage from faulty unpermitted plumbing work is another high-scrutiny category.
 

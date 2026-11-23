@@ -1,5 +1,5 @@
 ---
-title: "Repair Concrete Floor Damage Like A Pro"
+title: "How to Patch a Hole in a Concrete Garage Floor"
 date: 2026-06-03T14:10:04.882599+00:00
 draft: false
 description: "Learn how to patch a hole in a concrete garage floor with our step-by-step guide. We cover the tools, materials, and techniques needed for a lasting repair."

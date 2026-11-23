@@ -20,7 +20,7 @@ author_title: "Plumbing"
 author_bio: "Maria Gonzalez is the byline used at Fix It Right Way for articles on residential plumbing repairs and fixtures. It is a pen name, not a licensed plumber; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Your toilet keeps running long after you flush. That endless hissing sound. The water bill creeping up month after month. You almost certainly don't need to [call a plumber](/how-to-unclog-a-toilet-without-a-plunger/) for this. Replacing a toilet flapper is genuinely one of the easiest fixes you can do at home, and most people finish it in under 30 minutes.
+Your toilet keeps running long after you flush. That endless hissing sound. The water bill creeping up month after month. You almost certainly don't need to call a plumber for this. Replacing a toilet flapper is genuinely one of the easiest fixes you can do at home, and most people finish it in under 30 minutes.
 
 ## What Is a Toilet Flapper and Why Does It Matter?
 

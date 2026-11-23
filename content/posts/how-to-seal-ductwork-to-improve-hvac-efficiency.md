@@ -26,7 +26,7 @@ faqs:
     a: "Sealing stops conditioned air from escaping through gaps and joints. Insulation (typically R-6 or R-8 fiberglass wrap) reduces heat transfer between the duct and the surrounding unconditioned space. They solve different problems. If your ducts run through a hot attic, you want both, but seal first."
 ---
 
-Most coverage of duct sealing spends three paragraphs telling you [air leaks](/how-to-seal-air-leaks-around-electrical-outlets/) are bad, then hands you a tube of caulk and wishes you luck. That's not enough. Duct leakage is one of the most consequential hidden problems in residential buildings, and it's also one of the most frequently botched DIY repairs because people use the wrong materials, seal the wrong spots, or skip a pressure test that would tell them whether any of it worked.
+Most coverage of duct sealing spends three paragraphs telling you air leaks are bad, then hands you a tube of caulk and wishes you luck. That's not enough. Duct leakage is one of the most consequential hidden problems in residential buildings, and it's also one of the most frequently botched DIY repairs because people use the wrong materials, seal the wrong spots, or skip a pressure test that would tell them whether any of it worked.
 
 Here's the uncomfortable number: the U.S. Department of Energy estimates that the average home loses 20 to 30 percent of conditioned air through duct leaks. On a $250/month cooling bill, that's $50 to $75 a month leaving through gaps in your attic or crawlspace. Every month. Leakage can reach closer to 40 percent, often because cloth duct tape (which fails completely within a few years) was used and never replaced.
 
@@ -46,7 +46,7 @@ Before you buy anything, walk your attic or crawlspace with a flashlight on a da
 
 Everyone online hedges this. I won't.
 
-Mastic sealant is the right answer for sealing duct joints. It's a fiber-reinforced paste (water-based, usually gray or white) that you brush or trowel onto joints and seams. It stays flexible, doesn't dry out and crack, and lasts the life of the duct if applied correctly. The product I've used for years is Hardcast 321, about $18/gallon at most HVAC supply houses. You can also find RCD Corporation Mastic or Gardner Bender's equivalent at big-box stores. For larger gaps (anything over 1/4 inch), you embed fiberglass [mesh tape](/mesh-tape-vs-paper-tape-for-drywall-seams/) into the wet mastic before it dries. That mesh is the part most DIYers skip and regret.
+Mastic sealant is the right answer for sealing duct joints. It's a fiber-reinforced paste (water-based, usually gray or white) that you brush or trowel onto joints and seams. It stays flexible, doesn't dry out and crack, and lasts the life of the duct if applied correctly. The product I've used for years is Hardcast 321, about $18/gallon at most HVAC supply houses. You can also find RCD Corporation Mastic or Gardner Bender's equivalent at big-box stores. For larger gaps (anything over 1/4 inch), you embed fiberglass mesh tape into the wet mastic before it dries. That mesh is the part most DIYers skip and regret.
 
 UL-181 rated foil tape (aluminum foil tape, not cloth "duct tape") is acceptable on rigid sheet metal ducts when the surface is clean and you press it on properly. It works. But it's strictly a second choice because the adhesive eventually loosens with heat cycling, and in dirty or dusty attics the bond never fully achieves in the first place.
 

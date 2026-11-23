@@ -50,7 +50,7 @@ Home Depot's Magic Apron AI added a Material List Builder in January 2026 that t
 
 The green/amber/red framework is useful, but it creates a false confidence problem at the amber level. Amber means "DIY with caution," which is doing a lot of work there. Caution compared to what? A retired electrician and a first-time homeowner who just watched three YouTube videos are both "cautious." The category needs more specificity than the apps currently provide.
 
-Red classifications are more reliable because the apps are conservative in the right direction. Electrical panel work consistently lands in red. That's correct. What's interesting is that this conservatism is bumping up against a real market trend: [sodium-ion battery systems](/can-you-really-install-a-diy-mini-split-this-weekend/) are now priced around $180 to $220 per kWh, down significantly from lithium iron phosphate systems at $250 to $300 per kWh. Homeowners are moving on budget home battery installs, and some are attempting panel-adjacent work they shouldn't. The AI tools flagging this as red aren't being overly cautious. They're being accurate.
+Red classifications are more reliable because the apps are conservative in the right direction. Electrical panel work consistently lands in red. That's correct. What's interesting is that this conservatism is bumping up against a real market trend: sodium-ion battery systems are now priced around $180 to $220 per kWh, down significantly from lithium iron phosphate systems at $250 to $300 per kWh. Homeowners are moving on budget home battery installs, and some are attempting panel-adjacent work they shouldn't. The AI tools flagging this as red aren't being overly cautious. They're being accurate.
 
 ## When to Trust the App and When to Override It
 

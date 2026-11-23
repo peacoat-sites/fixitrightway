@@ -27,7 +27,7 @@ faqs:
 
 Water pooling at the base of your toilet means one of three things: the [wax ring](/how-to-replace-a-toilet-wax-ring-step-by-step/) has failed, the toilet is loose on the floor, or there's condensation dripping down and collecting. The first two need a fix today. The third is mostly a nuisance. Knowing which problem you have changes everything about the repair.
 
-Here's the quick diagnosis. Press firmly on both sides of the toilet bowl near the floor. If the toilet rocks even slightly, that movement is the likely culprit. A [toilet that](/how-to-fix-a-running-toilet-that-wont-stop/) shifts with use grinds away at the wax ring over time, eventually breaking the seal. A stable toilet with water consistently appearing after a flush points more directly to a failed wax seal. And if the water appears even when the toilet hasn't been used recently, check whether the tank is cold to the touch, because condensation is the simpler explanation.
+Here's the quick diagnosis. Press firmly on both sides of the toilet bowl near the floor. If the toilet rocks even slightly, that movement is the likely culprit. A toilet that shifts with use grinds away at the wax ring over time, eventually breaking the seal. A stable toilet with water consistently appearing after a flush points more directly to a failed wax seal. And if the water appears even when the toilet hasn't been used recently, check whether the tank is cold to the touch, because condensation is the simpler explanation.
 
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A rocking toilet causes wax ring failure; fix the wobble before replacing the ring or the problem will recur.</li><li style="margin:5px 0">Wax ring replacement is a DIY job for most homeowners and typically costs $5–$30 in parts.</li><li style="margin:5px 0">Water at the base after every flush can carry sewage bacteria onto your floor, so don't delay this repair.</li><li style="margin:5px 0">If the floor feels soft or spongy underfoot near the toilet, stop and call a plumber: you likely have subfloor rot.</li><li style="margin:5px 0">The full job takes 1–3 hours; the longest wait is for the new wax ring to fully compress, which happens within the first few uses.</li></ul></div>
@@ -35,7 +35,7 @@ Here's the quick diagnosis. Press firmly on both sides of the toilet bowl near t
 
 ## First, Rule Out the Easy Stuff
 
-Before you [shut off](/how-to-replace-a-sink-shut-off-valve/) the water supply and start pulling the toilet, spend two minutes confirming it's actually a wax ring or flange problem and not something simpler.
+Before you shut off the water supply and start pulling the toilet, spend two minutes confirming it's actually a wax ring or flange problem and not something simpler.
 
 Dry the floor completely. Flush once, then watch where the water appears. If it comes from under the base of the toilet, you're looking at a wax ring or flange issue. If it trickles down from somewhere higher, like the connection between the tank and bowl, or from the supply line fitting at the wall, that's a different repair entirely and doesn't involve the floor at all. Don't pull a toilet off a good wax ring to fix a leaking fill valve.
 

@@ -25,7 +25,7 @@ faqs:
     a: "Pressure washing removes dirt and loose material but doesn't open the pores of dense concrete the way acid etching does. If the concrete is old and already somewhat porous from weathering, some manufacturers say pressure washing alone may suffice. Check the specific product instructions, but when in doubt, etch. The cost is minimal and skipping it is the most common cause of early failure."
 ---
 
-Concrete porch resurfacing is one of the better [DIY projects](/how-2026-tariffs-are-changing-the-math-on-summer-diy-projects/) for a confident homeowner. If your slab is structurally sound (no heaving, no cracks wider than about 1/4 inch, no soft or crumbling sections), you can apply a resurfacer yourself for $100 to $300 in materials on a typical 200-square-foot porch, versus $800 to $2,500 for a professional job. That's a real gap worth closing with a weekend's work, as long as you know what you're walking into.
+Concrete porch resurfacing is one of the better DIY projects for a confident homeowner. If your slab is structurally sound (no heaving, no cracks wider than about 1/4 inch, no soft or crumbling sections), you can apply a resurfacer yourself for $100 to $300 in materials on a typical 200-square-foot porch, versus $800 to $2,500 for a professional job. That's a real gap worth closing with a weekend's work, as long as you know what you're walking into.
 
 The common misconception is that resurfacing is just slapping down a fresh layer of concrete. It's not. The prep work determines whether the new surface bonds and lasts five or more years, or peels off in sheets by next spring. Skipping the cleaning and etching steps is the single most expensive mistake in this project.
 

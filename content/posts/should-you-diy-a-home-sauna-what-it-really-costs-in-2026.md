@@ -40,7 +40,7 @@ This is where the research gets genuinely useful. Not all saunas are the same an
 | Traditional 8'×8' with 9 kW heater | $7,000–$9,000+ | 240V dedicated circuit | No (electrical) |
 | Custom-built traditional | $2,800–$6,000+ in materials | 240V dedicated circuit | Skilled only |
 
-The plug-and-play infrared units are the genuine DIY play. They run on a regular 120V household outlet, the panels bolt together in a few hours, and you don't need a permit in most jurisdictions. Operating [costs are](/how-2026-tariffs-are-changing-the-math-on-summer-diy-projects/) remarkably low, roughly $0.15 to $0.50 per session, which works out to $5 to $15 a month for typical use.
+The plug-and-play infrared units are the genuine DIY play. They run on a regular 120V household outlet, the panels bolt together in a few hours, and you don't need a permit in most jurisdictions. Operating costs are remarkably low, roughly $0.15 to $0.50 per session, which works out to $5 to $15 a month for typical use.
 
 The moment you go traditional, you need heat. Real heat. A 9 kW heater pulls serious amperage, and that means a dedicated 240V circuit. That's not a gray area. Hiring a licensed electrician for that circuit runs $500 to $2,500 depending on your panel's location, how far the run is, and your local market. Pure DIY on a traditional sauna isn't really possible for most homeowners, not legally anyway.
 
@@ -60,7 +60,7 @@ Budgets often fall apart on three things that don't make it into the headline ki
 
 Here is an honest read based on how these projects typically play out.
 
-You're a reasonable DIY candidate if you've framed a [wall before](/how-to-fix-a-crack-in-plaster-wall-before-painting/), you're comfortable running wire (even if you hire the final circuit hookup), you can follow a kit manual, and you're building into an existing finished space like a basement or large bathroom. The prefab kit manufacturers, companies like Almost Heaven, Finnleo, and Dynamic Saunas, have genuinely gotten better at making their systems installable by capable amateurs. The instructions are real. The tolerances are forgiving.
+You're a reasonable DIY candidate if you've framed a wall before, you're comfortable running wire (even if you hire the final circuit hookup), you can follow a kit manual, and you're building into an existing finished space like a basement or large bathroom. The prefab kit manufacturers, companies like Almost Heaven, Finnleo, and Dynamic Saunas, have genuinely gotten better at making their systems installable by capable amateurs. The instructions are real. The tolerances are forgiving.
 
 You should hire this out if the room needs to be built from scratch, you've never done finish carpentry, your electrical panel is already crowded or outdated, or you're planning to use this as a selling point on a future home sale. Permitted, professionally installed work shows up differently on a disclosure and an appraisal than a sauna someone's husband assembled over a long weekend.
 

@@ -20,7 +20,7 @@ author_title: "Home Repair"
 author_bio: "Dana Morrison is the byline used at Fix It Right Way for articles on home repair and renovation, and which jobs to do yourself versus hire out. It is a pen name, not a licensed contractor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
-Your tile floors looked beautiful [when they were first installed](/how-to-level-an-uneven-floor-before-tiling/), but now the grout lines have turned dark, dingy, and even a little embarrassing. Dirty grout is one of the most common household frustrations, and it can make an entire room look neglected even when everything else is spotless. The good news is that learning **how to clean grout** is easier than you might think, and you don't need to hire an expensive professional to get the job done right.
+Your tile floors looked beautiful when they were first installed, but now the grout lines have turned dark, dingy, and even a little embarrassing. Dirty grout is one of the most common household frustrations, and it can make an entire room look neglected even when everything else is spotless. The good news is that learning **how to clean grout** is easier than you might think, and you don't need to hire an expensive professional to get the job done right.
 
 Whether you're dealing with bathroom tiles, kitchen floors, or an entryway that sees heavy foot traffic, this step-by-step guide will walk you through everything you need to restore your grout to its former glory. Even if you're not particularly handy, you can absolutely do this yourself and feel proud of the results.
 

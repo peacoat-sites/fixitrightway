@@ -78,7 +78,7 @@ You'll need a pipe wrench or channel-lock pliers, a bucket, old towels or rags, 
 
 First, confirm there's no in-floor access panel in your bathroom or an access panel on the other side of the wall. In some homes, particularly when the shower is on an exterior wall or above a finished basement, there's a cleanout access. Use it if you've got it.
 
-If you have a shower stall (not a tub-shower combo), the drain and P-trap sit directly under the floor and you can't easily access them from above without cutting drywall. I'd recommend trying a [drain snake](/best-drain-snake-for-a-clogged-bathroom-sink/) first before assuming it's the P-trap.
+If you have a shower stall (not a tub-shower combo), the drain and P-trap sit directly under the floor and you can't easily access them from above without cutting drywall. I'd recommend trying a drain snake first before assuming it's the P-trap.
 
 For a standard tub-shower combo, you can usually access the P-trap from the overflow plate on the front of the tub. Remove that oval or rectangular cover (two screws), and you'll see the trip lever or stopper mechanism. Pull the whole assembly out. This is also a good moment to clean that mechanism, because the stopper itself accumulates an extraordinary amount of hair. I've pulled out stopper assemblies with more hair wrapped around them than a drain clog would have, and the homeowner had no idea the restriction was there.
 

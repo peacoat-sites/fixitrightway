@@ -43,7 +43,7 @@ Nothing exotic. A non-contact voltage tester ($15-25, Klein makes a reliable one
 
 Wire nuts come with most fixtures. Use them, don't improvise with tape. If you're working in a 60-year-old house and the insulation on the existing wires is crumbly or cloth-wrapped, don't just tape over it and move on. That's a call-a-pro moment, or at minimum an electrician consult to assess the wiring condition before you button everything back up.
 
-One thing I'd add to every light swap: grab a can of electrical contact cleaner spray. Old [wire connections](/how-to-replace-an-electrical-outlet/) get oxidized. A quick spray before you make the new connections is cheap insurance. Most people skip this. I didn't start doing it until a fixture I'd installed started flickering six months later because of a corroded connection point I'd missed.
+One thing I'd add to every light swap: grab a can of electrical contact cleaner spray. Old wire connections get oxidized. A quick spray before you make the new connections is cheap insurance. Most people skip this. I didn't start doing it until a fixture I'd installed started flickering six months later because of a corroded connection point I'd missed.
 
 ## Step-by-Step: The Actual Swap
 

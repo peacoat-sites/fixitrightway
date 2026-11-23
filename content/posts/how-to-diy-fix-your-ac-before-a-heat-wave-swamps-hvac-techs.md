@@ -14,7 +14,7 @@ slug: "how-to-diy-fix-your-ac-before-a-heat-wave-swamps-hvac-techs"
 affiliate_disclosure: true
 ---
 
-If your AC [stopped working](/how-to-fix-an-outlet-that-stopped-working/) in the last 48 hours, you're probably already sweating in more ways than one. You've called a couple of HVAC companies, maybe left a voicemail that hasn't been returned, and you're starting to realize that "we can get someone out next Tuesday" isn't a joke. It's just the reality of peak summer 2026. Heat waves across much of the country are pushing technician wait times to days or even weeks, and the repair bills waiting at the end of that wait aren't small. According to Carrier's June 2026 repair guidance, central AC repairs run anywhere from $150 to $1,500, and emergency service carries a premium on top of that.
+If your AC stopped working in the last 48 hours, you're probably already sweating in more ways than one. You've called a couple of HVAC companies, maybe left a voicemail that hasn't been returned, and you're starting to realize that "we can get someone out next Tuesday" isn't a joke. It's just the reality of peak summer 2026. Heat waves across much of the country are pushing technician wait times to days or even weeks, and the repair bills waiting at the end of that wait aren't small. According to Carrier's June 2026 repair guidance, central AC repairs run anywhere from $150 to $1,500, and emergency service carries a premium on top of that.
 
 Here's what I tell people sitting across from me in this exact situation: before you pay anything, spend 20 minutes checking the things that are genuinely your job to fix. Not because you're trying to be a hero. Because some of the most common reasons an AC quits are embarrassingly simple, and a technician charging an emergency premium is going to fix them in five minutes and hand you a bill anyway.
 
@@ -50,7 +50,7 @@ The capacitor and contactor swaps require you to photograph your wiring before d
 
 If you're working with a window unit rather than central air, the diagnosis logic is similar but there's a specific thing to check before you start pulling panels. Midea issued a recall in 2025 covering certain window AC models with drainage defects that caused mold problems. They released redesigned 2026 units to address it, but if you have an older Midea unit, Forbes' July 2026 window AC coverage flagged this directly: verify your model number against the recall list before assuming a drainage issue is a simple DIY fix. The last thing you want is to spend an afternoon fixing a problem that Midea may be obligated to address for you.
 
-For non-recalled window units, drainage clogs and dirty filters [are still](/ira-rebates-are-still-on-the-table-how-to-claim-them-now/) the most common failure points and are straightforward to clean. Pull the filter, wash it with warm water, let it dry, and clear the drain pan with a mix of water and a small amount of bleach.
+For non-recalled window units, drainage clogs and dirty filters are still the most common failure points and are straightforward to clean. Pull the filter, wash it with warm water, let it dry, and clear the drain pan with a mix of water and a small amount of bleach.
 
 ## When to Stop and Call Anyway
 

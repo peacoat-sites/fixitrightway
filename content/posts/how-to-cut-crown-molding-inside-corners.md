@@ -65,7 +65,7 @@ Here's how it works: one piece of molding runs straight into the corner and butt
 
 3. Take that mitered end to your coping saw. You'll follow the profile line (the dark shadow line created by the miter cut) with your coping saw, cutting at roughly a 5-degree back bevel. That back bevel is important: it means the front face edge makes contact while the back is slightly relieved, so it seats cleanly against the first piece.
 
-4. Test fit it. You'll almost certainly need to refine it with a rasp, a half-round file, or 80-grit sandpaper wrapped around a dowel for any curved sections. [Don't skip this step](/how-to-fill-nail-holes-in-trim-before-painting/).
+4. Test fit it. You'll almost certainly need to refine it with a rasp, a half-round file, or 80-grit sandpaper wrapped around a dowel for any curved sections. Don't skip this step.
 
 5. Once it fits snugly, nail it and move on.
 

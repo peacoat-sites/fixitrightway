@@ -1,5 +1,5 @@
 ---
-title: "Paint Trim Like A Pro: Skip The Brush Marks"
+title: "How to Paint Trim Without Brush Strokes Showing"
 date: 2026-06-02T12:52:36.600580+00:00
 draft: false
 description: "Learn how to paint trim without brush strokes showing using the right tools, techniques, and paint prep tips for a smooth, professional finish every time."
@@ -48,7 +48,7 @@ Most painting tutorials spend two paragraphs on prep and ten on technique. It's 
 
 If your existing trim is glossy, you have to dull it. Paint doesn't bond well to gloss, and even if it sticks, you'll see imperfections amplified through the new coat. A light scuff with 120-grit sandpaper or liquid deglosser like Wilbond takes minutes. Don't skip this.
 
-Fill nail holes, dents, and gouges with lightweight spackling compound or painter's putty. Let it dry completely, sand it flush with 150-grit, and prime just those spots. If you use [shellac-based primer like Zinsser BIN](/best-primer-for-covering-dark-walls-in-one-coat/), you'll prevent the repair from flashing (showing through as a dull patch in your final coat). It's a small step that matters more on semi-gloss and gloss finishes.
+Fill nail holes, dents, and gouges with lightweight spackling compound or painter's putty. Let it dry completely, sand it flush with 150-grit, and prime just those spots. If you use shellac-based primer like Zinsser BIN, you'll prevent the repair from flashing (showing through as a dull patch in your final coat). It's a small step that matters more on semi-gloss and gloss finishes.
 
 Clean the trim. Grease, dust, and cleaning product residue will cause your paint to crawl or bead. A wipe-down with TSP substitute or even plain dish soap and water, rinsed and dried, is all you need.
 

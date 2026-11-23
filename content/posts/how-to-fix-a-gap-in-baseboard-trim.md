@@ -56,7 +56,7 @@ I want to be specific here because the hardware store aisle is genuinely confusi
 | Baseboard-to-floor gap | Paintable latex caulk or shoe molding | Caulk gun or nail gun | 24 hr for caulk | $4-$6 caulk, $30-$80 shoe molding |
 | Large separation, board pulling from wall | Construction adhesive (Liquid Nails) + nails | Caulk gun, 2.5" finish nails | 24-48 hr full set | $5-$8/tube |
 
-As of August 2026, a tube of DAP Alex Plus runs about $4.89 at Home Depot. It's not glamorous but it does the job and it accepts [paint without](/how-to-touch-up-wall-paint-without-it-showing/) fisheye or peeling.
+As of August 2026, a tube of DAP Alex Plus runs about $4.89 at Home Depot. It's not glamorous but it does the job and it accepts paint without fisheye or peeling.
 
 One thing most people don't realize: caulk shrinks as it cures. Latex caulk can shrink 8 to 12 percent by volume according to DAP's own technical data sheets. So if you're filling a 3/16" gap, apply it slightly proud of the surface, a little bead that's almost too much, and let it cure before you paint. Otherwise you'll paint it, it'll shrink, and you'll have a visible depression.
 
@@ -88,7 +88,7 @@ First, if the gap is appearing repeatedly in the same spot after you've already 
 
 Second, if the gap is accompanied by baseboard that's bowing out from the wall significantly, or if there's any soft or spongy feel to the wall near the baseboard. That can indicate moisture intrusion or mold behind the drywall.
 
-Third, if you're fixing baseboard in a room that recently had a leak, [water damage](/how-to-repair-drywall-water-damage/), or flooding. Caulking over potential mold is not a fix.
+Third, if you're fixing baseboard in a room that recently had a leak, water damage, or flooding. Caulking over potential mold is not a fix.
 
 A general contractor visit to assess (not repair) a suspicious gap typically runs $75 to $150 for the inspection, depending on your area. Worth every dollar if it saves you from caulking over a real problem.
 

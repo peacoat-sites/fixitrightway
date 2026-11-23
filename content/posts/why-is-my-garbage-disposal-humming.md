@@ -91,7 +91,7 @@ Scenario: A disposal that hums and trips the breaker (not just the reset button,
 
 ## The Reset Button Is Not a Mystery
 
-Many people reset the disposal while a jam is still stuck, which won't solve the problem. The sequence matters: clear the jam first, then reset, then power on. If you reset while the impellers [are still](/ira-rebates-are-still-on-the-table-how-to-claim-them-now/) locked, the overload just trips again the moment the motor tries to spin.
+Many people reset the disposal while a jam is still stuck, which won't solve the problem. The sequence matters: clear the jam first, then reset, then power on. If you reset while the impellers are still locked, the overload just trips again the moment the motor tries to spin.
 
 Also: the reset button can wear out over time on an older unit. If you're pushing it and it doesn't click, or clicks but immediately pops back out, the overload protector itself may be faulty. At that age, just replace the unit.
 

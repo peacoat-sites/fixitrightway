@@ -26,7 +26,7 @@ faqs:
     a: "In virtually all U.S. jurisdictions, no. Replacing a faucet in kind (same location, no changes to the supply or drain lines) is considered routine maintenance and doesn't trigger a permit requirement. If you're moving supply lines or modifying drain rough-in, that's a different conversation."
 ---
 
-Most people discover their [kitchen faucet](/how-to-fix-a-leaking-kitchen-faucet-base/) needs replacing at the worst possible moment. Saturday morning, coffee not made yet, and water is either pooling under the sink or spraying somewhere it absolutely shouldn't be. You're standing there wondering if this is a $200 problem or a $1,500 problem, and whether you're about to make it worse.
+Most people discover their kitchen faucet needs replacing at the worst possible moment. Saturday morning, coffee not made yet, and water is either pooling under the sink or spraying somewhere it absolutely shouldn't be. You're standing there wondering if this is a $200 problem or a $1,500 problem, and whether you're about to make it worse.
 
 Here's what I tell people in that moment: replacing a kitchen faucet is one of the most DIY-friendly plumbing jobs there is. I'm not saying that to make you feel capable. I'm saying it because it's genuinely true. No soldering, no cutting pipe, no permits required. A competent first-timer can pull this off in two to three hours. A seasoned DIYer can do it in under ninety minutes. I've replaced probably forty or fifty faucets over the years, from beat-up rentals to high-end kitchen remodels, and the job is almost always the same job.
 
@@ -93,13 +93,13 @@ Here's a scenario that plays out often:
 
 Older home, original faucet from the early 2000s, three-hole configuration → homeowner buys a single-handle Delta Leland with a deck plate ($189 at Home Depot), uses existing supply lines, spends $25 on a basin wrench → total project cost: $214, completed in two and a half hours, zero callbacks.
 
-Compare that to a plumber visit: in most markets [right now](/how-to-shop-for-materials-right-now-and-beat-tariff-price-hikes/), a plumber will charge $150-$250 in labor alone to swap a faucet, on top of whatever the faucet costs. For a job this size, that math rarely makes sense unless you run into a real complication.
+Compare that to a plumber visit: in most markets right now, a plumber will charge $150-$250 in labor alone to swap a faucet, on top of whatever the faucet costs. For a job this size, that math rarely makes sense unless you run into a real complication.
 
 ## When to Actually Call a Pro
 
 I want to be straight with you here. Most kitchen faucet replacements don't need a plumber. But some do, and recognizing the line matters.
 
-Call a plumber if: you discover the supply valves under the sink are so corroded they won't close (this is now a valve replacement job, which involves soldering or compression fittings on the main supply line). Call one if you find evidence of [water damage](/how-to-repair-drywall-water-damage/) -- soft flooring under the cabinet, dark staining on the cabinet floor, or visible mold. Those are signs of a longer-running problem that the faucet swap won't fix.
+Call a plumber if: you discover the supply valves under the sink are so corroded they won't close (this is now a valve replacement job, which involves soldering or compression fittings on the main supply line). Call one if you find evidence of water damage -- soft flooring under the cabinet, dark staining on the cabinet floor, or visible mold. Those are signs of a longer-running problem that the faucet swap won't fix.
 
 Also call if you're switching from a single-hole to a three-hole setup and your sink doesn't have the extra holes. Drilling porcelain or composite granite sinks requires a diamond-tipped hole saw and a steady hand; one crack and you've turned a $200 project into a sink replacement.
 

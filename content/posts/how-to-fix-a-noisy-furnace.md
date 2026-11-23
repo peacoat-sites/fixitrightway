@@ -1,5 +1,5 @@
 ---
-title: "Stop Your Furnace From Making Noise"
+title: "How to Fix a Noisy Furnace and Stop the Racket"
 date: 2026-05-22T23:00:59.993679+00:00
 draft: false
 description: "Discover how to fix a noisy furnace with this step-by-step guide. Learn to identify banging, rattling, and squealing sounds and make simple DIY repairs to re"

@@ -112,7 +112,7 @@ The compressor is the heart of the whole system. It's the large, round, black un
 
 Loud clicking, buzzing, or complete silence is bad. Clicking every few minutes means it's struggling to start.
 
-Compressor replacement costs $200 to $500 or more. If your fridge is over 10 or 12 years old, [replacing the whole unit](/how-to-replace-a-kitchen-countertop/) might make more sense financially. A local repair pro can advise after they see it.
+Compressor replacement costs $200 to $500 or more. If your fridge is over 10 or 12 years old, replacing the whole unit might make more sense financially. A local repair pro can advise after they see it.
 
 ## When to Call a Professional
 

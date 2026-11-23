@@ -99,7 +99,7 @@ This is the step that determines whether your new tile sits flush or proud. Use 
 
 **Step 4: Dry-fit the new tile.**
 
-Put the tile in the opening without mortar and check the height against adjacent tiles. If it sits too low, you'll need more thinset. If it sits proud, you have old mortar to remove. This check takes 30 seconds and saves you from a [tile that](/how-to-fix-a-tile-that-has-come-loose/)'s visually off.
+Put the tile in the opening without mortar and check the height against adjacent tiles. If it sits too low, you'll need more thinset. If it sits proud, you have old mortar to remove. This check takes 30 seconds and saves you from a tile that's visually off.
 
 **Step 5: Set the tile.**
 

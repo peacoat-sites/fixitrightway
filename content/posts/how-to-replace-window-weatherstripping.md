@@ -20,7 +20,7 @@ author_title: "Home Repair"
 author_bio: "Dana Morrison is the byline used at Fix It Right Way for articles on home repair and renovation, and which jobs to do yourself versus hire out. It is a pen name, not a licensed contractor; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-07
 ---
-Your windows are letting in cold drafts, your energy bills keep climbing, and you can hear the wind whistling around the edges of your window frames. These are classic signs that your weatherstripping has worn out and needs replacing. The good news is that **[window weatherstripping replacement](/how-to-install-window-trim/)** is one of the most rewarding DIY home improvement projects you can tackle. It's affordable, straightforward, and the results are immediate. Whether you're looking to stay warmer in winter, cooler in summer, or simply reduce noise from outside, fresh weatherstripping makes a noticeable difference right away.
+Your windows are letting in cold drafts, your energy bills keep climbing, and you can hear the wind whistling around the edges of your window frames. These are classic signs that your weatherstripping has worn out and needs replacing. The good news is that **window weatherstripping replacement** is one of the most rewarding DIY home improvement projects you can tackle. It's affordable, straightforward, and the results are immediate. Whether you're looking to stay warmer in winter, cooler in summer, or simply reduce noise from outside, fresh weatherstripping makes a noticeable difference right away.
 
 ## Why Weatherstripping Wears Out Over Time
 

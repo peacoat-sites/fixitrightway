@@ -47,7 +47,7 @@ This is where the conversation gets real.
 
 **Shellac-based primer** is the gold standard for blocking. Zinsser BIN is the product most professionals reach for when a client has a truly dark or problem wall. It bonds to almost anything, dries in 45 minutes, and blocks stains and pigments at a level nothing water-based can match. If your wall is a deep red, forest green, or black, this is your safest one-coat bet. The downsides are substantial though: it smells intense (you need ventilation and a respirator, not just a dust mask), it requires denatured alcohol for cleanup, and it's not cheap, typically $50 to $70 for a gallon.
 
-**Oil-based primer** sits in the middle. Products like Zinsser Cover Stain or Kilz Original offer strong blocking with better smell manageability than shellac, though you still need mineral spirits for cleanup. Oil-based primers are particularly good at blocking [water stains alongside dark pigments](/how-to-paint-over-a-water-stain-on-ceiling/), so if your dark walls also have any ceiling or humidity damage, oil-based does double duty. Dry time is longer, usually 2 to 4 hours before recoating. Cost runs $35 to $55 per gallon.
+**Oil-based primer** sits in the middle. Products like Zinsser Cover Stain or Kilz Original offer strong blocking with better smell manageability than shellac, though you still need mineral spirits for cleanup. Oil-based primers are particularly good at blocking water stains alongside dark pigments, so if your dark walls also have any ceiling or humidity damage, oil-based does double duty. Dry time is longer, usually 2 to 4 hours before recoating. Cost runs $35 to $55 per gallon.
 
 **Water-based high-hide primer** has improved dramatically. Kilz 2 All-Purpose, Zinsser Bulls Eye 1-2-3, and the newer Behr Premium Plus Primer+Paint combinations aren't the weak cousins they used to be. For walls that are dark but not extreme (think navy blue or charcoal gray rather than fire-engine red or eggplant), a quality water-based primer in a tinted version can absolutely handle the job in one coat. Cleanup is easy, the smell is mild, and dry time is fast. Where they fall short is with highly saturated warm colors. Reds and oranges are notoriously hard to block with water-based products.
 
@@ -78,7 +78,7 @@ The product is only part of the equation. Application matters more than most DIY
 - Painter's tape along trim
 - Good ventilation if using shellac or oil-based
 
-**Step 1: Clean the wall.** I mean actually clean it. Grease, dust, and any wax residue from previous cleaning products will cause [adhesion failure](/how-to-fix-paint-peeling-off-interior-walls/). A simple TSP substitute solution wiped down and allowed to dry is enough in most cases.
+**Step 1: Clean the wall.** I mean actually clean it. Grease, dust, and any wax residue from previous cleaning products will cause adhesion failure. A simple TSP substitute solution wiped down and allowed to dry is enough in most cases.
 
 **Step 2: Repair before you prime.** Patching holes and sanding after primer is a waste. Fill every hole, sand smooth, let it dry completely.
 
