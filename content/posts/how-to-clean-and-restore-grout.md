@@ -4,7 +4,7 @@ date: 2026-05-19T09:26:20.181369+00:00
 draft: false
 description: "Learn how to clean grout step by step with this easy, senior-friendly guide. Discover the best DIY cleaning solutions, tools, and tips to restore tile grout"
 image: "/img/heroes/5353879.jpg"
-categories: ["floors"]
+categories: ["Flooring"]
 slug: "how-to-clean-and-restore-grout"
 affiliate_disclosure: true
 faqs:

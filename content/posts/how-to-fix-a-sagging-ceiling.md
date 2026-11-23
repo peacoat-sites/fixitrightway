@@ -4,7 +4,7 @@ date: 2026-05-24T10:44:38.144101+00:00
 draft: false
 description: "Learn how to fix a sagging ceiling with this step-by-step guide covering diagnosis, drywall replacement, taping, and finishing for a smooth, professional res"
 image: "/img/heroes/36035073.jpg"
-categories: ["drywall"]
+categories: ["Drywall & Walls"]
 slug: "how-to-fix-a-sagging-ceiling"
 affiliate_disclosure: true
 faqs:

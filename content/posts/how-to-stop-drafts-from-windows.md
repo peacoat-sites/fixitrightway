@@ -4,7 +4,7 @@ date: 2026-05-21T16:56:11.322520+00:00
 draft: false
 description: "Discover the easiest drafty windows fix with this step-by-step guide for seniors. Learn how to seal gaps with weatherstripping, caulk, and window film to sta"
 image: "/img/heroes/9045639.jpg"
-categories: ["windows"]
+categories: ["Doors & Windows"]
 slug: "how-to-stop-drafts-from-windows"
 affiliate_disclosure: true
 faqs:

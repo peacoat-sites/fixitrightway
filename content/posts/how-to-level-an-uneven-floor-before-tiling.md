@@ -4,7 +4,7 @@ date: 2026-05-27T05:56:58.040699+00:00
 draft: false
 description: "Learn how to tackle uneven floor leveling before tiling with this complete step-by-step guide covering tools, self-leveling compound, prep tips, and FAQs.</p"
 image: "/img/heroes/4981810.jpg"
-categories: ["floors"]
+categories: ["Flooring"]
 slug: "how-to-level-an-uneven-floor-before-tiling"
 affiliate_disclosure: true
 faqs:

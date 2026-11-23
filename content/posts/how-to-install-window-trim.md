@@ -4,7 +4,7 @@ date: 2026-05-26T15:38:23.914459+00:00
 draft: false
 description: "Learn how to install window trim with this easy step-by-step guide. Includes tools needed, cutting tips, and finishing advice perfect for DIY beginners."
 image: "/img/heroes/8583537.jpg"
-categories: ["windows"]
+categories: ["Doors & Windows"]
 slug: "how-to-install-window-trim"
 affiliate_disclosure: true
 faqs:

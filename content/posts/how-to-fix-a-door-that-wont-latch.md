@@ -4,7 +4,7 @@ date: 2026-05-26T05:54:36.214754+00:00
 draft: false
 description: "Learn how to fix a door that won&#8217;t latch with this step-by-step guide covering hinge repairs, strike plate adjustments, swollen wood fixes, and latch l"
 image: "/img/heroes/30291814.jpg"
-categories: ["doors"]
+categories: ["Doors & Windows"]
 slug: "how-to-fix-a-door-that-wont-latch"
 affiliate_disclosure: true
 faqs:
