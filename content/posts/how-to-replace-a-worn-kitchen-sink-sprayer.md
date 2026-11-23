@@ -89,7 +89,7 @@ Honestly? Almost never for a sprayer replacement alone. If the supply valves und
 
 If you open up the faucet body to get at the diverter and find significant corrosion or the body is cracked, stop and get a plumber's opinion. Forcing a corroded fitting is how small jobs become expensive ones.
 
-For the straightforward sprayer swap, though: an actual plumber visit for this repair, if you called one, would run you $95–$175 for the service call plus parts, for a job that costs $20 in parts and half an hour of your time. Some people spend [that money](/why-that-money-saving-diy-project-could-void-your-insurance/) on a service call out of intimidation. Don't be.
+For the straightforward sprayer swap, though: an actual plumber visit for this repair, if you called one, would run you $95–$175 for the service call plus parts, for a job that costs $20 in parts and half an hour of your time. Some people spend [that money](/unpermitted-diy-work-can-void-your-home-insurance-claim/) on a service call out of intimidation. Don't be.
 
 ## Sources
 

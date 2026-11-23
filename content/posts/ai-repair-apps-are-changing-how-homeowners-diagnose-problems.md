@@ -36,7 +36,7 @@ FiXA launched in Philadelphia in March 2026, founded by 27-year-old Schola Chiom
 
 Thumbtack went the opposite direction in scale. Its April 30 overhaul added AI diagnosis across its network of 300,000 pros, turning what was a hire-a-pro marketplace into something closer to a triage platform. Fast Company described it as Thumbtack wanting to "diagnose your leaky ceiling" before you ever talk to a contractor. That's a significant pivot for a company that made money connecting homeowners to tradespeople. Now the first touchpoint is a question, not a quote.
 
-Toolbox Repair takes the most structured approach. It uses [photo and video analysis](/ai-repair-apps-that-diagnose-your-home-from-a-photo/) to classify every repair as green (safe DIY), amber (DIY with caution), or red (call a pro). Two free diagnoses, then $9.99 a month or $89.99 a year. The tiered system is the most useful conceptual framework here, because it forces the app to commit to a recommendation rather than hedge with "it depends."
+Toolbox Repair takes the most structured approach. It uses photo and video analysis to classify every repair as green (safe DIY), amber (DIY with caution), or red (call a pro). Two free diagnoses, then $9.99 a month or $89.99 a year. The tiered system is the most useful conceptual framework here, because it forces the app to commit to a recommendation rather than hedge with "it depends."
 
 ## The Diagnosis Problem These Tools Actually Solve
 

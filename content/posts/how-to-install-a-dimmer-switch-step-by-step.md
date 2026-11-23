@@ -42,7 +42,7 @@ Not every dimmer works with every light fixture. This is the mistake I see most 
 
 Check the dimmer's wattage rating too. It'll be printed right on the box. If you've got six recessed lights on a circuit, each pulling 10 watts, you're fine. If you've got eight 65-watt BR30 halogens, you need to actually do that math before buying a $12 dimmer rated for 150 watts.
 
-Tools you'll need: a flathead and Phillips screwdriver, a [non-contact voltage tester](/how-to-replace-a-light-switch/) (Klein makes a reliable one for about $20, don't skip this), needle-nose pliers, and wire strippers. A flashlight or headlamp is genuinely useful because wall boxes are dark and the wire color codes matter a lot here.
+Tools you'll need: a flathead and Phillips screwdriver, a [non-contact voltage tester](/how-to-replace-a-light-switch-safely-yourself/) (Klein makes a reliable one for about $20, don't skip this), needle-nose pliers, and wire strippers. A flashlight or headlamp is genuinely useful because wall boxes are dark and the wire color codes matter a lot here.
 
 ## The Part Nobody Explains Well: Understanding What's in Your Wall Box
 

@@ -3,7 +3,7 @@ title: "Home Repair Cost Guide: DIY vs. Pro Prices (2026)"
 date: 2026-05-15T10:00:00+00:00
 draft: false
 description: "Compare DIY vs. professional costs for 30+ common home repairs. See exactly how much you can save doing it yourself, with difficulty ratings and time estimates."
-categories: ["general"]
+categories: ["trending"]
 slug: "home-repair-cost-guide"
 affiliate_disclosure: false
 image: "https://images.pexels.com/photos/7217957/pexels-photo-7217957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

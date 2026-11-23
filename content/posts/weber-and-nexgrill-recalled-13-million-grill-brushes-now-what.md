@@ -19,7 +19,7 @@ You pull the grill cover off for the first time this season, grab the wire brush
 
 Weber recalled 3.2 million metal wire-bristle grill brushes on February 26, 2026. A month later, on March 26, Nexgrill followed with a recall of 10.2 million brushes, sold exclusively through Home Depot and its website between 2015 and 2026 for anywhere from $5 to $15. Together, these two actions represent one of the largest grilling-product recalls in CPSC history, and they landed right at the start of grilling season, when most people are least likely to be checking recall databases.
 
-If you've got a [wire brush in your garage](/wire-grill-brush-recall-what-to-use-instead-this-summer/) or hanging by the grill, there's a very real chance it's one of them.
+If you've got a wire brush in your garage or hanging by the grill, there's a very real chance it's one of them.
 
 ## What Actually Went Wrong (And Why It's More Serious Than It Sounds)
 

@@ -49,7 +49,7 @@ As experienced finish carpenters put it, the inside corner is really a geometry 
 
 The spring angle is the angle at which your crown sits tilted between the wall and ceiling. Most standard crown molding has a 38-degree spring angle, but you'll also find 45-degree spring profiles out there. This matters for every cut you make. Check the back of your molding: most manufacturers stamp the spring angle right on it. If not, set a bevel gauge against a flat surface and measure it yourself before you touch the saw.
 
-Check your molding's spring angle before you make a single cut, because every miter setting depends on it. [Check out our full guide to crown molding spring angles here.](/crown-molding-spring-angles)
+Check your molding's spring angle before you make a single cut, because every miter setting depends on it. Check out our full guide to crown molding spring angles here.
 
 ## The Case for Coped Joints (And When to Use Them)
 
@@ -73,7 +73,7 @@ The coping saw work takes practice. Your first cope might take you 20 minutes an
 
 For example, if a first-time DIYer attempts coping without practicing on scrap first, the early corners may take 25 minutes each and still require filler, while the later corners, after the technique has clicked, can average around 11 minutes with no filler needed.
 
-Try coping on a scrap piece of the exact molding you're installing before you commit to the real wall. [Get our coping saw technique video walkthrough here.](/coping-saw-crown-molding)
+Try coping on a scrap piece of the exact molding you're installing before you commit to the real wall. Get our coping saw technique video walkthrough here.
 
 ## The Compound Miter Method: When It's Worth Considering
 
@@ -89,7 +89,7 @@ The compound miter fails more often than it succeeds in older homes. Walls move 
 
 For example, if an installer attempts a compound miter on a corner measuring 91.5 degrees using standard 90-degree settings, the result is a visible gap of approximately 3/16 inch on the ceiling line; re-measuring the corner and adjusting the settings to match the actual angle can close that joint to a hairline, with only about 8 minutes of added time.
 
-Build your miter settings from the actual corner angle measurement, not the assumption that it's 90 degrees. [Build confidence with our miter angle calculator for crown molding.](/crown-molding-miter-calculator)
+Build your miter settings from the actual corner angle measurement, not the assumption that it's 90 degrees. Build confidence with our miter angle calculator for crown molding.
 
 ## The Setup That Most People Rush (And Regret)
 
@@ -101,7 +101,7 @@ Also: work with the crown nested against the fence at its spring angle, not flat
 
 Consistent stock positioning matters. Don't nest the crown at the spring angle for some cuts and lay it flat for others. You won't be able to reproduce your angles when something needs to be redone.
 
-Save yourself a ruined piece by test-cutting in pine or MDF scraps that match your molding's thickness before touching the real material. [Save on scrap material costs by reading our guide to crown molding estimating.](/crown-molding-material-calculator)
+Save yourself a ruined piece by test-cutting in pine or MDF scraps that match your molding's thickness before touching the real material. Save on scrap material costs by reading our guide to crown molding estimating.
 
 ## Sources
 

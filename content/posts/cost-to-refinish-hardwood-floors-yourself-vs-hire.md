@@ -89,7 +89,7 @@ I'll just be direct here.
 
 **Hire a pro if:**
 - You have oak floors with tight grain that require color-matched staining
-- The floors have water damage, cupping, or [squeaky sections](/how-to-fix-squeaky-floorboards/) (those need face-nailing or subfloor work first)
+- The floors have water damage, cupping, or [squeaky sections](/how-to-fix-a-squeaky-hardwood-floor-from-above/) (those need face-nailing or subfloor work first)
 - You have a whole-house job over 1,000 square feet and a hard deadline
 - Your house is occupied with kids, pets, or anyone sensitive to solvents (oil-based poly fumes are serious)
 - The wood is thinner than 3/4 inch, like engineered hardwood. Many engineered floors can't be drum-sanded at all without going through the veneer

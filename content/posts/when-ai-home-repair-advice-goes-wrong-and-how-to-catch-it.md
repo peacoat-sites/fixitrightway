@@ -15,7 +15,7 @@ slug: "when-ai-home-repair-advice-goes-wrong-and-how-to-catch-it"
 affiliate_disclosure: true
 ---
 
-More homeowners than most people realize are now asking ChatGPT how to fix their plumbing. A survey from early 2026 found that 26% of homeowners are using AI tools to help with [DIY projects](/how-2026-tariffs-are-changing-the-cost-of-common-diy-projects/), with nearly half of those users pulling up step-by-step instructions before they ever touch a tool. The concerning number is the one sitting alongside it: 26% of those same AI-using homeowners have already run into real problems. That's not a rounding error. That's roughly one in four people who tried this and got burned.
+More homeowners than most people realize are now asking ChatGPT how to fix their plumbing. A survey from early 2026 found that 26% of homeowners are using AI tools to help with [DIY projects](/how-2026-tariffs-are-changing-the-math-on-summer-diy-projects/), with nearly half of those users pulling up step-by-step instructions before they ever touch a tool. The concerning number is the one sitting alongside it: 26% of those same AI-using homeowners have already run into real problems. That's not a rounding error. That's roughly one in four people who tried this and got burned.
 
 Documented failure cases and industry research paint a messier picture than the "AI is great, just be careful" takes you'll see most places. The problems follow patterns, and understanding them lets you use these tools safely.
 
@@ -25,7 +25,7 @@ The failures that keep showing up aren't about AI being generally dumb. They're 
 
 ## Why AI Gets Structural and Electrical Wrong More Than Anything Else
 
-Here's the core problem. AI [home repair](/should-you-trust-ai-to-diagnose-your-home-repair-problems/) tools are trained on general construction knowledge. Your house is not general. It was built at a specific time, by specific people, under specific local codes, with materials that may have been substituted mid-project by a builder trying to hit margin. The AI has none of that context. It doesn't know if your 1962 ranch has knob-and-tube wiring still tucked behind the new stuff, or whether that wall you want to open up is carrying roof load.
+Here's the core problem. AI [home repair](/can-ai-actually-help-you-plan-a-home-repair-we-tested-the-tools/) tools are trained on general construction knowledge. Your house is not general. It was built at a specific time, by specific people, under specific local codes, with materials that may have been substituted mid-project by a builder trying to hit margin. The AI has none of that context. It doesn't know if your 1962 ranch has knob-and-tube wiring still tucked behind the new stuff, or whether that wall you want to open up is carrying roof load.
 
 Handyman Connection's July 2026 analysis put it plainly: advice that is technically correct in general can be dangerous or code-violating for a specific house. That's the gap. And it's not a gap that better AI is going to close anytime soon, because the information simply doesn't exist in digital form anywhere the AI can reach it.
 

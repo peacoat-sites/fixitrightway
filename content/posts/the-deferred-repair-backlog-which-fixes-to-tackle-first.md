@@ -39,7 +39,7 @@ The Hippo data tells a clear story about what homeowners are dodging. Plumbing t
 
 There's a psychological reason plumbing leads. A lot of plumbing problems are invisible or intermittent. The toilet runs. The [water pressure](/how-to-fix-low-water-pressure-in-your-home/)'s a little low. Nothing is flooding. So it waits. But slow leaks under slabs, inside walls, or at supply connections are doing continuous damage. I've pulled drywall on "minor plumbing issues" and found studs that looked like wet cardboard.
 
-The cost reality is sobering. Nearly half of homeowners, 45%, estimate they need $5,000 or more just to get current. Fifteen percent say $20,000+. And average DIY project spend in Q1 2026 hit $5,368, up roughly 35% from a year earlier, according to data from The Farnsworth Group. That jump tells me [material costs](/how-tariff-driven-material-costs-are-changing-what-you-should-diy/) and contractor rates are still elevated, which means every month you wait on a Tier 1 repair is a month where both the damage and the fix are getting more expensive simultaneously.
+The cost reality is sobering. Nearly half of homeowners, 45%, estimate they need $5,000 or more just to get current. Fifteen percent say $20,000+. And average DIY project spend in Q1 2026 hit $5,368, up roughly 35% from a year earlier, according to data from The Farnsworth Group. That jump tells me [material costs](/how-2026-tariffs-are-changing-the-math-on-summer-diy-projects/) and contractor rates are still elevated, which means every month you wait on a Tier 1 repair is a month where both the damage and the fix are getting more expensive simultaneously.
 
 ## The DIY Trap: Why 87% Are Doing the Wrong Projects
 

@@ -17,7 +17,7 @@ affiliate_disclosure: true
 
 You're standing in your bathroom staring at a brown [water stain](/how-to-paint-over-a-water-stain-on-ceiling/) spreading across the drywall under the window, and your first instinct is to pull out your phone. Not to call a plumber. To ask an AI what the heck is going on and whether you can fix it yourself. That instinct is now a mainstream behavior, and the tools built to serve it have gotten genuinely sophisticated in 2026. The question is whether they're actually working for you, or working for whoever built them.
 
-This spring alone, a new generation of AI home repair tools scaled up to millions of users. Home Depot and Google Cloud announced an expanded agentic AI partnership at NRF on January 11, 2026, rolling out new capabilities for their Magic Apron assistant and launching an AI-powered materials list builder that went national that same month. Apps like Fixy now let you photograph a cracked pipe or broken appliance and get back a step-by-step repair guide, tool list, and materials breakdown in seconds. And with 94% of U.S. homeowners planning at least one [DIY project](/why-that-money-saving-diy-project-could-void-your-insurance/) this year, according to a February 2026 survey from The Farnsworth Group, there are a lot of people looking for exactly this kind of help.
+This spring alone, a new generation of AI home repair tools scaled up to millions of users. Home Depot and Google Cloud announced an expanded agentic AI partnership at NRF on January 11, 2026, rolling out new capabilities for their Magic Apron assistant and launching an AI-powered materials list builder that went national that same month. Apps like Fixy now let you photograph a cracked pipe or broken appliance and get back a step-by-step repair guide, tool list, and materials breakdown in seconds. And with 94% of U.S. homeowners planning at least one [DIY project](/unpermitted-diy-work-can-void-your-home-insurance-claim/) this year, according to a February 2026 survey from The Farnsworth Group, there are a lot of people looking for exactly this kind of help.
 
 Homeowners can get burned by advice that sounds authoritative but turns out to be incomplete, wrong about local code, or conveniently pointed toward an expensive product they don't need. So let's get into what these tools actually do, where they fall short, and how to use them without getting yourself into a worse situation than when you started.
 
@@ -25,7 +25,7 @@ Homeowners can get burned by advice that sounds authoritative but turns out to b
 
 ## The Three Types of Tools, and Why the Difference Matters
 
-Not all AI [home repair](/should-you-trust-ai-to-diagnose-your-home-repair-problems/) tools are built the same way, and what they're optimized for affects what advice you get. An April 2026 analysis from HomeMD.ai identified three dominant categories: retail-aligned tools like Magic Apron, expert-session-aligned tools like Frontdoor's AI, and planning-aligned tools like HomeZada. Each has a structural bias tied to the business model behind it.
+Not all AI home repair tools are built the same way, and what they're optimized for affects what advice you get. An April 2026 analysis from HomeMD.ai identified three dominant categories: retail-aligned tools like Magic Apron, expert-session-aligned tools like Frontdoor's AI, and planning-aligned tools like HomeZada. Each has a structural bias tied to the business model behind it.
 
 That's not cynicism. It's just how products work.
 

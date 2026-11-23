@@ -28,7 +28,7 @@ faqs:
 
 Thirty percent. That's the share of your home's heating and cooling energy that escapes through gaps around doors and windows, according to the U.S. Department of Energy. Not through walls. Not through your roof. Through cracks you could fix in a Saturday afternoon with materials that cost less than a dinner out.
 
-You might be wondering whether it's actually that dramatic. I had the same skepticism the first time a blower door test revealed what was happening in a 1987 ranch home I was rehabbing in western Pennsylvania. The technician ran the fan, and you could hold your hand near the bottom of every [exterior door](/how-to-replace-weatherstripping-on-an-exterior-door/) and feel a breeze. The homeowners had been heating the porch, basically. Three hours and $94 in weatherstripping later, their HVAC runtime dropped noticeably within the first billing cycle.
+You might be wondering whether it's actually that dramatic. I had the same skepticism the first time a blower door test revealed what was happening in a 1987 ranch home I was rehabbing in western Pennsylvania. The technician ran the fan, and you could hold your hand near the bottom of every [exterior door](/how-to-replace-weatherstripping-on-a-door/) and feel a breeze. The homeowners had been heating the porch, basically. Three hours and $94 in weatherstripping later, their HVAC runtime dropped noticeably within the first billing cycle.
 
 Here's what I tell people: weatherstripping is the single highest return-on-investment home improvement you can do. Not new windows. Not a smart thermostat. Weatherstripping. The math is almost embarrassingly good once you know what you're looking for.
 

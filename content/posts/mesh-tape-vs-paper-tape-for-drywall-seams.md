@@ -43,7 +43,7 @@ If you're doing a full drywall hang from scratch, use paper tape on every flat s
 
 Corners. Patches. Repairs on existing walls.
 
-Existing wall patch? Mesh tape is genuinely better here. You can't wet-bed paper tape onto a painted surface without it sliding everywhere. Mesh tape's adhesive holds position while you apply compound. For a [patch skimmed and painted over](/how-to-patch-a-hole-in-drywall/), mesh tape with Durabond 45 does the job fine.
+Existing wall patch? Mesh tape is genuinely better here. You can't wet-bed paper tape onto a painted surface without it sliding everywhere. Mesh tape's adhesive holds position while you apply compound. For a [patch skimmed and painted over](/how-to-patch-a-large-hole-in-drywall-yourself/), mesh tape with Durabond 45 does the job fine.
 
 Same with corner repairs. Cracked inside corner getting feathered and repainted? Mesh tape handles it without complaint. Ceiling repairs around light fixtures or window openings where the geometry makes paper tape awkward to work? Mesh tape wins.
 

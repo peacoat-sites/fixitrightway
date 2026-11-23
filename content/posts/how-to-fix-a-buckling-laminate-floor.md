@@ -84,7 +84,7 @@ After the source is addressed, let the subfloor dry completely. In a basement or
 
 ## What This Costs, Realistically
 
-Prices as of July 2026 based on national average [material costs](/how-tariff-driven-material-costs-are-changing-what-you-should-diy/) and typical contractor rates in mid-sized metro markets:
+Prices as of July 2026 based on national average [material costs](/how-2026-tariffs-are-changing-the-math-on-summer-diy-projects/) and typical contractor rates in mid-sized metro markets:
 
 | Repair Type | DIY Material Cost | Pro Labor + Materials | Timeline |
 |---|---|---|---|

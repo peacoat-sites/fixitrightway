@@ -40,7 +40,7 @@ This is where the research gets genuinely useful. Not all saunas are the same an
 | Traditional 8'×8' with 9 kW heater | $7,000–$9,000+ | 240V dedicated circuit | No (electrical) |
 | Custom-built traditional | $2,800–$6,000+ in materials | 240V dedicated circuit | Skilled only |
 
-The plug-and-play infrared units are the genuine DIY play. They run on a regular 120V household outlet, the panels bolt together in a few hours, and you don't need a permit in most jurisdictions. Operating [costs are](/how-tariff-driven-material-costs-are-changing-what-you-should-diy/) remarkably low, roughly $0.15 to $0.50 per session, which works out to $5 to $15 a month for typical use.
+The plug-and-play infrared units are the genuine DIY play. They run on a regular 120V household outlet, the panels bolt together in a few hours, and you don't need a permit in most jurisdictions. Operating [costs are](/how-2026-tariffs-are-changing-the-math-on-summer-diy-projects/) remarkably low, roughly $0.15 to $0.50 per session, which works out to $5 to $15 a month for typical use.
 
 The moment you go traditional, you need heat. Real heat. A 9 kW heater pulls serious amperage, and that means a dedicated 240V circuit. That's not a gray area. Hiring a licensed electrician for that circuit runs $500 to $2,500 depending on your panel's location, how far the run is, and your local market. Pure DIY on a traditional sauna isn't really possible for most homeowners, not legally anyway.
 

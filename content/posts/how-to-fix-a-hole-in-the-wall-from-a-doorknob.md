@@ -46,7 +46,7 @@ A doorknob hole is typically 2 to 3 inches in diameter. That size puts it in a m
 
 If the hole is larger than about 6 inches, or if the surrounding drywall feels soft, crumbly, or shows signs of water damage, that changes the equation. Soft drywall around an impact hole means there was pre-existing moisture damage. Don't just patch over it. Figure out why the drywall was already compromised before you seal it up.
 
-Also check: is there a wall anchor or door stop missing? If the door swings freely and keeps hitting the wall, your patch will last about two weeks before history repeats itself. [Install a door stop](/how-to-patch-a-hole-in-drywall/) (floor mount or hinge pin style) before or right after the repair. They cost $5 at any hardware store. Patching the same hole repeatedly without addressing the cause wastes time and materials.
+Also check: is there a wall anchor or door stop missing? If the door swings freely and keeps hitting the wall, your patch will last about two weeks before history repeats itself. [Install a door stop](/how-to-patch-a-large-hole-in-drywall-yourself/) (floor mount or hinge pin style) before or right after the repair. They cost $5 at any hardware store. Patching the same hole repeatedly without addressing the cause wastes time and materials.
 
 ## What You'll Need (and What to Skip)
 
