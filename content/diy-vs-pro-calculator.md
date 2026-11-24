@@ -22,4 +22,4 @@ A few things to keep in mind when interpreting your results. The **pro quote** s
 
 The calculator's verdict will point you toward savings or toward the professional option, but remember: some projects carry a skill floor that materials and time can't overcome. Electrical panel work, structural modifications, and plumbing that requires permits should generally stay in professional hands, not because of cost, but because of safety and code compliance. For cosmetic projects like painting, flooring installation, and patching drywall, the DIY path is well within reach for most homeowners who are willing to learn and take their time.
 
-For a deeper look at real project costs, explore our [material quantity calculator](/material-calculator/) to nail down your supply budget, or check out our [step-by-step guides](/posts/) for the projects you're considering before you commit to either path.
+For a deeper look at real project costs, explore our [material quantity calculator](/material-calculator/) to nail down your supply budget, or check out our step-by-step guides for the projects you're considering before you commit to either path.

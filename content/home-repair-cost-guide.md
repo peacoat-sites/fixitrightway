@@ -37,4 +37,4 @@ Even skilled DIYers should call a licensed contractor when:
 - The repair connects to gas lines
 - You find unexpected damage (mold, rot, asbestos) during the initial fix
 
-For everything else, this site has step-by-step guides. Use the [Fix It Right Way guide library](/posts/) to find instructions for the specific repair you're facing.
+For everything else, this site has step-by-step guides. Use the Fix It Right Way guide library to find instructions for the specific repair you're facing.
