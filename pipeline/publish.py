@@ -845,6 +845,7 @@ Writing rules (follow every one):
 - Add something the top search results usually lack: a decision rule ("if X, do Y"), a worked calculation with stated assumptions, the exact order of steps with what can go wrong at each, or who should NOT do this and why.
 - Never invent personal anecdotes, clients, patients, reader emails, conversations, or events, and never claim the author did, saw, tested, or experienced anything specific. General professional judgment is fine ("a common mistake is...", "most people in this situation..."). If a scenario helps, label it clearly as a hypothetical, starting the paragraph with "**Illustration:**". Make sections practical with concrete, verifiable detail instead.
 - Only name a study, report, survey, book, rule, product, or statistic you are confident actually exists, with its correct source or maker. Official figures (rates, limits, fees, prices, dates) must be values you are sure are current and correct; if unsure, explain the idea and point readers to the official source instead of stating a number. Never invent figures.
+- CURRENT FEDERAL HOME ENERGY CREDITS: the Energy Efficient Home Improvement Credit (Section 25C: heat pumps, insulation, windows, doors, water heaters, audits) is not allowed for property placed in service after December 31, 2025, and the Residential Clean Energy Credit (Section 25D: solar, batteries, geothermal) ended for installations completed after December 31, 2025. Never say a homeowner can claim either for 2026 or later work; state and utility rebates are separate.
 - Never use em dashes (-- or ---). Use commas, colons, parentheses, or a new sentence.
 - Use contractions everywhere (you'll, it's, don't, can't, that's).
 - Allow mild informality, the occasional aside, and a rhetorical question now and then. Real people digress a little.
@@ -1696,6 +1697,9 @@ def _depersona(content: str, niche: str) -> str:
     return content
 
 
+SITE_CURRENT_FACTS = 'CURRENT FEDERAL HOME ENERGY CREDITS: the Energy Efficient Home Improvement Credit (Section 25C: heat pumps, insulation, windows, doors, water heaters, audits) is not allowed for property placed in service after December 31, 2025, and the Residential Clean Energy Credit (Section 25D: solar, batteries, geothermal) ended for installations completed after December 31, 2025. Never say a homeowner can claim either for 2026 or later work; state and utility rebates are separate.'
+
+
 def _fact_check(content: str, niche: str) -> str:
     """Second pass: correct or soften unverifiable claims before publishing. Fails open."""
     try:
@@ -1711,7 +1715,7 @@ def _fact_check(content: str, niche: str) -> str:
             "Each find must be ONE complete sentence copied exactly, and each replace must be the complete rewritten sentence that "
             "reads correctly in context (never a fragment), or \"\" to delete a sentence that says nothing once the claim is removed. Check who makes or owns every named product or company. "
             "Do not change style, headings, or anything correct. "
-            "Use no em dashes. Return [] if nothing needs fixing. At most 15 edits.\n\nARTICLE:\n" + content
+            "Use no em dashes. Return [] if nothing needs fixing. At most 15 edits.\n\n" + SITE_CURRENT_FACTS + " Treat any statement that contradicts these facts as wrong and fix it.\n\nARTICLE:\n" + content
         )
         msg = client.messages.create(model="claude-sonnet-4-6", max_tokens=3000,
                                      messages=[{"role": "user", "content": prompt}])
