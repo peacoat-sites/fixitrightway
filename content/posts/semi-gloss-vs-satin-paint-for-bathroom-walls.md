@@ -28,7 +28,7 @@ lastmod: 2026-11-16T16:00:00Z
 
 Most people treat this like a coin flip. Satin or semi-gloss, whatever's on sale, grab a gallon and roll it on. A common mistake is grabbing whatever finish is on sale without considering the room. The finish you pick for your bathroom walls will affect how that room looks and feels every single day, and more practically, how often you're repainting it.
 
-I'll be honest: I came into this topic thinking I already knew the answer. Semi-gloss in bathrooms, full stop, that's what I told clients for years. What surprised me was how much that advice has shifted as paint chemistry has improved, and how the "right" answer now actually depends on details most articles skip entirely.
+The conventional wisdom about bathroom paint, semi-gloss, full stop, has shifted as paint chemistry has improved. The "right" answer now actually depends on details most articles skip entirely.
 
 Let me give you the real story.
 

@@ -64,7 +64,7 @@ Nearly identical in function to the Husky. The RIDGID feels slightly more solid 
 
 An 18-inch flexible plastic stick covered in micro-hooks that grab hair on contact. No drum. No crank. No mechanical parts to break. You twist it in, twist it out, throw it away.
 
-I used to dismiss these. Then a reader emailed saying she'd tried every product I'd recommended, and the Drain Weasel was the only thing that cleared her sink. She's right that it often works, particularly when the clog sits right at or just below the stopper. The limitation is reach and pulling power. If the hair mass is in the P-trap rather than the top of the drain, the Weasel won't get there. Start with this if the clog is clearly shallow. If it doesn't work in two attempts, step up to a hand spinner.
+The Drain Weasel often works, particularly when the clog sits right at or just below the stopper. The limitation is reach and pulling power. If the hair mass is in the P-trap rather than the top of the drain, the Weasel won't get there. Start with this if the clog is clearly shallow. If it doesn't work in two attempts, step up to a hand spinner.
 
 **4. Cobra Products 00412, around $20**
 

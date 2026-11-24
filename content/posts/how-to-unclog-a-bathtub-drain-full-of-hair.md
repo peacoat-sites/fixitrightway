@@ -97,7 +97,7 @@ The drain backs up into other fixtures when you run the tub. This points to a ma
 
 You find slow drainage in multiple fixtures simultaneously. Same story: main line or venting. A licensed plumber with a drain camera runs about $250-$450 for an inspection and clear, and it's worth every dollar to know what you're actually dealing with before you rent equipment or start disassembling things.
 
-Worked example: A reader emailed me describing a tub that had been snaked three times by a handyman with no lasting improvement. The actual problem was a partially collapsed ABS drain line under the slab, which no amount of snaking would fix. Camera inspection cost $310 and identified the section. Repair estimate: $1,400. Beats finding out after two more years of repeated service calls at $175 each.
+Say a tub has been snaked three times with no lasting improvement. If the real problem is a partially collapsed ABS drain line under the slab, no amount of snaking will fix it. A camera inspection locates the damaged section, and even if the inspection runs $310 and the repair $1,400, that beats two more years of service calls at $175 each.
 
 ## What You're Actually Paying
 

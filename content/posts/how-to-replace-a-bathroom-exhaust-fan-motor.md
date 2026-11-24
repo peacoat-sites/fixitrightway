@@ -63,7 +63,7 @@ As of August 2026, here's what you're looking at depending on which route you ta
 
 The wide range on full fan replacement reflects CFM capacity and features. A basic 50 CFM Broan 688 is around $28. A Panasonic WhisperCeiling FV-11VQ5 at 110 CFM runs about $155. Both are good products, very different use cases.
 
-I've seen people spend $185 on a full fan replacement when a $23 motor kit would have fixed the exact problem. Worked example: a reader emailed me last spring about a loud Delta fan in a master bath. She'd gotten a quote for a full fan swap at $340 installed. Correct fix was a Delta 655 motor kit for $31. She did it herself. Forty minutes. Fan runs quietly.
+People sometimes spend $185 on a full fan replacement when a $23 motor kit would fix the problem. For example, if your Delta bathroom fan is loud, a full replacement might cost $340 installed. Often the correct fix is a Delta 655 motor kit for $31. This can be done as a DIY project in about forty minutes, and the fan will run quietly afterward.
 
 ## When to Replace the Whole Fan Instead
 
