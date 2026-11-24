@@ -16,11 +16,11 @@ faqs:
   - q: "How long does a garbage disposal replacement actually take?"
     a: "Most people finish in 90 minutes to two hours on a first attempt, especially if they're keeping the same brand and mount. Swap-outs that require a full mounting assembly change take closer to three hours. If you run into a corroded drain flange or old galvanized drain pipe that needs repair, add time."
   - q: "Can I use my old mounting assembly with a new disposal?"
-    a: "If you're staying with InSinkErator, yes -- nearly all their residential disposals use the same 3-bolt mount, so you can drop a new unit onto an existing assembly. If you're switching to Waste King, Moen, or another brand, you'll need to install the new brand's mounting hardware, which comes in the box."
+    a: "If you're staying with InSinkErator, yes, nearly all their residential disposals use the same 3-bolt mount, so you can drop a new unit onto an existing assembly. If you're switching to Waste King, Moen, or another brand, you'll need to install the new brand's mounting hardware, which comes in the box."
   - q: "Do I need a plumber to replace a garbage disposal?"
     a: "No, not for a straight replacement. You need a plumber if you're adding a disposal to a sink that's never had one (involves cutting drain pipe and sometimes adding a circuit), or if you find corroded or damaged drain piping that needs replacement. Straight swap is a legitimate DIY project."
   - q: "My new disposal is louder than my old one. Did I install it wrong?"
-    a: "Probably not. Cheaper units are genuinely louder. If it's rattling, something may have fallen into it or the mounting isn't fully locked. If it's just a loud grind, that's often just the motor. The InSinkErator Evolution series with SoundSeal insulation is noticeably quieter than the Badger line -- the price difference is real but so is the noise difference."
+    a: "Probably not. Cheaper units are genuinely louder. If it's rattling, something may have fallen into it or the mounting isn't fully locked. If it's just a loud grind, that's often just the motor. The InSinkErator Evolution series with SoundSeal insulation is noticeably quieter than the Badger line, the price difference is real but so is the noise difference."
   - q: "What size disposal should I buy?"
     a: "3/4 HP for most households. A 1/2 HP unit like the Badger 5 is tempting because it's cheap, but it jams more easily on fibrous vegetables, runs hotter, and tends to fail sooner under regular use. For a household of four that cooks regularly, spend the extra $60-$80 and get at least 3/4 HP. You won't regret it."
 lastmod: 2026-11-16T16:00:00Z
@@ -38,7 +38,7 @@ Let me fix that.
 | InSinkErator Badger series | 1/2 HP | Budget | Light to moderate use |
 | Moen / Waste King | Varies | Varies | Brand switching (requires new mount) |
 
-Most disposals mount to the same 3-bolt sink flange system that Emerson (InSinkErator's parent company) standardized decades ago. If you're replacing an InSinkErator with another InSinkErator, you might not even need to change the mounting assembly. Badger, Badger 5, Badger 5 Plus, Evolution series -- they all use the same mount. That saves you 20 minutes and a lot of silicone caulk.
+Most disposals mount to the same 3-bolt sink flange system that Emerson (InSinkErator's parent company) standardized decades ago. If you're replacing an InSinkErator with another InSinkErator, you might not even need to change the mounting assembly. Badger, Badger 5, Badger 5 Plus, Evolution series, they all use the same mount. That saves you 20 minutes and a lot of silicone caulk.
 
 If you're switching brands, say from an InSinkErator to a Moen or a Waste King, you'll swap the whole mounting assembly. It's not complicated, just more steps.
 
@@ -46,7 +46,7 @@ Motor size matters more than people admit. A 1/2 HP disposal (like the Badger 5,
 
 ## Tools and Materials
 
-You don't need much. A bucket, channel-lock pliers, a flathead screwdriver, and the wrench that comes in the box with your new disposal. InSinkErator includes a small hex wrench for the bottom access port -- keep it. You'll also want plumber's putty (not caulk, putty) for the flange seal, and some electrical tape or wire nuts if your old disposal was hardwired rather than plugged in.
+You don't need much. A bucket, channel-lock pliers, a flathead screwdriver, and the wrench that comes in the box with your new disposal. InSinkErator includes a small hex wrench for the bottom access port, keep it. You'll also want plumber's putty (not caulk, putty) for the flange seal, and some electrical tape or wire nuts if your old disposal was hardwired rather than plugged in.
 
 Turn off the circuit at the breaker before you touch anything. Don't trust the wall switch.
 
@@ -54,7 +54,7 @@ Turn off the circuit at the breaker before you touch anything. Don't trust the w
 
 This is where most first-timers get surprised. A full-size disposal weighs 15-20 pounds and it's going to drop when you twist it off the mount. Put a bucket or a folded towel under it first. Have a second pair of hands if you can get them.
 
-Disconnect the drain line from the disposal first -- that's the pipe running to your P-trap. There's usually a slip nut you can hand-loosen, maybe with channel-locks if it's stuck. If your dishwasher drains into the disposal (most do), disconnect that line too. It's a small rubber hose clamped to a port on the side of the disposal housing.
+Disconnect the drain line from the disposal first, that's the pipe running to your P-trap. There's usually a slip nut you can hand-loosen, maybe with channel-locks if it's stuck. If your dishwasher drains into the disposal (most do), disconnect that line too. It's a small rubber hose clamped to a port on the side of the disposal housing.
 
 Now unplug it. If it's hardwired, go back to the breaker box, confirm the power is off with a non-contact voltage tester (a $15 Klein or Fluke at any hardware store), and disconnect the wires.
 
@@ -74,7 +74,7 @@ If your dishwasher drain connects to the disposal, check whether your new unit h
 
 Hardwired or plug-in, disposals are 120V and straightforward. Most residential installations use a standard 15-amp circuit. If you're replacing like-for-like, the wiring is already there.
 
-For a plug-in unit, you just connect the cord (sometimes sold separately -- check the box). For hardwired, match black to black, white to white, green or bare copper to the ground screw. Wire nuts or push-in connectors both work fine. Wrap the wire nut connections with electrical tape, tuck them into the junction box on the bottom of the unit, and replace the cover plate.
+For a plug-in unit, you just connect the cord (sometimes sold separately, check the box). For hardwired, match black to black, white to white, green or bare copper to the ground screw. Wire nuts or push-in connectors both work fine. Wrap the wire nut connections with electrical tape, tuck them into the junction box on the bottom of the unit, and replace the cover plate.
 
 Here's an opinion you might push back on: I actually prefer hardwired disposals to plug-in ones for permanent installations. The outlet under the sink takes up space, the cord gets in the way of everything else stored under there, and a hardwired connection is just cleaner. The switched outlet setup is convenient if you ever need to reset, but the reset button on the bottom of the disposal does the same job. If your kitchen is already wired for hardwire, stay with it.
 
@@ -84,7 +84,7 @@ Here's an opinion you might push back on: I actually prefer hardwired disposals 
 
 - [Jan van der Wolf](https://www.pexels.com/@jan-van-der-wolf-11680885)
 
-Lift the disposal up to the mounting assembly (this is the heavy part -- get help or prop it on a bucket to stage it), align the mounting tabs with the mounting ring slots, and rotate clockwise until it locks. Some units have a set point, others twist until they tighten. InSinkErator models lock with a distinct click.
+Lift the disposal up to the mounting assembly (this is the heavy part, get help or prop it on a bucket to stage it), align the mounting tabs with the mounting ring slots, and rotate clockwise until it locks. Some units have a set point, others twist until they tighten. InSinkErator models lock with a distinct click.
 
 Reconnect the drain elbow to the P-trap. Hand-tighten first, then snug it up with channel-locks. Don't gorilla-grip it; the slip nuts are plastic and they'll crack. Reconnect the dishwasher drain hose and tighten the clamp.
 

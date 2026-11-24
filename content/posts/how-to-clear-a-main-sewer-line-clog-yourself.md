@@ -48,7 +48,7 @@ Once you find it, use a pipe wrench to carefully remove the cap. Go slow. If the
 
 This matters more than most DIY guides will tell you, because the right tool depends on what's in the pipe.
 
-Soft blockages are the usual culprit in homes under 30 years old: grease, soap scum, wipes (even the ones labeled "flushable" -- they don't break down, full stop), paper towels, feminine products. These can usually be cleared with a mechanical auger.
+Soft blockages are the usual culprit in homes under 30 years old: grease, soap scum, wipes (even the ones labeled "flushable", they don't break down, full stop), paper towels, feminine products. These can usually be cleared with a mechanical auger.
 
 Root intrusion is the other big one, especially in houses with mature trees and clay or cast iron pipe from the 1970s or earlier. Tree roots sniff out moisture and will find the smallest crack in a joint and grow right in. A standard auger can punch through a root mass and restore flow temporarily, but it grows back, usually within 12 to 18 months, and the only permanent fix is either chemical treatment (copper sulfate or foaming root killer like RootX) used consistently, or pipe replacement.
 

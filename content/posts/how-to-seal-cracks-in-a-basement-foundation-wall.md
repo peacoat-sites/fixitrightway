@@ -23,7 +23,7 @@ faqs:
   - q: "What's the difference between waterproofing paint and crack sealing?"
     a: "Waterproofing paints (Drylok being the most common) reduce moisture vapor transmission through the wall surface, which helps with minor dampness. They cannot bridge an active crack under water pressure, and they're not designed to. If you have water physically entering through a crack, paint will fail. You need to fill the crack itself."
   - q: "How long does a polyurethane foam injection repair last?"
-    a: "Done correctly, on a stable crack, 10 to 20 years is realistic. The caveat is 'stable crack' -- if the underlying cause (soil movement, drainage, frost heave) continues, the repair may crack again in a slightly different location. Most professional contractors who do injection repairs offer 5 to 10 year warranties, which tells you something about their own confidence in the longevity."
+    a: "Done correctly, on a stable crack, 10 to 20 years is realistic. The caveat is 'stable crack', if the underlying cause (soil movement, drainage, frost heave) continues, the repair may crack again in a slightly different location. Most professional contractors who do injection repairs offer 5 to 10 year warranties, which tells you something about their own confidence in the longevity."
 ---
 
 Roughly 60% of American homes with basements will develop a crack in the foundation wall. That number comes from the American Society of Home Inspectors, and every time I cite it on a job site, homeowners look at me like I just told them something was wrong with their house specifically. It's not specific. It's just that common.

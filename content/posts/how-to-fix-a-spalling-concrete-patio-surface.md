@@ -94,8 +94,8 @@ A concrete contractor can assess structural issues and quote you on options like
 
 - **Portland Cement Association (PCA):** Technical resources on concrete repair and surface preparation methods, available at cement.org.
 - **Quikrete:** Product data sheets and application guides for Concrete Resurfacer and other repair mortars, available at quikrete.com.
-- **American Concrete Institute (ACI):** ACI 546, "Concrete Repair Guide" -- the industry standard reference for repair procedures.
-- **U.S. Army Corps of Engineers:** Engineer Manual EM 1110-2-2002, "Evaluation and Repair of Concrete Structures" -- thorough on failure diagnosis even for residential applications.
+- **American Concrete Institute (ACI):** ACI 546, "Concrete Repair Guide", the industry standard reference for repair procedures.
+- **U.S. Army Corps of Engineers:** Engineer Manual EM 1110-2-2002, "Evaluation and Repair of Concrete Structures", thorough on failure diagnosis even for residential applications.
 
 ---
 

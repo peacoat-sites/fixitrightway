@@ -21,7 +21,7 @@ So yes, you might be wondering: can an average homeowner actually pull this off 
 
 ## What You're Actually Saving (And What the Quotes Are Hiding)
 
-Let's start with the money, because that's what's driving this conversation. A professionally installed heat pump mini-split system runs $8,000 to $20,000 before any rebates, depending on capacity, brand, and your local labor market. Federal 25C tax credits and utility incentives can knock $2,000 to $5,000 off that number, but you still need the cash up front, and contractor markups remain steep. Zone Air estimates DIYers save $3,000 to $5,000 versus a comparable contractor-installed system, and that's a credible range given what installation labor actually costs right now.
+Let's start with the money, because that's what's driving this conversation. A professionally installed heat pump mini-split system runs $8,000 to $20,000 before any rebates, depending on capacity, brand, and your local labor market. The federal 25C tax credit is no longer available for property placed in service after December 31, 2025, so utility and state rebates are now the main incentive programs to check, but you still need the cash up front, and contractor markups remain steep. Zone Air estimates DIYers save $3,000 to $5,000 versus a comparable contractor-installed system, and that's a credible range given what installation labor actually costs right now.
 
 Here's some context on why contractor pricing is where it is. The construction trades are short roughly 500,000 workers in 2026. When skilled labor is scarce, it's expensive. And [lumber tariffs on Canadian softwood](/how-2026-tariffs-are-changing-the-math-on-summer-diy-projects/) are sitting near 35.9%, which has contributed to lumber prices rising 5.11% in Q2 2026 alone, a ninth consecutive quarter of year-over-year growth. That affects everything in a renovation budget, even projects that are mostly equipment. The cost environment is genuinely pushing more homeowners toward doing more themselves.
 
@@ -60,7 +60,7 @@ If your house has complicated wall construction, an older electrical panel that'
 
 The hybrid path that makes the most sense for a lot of people: buy the DIY unit, do the mechanical and line set work yourself, and hire a licensed electrician for the circuit. You still save $2,000 to $4,000 compared to a full contractor install, you get a proper permitted electrical connection, and you have documentation if you ever need to make a warranty claim or sell the house.
 
-Whatever direction you go, check your utility's rebate portal before you buy anything. Many utilities are offering $200 to $800 back on qualifying heat pump mini-splits right now, and that stacks with the federal 25C credit. The equipment cost looks different after you account for both.
+Whatever direction you go, check your utility's rebate portal before you buy anything. Many utilities are offering $200 to $800 back on qualifying heat pump mini-splits right now. The equipment cost looks different after you account for that.
 
 The DIY mini-split category has genuinely matured. Zone Air entering the market this summer with USA-assembled units and MRCOOL continuing to iterate means homeowners have real options at real savings. Just go in with eyes open about what the job actually involves, honest about your own skill set, and you'll make the right call for your situation.
 

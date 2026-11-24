@@ -99,7 +99,7 @@ Compare that to a plumber visit: in most markets right now, a plumber will charg
 
 I want to be straight with you here. Most kitchen faucet replacements don't need a plumber. But some do, and recognizing the line matters.
 
-Call a plumber if: you discover the supply valves under the sink are so corroded they won't close (this is now a valve replacement job, which involves soldering or compression fittings on the main supply line). Call one if you find evidence of water damage -- soft flooring under the cabinet, dark staining on the cabinet floor, or visible mold. Those are signs of a longer-running problem that the faucet swap won't fix.
+Call a plumber if: you discover the supply valves under the sink are so corroded they won't close (this is now a valve replacement job, which involves soldering or compression fittings on the main supply line). Call one if you find evidence of water damage, soft flooring under the cabinet, dark staining on the cabinet floor, or visible mold. Those are signs of a longer-running problem that the faucet swap won't fix.
 
 Also call if you're switching from a single-hole to a three-hole setup and your sink doesn't have the extra holes. Drilling porcelain or composite granite sinks requires a diamond-tipped hole saw and a steady hand; one crack and you've turned a $200 project into a sink replacement.
 

@@ -16,7 +16,7 @@ affiliate_disclosure: true
 
 Low water pressure in the shower is one of those things that starts as a mild annoyance and turns into something you're thinking about every single morning. You know the feeling: you're standing there waiting for a rinse that never quite arrives, adjusting the handle like that's going to help, wondering if this is just your house or if something's actually wrong.
 
-Here's what I tell people when they come to me with this problem: nine times out of ten, there's a fixable cause, and you probably don't need a plumber. The tenth time, you do, and I'll tell you how to recognize it.
+Nine times out of ten, a clogged drain has a fixable cause, and you probably don't need a plumber. The tenth time, you do, and here's how to recognize it.
 
 Let me walk you through this the right way.
 

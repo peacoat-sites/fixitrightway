@@ -15,7 +15,7 @@ slug: "how-to-fix-a-dishwasher-that-wont-drain-diy"
 affiliate_disclosure: true
 faqs:
   - q: "How do I know if it's the filter or the pump causing the standing water?"
-    a: "Clean the filter first. If the water drains after that, you're done. If it doesn't, try spinning the pump impeller (visible in the sump once the filter's removed) -- if it spins freely, the motor is probably fine and the clog is elsewhere in the drain path."
+    a: "Clean the filter first. If the water drains after that, you're done. If it doesn't, try spinning the pump impeller (visible in the sump once the filter's removed), if it spins freely, the motor is probably fine and the clog is elsewhere in the drain path."
   - q: "Can I run the dishwasher with water sitting in the bottom?"
     a: "Technically yes, but I wouldn't. Repeated cycles with restricted drainage put extra load on the pump motor and can kill it faster. Diagnose it now and save a more expensive repair later."
   - q: "Why does my dishwasher drain into the garbage disposal?"

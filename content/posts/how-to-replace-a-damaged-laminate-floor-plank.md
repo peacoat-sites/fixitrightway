@@ -16,7 +16,7 @@ faqs:
   - q: "What if I can't find a matching replacement plank?"
     a: "Try the brand's website first for discontinued stock, then specialty flooring retailers. If there's truly no match, the closet-swap trick is your best option: use a plank from a hidden area for the repair and put the close-but-not-perfect replacement somewhere it won't be noticed."
   - q: "Will the repaired plank look different from the rest of the floor?"
-    a: "With a good match, the repair is nearly invisible. With a plank that's even slightly off in color or texture, it will stand out, especially in raking light (late afternoon sun hitting the floor at a low angle). The better the match, the better the result -- this is where it's worth spending time before you start cutting."
+    a: "With a good match, the repair is nearly invisible. With a plank that's even slightly off in color or texture, it will stand out, especially in raking light (late afternoon sun hitting the floor at a low angle). The better the match, the better the result, this is where it's worth spending time before you start cutting."
   - q: "Can I replace a laminate plank if the floor is glued to the subfloor?"
     a: "Technically yes, but it's a much harder job. Glue-down laminate requires cutting the plank out, then scraping the adhesive residue from the subfloor before you can set the replacement. It's doable, but if you're not comfortable with that level of subfloor work, getting a quote from a flooring contractor first is reasonable."
 author: "Steve Adams"

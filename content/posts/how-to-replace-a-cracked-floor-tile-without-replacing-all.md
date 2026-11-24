@@ -125,7 +125,7 @@ Any indication of subfloor failure. If your preliminary press-test showed flex, 
 
 ## Sources
 
-- National Association of Home Builders (2024): "Homeowner Decisions in Flooring Repair" -- survey of 1,400 homeowners on repair vs. replacement decisions.
+- National Association of Home Builders (2024): "Homeowner Decisions in Flooring Repair", survey of 1,400 homeowners on repair vs. replacement decisions.
 - RSMeans Building Construction Cost Data 2026: Industry standard cost reference for materials and labor, used by contractors and estimators nationally.
 - Tile Council of North America (TCNA) Handbook for Ceramic, Glass, and Stone Tile Installation (2025 edition): Industry standard for installation methods, thinset selection, and substrate requirements.
 - Custom Building Products Technical Data Sheets: Product-specific cure times and application guidance for thinset and grout products.
