@@ -12,7 +12,7 @@ author_title: "Home Maintenance"
 author_bio: "Steve Adams is the byline used at Fix It Right Way for articles on seasonal home maintenance and inspection checklists. It is a pen name, not a home inspector; how articles are researched and checked is explained in our editorial standards."
 slug: "can-you-really-install-a-diy-mini-split-this-weekend"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-24T12:00:00Z
 ---
 
 If you've been putting off adding a zone of air conditioning because every quote you've gotten has made your stomach drop, this summer might actually be different. Two things happened at once: professional installation costs haven't gotten more reasonable (if anything, a nationwide HVAC labor shortage and elevated tariffs are keeping them high), and the DIY mini-split category just got a meaningful new competitor. Zone Air launched its next-generation DIY mini-split heat pump line in June 2026, with units shipping nationwide this month. That's real competition for MRCOOL, which has owned this space for years, and competition is good for you.
