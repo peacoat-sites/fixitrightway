@@ -1,6 +1,7 @@
 ---
 title: "One-Coat Primers That Actually Hide Dark Wall Paint"
 date: 2026-06-02T12:54:42.837128+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best primers for covering dark walls in one coat. Save time and money with our top picks that guarantee full coverage and a flawless finish."
 image: "/img/heroes/12036093.jpg"

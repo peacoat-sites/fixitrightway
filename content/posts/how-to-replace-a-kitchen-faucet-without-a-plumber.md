@@ -1,6 +1,7 @@
 ---
 title: "Replace Your Kitchen Faucet Yourself: A Step-by-Step Guide"
 date: 2026-07-28T09:23:32.881569+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to replace a kitchen faucet without hiring a plumber. Simple steps to save money and complete the job in under an hour."

@@ -1,6 +1,7 @@
 ---
 title: "Stop Energy Waste: Find and Seal Hidden Drafts"
 date: 2026-06-24T10:04:38.699266+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to find hidden drafts in an old house and seal them effectively to improve comfort and lower your energy bills year-round."
 image: "/img/heroes/10608219.jpg"

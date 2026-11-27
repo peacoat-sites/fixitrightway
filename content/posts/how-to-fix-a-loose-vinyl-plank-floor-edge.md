@@ -1,6 +1,7 @@
 ---
 title: "How to Fix a Loose Vinyl Plank Floor Edge: 4 Quick Solutions"
 date: 2026-08-02T08:59:23.567498+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to repair loose vinyl plank edges with adhesive, fasteners, and trim solutions. Step-by-step methods to prevent buckling and gaps."

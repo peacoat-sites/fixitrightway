@@ -1,6 +1,7 @@
 ---
 title: "Stop Kitchen Faucet Leaks at the Base"
 date: 2026-06-26T10:04:17.640761+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to fix a leaking kitchen faucet base with simple tools and step-by-step instructions. Stop water damage and save money on plumber costs today."
 image: "/img/heroes/7166562.jpg"

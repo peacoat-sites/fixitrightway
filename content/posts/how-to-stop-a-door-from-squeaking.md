@@ -1,6 +1,7 @@
 ---
 title: "Silence That Squeaky Door: The Fix Takes Minutes"
 date: 2026-05-23T09:53:52.527164+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to stop a door from squeaking with simple fixes using household items. Discover quick lubrication tips and hinge solutions to silence noisy doors for "
 image: "/img/heroes/20883103.jpg"

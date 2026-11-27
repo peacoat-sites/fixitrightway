@@ -1,6 +1,7 @@
 ---
 title: "Install A Dimmer Switch In 30 Minutes: The Easy Guide"
 date: 2026-06-12T10:53:07.271538+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to install a dimmer switch safely with our easy step-by-step guide. Save energy, enhance ambiance, and upgrade your home lighting in under an hour."
 image: "/img/heroes/927546.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Is Your Shower Valve Quote Fair? What to DIY vs. Pay For"
 date: 2026-07-13T09:58:34.539796+00:00
+googlebot_noindex: true
 draft: false
 description: "Is Your Shower Valve Quote Fair? What to DIY vs. Pay For. Learn when to tackle plumbing yourself and when professional help is worth the investment."
 image: "/img/heroes/6419128.jpg"

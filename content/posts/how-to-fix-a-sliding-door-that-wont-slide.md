@@ -1,6 +1,7 @@
 ---
 title: "How to fix a sliding door that won&#8217;t slide"
 date: 2026-05-22T04:41:46.855920+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to fix a sliding door stuck in its track with this easy step-by-step guide. Covers cleaning, lubricating, adjusting rollers, and more,  no professi"
 image: "/img/heroes/7587863.jpg"

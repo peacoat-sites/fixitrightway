@@ -1,6 +1,7 @@
 ---
 title: "Save Money and Energy With a Programmable Thermostat"
 date: 2026-05-19T21:15:24.990511+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to install a programmable thermostat safely and easily with this step-by-step guide. Save money on energy bills and enjoy a more comfortable home t"
 image: "/img/heroes/7214157.jpg"

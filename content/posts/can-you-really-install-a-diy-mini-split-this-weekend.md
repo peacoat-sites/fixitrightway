@@ -1,6 +1,7 @@
 ---
 title: "Can You Really Install a DIY Mini-Split This Weekend?"
 date: 2026-07-07T10:13:10.934064+00:00
+googlebot_noindex: true
 draft: false
 description: "Thinking about installing a mini-split yourself this weekend? Discover what it really takes, the tools you need, and whether DIY is safe and worth the effort."
 image: "/img/heroes/8478354.jpg"

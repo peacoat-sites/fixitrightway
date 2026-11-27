@@ -1,6 +1,7 @@
 ---
 title: "Seal Basement Cracks for $50-$200: DIY vs Professional"
 date: 2026-07-22T09:17:46.841935+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn cost-effective methods to seal foundation wall cracks yourself or hire professionals. Compare DIY solutions starting at $50 versus repairs up to $12,000."

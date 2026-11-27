@@ -1,6 +1,7 @@
 ---
 title: "Why Your Breaker Keeps Tripping: 20 Common Causes"
 date: 2026-07-26T09:02:18.196410+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover the 20 most common reasons your circuit breaker trips repeatedly and how to fix them safely without calling an electrician."

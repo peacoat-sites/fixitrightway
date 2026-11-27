@@ -1,6 +1,7 @@
 ---
 title: "Replace Your Garbage Disposal Without Calling a Plumber"
 date: 2026-06-19T11:08:01.729300+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to replace a garbage disposal step by step with this easy guide covering tools needed, removal, installation, and testing for a leak-free result."
 image: "/img/heroes/33929670.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Fix Cracked Shower Grout Before Water Damage Spreads"
 date: 2026-06-23T10:24:00.683091+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to repair grout in a shower step by step. Remove damaged grout, apply fresh grout, and seal it properly for a clean, waterproof finish."
 image: "/img/heroes/7587289.jpg"

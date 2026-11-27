@@ -1,6 +1,7 @@
 ---
 title: "IRA Rebates Are Still on the Table: How to Claim Them Now"
 date: 2026-07-08T09:15:40.635628+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how to claim IRA rebates before they expire. Learn which energy upgrades qualify, how to apply, and maximize your savings with available tax credits to"
 image: "https://images.pexels.com/photos/15780902/pexels-photo-15780902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

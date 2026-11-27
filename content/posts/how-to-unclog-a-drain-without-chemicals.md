@@ -1,6 +1,7 @@
 ---
 title: "Clear a Clogged Drain Without Toxic Chemicals"
 date: 2026-05-19T10:34:01.303039+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to unclog a drain without chemicals using simple tools and natural methods. Fast, eco-friendly solutions that actually work and save you money."
 image: "/img/heroes/38132834.jpg"

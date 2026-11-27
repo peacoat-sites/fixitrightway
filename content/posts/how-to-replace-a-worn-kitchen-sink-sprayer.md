@@ -1,6 +1,7 @@
 ---
 title: "Replace a Kitchen Sink Sprayer in Minutes: Step-by-Step"
 date: 2026-08-14T08:02:12.447475+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to replace your worn kitchen sink sprayer yourself. This guide covers removal, installation, and troubleshooting common issues."

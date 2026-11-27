@@ -1,6 +1,7 @@
 ---
 title: "Transform Your Brick Fireplace With Paint"
 date: 2026-05-22T09:19:42.926674+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to paint a brick fireplace with this easy step-by-step guide. Includes tools, prep tips, and pro advice for a beautiful, long-lasting finish."
 image: "/img/heroes/7746642.jpg"

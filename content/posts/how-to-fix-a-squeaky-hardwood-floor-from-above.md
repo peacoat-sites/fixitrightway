@@ -1,6 +1,7 @@
 ---
 title: "Silence Squeaky Hardwood Floors Without Refinishing"
 date: 2026-07-04T09:10:50.557313+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to fix a squeaky hardwood floor from above with simple DIY methods that stop annoying creaks without removing your flooring or subfloor."
 image: "/img/heroes/218535.jpg"

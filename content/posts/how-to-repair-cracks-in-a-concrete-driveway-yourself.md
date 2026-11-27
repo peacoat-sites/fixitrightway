@@ -1,6 +1,7 @@
 ---
 title: "DIY Concrete Crack Repair: A Homeowner's Step-by-Step Guide"
 date: 2026-06-23T10:26:17.053691+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to repair cracks in your concrete driveway yourself with simple tools and step-by-step instructions to restore a smooth, durable surface fast."
 image: "/img/heroes/28713288.jpg"

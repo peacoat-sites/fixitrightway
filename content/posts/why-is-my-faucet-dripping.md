@@ -1,6 +1,7 @@
 ---
 title: "3,000 Gallons Wasted: Why Your Faucet Is Dripping"
 date: 2026-07-19T08:57:53.894926+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "A dripping faucet wastes thousands of gallons yearly. Learn the common causes and affordable fixes to stop the leak today."

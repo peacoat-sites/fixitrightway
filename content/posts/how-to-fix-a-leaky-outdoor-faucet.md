@@ -1,6 +1,7 @@
 ---
 title: "How to fix a leaky outdoor faucet"
 date: 2026-05-24T19:36:30.914895+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to fix a leaky outdoor faucet with this easy step-by-step guide. Save water, lower your bill, and handle the repair yourself with basic tools and s"
 image: "/img/heroes/9756161.jpg"

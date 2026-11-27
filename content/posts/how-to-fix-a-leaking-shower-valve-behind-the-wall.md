@@ -1,6 +1,7 @@
 ---
 title: "Fix a Leaking Shower Valve Behind the Wall"
 date: 2026-06-09T10:24:47.401864+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to fix a leaking shower valve behind the wall with our step-by-step guide. Stop water damage fast and save money on costly plumber call-out fees."
 image: "/img/heroes/7937292.jpg"

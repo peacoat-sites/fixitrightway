@@ -1,6 +1,7 @@
 ---
 title: "Paint Kitchen Cabinets Like New Without Sanding"
 date: 2026-07-06T11:19:32.846229+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to repaint kitchen cabinets without sanding using simple prep steps, the right primer, and paint for a smooth, lasting finish."
 image: "/img/heroes/19980216.jpg"

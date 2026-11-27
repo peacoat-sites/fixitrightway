@@ -1,6 +1,7 @@
 ---
 title: "Replace a Bathtub Drain in 30 Minutes"
 date: 2026-05-27T22:41:33.569151+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to replace a bathtub drain with this easy step-by-step guide designed for seniors. Includes tools list, safety tips, and a helpful FAQ to get the j"
 image: "/img/heroes/6899351.jpg"

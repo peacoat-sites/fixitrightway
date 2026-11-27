@@ -1,6 +1,7 @@
 ---
 title: "Clear Your Slow Shower Drain: The Natural Fix"
 date: 2026-06-09T10:27:13.531629+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover easy, chemical-free methods to fix a slow draining shower fast. From simple tools to natural solutions, unclog your drain safely and effectively today."
 image: "/img/heroes/34295401.jpg"

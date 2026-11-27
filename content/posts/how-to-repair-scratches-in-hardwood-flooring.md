@@ -1,6 +1,7 @@
 ---
 title: "Fix Hardwood Floor Scratches: Methods That Actually Work"
 date: 2026-07-23T09:14:34.597680+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn proven techniques to repair shallow and deep scratches in hardwood flooring, from DIY touch-ups to professional solutions."

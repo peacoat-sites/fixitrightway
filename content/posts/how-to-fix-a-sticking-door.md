@@ -1,6 +1,7 @@
 ---
 title: "Unstick a Door in Minutes: The Easy Fix"
 date: 2026-05-19T16:13:32.754559+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to fix a sticking door with our simple step-by-step guide. Discover common causes and easy solutions to get your door opening smoothly again."
 image: "/img/heroes/2937800.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Keep Your Drill Bits Sharp and Save Money on Replacements"
 date: 2026-05-26T12:16:05.491450+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to sharpen drill bits at home with simple tools and step-by-step instructions. Save money, improve safety, and keep your projects running smoothly."
 image: "/img/heroes/37663443.jpg"

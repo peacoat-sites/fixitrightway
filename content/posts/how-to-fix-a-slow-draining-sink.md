@@ -1,6 +1,7 @@
 ---
 title: "Unclog a Slow Drain: 4 Fixes That Actually Work"
 date: 2026-06-22T12:38:42.628006+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to fix a slow draining sink fast with simple DIY methods including cleaning the drain, removing clogs, and using basic household tools."
 image: "/img/heroes/4194980.jpg"

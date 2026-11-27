@@ -1,6 +1,7 @@
 ---
 title: "Stop Energy Loss: Seal Air Leaks Around Outlets"
 date: 2026-06-21T10:24:52.100921+00:00
+googlebot_noindex: true
 draft: false
 description: "Stop drafts and cut energy bills by sealing air leaks around electrical outlets with simple foam gaskets, caulk, and weatherstripping in minutes."
 image: "/img/heroes/7937307.jpg"

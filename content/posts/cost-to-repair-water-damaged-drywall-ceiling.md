@@ -1,6 +1,7 @@
 ---
 title: "Water Damaged Drywall Ceiling Repair Costs Explained"
 date: 2026-07-12T08:56:29.759707+00:00
+googlebot_noindex: true
 draft: false
 description: "Find out what it costs to fix a water damaged drywall ceiling, from small stains to full replacement, plus what drives your final repair bill."
 image: "/img/heroes/9998140.jpg"

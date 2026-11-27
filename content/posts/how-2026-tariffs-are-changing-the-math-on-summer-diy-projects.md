@@ -1,6 +1,7 @@
 ---
 title: "How 2026 Tariffs Are Changing the Math on Summer DIY Projects"
 date: 2026-06-22T12:41:10.472434+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how 2026 tariffs are raising material costs for summer DIY projects and learn smart strategies to budget wisely, source smarter, and still get results."
 image: "/img/heroes/12142000.jpg"

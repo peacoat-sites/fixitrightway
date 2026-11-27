@@ -1,6 +1,7 @@
 ---
 title: "Unpermitted DIY Work Can Void Your Home Insurance Claim"
 date: 2026-07-05T09:33:56.559612+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how unpermitted DIY work can void your home insurance claim, leaving you financially exposed. Learn what to do before starting any home improvement pro"
 image: "/img/heroes/10699353.jpg"

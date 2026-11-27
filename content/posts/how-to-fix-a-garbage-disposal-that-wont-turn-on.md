@@ -1,6 +1,7 @@
 ---
 title: "Garbage Disposal Won't Turn On? Fix It Yourself"
 date: 2026-06-14T10:10:47.395407+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to fix a garbage disposal that won't turn on with our step-by-step guide covering reset buttons, circuit breakers, jams, and wiring issues."
 image: "/img/heroes/8544015.jpg"

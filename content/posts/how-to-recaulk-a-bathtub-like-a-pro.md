@@ -1,6 +1,7 @@
 ---
 title: "How to Recaulk a Bathtub Like a Pro"
 date: 2026-06-06T09:12:53.256385+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to recaulk a bathtub like a pro with our step-by-step guide. Remove old caulk, prep the surface, and apply fresh caulk for a watertight seal."
 image: "/img/heroes/4405007.jpg"

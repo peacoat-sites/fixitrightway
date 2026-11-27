@@ -1,6 +1,7 @@
 ---
 title: "Replace Your Ceiling Light Fixture in 30 Minutes"
 date: 2026-06-05T12:20:43.199216+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to replace a ceiling light fixture yourself with this simple step-by-step guide. Save money on electrician fees and upgrade your home lighting safely."
 image: "/img/heroes/8469950.jpg"

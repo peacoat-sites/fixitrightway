@@ -1,6 +1,7 @@
 ---
 title: "Wire A Three-Way Switch: The Beginner's Guide"
 date: 2026-06-14T10:08:29.287244+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to wire a three way switch safely with this beginner-friendly guide. Step-by-step instructions, diagrams, and tips make the process simple and stress-"
 image: "/img/heroes/16888160.jpg"

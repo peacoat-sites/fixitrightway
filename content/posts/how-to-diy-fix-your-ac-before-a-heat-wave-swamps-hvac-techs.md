@@ -1,6 +1,7 @@
 ---
 title: "How to DIY Fix Your AC Before a Heat Wave Swamps HVAC Techs"
 date: 2026-07-20T09:45:41.834237+00:00
+googlebot_noindex: true
 draft: false
 description: "How to DIY Fix Your AC Before a Heat Wave Swamps HVAC Techs. Learn simple maintenance tips and troubleshooting steps to keep your air conditioner running effici"
 image: "/img/heroes/24828656.jpg"

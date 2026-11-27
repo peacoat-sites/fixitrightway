@@ -1,6 +1,7 @@
 ---
 title: "How to Shop for Materials Right Now and Beat Tariff Price Hikes"
 date: 2026-07-21T09:19:11.204398+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover smart shopping strategies to purchase materials before tariff increases take effect. Learn timing, bulk buying tips, and cost-saving tactics to protect"
 image: "/img/heroes/4395554.jpg"

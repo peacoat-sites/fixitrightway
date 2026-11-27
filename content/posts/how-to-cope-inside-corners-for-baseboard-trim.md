@@ -1,6 +1,7 @@
 ---
 title: "Inside Corner Baseboard Trim: Pro Coping Techniques"
 date: 2026-08-12T08:04:23.211482+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Master inside corner baseboard coping with step-by-step techniques. Learn the best methods for seamless, professional-looking trim joints."

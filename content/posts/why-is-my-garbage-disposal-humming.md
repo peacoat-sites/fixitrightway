@@ -1,6 +1,7 @@
 ---
 title: "Garbage Disposal Humming But Not Working? Here's Why"
 date: 2026-08-04T09:27:26.545261+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn why your garbage disposal hums without grinding, common causes like jams and motor issues, and how to fix it fast."

@@ -1,6 +1,7 @@
 ---
 title: "Sticky Toilet Handle? 5 Quick Fixes You Can Do Today"
 date: 2026-08-05T09:23:29.898115+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn why your toilet handle sticks and how to fix it yourself with simple tools. Solutions for both mechanical and fill valve problems."

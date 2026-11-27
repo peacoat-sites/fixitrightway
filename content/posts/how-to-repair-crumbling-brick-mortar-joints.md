@@ -1,6 +1,7 @@
 ---
 title: "Fix Crumbling Mortar Joints Before They Cost You"
 date: 2026-06-04T12:21:39.962305+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to repair crumbling brick mortar joints with our step-by-step guide. Restore your brickwork, prevent water damage, and extend the life of your walls."
 image: "/img/heroes/33673867.jpg"
@@ -94,11 +95,6 @@ Any wall where bricks have actually spalled (face popped off), shifted, or moved
 Interior basement walls with horizontal cracking, especially if the wall has any visible lean or bow: call a structural engineer first. Not a contractor. An engineer.
 
 If you're looking at more than about 50-60 square feet of deteriorated joints, especially overhead work or anything above the first story, the time and physical toll start to outweigh the savings. DIY makes sense in many situations. This is one where the math changes pretty quickly once the scale gets up.
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
 
 *Photo: [Blue Arauz](https://www.pexels.com/@blue) via Pexels*
 

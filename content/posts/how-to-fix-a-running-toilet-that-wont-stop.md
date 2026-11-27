@@ -1,6 +1,7 @@
 ---
 title: "Stop Your Running Toilet: The Easy Fix Guide"
 date: 2026-06-30T10:25:37.706612+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to fix a running toilet that won't stop with simple DIY steps. Identify the cause and repair your flapper, fill valve, or float today."
 image: "/img/heroes/3935352.jpg"

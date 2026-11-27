@@ -1,6 +1,7 @@
 ---
 title: "DIY Garage Door Insulation: Stop Heat Loss Today"
 date: 2026-06-11T11:18:12.782539+00:00
+googlebot_noindex: true
 draft: false
 description: "Save money and improve energy efficiency by learning how to insulate your garage door yourself with our easy step-by-step guide covering materials, tools, and t"
 image: "/img/heroes/18335929.jpg"

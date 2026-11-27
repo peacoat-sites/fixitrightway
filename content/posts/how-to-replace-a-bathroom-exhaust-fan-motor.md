@@ -1,6 +1,7 @@
 ---
 title: "Replace a Bathroom Exhaust Fan Motor: Step-by-Step"
 date: 2026-08-11T07:52:45.337314+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to replace your bathroom exhaust fan motor with our detailed guide. Save money and restore proper ventilation with these clear instructions."

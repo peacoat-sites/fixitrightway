@@ -1,6 +1,7 @@
 ---
 title: "Install a Window Air Conditioner in 30 Minutes"
 date: 2026-05-22T20:42:15.267134+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to install window AC units safely and correctly with this step-by-step guide designed for seniors. Includes tools list, installation tips, and expe"
 image: "/img/heroes/5933783.jpg"

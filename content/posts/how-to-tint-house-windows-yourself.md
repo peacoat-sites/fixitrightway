@@ -1,6 +1,7 @@
 ---
 title: "How to Tint House Windows Yourself and Save Money"
 date: 2026-05-23T00:45:05.892277+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to tint house windows yourself with this complete step-by-step guide. Save money on energy bills, reduce glare, and protect your furniture with eas"
 image: "/img/heroes/19868900.jpg"

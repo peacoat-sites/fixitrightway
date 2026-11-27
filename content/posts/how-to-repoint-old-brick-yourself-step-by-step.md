@@ -1,6 +1,7 @@
 ---
 title: "How to Repoint Old Brick: A Complete Step-by-Step Guide"
 date: 2026-07-08T09:13:30.134576+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to repoint old brick yourself with this step-by-step guide. Save money, stop water damage, and restore your mortar joints like a pro."

@@ -1,6 +1,7 @@
 ---
 title: "Patch That Doorknob Hole: Quick DIY Wall Repair"
 date: 2026-05-26T11:21:57.260706+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to fix a hole in the wall from a doorknob with our easy step-by-step guide. Repair drywall damage quickly using simple tools and materials."
 image: "/img/heroes/35452995.jpg"

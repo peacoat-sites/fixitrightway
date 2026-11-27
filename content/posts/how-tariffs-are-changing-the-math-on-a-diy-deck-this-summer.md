@@ -1,6 +1,7 @@
 ---
 title: "How Tariffs Are Changing the Math on a DIY Deck This Summer"
 date: 2026-07-10T10:05:09.219827+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Thinking about building a deck this summer? Rising tariffs are pushing lumber and hardware costs higher. Learn how to budget smart and decide if DIY still makes"
